@@ -67,13 +67,6 @@ landscape:
         name: Library
         items:
           - item:
-            name: Dynamic Neural Network Toolkit
-            homepage_url: 'https://dynet.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/clab/dynet'
-            logo: ./hosted_logos/dynet.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/carnegie-mellon-university'
-          - item:
             name: MLlib
             homepage_url: 'https://spark.apache.org/mllib/'
             repo_url: 'https://github.com/apache/spark'
@@ -148,6 +141,13 @@ landscape:
       - subcategory:
         name: Framework
         items:
+          - item:
+            name: Dynamic Neural Network Toolkit
+            homepage_url: 'https://dynet.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/clab/dynet'
+            logo: ./hosted_logos/dynet.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/carnegie-mellon-university'
           - item:
             name: PyTorch
             homepage_url: 'https://pytorch.org/'
