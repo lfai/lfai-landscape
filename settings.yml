@@ -42,6 +42,7 @@ relation:
     - id: company
       label: LFDL Members
       tag: Company
+      big_picture_order: 3
     - id: member
       label: LFDL Member Products/Projects
       tag: LFDL Member
@@ -87,8 +88,8 @@ big_picture:
   main:
     url: landscape
     name: Landscape
-    title: Cloud Native Landscape
-    fullscreen_header: See the interactive landscape at l.cncf.io
+    title: Linux Foundation Deep Learning Landscape
+    fullscreen_header: See the interactive landscape at l.lfdl.io
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 920
@@ -186,7 +187,7 @@ big_picture:
             width: 90
             height: 90
           - type: title
-            text: l.lfdl.io
+            title: l.lfdl.io
             top: 104
             left: 19
             font_size: 21
