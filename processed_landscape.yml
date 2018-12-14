@@ -1185,6 +1185,43 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: Polyaxon
+            homepage_url: 'https://polyaxon.com'
+            repo_url: 'https://github.com/polyaxon/polyaxon'
+            logo: ./hosted_logos/polyaxon.svg
+            twitter: 'https://www.twitter.com/polyaxonAI'
+            crunchbase: 'https://www.crunchbase.com/organization/polyaxon'
+            crunchbase_data:
+              name: polyaxon
+              description: An open source platform for reproducible machine learning at scale.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://polyaxon.com'
+              city: null
+              region: null
+              country: null
+              twitter: 'https://www.twitter.com/polyaxonai'
+              linkedin: 'https://www.linkedin.com/company/polyaxon/'
+            github_data:
+              stars: 1716
+              license: Mozilla Public License 2.0
+              description: A platform for reproducible and scalable machine learning and deep learning on kubernetes
+              latest_commit_date: '2018-12-14T00:00:00.000Z'
+              latest_commit_link: /polyaxon/polyaxon/commit/0499b62e1b2cee2d521d4be2fdd157705c6359b5
+              contributors_count: 17
+              contributors_link: 'https://github.com/polyaxon/polyaxon/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /polyaxon/polyaxon/commit/0372174fa64521e77b439789b0e9aa54ee32423e
+              start_date: '2016-12-26T12:48:48Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: polyaxon.svg
+              hash: i/FZzELm45DWa54LjHO6nep4wxoePxLTWkkxDy5H+4A=
+            best_practice_data:
+            twitter_data:
+              latest_tweet_date: 2018-11-30T11:02:56.000Z
       - subcategory:
         name: Library
         items:
