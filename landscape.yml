@@ -256,6 +256,23 @@ landscape:
     name: Data
     subcategories:
       - subcategory:
+        name: Version Control
+        items:
+          - item:
+            name: Pachyderm
+            homepage_url: 'http://pachyderm.io/'
+            repo_url: 'https://github.com/pachyderm/pachyderm'
+            logo: ./hosted_logos/pachyderm.svg
+            twitter: 'https://twitter.com/pachydermio'
+            crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
+          - item:
+            name: Quilt Data
+            homepage_url: 'https://docs.quiltdata.com/'
+            repo_url: 'https://github.com/quiltdata/quilt'
+            logo: ./hosted_logos/quiltdata.svg
+            twitter: 'https://twitter.com/quiltdata'
+            crunchbase: 'https://www.crunchbase.com/organization/quilt-data'        
+      - subcategory:
         name: Set Manipulation
         items:
           - item:
@@ -265,13 +282,6 @@ landscape:
             logo: ./hosted_logos/apache-druid.svg
             twitter: 'https://twitter.com/druidio'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Quilt Data
-            homepage_url: 'https://docs.quiltdata.com/'
-            repo_url: 'https://github.com/quiltdata/quilt'
-            logo: ./hosted_logos/quiltdata.svg
-            twitter: 'https://twitter.com/quiltdata'
-            crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
       - subcategory:
         name: Pipeline Management
         items:
@@ -296,13 +306,6 @@ landscape:
             logo: ./hosted_logos/kubeflow.svg
             twitter: 'https://twitter.com/kubeflow'
             crunchbase: 'https://www.crunchbase.com/organization/kubeflow'
-          - item:
-            name: Pachyderm
-            homepage_url: 'http://pachyderm.io/'
-            repo_url: 'https://github.com/pachyderm/pachyderm'
-            logo: ./hosted_logos/pachyderm.svg
-            twitter: 'https://twitter.com/pachydermio'
-            crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
       - subcategory:
         name: Stream Processing
         items:
