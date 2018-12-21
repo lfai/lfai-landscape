@@ -674,6 +674,13 @@ landscape:
         name: Notebook Environment
         items:
           - item:
+            name: IPython 
+            homepage_url: 'https://ipython.org/' 
+            repo_url: 'https://github.com/ipython/ipython'
+            logo: ./hosted_logos/ipython.svg 
+            twitter: 'https://twitter.com/IPythonDev'
+            crunchbase: 'https://www.crunchbase.com/organization/ipython' 
+          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
