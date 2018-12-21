@@ -266,13 +266,6 @@ landscape:
             twitter: 'https://twitter.com/pachydermio'
             crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
           - item:
-            name: DVC 
-            homepage_url: 'https://dvc.org/'
-            repo_url:  'https://github.com/iterative/dvc'
-            logo:  ./hosted_logos/dvc.svg 
-            twitter:  'https://twitter.com/iterativeai'
-            crunchbase:  'https://www.crunchbase.com/organization/iterative'
-          - item:
             name: Quilt Data
             homepage_url: 'https://docs.quiltdata.com/'
             repo_url: 'https://github.com/quiltdata/quilt'
@@ -280,7 +273,7 @@ landscape:
             twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'        
       - subcategory:
-        name: Store
+        name: Set Manipulation
         items:
           - item:
             name: Druid
@@ -648,10 +641,10 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/john-snow-labs-inc'
   - category:
-    name: AI Ethics & Fairness 
+    name: AI Fairness & Human Rights
     subcategories:
       - subcategory:
-        name: AI Ethics & Fairness 
+        name: AI Fairness & Human Rights
         items:
           - item:
             name: Adversarial Robustness Toolkit
