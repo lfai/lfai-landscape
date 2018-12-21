@@ -1354,7 +1354,129 @@ landscape:
     name: Data
     subcategories:
       - subcategory:
-        name: Set Manipulation
+        name: Version Control
+        items:
+          - item:
+            name: Pachyderm
+            homepage_url: 'http://pachyderm.io/'
+            repo_url: 'https://github.com/pachyderm/pachyderm'
+            logo: ./hosted_logos/pachyderm.svg
+            twitter: 'https://twitter.com/pachydermio'
+            crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
+            crunchbase_data:
+              name: Pachyderm
+              description: Pachyderm is an open source analytics engine that uses Docker containers for distributed computations.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://www.pachyderm.io/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/pachydermIO'
+              linkedin: 'https://www.linkedin.com/company/pachyderm-inc-'
+              kind: funding
+              funding: 12120000
+            github_data:
+              stars: 3311
+              license: Apache License 2.0
+              description: Reproducible Data Science at Scale!
+              latest_commit_date: '2018-12-19T00:00:00.000Z'
+              latest_commit_link: /pachyderm/pachyderm/commit/d0bf278102e38c007525cbeb863ccb3e90097dc6
+              contributors_count: 77
+              contributors_link: 'https://github.com/pachyderm/pachyderm/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /pachyderm/pachyderm/commit/11eb4c6e1945beb1e6ce3e878ed2cb6c24ee8bf1
+              start_date: '2014-09-04T07:50:02Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: pachyderm.svg
+              hash: NPyFYMh7z+hixeaLa0ThJ5ULkVhdFx8dBfOJ2ac0vAY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-12-15T02:19:10.000Z
+          - item:
+            name: DVC
+            homepage_url: 'https://dvc.org/'
+            repo_url: 'https://github.com/iterative/dvc'
+            logo: ./hosted_logos/dvc.svg
+            twitter: 'https://twitter.com/iterativeai'
+            crunchbase: 'https://www.crunchbase.com/organization/iterative'
+            crunchbase_data:
+              name: Iterative
+              description: Simple artificial intelligence actions for brick and mortar retailers
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.it-erative.com'
+              city: Athens
+              region: Georgia
+              country: United States
+              twitter: 'http://twitter.com/iterativeteam'
+              linkedin: 'https://www.linkedin.com/company/3315146'
+            github_data:
+              stars: 1602
+              license: Apache License 2.0
+              description: '⚡️Data & models versioning for ML projects, make them shareable and reproducible'
+              latest_commit_date: '2018-12-19T00:00:00.000Z'
+              latest_commit_link: /iterative/dvc/commit/865d26527423f74f45ed1ad4641c8bf5852b787f
+              contributors_count: 24
+              contributors_link: 'https://github.com/iterative/dvc/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /iterative/dvc/commit/595ac51b5af753aad17b71bcbd7cd8277d3c2c56
+              start_date: '2017-03-04T08:16:33Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: dvc.svg
+              hash: 25SLxusmI0QdcJ4J4/T6D0XTbbzdPpUuFB4guTHsky4=
+            best_practice_data:
+            twitter_data:
+              latest_tweet_date: 2018-12-19T18:52:19.000Z
+          - item:
+            name: Quilt Data
+            homepage_url: 'https://docs.quiltdata.com/'
+            repo_url: 'https://github.com/quiltdata/quilt'
+            logo: ./hosted_logos/quiltdata.svg
+            twitter: 'https://twitter.com/quiltdata'
+            crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
+            crunchbase_data:
+              name: Quilt Data
+              description: Quilt is like Docker for data
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://quiltdata.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/quiltdata'
+              linkedin: 'https://www.linkedin.com/company/quilt-data'
+              kind: funding
+              funding: 4180000
+            github_data:
+              stars: 691
+              license: Apache License 2.0
+              description: Quilt versions and deploys data
+              latest_commit_date: '2018-12-20T00:00:00.000Z'
+              latest_commit_link: /quiltdata/quilt/commit/df48c772a18a7d37dd5acf4316ddcd83919cd08f
+              contributors_count: 15
+              contributors_link: 'https://github.com/quiltdata/quilt/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /quiltdata/quilt/commit/a9075ad0a4f1dd05ebfa19b5c04a313853db28c4
+              start_date: '2017-01-11T01:02:59Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: quilt-data.svg
+              hash: juQlnwO90sx0hfj8Ky4PKGW4AQpgZF2X1zeqkksWE3k=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-12-06T19:47:27.000Z
+      - subcategory:
+        name: Store
         items:
           - item:
             name: Druid
@@ -1397,47 +1519,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-12-18T18:53:10.000Z
-          - item:
-            name: Quilt Data
-            homepage_url: 'https://docs.quiltdata.com/'
-            repo_url: 'https://github.com/quiltdata/quilt'
-            logo: ./hosted_logos/quiltdata.svg
-            twitter: 'https://twitter.com/quiltdata'
-            crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
-            crunchbase_data:
-              name: Quilt Data
-              description: Quilt is like Docker for data
-              num_employees_min: 11
-              num_employees_max: 50
-              homepage: 'https://quiltdata.com/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/quiltdata'
-              linkedin: 'https://www.linkedin.com/company/quilt-data'
-              kind: funding
-              funding: 4180000
-            github_data:
-              stars: 691
-              license: Apache License 2.0
-              description: Quilt versions and deploys data
-              latest_commit_date: '2018-12-20T00:00:00.000Z'
-              latest_commit_link: /quiltdata/quilt/commit/df48c772a18a7d37dd5acf4316ddcd83919cd08f
-              contributors_count: 15
-              contributors_link: 'https://github.com/quiltdata/quilt/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /quiltdata/quilt/commit/a9075ad0a4f1dd05ebfa19b5c04a313853db28c4
-              start_date: '2017-01-11T01:02:59Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: quilt-data.svg
-              hash: juQlnwO90sx0hfj8Ky4PKGW4AQpgZF2X1zeqkksWE3k=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-12-06T19:47:27.000Z
       - subcategory:
         name: Pipeline Management
         items:
@@ -1562,47 +1643,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-12-18T17:55:07.000Z
-          - item:
-            name: Pachyderm
-            homepage_url: 'http://pachyderm.io/'
-            repo_url: 'https://github.com/pachyderm/pachyderm'
-            logo: ./hosted_logos/pachyderm.svg
-            twitter: 'https://twitter.com/pachydermio'
-            crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
-            crunchbase_data:
-              name: Pachyderm
-              description: Pachyderm is an open source analytics engine that uses Docker containers for distributed computations.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://www.pachyderm.io/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/pachydermIO'
-              linkedin: 'https://www.linkedin.com/company/pachyderm-inc-'
-              kind: funding
-              funding: 12120000
-            github_data:
-              stars: 3311
-              license: Apache License 2.0
-              description: Reproducible Data Science at Scale!
-              latest_commit_date: '2018-12-19T00:00:00.000Z'
-              latest_commit_link: /pachyderm/pachyderm/commit/d0bf278102e38c007525cbeb863ccb3e90097dc6
-              contributors_count: 77
-              contributors_link: 'https://github.com/pachyderm/pachyderm/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /pachyderm/pachyderm/commit/11eb4c6e1945beb1e6ce3e878ed2cb6c24ee8bf1
-              start_date: '2014-09-04T07:50:02Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: pachyderm.svg
-              hash: NPyFYMh7z+hixeaLa0ThJ5ULkVhdFx8dBfOJ2ac0vAY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-12-15T02:19:10.000Z
       - subcategory:
         name: Stream Processing
         items:
@@ -2893,6 +2933,43 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2018-12-18T17:30:23.000Z
+          - item:
+            name: Apache ZookKeeper
+            homepage_url: 'https://zookeeper.apache.org/'
+            repo_url: 'https://github.com/apache/zookeeper'
+            logo: ./hosted_logos/apache-zookeeper.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation (501C3) provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+            github_data:
+              stars: 5558
+              license: Apache License 2.0
+              description: Mirror of Apache Hadoop ZooKeeper
+              latest_commit_date: '2018-12-20T00:00:00.000Z'
+              latest_commit_link: /apache/zookeeper/commit/db53d02869faa7c9819689315daa3933125c89a8
+              release_date: '2018-07-16T03:29:47Z'
+              release_link: 'https://github.com/apache/zookeeper/releases'
+              contributors_count: 67
+              contributors_link: 'https://github.com/apache/zookeeper/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apache/zookeeper/commit/047d9258a4730791b85cc81b0e1435465a32acbf
+              start_date: '2007-11-03T04:41:15Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: apache-zook-keeper.svg
+              hash: pbzdKgPfGGvqqOgSPm3l8+A1Wd58MYWcIGYjQVJLD38=
+            best_practice_data:
       - subcategory:
         name: Scientific Computing Library
         items:
@@ -3286,10 +3363,10 @@ landscape:
               badge: false
               percentage: null
   - category:
-    name: AI Fairness & Human Rights
+    name: AI Ethics & Fairness
     subcategories:
       - subcategory:
-        name: AI Fairness & Human Rights
+        name: AI Ethics & Fairness
         items:
           - item:
             name: Adversarial Robustness Toolkit
