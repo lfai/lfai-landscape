@@ -1,84 +1,80 @@
 global:
-  name: LF DL Interactive Landscape
-  short_name: LFDL
-  repo: LFDLFoundation/lfdl-landscape
-  website: 'https://landscape.lfdl.io'
-  short_domain: l.lfdl.io
-  company_url: 'https://lfdl.io'
-  email: info@lfdl.io
+  name: Lebanon Startup Ecosystem Interactive Landscape
+  short_name: LSEL
+  repo: ibrahimhaddad/lb-startup-landscape
+ # website: 'https://landscape.lfdl.io'
+ # short_domain: l.lfdl.io
+ # company_url: 'https://lfdl.io'
+ # email: info@lfdl.io
   meta:
-    title: LF DL Landscape
-    fb_admin: alex.contini.94
-    description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets.'
-    twitter: '@CloudNativeFdn'
-    google_site_verification: PB7aBHccJI3Q0q4jITwprQcjvgs65cRXACaHROqfov0
-    ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
-  flags:
-    cncf_sandbox: false
-    companies: LF DL Member Company
-relation:
-  label: LFDL Relation
-  url: lfdl
-  values:
-    - id: hosted
-      label: LFDL Projects
-      children:
-        - id: graduated
-          label: Graduated LFDL Projects
-          prefix: LF DL
-          tag: Graduated
-          color: '#3570af'
-          big_picture_order: 1
-          big_picture_label: LFDL Graduated
-          big_picture_color: 'rgb(24,54,114)'
-        - id: incubating
-          label: Incubating LFDL Projects
-          prefix: LF DL
-          tag: Incubating
-          color: '#00cbff'
-          big_picture_order: 2
-          big_picture_label: LFDL Incubating
-          big_picture_color: 'rgb(83, 113, 189)'
-    - id: company
-      label: LFDL Members
-      tag: Company
-      big_picture_order: 3
-    - id: member
-      label: LFDL Member Products/Projects
-      tag: LFDL Member
-    - id: false
-      label: Non-LFDL Member Products/Projects
-      url: 'no'
-membership:
-  premier:
-    name: LFDL
-    label: Premier Member
-    funding: Premier
-  general:
-    name: LFDL
-    label: Member
-    funding: General
-  'false':
-    funding: 'No'
+    title: LSE Landscape
+ # fb_admin: alex.contini.94
+ #  description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets.'
+    twitter: '@IbrahimAtLinux'
+ #  google_site_verification: PB7aBHccJI3Q0q4jITwprQcjvgs65cRXACaHROqfov0
+ #  ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
+ # flags:
+ #  cncf_sandbox: false
+ #  companies: LF DL Member Company
+#relation:
+#  label: LFDL Relation
+#  url: lfdl
+#  values:
+#    - id: hosted
+#      label: LFDL Projects
+#      children:
+#        - id: graduated
+#          label: Graduated LFDL Projects
+#          prefix: LF DL
+#          tag: Graduated
+#          color: '#3570af'
+#          big_picture_order: 1
+#          big_picture_label: LFDL Graduated
+#          big_picture_color: 'rgb(24,54,114)'
+#        - id: incubating
+#          label: Incubating LFDL Projects
+#          prefix: LF DL
+#          tag: Incubating
+#          color: '#00cbff'
+#          big_picture_order: 2
+#          big_picture_label: LFDL Incubating
+#         big_picture_color: 'rgb(83, 113, 189)'
+#    - id: company
+#      label: LFDL Members
+#      tag: Company
+#      big_picture_order: 3
+#    - id: member
+#      label: LFDL Member Products/Projects
+#      tag: LFDL Member
+#    - id: false
+#      label: Non-LFDL Member Products/Projects
+#      url: 'no'
+#membership:
+#  premier:
+#    name: LFDL
+#    label: Premier Member
+#    funding: Premier
+#  general:
+#    name: LFDL
+#    label: Member
+#    funding: General
+#  'false':
+#    funding: 'No'
 home:
   header: >
-    <h1>LF Deep Learning Foundation Interactive Landscape</h1> The LF Deep Learning Foundation landscape (<a target="_blank"
-    href="/images/landscape.png">png</a>, <a target="_blank" href="/images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a
-    href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
+    <h1>Lebanon Startup Ecosystem Interactive Landscape</h1> The Lebanon Startup Ecosystem Interactive Landscape(<a target="_blank"
+    href="/images/landscape.png">png</a>, <a target="_blank" href="/images/landscape.pdf">pdf</a>) is dynamically generated below. It is based on the 
+    same open source code of the <a href="http://landscape.cncf.io">CNCF landscape</a>.
   footer: |
     Crunchbase data is used under license from Crunchbase to CNCF.
 ads:
-  - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/?utm_source=cncf_landscape&utm_medium=web&utm_campaign=kccnceu19'
-    image: /images/info0.jpg
-  - url: 'https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/?utm_source=cncf_landscape&utm_medium=web&utm_campaign=kccncch19'
-    image: /images/info1.jpg
+ # - url: 'https://events.linuxfoundation.org/events/kubecon-cloudnativecon-europe-2019/?utm_source=cncf_landscape&utm_medium=web&utm_campaign=kccnceu19'
+ #   image: /images/info0.jpg
+ # - url: 'https://www.lfasiallc.com/events/kubecon-cloudnativecon-china-2018/?utm_source=cncf_landscape&utm_medium=web&utm_campaign=kccncch19'
+ #   image: /images/info1.jpg
 presets:
-  - url: /grouping=no&license=open-source&sort=first-commit
-    label: Open source by age
   - url: /grouping=category
     label: Landscape categories
-  - url: /grouping=no&license=open-source&sort=stars
-    label: Open source by stars
   - url: /grouping=headquarters
     label: Group by location
   - url: /grouping=no&sort=amount
@@ -87,7 +83,7 @@ big_picture:
   main:
     url: landscape
     name: Landscape
-    title: Linux Foundation Deep Learning Landscape
+    title: Lebanon Startup Ecosystem Interactive Landscape
     fullscreen_header: See the interactive landscape at l.lfdl.io
     method: getGroupedItemsForCncfBigPicture
     size:
@@ -172,8 +168,7 @@ big_picture:
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
-              and also shows the member companies of the LF Deep Learning Foundation.
+              This landscape is intended as a map to explore the startup ecsystem in Lebanon.
             top: 20
             left: 100
             right: 120
@@ -199,10 +194,10 @@ big_picture:
             width: 109
             right: 5
             top: 60
-test:
-  header: LF Deep Learning Foundation Interactive Landscape
-  section: Graduated LFDL Projects
-  logo: acumos.svg
+#test:
+#  header: LF Deep Learning Foundation Interactive Landscape
+#  section: Graduated LFDL Projects
+#  logo: acumos.svg
 update_server:
   ip: 147.75.39.153
   update_hour: 0
