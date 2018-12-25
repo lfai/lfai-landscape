@@ -3,11 +3,11 @@
 ## Install on Mac
 1. Install [Homebrew](https://brew.sh/)
 2. `brew install node yarn`
-3. `git clone git@github.com:cncf/landscape.git`
+3. `git clone git@github.com:LFDLFoundation/lfdl-landscape.git`
 
 ## Install on Linux
-1. `git clone git@github.com:cncf/landscape.git`
-2. Please follow [this script](https://github.com/cncf/landscape/blob/master/update_server/setup.bash) to install correct versions of `yarn`, `nodejs` and other packages on Linux.
+1. `git clone git@github.com:LFDLFoundation/lfdl-landscape.git`
+2. Please follow [this script](https://github.com/cncf/landscapeapp/blob/master/update_server/setup.template) to install correct versions of `yarn`, `nodejs` and other packages on Linux.
 
 ## Local development
 1. `git pull`
@@ -21,7 +21,7 @@
 
 ## Updating data
 
-After making your changes to `landscape.yml`, run `yarn fetch` to fetch any needed data and generate [processed_landscape.yml](processed_landscape.yml) and [data.json](https://github.com/cncf/landscape/blob/master/src/data.json).
+After making your changes to `landscape.yml`, run `yarn fetch` to fetch any needed data and generate [processed_landscape.yml](processed_landscape.yml) and [data.json](. /src/data.json).
 
 `yarn fetch` runs in 4 modes of increasingly aggressive downloading, with a default to easy. Reading data from the cache (meaning from processed_landscape.yml) means that no new data is fetched if the project/product already exists. The modes are:
 
@@ -49,7 +49,7 @@ If you can't find the right logo on the web, you can create a custom one and hos
 
 1. Save the logo to `src/hosted_logos/`, for example, `src/hosted_logos/apex.svg`. Use lowercase spinal case (i.e., hyphens) for the name.
 1. Update landscape.yml, for example, `logo: ./src/hosted_logos/apex.svg`. The location must start with`./src/hosted_logos`.
-1. If you've updated the local logo since a previous commit, you need to delete the cached version in `src/logos/`. E.g., delete `src/logos/apex.svg`.
+1. If you've updated the local logo since a previous commit, you need to delete the cached version in `.src/cached_logos/`. E.g., delete `./src/cached_logos/apex.svg`.
 1. Update `processed_landscape.yml` with `yarn fetch`.
 1. Commit and push. Double-check your work in the Netlify preview after opening a pull request.
 
