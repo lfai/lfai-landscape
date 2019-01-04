@@ -441,7 +441,7 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
-        name: Evaluation
+        name: Evaluation & Management
         items:
           - item:
             name: AllenNLP
@@ -450,6 +450,13 @@ landscape:
             logo: allennlp.svg
             twitter: 'https://twitter.com/ai2_allennlp'
             crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
+          - item:
+            name: MLPerf
+            homepage_url: 'https://mlperf.org/'
+            repo_url: 'https://github.com/mlperf'
+            logo: mlperf.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
       - subcategory:
         name: Parameter Server
         items:
