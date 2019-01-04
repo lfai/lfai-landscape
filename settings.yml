@@ -140,7 +140,7 @@ big_picture:
       - type: HorizontalCategory
         category: AI Ethics & Fairness
         rows: 3
-        width: 200
+        width: 400
         height: 160
         top: 480
         left: 970
@@ -157,8 +157,8 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
-        rows: 4
-        width: 540
+        rows: 2
+        width: 750
         height: 160
         top: 480
         left: 0
@@ -167,8 +167,8 @@ big_picture:
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 480
-        left: 660
+        top: 670 
+        left: 0
         children:
           - type: text
             text: >
