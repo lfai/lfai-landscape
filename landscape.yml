@@ -600,6 +600,30 @@ landscape:
             logo: pinball.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
+      - subcategory:
+        name: Programming
+        items:
+          - item:
+            name: Julia
+            homepage_url: 'https://julialang.org/'
+            repo_url: 'https://github.com/JuliaLang/julia'
+            logo: julia.svg
+            twitter: 'https://twitter.com/JuliaLanguage'
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: Pyro
+            homepage_url: 'http://pyro.ai/'
+            repo_url: 'https://github.com/uber/pyro'
+            logo: pyro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: PyMC3
+            homepage_url: 'https://docs.pymc.io/'
+            repo_url: 'https://github.com/pymc-devs/pymc3'
+            logo: pymc3.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
   - category:
     name: Distributed Computing
     subcategories:
@@ -649,15 +673,8 @@ landscape:
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
       - subcategory:
-        name: Scientific Computing Library
+        name: Library
         items:
-          - item:
-            name: Julia
-            homepage_url: 'https://julialang.org/'
-            repo_url: 'https://github.com/JuliaLang/julia'
-            logo: julia.svg
-            twitter: 'https://twitter.com/JuliaLanguage'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
             name: NumPy
             homepage_url: 'http://www.numpy.org/'
@@ -671,20 +688,6 @@ landscape:
             logo: pomegranate.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
-          - item:
-            name: PyMC3
-            homepage_url: 'https://docs.pymc.io/'
-            repo_url: 'https://github.com/pymc-devs/pymc3'
-            logo: pymc3.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
-          - item:
-            name: Pyro
-            homepage_url: 'http://pyro.ai/'
-            repo_url: 'https://github.com/uber/pyro'
-            logo: pyro.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
           - item:
             name: SciPy
             homepage_url: 'https://www.scipy.org/'
