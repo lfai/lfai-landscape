@@ -513,7 +513,7 @@ landscape:
             twitter: 'https://twitter.com/datmoai'
             crunchbase: 'https://www.crunchbase.com/organization/datmo'    
       - subcategory:
-        name: Parameter Server
+        name: Parameter
         items:
           - item:
             name: Angel-ML
@@ -524,13 +524,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
-            name: Nyoka
-            homepage_url: 'https://nyoka-pmml.github.io/nyoka/'
-            repo_url: 'https://github.com/nyoka-pmml/nyoka'
-            stock_ticker: STWRY
-            logo: nyoka.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/software-ag'
+            name: HyperOpt 
+            homepage_url: 'https://hyperopt.github.io/hyperopt/' 
+            repo_url: 'https://github.com/hyperopt/hyperopt'
+            logo: hyperpot.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-waterloo'
       - subcategory:
         name: Format
         items:
@@ -638,6 +637,14 @@ landscape:
             logo: pymc3.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: Nyoka
+            homepage_url: 'https://nyoka-pmml.github.io/nyoka/'
+            repo_url: 'https://github.com/nyoka-pmml/nyoka'
+            stock_ticker: STWRY
+            logo: nyoka.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/software-ag'
   - category:
     name: Distributed Computing
     subcategories:
