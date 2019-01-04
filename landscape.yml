@@ -300,19 +300,19 @@ landscape:
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Keystone ML
+            homepage_url: 'http://keystone-ml.org/'
+            repo_url: 'https://github.com/amplab/keystone'
+            logo: keystone.svg
+            twitter: 'https://twitter.com/amplab'
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
+          - item:
             name: Kubeflow
             homepage_url: 'https://www.kubeflow.org/'
             repo_url: 'https://github.com/kubeflow/kubeflow'
             logo: kubeflow.svg
             twitter: 'https://twitter.com/kubeflow'
             crunchbase: 'https://www.crunchbase.com/organization/kubeflow'
-          - item:
-            name: Keystone ML
-            homepage_url: 'http://keystone-ml.org/'
-            repo_url: 'https://github.com/amplab/keystone'
-            logo: keystone.svg
-            twitter: 'https://twitter.com/amplab' 
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
           - item:
             name: TPOT
             homepage_url: 'https://automl.info/tpot/'
@@ -323,6 +323,13 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
+          - item:
+            name: Apache Falcon
+            homepage_url: 'https://falcon.apache.org/'
+            repo_url: 'https://github.com/apache/falcon'
+            logo: apache-falcon.svg
+            twitter: 'https://twitter.com/apachefalcon'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apex
             homepage_url: 'https://apex.apache.org/'
@@ -338,6 +345,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheFlink'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Gearpump
+            homepage_url: 'https://gearpump.incubator.apache.org/'
+            repo_url: 'https://github.com/apache/incubator-gearpump'
+            logo: gearpump.svg
+            twitter: 'https://twitter.com/apachegearpump'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: Kafka
             homepage_url: 'https://kafka.apache.org/'
             repo_url: 'https://github.com/apache/kafka'
@@ -350,21 +364,7 @@ landscape:
             repo_url: 'https://github.com/apache/samza'
             logo: apache-samza.svg
             twitter: 'https://twitter.com/samzastream'
-            crunchbase: 'https://www.crunchbase.com/organization/apache' 
-          - item:
-            name: Apache Falcon   
-            homepage_url: 'https://falcon.apache.org/'
-            repo_url:  'https://github.com/apache/falcon'
-            logo: apache-falcon.svg 
-            twitter: 'https://twitter.com/apachefalcon'
-            crunchbase:  'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Gearpump  
-            homepage_url:  'https://gearpump.incubator.apache.org/'
-            repo_url:  'https://github.com/apache/incubator-gearpump'
-            logo: gearpump.svg
-            twitter:  'https://twitter.com/apachegearpump'
-            crunchbase:  'https://www.crunchbase.com/organization/apache'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
       - subcategory:
         name: SQL Engine
         items:
@@ -397,6 +397,13 @@ landscape:
       - subcategory:
         name: Learning & Training
         items:
+          - item:
+            name: DAWNBench
+            homepage_url: 'https://dawn.cs.stanford.edu/benchmark/'
+            repo_url: 'https://github.com/stanford-futuredata/dawn-bench-entries'
+            logo: dawnbench.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
           - item:
             name: Embedded Learning Library
             homepage_url: 'https://microsoft.github.io/ELL/'
@@ -433,13 +440,6 @@ landscape:
             logo: petastorm.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
-          - item:
-            name: DAWNBench 
-            homepage_url: 'https://dawn.cs.stanford.edu/benchmark/'
-            repo_url: 'https://github.com/stanford-futuredata/dawn-bench-entries'
-            logo: dawnbench.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
       - subcategory:
         name: Evaluation
         items:
@@ -550,7 +550,7 @@ landscape:
             homepage_url: 'https://github.com/pinterest/pinball'
             repo_url: 'https://github.com/pinterest/pinball'
             logo: pinball.svg
-            twitter: null  
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/pinterest'
   - category:
     name: Distributed Computing
@@ -689,6 +689,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
+            name: Aequitas
+            homepage_url: 'https://dsapp.uchicago.edu/projects/aequitas/'
+            repo_url: 'https://github.com/dssg/aequitas'
+            logo: aequitas.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-chicago'
+          - item:
             name: AI Fairness 360 Toolkit
             homepage_url: 'https://developer.ibm.com/code/open/projects/adversarial-robustness-toolbox/'
             repo_url: 'https://github.com/IBM/AIF360'
@@ -696,33 +703,26 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
-            name: Aequitas
-            homepage_url: 'https://dsapp.uchicago.edu/projects/aequitas/'
-            repo_url:  'https://github.com/dssg/aequitas'
-            logo: aequitas.svg
-            twitter: null
-            crunchbase:  'https://www.crunchbase.com/organization/university-of-chicago' 
-          - item:
-            name: Audit AI 
+            name: Audit AI
             homepage_url: 'https://github.com/pymetrics/audit-ai'
-            repo_url:  'https://github.com/pymetrics/audit-ai'
+            repo_url: 'https://github.com/pymetrics/audit-ai'
             logo: audit-ai.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/pymetrics'
           - item:
-            name: CleverHans 
+            name: CleverHans
             homepage_url: 'http://www.cleverhans.io/'
-            repo_url:  'https://github.com/tensorflow/cleverhans'
+            repo_url: 'https://github.com/tensorflow/cleverhans'
             logo: cleverhans.svg
-            twitter:  null 
-            crunchbase:  'https://www.crunchbase.com/organization/cleverhans-project'
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/cleverhans-project'
           - item:
-            name: Foolbox    
+            name: Foolbox
             homepage_url: 'https://foolbox.readthedocs.io/'
-            repo_url:  'https://github.com/bethgelab/foolbox'
+            repo_url: 'https://github.com/bethgelab/foolbox'
             logo: foolbox.svg
             twitter: 'https://twitter.com/bethgelab'
-            crunchbase:  'https://www.crunchbase.com/organization/tuebingen-university'
+            crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
   - category:
     name: Notebook Environment
     subcategories:
@@ -744,6 +744,13 @@ landscape:
             twitter: 'https://twitter.com/BeakerXNotebook'
             crunchbase: 'https://www.crunchbase.com/organization/two-sigma-investments'
           - item:
+            name: IPython
+            homepage_url: 'https://ipython.org/'
+            repo_url: 'https://github.com/ipython/ipython'
+            logo: ipython.svg
+            twitter: 'https://twitter.com/IPythonDev'
+            crunchbase: 'https://www.crunchbase.com/organization/ipython'
+          - item:
             name: Jupyter Notebooks
             homepage_url: 'https://jupyter.org/'
             repo_url: 'https://github.com/jupyter/notebook'
@@ -757,13 +764,6 @@ landscape:
             logo: pixiedust.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item: 
-            name: IPython 
-            homepage_url: 'https://ipython.org/' 
-            repo_url: 'https://github.com/ipython/ipython'
-            logo: ipython.svg 
-            twitter: 'https://twitter.com/IPythonDev'
-            crunchbase: 'https://www.crunchbase.com/organization/ipython' 
   - category:
     name: LF DL Member Company
     subcategories:

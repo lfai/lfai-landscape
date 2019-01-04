@@ -3918,17 +3918,18 @@ error-ex@^1.2.0, error-ex@^1.3.1:
     is-arrayish "^0.2.1"
 
 es-abstract@^1.12.0, es-abstract@^1.5.1, es-abstract@^1.7.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.12.0.tgz#9dbbdd27c6856f0001421ca18782d786bf8a6165"
-  integrity sha512-C8Fx/0jFmV5IPoMOFPA9P9G5NtqW+4cOPit3MIuvR2t7Ag2K15EJTpxnHAYTzL+aYQJIESYeXZmDBfOBE1HcpA==
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.13.0.tgz#ac86145fdd5099d8dd49558ccba2eaf9b88e24e9"
+  integrity sha512-vDZfg/ykNxQVwup/8E1BZhVzFfBxs9NqMzGcvIJrqg5k2/5Za2bWo40dK2J1pgLngZ7c+Shh8lwYtLGyrwPutg==
   dependencies:
-    es-to-primitive "^1.1.1"
+    es-to-primitive "^1.2.0"
     function-bind "^1.1.1"
-    has "^1.0.1"
-    is-callable "^1.1.3"
+    has "^1.0.3"
+    is-callable "^1.1.4"
     is-regex "^1.0.4"
+    object-keys "^1.0.12"
 
-es-to-primitive@^1.1.1:
+es-to-primitive@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/es-to-primitive/-/es-to-primitive-1.2.0.tgz#edf72478033456e8dda8ef09e00ad9650707f377"
   integrity sha512-qZryBOJjV//LaxLTV6UC//WewneB3LcXOL9NP++ozKVXsIIIpm/2c13UDiD9Jp2eThsecw9m3jPqDwTyobcdbg==
@@ -4674,9 +4675,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.0.4"
 
 follow-redirects@^1.2.5:
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.6.0.tgz#d12452c031e8c67eb6637d861bfc7a8090167933"
-  integrity sha512-4Oh4eI3S9OueVV41AgJ1oLjpaJUhbJ7JDGOMhe0AFqoSejl5Q2nn3eGglAzRUKVKZE8jG5MNn66TjCJMAnpsWA==
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.6.1.tgz#514973c44b5757368bad8bddfe52f81f015c94cb"
+  integrity sha512-t2JCjbzxQpWvbhts3l6SH1DKzSrx8a+SsaVf4h6bG4kOXUuPYS/kg2Lr4gQSb7eemaHqJkOThF1BGyjlUkO1GQ==
   dependencies:
     debug "=3.1.0"
 
@@ -5528,9 +5529,9 @@ int64-buffer@^0.1.9:
   integrity sha1-J3siiofZWtd30HwTgyAiQGpHNCM=
 
 interactive-landscape@~1.0.0:
-  version "1.0.50"
-  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.50.tgz#473c9993ed442f4d7b96889d8e1607c162069867"
-  integrity sha512-6fETx4IVzeomHS3MdaasTI0VFXwtmK2b2rfX4atzdPv8TY+X6IuFzmjconCwZXGb3yr6m7EXDyMt52cajt8VpA==
+  version "1.0.52"
+  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.52.tgz#c905504a8627756e88f2a5c30b0a97790ba68b9f"
+  integrity sha512-B5v0jIZXUFT1KO8OY0PAlMmvP1sny/BsbHw/3ZCrNBdo6Ikazwz/Dcbf2pdtEMpGvKBnOQO8nNh5BsstWsJM/Q==
   dependencies:
     "@babel/cli" "7.2.3"
     "@babel/core" "7.2.2"
@@ -10644,9 +10645,9 @@ terser-webpack-plugin@^1.1.0:
     worker-farm "^1.5.2"
 
 terser@^3.8.1:
-  version "3.14.0"
-  resolved "https://registry.yarnpkg.com/terser/-/terser-3.14.0.tgz#49a8ddf34a1308a901d787dab03a42c51b557447"
-  integrity sha512-KQC1QNKbC/K1ZUjLIWsezW7wkTJuB4v9ptQQUNOzAPVHuVf2LrwEcB0I9t2HTEYUwAFVGiiS6wc+P4ClLDc5FQ==
+  version "3.14.1"
+  resolved "https://registry.yarnpkg.com/terser/-/terser-3.14.1.tgz#cc4764014af570bc79c79742358bd46926018a32"
+  integrity sha512-NSo3E99QDbYSMeJaEk9YW2lTg3qS9V0aKGlb+PlOrei1X02r1wSBHCNX/O+yeTRFSWPKPIGj6MqvvdqV4rnVGw==
   dependencies:
     commander "~2.17.1"
     source-map "~0.6.1"
