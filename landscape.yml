@@ -293,7 +293,7 @@ landscape:
             twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
       - subcategory:
-        name: Store
+        name: Store and Format
         items:
           - item:
             name: Druid
@@ -316,6 +316,13 @@ landscape:
             logo: doozer.svg
             twitter: null 
             crunchbase: 'https://www.crunchbase.com/organization/doozer-045b'
+          - item: 
+            name: Arrow 
+            homepage_url: 'https://arrow.apache.org/'  
+            repo_url:  'https://github.com/apache/arrow' 
+            logo: arrow.svg 
+            twitter:  'https://twitter.com/ApacheArrow'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
       - subcategory:
         name: Pipeline Management
         items:
