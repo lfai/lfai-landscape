@@ -139,11 +139,11 @@ big_picture:
         color: 'rgb(64, 89, 163)'
       - type: HorizontalCategory
         category: AI Ethics & Fairness
-        rows: 3
-        width: 400
+        rows: 2
+        width: 200
         height: 160
         top: 480
-        left: 770
+        left: 970
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
@@ -151,14 +151,14 @@ big_picture:
         rows: 2
         width: 300
         height: 130
-        top: 160
+        top: 130
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
-        rows: 2
-        width: 750
+        rows: 4
+        width: 950
         height: 160
         top: 480
         left: 0
@@ -167,7 +167,7 @@ big_picture:
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 670 
+        top: 670
         left: 0
         children:
           - type: text
