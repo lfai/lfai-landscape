@@ -95,12 +95,12 @@ big_picture:
       height: 640
     fullscreen_size:
       width: 1220
-      height: 730
+      height: 880
     elements:
       - type: HorizontalCategory
         category: Machine Learning
         rows: 3
-        width: 550
+        width: 650
         height: 130
         top: 0
         left: 0
@@ -108,31 +108,31 @@ big_picture:
       - type: HorizontalCategory
         category: Deep Learning
         rows: 3
-        width: 350
+        width: 500
         height: 130
         top: 0
-        left: 585
+        left: 670
         color: 'rgb(104, 145, 145)'
       - type: HorizontalCategory
         category: Data
         rows: 3
-        width: 500
+        width: 750
         height: 130
-        top: 160
-        left: 0
+        top: 320
+        left: 420
         color: 'rgb(74, 131, 104)'
       - type: HorizontalCategory
         category: Model
         rows: 3
-        width: 650
+        width: 850
         height: 130
         top: 160
-        left: 520
+        left: 320
         color: 'rgb(108, 135, 75)'
       - type: HorizontalCategory
         category: Distributed Computing
         rows: 2
-        width: 420
+        width: 400
         height: 130
         top: 320
         left: 0
@@ -140,25 +140,25 @@ big_picture:
       - type: HorizontalCategory
         category: AI Ethics & Fairness
         rows: 2
-        width: 200
-        height: 130
-        top: 0
-        left: 970
+        width: 300
+        height: 160
+        top: 480
+        left: 870
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
         rows: 1
-        width: 310
+        width: 300
         height: 130
-        top: 320
-        left: 860
+        top: 160
+        left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
         rows: 4
-        width: 1170
+        width: 850
         height: 160
         top: 480
         left: 0
@@ -167,8 +167,8 @@ big_picture:
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 300
-        left: 450
+        top: 660
+        left: 390
         children:
           - type: text
             text: >
