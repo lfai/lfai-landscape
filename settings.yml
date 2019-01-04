@@ -151,14 +151,14 @@ big_picture:
         rows: 2
         width: 300
         height: 130
-        top: 130
+        top: 160
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
         rows: 4
-        width: 950
+        width: 640
         height: 160
         top: 480
         left: 0
@@ -167,8 +167,8 @@ big_picture:
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 670
-        left: 0
+        top: 480
+        left: 660
         children:
           - type: text
             text: >
