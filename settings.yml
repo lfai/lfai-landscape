@@ -116,18 +116,18 @@ big_picture:
       - type: HorizontalCategory
         category: Data
         rows: 3
-        width: 500
+        width: 730
         height: 130
-        top: 160
-        left: 0
+        top: 320
+        left: 440
         color: 'rgb(74, 131, 104)'
       - type: HorizontalCategory
         category: Model
         rows: 3
-        width: 650
+        width: 850
         height: 130
         top: 160
-        left: 520
+        left: 320
         color: 'rgb(108, 135, 75)'
       - type: HorizontalCategory
         category: Distributed Computing
@@ -148,11 +148,11 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
-        rows: 1
-        width: 310
+        rows: 2
+        width: 300
         height: 130
-        top: 320
-        left: 860
+        top: 130
+        left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
@@ -167,8 +167,8 @@ big_picture:
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 300
-        left: 450
+        top: 670
+        left: 0
         children:
           - type: text
             text: >
