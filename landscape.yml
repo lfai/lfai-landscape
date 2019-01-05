@@ -119,7 +119,7 @@ landscape:
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
       - subcategory:
-        name: Feature Engineering 
+        name: Feature Engineering
         items:
           - item:
             name: Featuretools
@@ -259,12 +259,12 @@ landscape:
         name: Tool
         items:
           - item:
-            name: Plaid ML 
+            name: Plaid ML
             homepage_url: 'https://ai.intel.com/plaidml/'
             repo_url: 'https://github.com/plaidml/plaidml'
-            logo: plaidml.svg 
+            logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
-            crunchbase: 'https://www.crunchbase.com/organization/intel'            
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
   - category:
     name: Data
     subcategories:
@@ -296,47 +296,47 @@ landscape:
         name: Store and Format
         items:
           - item:
+            name: Apache ORC
+            homepage_url: 'https://orc.apache.org/'
+            repo_url: 'https://github.com/apache/orc'
+            logo: apache-orc.svg
+            twitter: 'https://twitter.com/apacheorc'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Arrow
+            homepage_url: 'https://arrow.apache.org/'
+            repo_url: 'https://github.com/apache/arrow'
+            logo: arrow.svg
+            twitter: 'https://twitter.com/ApacheArrow'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Avro
+            homepage_url: 'https://avro.apache.org/'
+            repo_url: 'https://github.com/apache/avro'
+            logo: avro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Doozer
+            homepage_url: 'https://github.com/ha/doozerd'
+            repo_url: 'https://github.com/ha/doozerd'
+            logo: doozer.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/doozer-045b'
+          - item:
             name: Druid
             homepage_url: 'http://druid.io'
             repo_url: 'https://github.com/apache/incubator-druid'
             logo: apache-druid.svg
             twitter: 'https://twitter.com/druidio'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item: 
-            name: Hudi  
+          - item:
+            name: Hudi
             homepage_url: 'https://eng.uber.com/hoodie/'
-            repo_url:  'https://github.com/uber/hudi'
-            logo: hudi.svg 
-            twitter: null 
-            crunchbase:  'https://www.crunchbase.com/organization/uber'
-          - item:
-            name: Doozer
-            homepage_url: 'https://github.com/ha/doozerd'
-            repo_url: 'https://github.com/ha/doozerd'
-            logo: doozer.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/doozer-045b'
-          - item: 
-            name: Arrow 
-            homepage_url: 'https://arrow.apache.org/'  
-            repo_url:  'https://github.com/apache/arrow' 
-            logo: arrow.svg 
-            twitter:  'https://twitter.com/ApacheArrow'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apache ORC 
-            homepage_url:  'https://orc.apache.org/'
-            repo_url:  'https://github.com/apache/orc'
-            logo: apache-orc.svg 
-            twitter:  'https://twitter.com/apacheorc'
-            crunchbase:  'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Avro  
-            homepage_url:  'https://avro.apache.org/'
-            repo_url:  'https://github.com/apache/avro'
-            logo: avro.svg
-            twitter:  null 
-            crunchbase:  'https://www.crunchbase.com/organization/apache'
+            repo_url: 'https://github.com/uber/hudi'
+            logo: hudi.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
         name: Pipeline Management
         items:
@@ -506,19 +506,19 @@ landscape:
             twitter: 'https://twitter.com/ai2_allennlp'
             crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
           - item:
+            name: Datmo
+            homepage_url: 'https://datmo.com/open-source'
+            repo_url: 'https://github.com/datmo/datmo'
+            logo: datmo.svg
+            twitter: 'https://twitter.com/datmoai'
+            crunchbase: 'https://www.crunchbase.com/organization/datmo'
+          - item:
             name: MLPerf
             homepage_url: 'https://mlperf.org/'
             repo_url: 'https://github.com/mlperf/training'
             logo: mlperf.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
-          - item:
-            name: Datmo 
-            homepage_url: 'https://datmo.com/open-source'
-            repo_url: 'https://github.com/datmo/datmo'
-            logo: datmo.svg
-            twitter: 'https://twitter.com/datmoai'
-            crunchbase: 'https://www.crunchbase.com/organization/datmo'    
       - subcategory:
         name: Parameter
         items:
@@ -531,11 +531,11 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
-            name: HyperOpt 
-            homepage_url: 'https://hyperopt.github.io/hyperopt/' 
+            name: HyperOpt
+            homepage_url: 'https://hyperopt.github.io/hyperopt/'
             repo_url: 'https://github.com/hyperopt/hyperopt'
             logo: hyperopt.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/university-of-waterloo'
       - subcategory:
         name: Format
@@ -631,12 +631,13 @@ landscape:
             twitter: 'https://twitter.com/JuliaLanguage'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
-            name: Pyro
-            homepage_url: 'http://pyro.ai/'
-            repo_url: 'https://github.com/uber/pyro'
-            logo: pyro.svg
+            name: Nyoka
+            homepage_url: 'https://nyoka-pmml.github.io/nyoka/'
+            repo_url: 'https://github.com/nyoka-pmml/nyoka'
+            stock_ticker: STWRY
+            logo: nyoka.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: 'https://www.crunchbase.com/organization/software-ag'
           - item:
             name: PyMC3
             homepage_url: 'https://docs.pymc.io/'
@@ -645,13 +646,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
-            name: Nyoka
-            homepage_url: 'https://nyoka-pmml.github.io/nyoka/'
-            repo_url: 'https://github.com/nyoka-pmml/nyoka'
-            stock_ticker: STWRY
-            logo: nyoka.svg
+            name: Pyro
+            homepage_url: 'http://pyro.ai/'
+            repo_url: 'https://github.com/uber/pyro'
+            logo: pyro.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/software-ag'
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
   - category:
     name: Distributed Computing
     subcategories:
@@ -803,19 +803,19 @@ landscape:
             twitter: 'https://twitter.com/bethgelab'
             crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
           - item:
-            name: Lucid
-            homepage_url: 'https://github.com/tensorflow/lucid' 
-            repo_url:  'https://github.com/tensorflow/lucid'
-            logo: lucid.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google' 
-          - item:
             name: LIME
             homepage_url: 'https://homes.cs.washington.edu/~marcotcr/blog/lime/'
-            repo_url:  'https://github.com/marcotcr/lime/'
+            repo_url: 'https://github.com/marcotcr/lime/'
             logo: lime.svg
             twitter: null
-            crunchbase:  'https://www.crunchbase.com/organization/university-of-washington' 
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
+          - item:
+            name: Lucid
+            homepage_url: 'https://github.com/tensorflow/lucid'
+            repo_url: 'https://github.com/tensorflow/lucid'
+            logo: lucid.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Notebook Environment
     subcategories:
