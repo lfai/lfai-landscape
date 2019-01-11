@@ -29,6 +29,13 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Kubeflow
+            homepage_url: 'https://www.kubeflow.org/'
+            repo_url: 'https://github.com/kubeflow/kubeflow'
+            logo: kubeflow.svg
+            twitter: 'https://twitter.com/kubeflow'
+            crunchbase: 'https://www.crunchbase.com/organization/kubeflow'
+          - item:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
@@ -368,13 +375,6 @@ landscape:
             logo: keystone.svg
             twitter: 'https://twitter.com/amplab'
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
-          - item:
-            name: Kubeflow
-            homepage_url: 'https://www.kubeflow.org/'
-            repo_url: 'https://github.com/kubeflow/kubeflow'
-            logo: kubeflow.svg
-            twitter: 'https://twitter.com/kubeflow'
-            crunchbase: 'https://www.crunchbase.com/organization/kubeflow'
           - item:
             name: TPOT
             homepage_url: 'https://automl.info/tpot/'
