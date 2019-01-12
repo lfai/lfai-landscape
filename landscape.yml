@@ -29,19 +29,19 @@ landscape:
         name: Platform
         items:
           - item:
-            name: Kubeflow
-            homepage_url: 'https://www.kubeflow.org/'
-            repo_url: 'https://github.com/kubeflow/kubeflow'
-            logo: kubeflow.svg
-            twitter: 'https://twitter.com/kubeflow'
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
             logo: 'https://www.h2o.ai/wp-content/uploads/2018/09/h2o_logo.svg'
             twitter: 'https://twitter.com/h2oai'
             crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
+          - item:
+            name: Kubeflow
+            homepage_url: 'https://www.kubeflow.org/'
+            repo_url: 'https://github.com/kubeflow/kubeflow'
+            logo: kubeflow.svg
+            twitter: 'https://twitter.com/kubeflow'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: MLFlow
             homepage_url: 'https://mlflow.org/'
@@ -95,6 +95,13 @@ landscape:
             twitter: ' https://twitter.com/scikit_learn'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
+            name: Sonnet
+            homepage_url: 'https://deepmind.github.io/sonnet/'
+            repo_url: 'https://github.com/deepmind/Sonnet'
+            logo: sonnet.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Tensor Comprehensions
             homepage_url: 'https://facebookresearch.github.io/TensorComprehensions/'
             repo_url: 'https://github.com/facebookresearch/TensorComprehensions'
@@ -108,13 +115,6 @@ landscape:
             logo: transmogrifai.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/salesforce'
-          - item:
-            name: Sonnet
-            homepage_url: 'https://deepmind.github.io/sonnet/' 
-            repo_url: 'https://github.com/deepmind/Sonnet'
-            logo: sonnet.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: Algorithm
         items:
@@ -580,10 +580,10 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/openai'
           - item:
             name: TensorFlow Reinforcement Learning (TRFL)
-            homepage_url: 'https://github.com/deepmind/trfl' 
+            homepage_url: 'https://github.com/deepmind/trfl'
             repo_url: 'https://github.com/deepmind/trfl'
             logo: trfl.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: Marketplace & Community
