@@ -81,13 +81,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/artelnics'
           - item:
-            name: PyTorch
-            homepage_url: 'https://pytorch.org/'
-            repo_url: 'https://github.com/pytorch/pytorch'
-            logo: 'https://valohai.com/static/img/support-logos/pytorch.svg'
-            twitter: 'https://twitter.com/PyTorch'
-            crunchbase: 'https://www.crunchbase.com/organization/pytorch'
-          - item:
             name: SciKit-learn
             homepage_url: 'https://scikit-learn.org/'
             repo_url: 'https://github.com/scikit-learn/scikit-learn'
@@ -215,6 +208,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheMXNet'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: PyTorch
+            homepage_url: 'https://pytorch.org/'
+            repo_url: 'https://github.com/pytorch/pytorch'
+            logo: 'https://valohai.com/static/img/support-logos/pytorch.svg'
+            twitter: 'https://twitter.com/PyTorch'
+            crunchbase: 'https://www.crunchbase.com/organization/pytorch'
+          - item:
             name: Tensorflow
             homepage_url: 'https://www.tensorflow.org/'
             repo_url: 'https://github.com/tensorflow/tensorflow'
@@ -269,6 +269,13 @@ landscape:
             logo: 'https://valohai.com/static/img/support-logos/keras-text.svg'
             twitter: 'https://twitter.com/fchollet'
             crunchbase: 'https://www.crunchbase.com/organization/keras'
+          - item:
+            name: PySyft
+            homepage_url: 'https://github.com/OpenMined/PySyft'
+            repo_url: 'https://github.com/OpenMined/PySyft'
+            logo: pysyft.svg
+            twitter: 'https://twitter.com/openminedorg'
+            crunchbase: 'https://www.crunchbase.com/organization/openmined'
       - subcategory:
         name: Tool
         items:
