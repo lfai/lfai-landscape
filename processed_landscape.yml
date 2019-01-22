@@ -47,7 +47,7 @@ landscape:
             name: ML.net
             homepage_url: 'https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet'
             repo_url: 'https://github.com/dotnet/machinelearning'
-            logo: 'https://docs.microsoft.com/en-us/dotnet/images/hub/mldotnet.svg'
+            logo: ml-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
             crunchbase_data:
@@ -81,6 +81,7 @@ landscape:
               effective_ticker: MSFT
             image_data:
               fileName: ml-net.svg
+              hash: AMNyy8A+Z5EXBEn0UwyC7LUYi3UjGXKfgk+WOIkAMng=
             best_practice_data:
               badge: false
               percentage: null
@@ -133,7 +134,7 @@ landscape:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
-            logo: 'https://www.h2o.ai/wp-content/uploads/2018/09/h2o_logo.svg'
+            logo: h2o-ai.svg
             twitter: 'https://twitter.com/h2oai'
             crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
             crunchbase_data:
@@ -168,6 +169,7 @@ landscape:
               member: false
             image_data:
               fileName: h2o-ai.svg
+              hash: 5oGtYO8PS4JbH0uUXvhL5Anznvp3xKRQm8sGTmLwam0=
             best_practice_data:
               badge: false
               percentage: null
@@ -863,7 +865,7 @@ landscape:
             name: Caffe
             homepage_url: 'http://caffe.berkeleyvision.org/'
             repo_url: 'https://github.com/BVLC/caffe'
-            logo: 'https://valohai.com/static/img/support-logos/caffe.svg'
+            logo: caffe.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
             crunchbase_data:
               name: 'University of California, Berkeley'
@@ -893,6 +895,7 @@ landscape:
               member: false
             image_data:
               fileName: caffe.svg
+              hash: DdQAWhw20jwOclPEhQEtXbAlwbgQFRI1spz65cLVgdw=
             best_practice_data:
               badge: false
               percentage: null
@@ -1109,7 +1112,7 @@ landscape:
             name: PyTorch
             homepage_url: 'https://pytorch.org/'
             repo_url: 'https://github.com/pytorch/pytorch'
-            logo: 'https://valohai.com/static/img/support-logos/pytorch.svg'
+            logo: py-torch.svg
             twitter: 'https://twitter.com/PyTorch'
             crunchbase: 'https://www.crunchbase.com/organization/pytorch'
             crunchbase_data:
@@ -1140,6 +1143,7 @@ landscape:
               member: false
             image_data:
               fileName: py-torch.svg
+              hash: /Jp0i0G8LAEGUxB2s8AirCiE3EvZHqZ582PyCJ6/UUE=
             best_practice_data:
               badge: false
               percentage: null
@@ -1149,7 +1153,7 @@ landscape:
             name: Tensorflow
             homepage_url: 'https://www.tensorflow.org/'
             repo_url: 'https://github.com/tensorflow/tensorflow'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg'
+            logo: tensorflow.svg
             twitter: 'https://twitter.com/TensorFlow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
             crunchbase_data:
@@ -1183,6 +1187,7 @@ landscape:
               effective_ticker: GOOG
             image_data:
               fileName: tensorflow.svg
+              hash: w2Ut+Xlvcfub/GC1iEcs/lXYf6fKKAq1uhOGAjgRNcA=
             best_practice_data:
               badge: 1486
               percentage: 100
@@ -1408,7 +1413,7 @@ landscape:
             name: Keras
             homepage_url: 'https://keras.io/'
             repo_url: 'https://github.com/keras-team/keras'
-            logo: 'https://valohai.com/static/img/support-logos/keras-text.svg'
+            logo: keras.svg
             twitter: 'https://twitter.com/fchollet'
             crunchbase: 'https://www.crunchbase.com/organization/keras'
             crunchbase_data:
@@ -1437,6 +1442,7 @@ landscape:
               member: false
             image_data:
               fileName: keras.svg
+              hash: snEPFA+XIv/m5q7tXTfNYxNRVBsDsn3eUioOberD4ko=
             best_practice_data:
               badge: false
               percentage: null
@@ -1999,7 +2005,7 @@ landscape:
             name: Beam
             homepage_url: 'https://beam.apache.org'
             repo_url: 'https://github.com/apache/beam'
-            logo: 'https://beam.apache.org/images/logos/3-color/name-right/beam-logo-3-color-name-right.svg'
+            logo: beam.svg
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
@@ -2030,6 +2036,7 @@ landscape:
               member: false
             image_data:
               fileName: beam.svg
+              hash: 9T1TwEAEHWhhltt+OUm0qMfpbiIpdPM728mU+H9cVr0=
             best_practice_data:
               badge: false
               percentage: null
@@ -2373,7 +2380,7 @@ landscape:
             name: Apache Drill
             homepage_url: 'https://drill.apache.org/'
             repo_url: 'https://github.com/apache/drill'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/42/Apache_Drill_logo.svg'
+            logo: apache-drill.svg
             twitter: 'https://twitter.com/ApacheDrill'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
@@ -2402,6 +2409,7 @@ landscape:
               member: false
             image_data:
               fileName: apache-drill.svg
+              hash: JT3n2NW3dypwWBXeBjBjDsaSGGtfmSSPx+lsEvOfw2U=
             best_practice_data:
               badge: false
               percentage: null
@@ -2411,7 +2419,7 @@ landscape:
             name: Presto
             homepage_url: 'https://prestodb.io/'
             repo_url: 'https://github.com/prestodb/presto'
-            logo: 'https://landscape.cncf.io/logos/presto.svg'
+            logo: presto.svg
             twitter: 'https://twitter.com/prestodb'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
             crunchbase_data:
@@ -2447,6 +2455,7 @@ landscape:
               effective_ticker: FB
             image_data:
               fileName: presto.svg
+              hash: iPTBvrdCaJMViwt6qNONTftN5ie9wUFjdhQDVJ95bIw=
             best_practice_data:
               badge: false
               percentage: null
@@ -3769,7 +3778,7 @@ landscape:
             name: Apache Storm
             homepage_url: 'http://storm.apache.org/'
             repo_url: 'https://github.com/apache/storm'
-            logo: 'https://landscape.cncf.io/logos/apache-storm.svg'
+            logo: apache-storm.svg
             twitter: 'https://twitter.com/ApacheStorm'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
@@ -3800,6 +3809,7 @@ landscape:
               member: false
             image_data:
               fileName: apache-storm.svg
+              hash: 9lym6rC8N/imvVKVkMNBk10SuDXDcsXE44FbqIIJBfY=
             best_practice_data:
               badge: false
               percentage: null
@@ -3810,7 +3820,7 @@ landscape:
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
             homepage_url: 'https://kubernetes.io/'
             repo_url: 'https://github.com/kubernetes/kubernetes'
-            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/kubernetes/stacked/color/kubernetes-stacked-color.svg'
+            logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
             crunchbase_data:
@@ -3841,6 +3851,7 @@ landscape:
               member: false
             image_data:
               fileName: kubernetes.svg
+              hash: M0QmUh0e0dtnyXCH3av83LOjQNlstE6WYfWjfCCdfcA=
             best_practice_data:
               badge: 569
               percentage: 100
@@ -3853,7 +3864,7 @@ landscape:
             name: NumPy
             homepage_url: 'http://www.numpy.org/'
             repo_url: 'https://github.com/numpy/numpy'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
+            logo: num-py.svg
             crunchbase: 'https://www.crunchbase.com/organization/numpy'
             crunchbase_data:
               name: NumPy
@@ -3881,6 +3892,7 @@ landscape:
               member: false
             image_data:
               fileName: num-py.svg
+              hash: GJflni+v0IBcNnZEBBxNwXJcBh/kNQBCrEGsjKEY/3U=
             best_practice_data:
               badge: false
               percentage: null
@@ -4590,7 +4602,7 @@ landscape:
             name: Jupyter Notebooks
             homepage_url: 'https://jupyter.org/'
             repo_url: 'https://github.com/jupyter/notebook'
-            logo: 'https://www.kubeflow.org/images/logo-jupyter.svg'
+            logo: jupyter-notebooks.svg
             twitter: 'https://twitter.com/ProjectJupyter'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
             crunchbase_data:
@@ -4621,6 +4633,7 @@ landscape:
               member: false
             image_data:
               fileName: jupyter-notebooks.svg
+              hash: zWnrxNvnuBYbb5lkCINTHMuHTPhjidSoAa/8auKBdSw=
             best_practice_data:
               badge: false
               percentage: null
