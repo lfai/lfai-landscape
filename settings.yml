@@ -99,19 +99,19 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Machine Learning
-        rows: 3
-        width: 650
+        rows: 2
+        width: 525
         height: 130
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
       - type: HorizontalCategory
         category: Deep Learning
-        rows: 3
-        width: 500
+        rows: 2
+        width: 525
         height: 130
         top: 0
-        left: 670
+        left: 545
         color: 'rgb(104, 145, 145)'
       - type: HorizontalCategory
         category: Data
@@ -119,40 +119,40 @@ big_picture:
         width: 750
         height: 130
         top: 320
-        left: 420
+        left: 320
         color: 'rgb(74, 131, 104)'
       - type: HorizontalCategory
         category: Model
         rows: 3
-        width: 850
+        width: 750
         height: 130
         top: 160
         left: 320
         color: 'rgb(108, 135, 75)'
       - type: HorizontalCategory
         category: Distributed Computing
-        rows: 2
-        width: 400
+        rows: 3
+        width: 300
         height: 130
         top: 320
         left: 0
         color: 'rgb(64, 89, 163)'
       - type: HorizontalCategory
-        category: AI Ethics & Fairness
-        rows: 2
-        width: 300
-        height: 160
-        top: 480
-        left: 870
-        color: 'rgb(124, 200, 182)'
-        fit_width: true
-      - type: HorizontalCategory
         category: Notebook Environment
-        rows: 1
-        width: 300
+        rows: 3
+        width: 140
         height: 130
         top: 160
         left: 0
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Reinforcement Learning
+        rows: 2
+        width: 140
+        height: 130
+        top: 160
+        left: 160
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
@@ -164,11 +164,20 @@ big_picture:
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
+      - type: HorizontalCategory
+        category: AI Ethics & Fairness
+        rows: 3
+        width: 200
+        height: 160
+        top: 480
+        left: 870
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
       - type: LandscapeInfo
         width: 390
         height: 160
         top: 660
-        left: 390
+        left: 340
         children:
           - type: text
             text: >
