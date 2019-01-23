@@ -127,6 +127,47 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-01-23T00:22:57.000Z
+          - item:
+            name: Mahout
+            homepage_url: 'https://mahout.apache.org/'
+            repo_url: 'https://github.com/apache/mahout'
+            logo: apache-mahout.svg
+            twitter: 'https://twitter.com/ApacheMahout'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+            github_data:
+              stars: 1594
+              license: Other
+              description: Mirror of Apache Mahout
+              latest_commit_date: '2019-01-19T00:00:00.000Z'
+              latest_commit_link: /apache/mahout/commit/b7a99b44553faa9147b4813342bb78ba1c5e11d3
+              release_date: '2018-06-05T15:49:05Z'
+              release_link: 'https://github.com/apache/mahout/releases'
+              contributors_count: 30
+              contributors_link: 'https://github.com/apache/mahout/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apache/mahout/commit/e6eaf50b5bf0bca7f435d61b3e8f54022c7cc238
+              start_date: '2008-01-15T03:13:56Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: mahout.svg
+              hash: cO5szXTXXftwEjFy/KjHTNLIFrrlvcD6ZLAWKA3guRQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-01-22T03:51:04.000Z
       - subcategory:
         name: Platform
         items:
@@ -344,6 +385,88 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-01-22T13:04:30.000Z
+          - item:
+            name: Apache SystemML
+            homepage_url: 'https://systemml.apache.org/'
+            repo_url: 'https://github.com/apache/systemml'
+            logo: apache-system-ml.svg
+            twitter: 'https://twitter.com/ApacheSystemML'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+            github_data:
+              stars: 736
+              license: Apache License 2.0
+              description: Mirror of Apache SystemML
+              latest_commit_date: '2019-01-14T00:00:00.000Z'
+              latest_commit_link: /apache/systemml/commit/14a79af677979f80f10328e67767822f6d43d2ff
+              release_date: '2018-08-17T05:58:26Z'
+              release_link: 'https://github.com/apache/systemml/releases'
+              contributors_count: 58
+              contributors_link: 'https://github.com/apache/systemml/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apache/systemml/commit/704ef9a1c297a2fb1f9f266f348b7b0809b84df2
+              start_date: '2012-01-11T21:58:41Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: apache-system-ml.svg
+              hash: nH3J4OHDllDGXsAhqPk77WG/QJZ3Pr7NOgsIZh9KeFY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-12-21T00:25:55.000Z
+          - item:
+            name: PredictionIO
+            homepage_url: 'https://predictionio.apache.org/'
+            repo_url: 'https://github.com/apache/predictionio'
+            logo: apache-predictionio.svg
+            twitter: 'https://twitter.com/ApachePIO'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+            crunchbase_data:
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
+              country: United States
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
+            github_data:
+              stars: 11628
+              license: Apache License 2.0
+              description: 'PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.'
+              latest_commit_date: '2019-01-21T00:00:00.000Z'
+              latest_commit_link: /apache/predictionio/commit/52eb306bfba86fd1c732f7f36d28c24dbfffed2f
+              release_date: '2018-09-19T05:20:01Z'
+              release_link: 'https://github.com/apache/predictionio/releases'
+              contributors_count: 130
+              contributors_link: 'https://github.com/apache/predictionio/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /apache/predictionio/commit/fe6dec6237a6aa3fc4f7280b1393abf75a19e23e
+              start_date: '2013-01-25T19:42:32Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: prediction-io.svg
+              hash: rV9/2aUZAXAtXbWbARwhFU/o5YKRGUzuQrf4aSsp0qg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2017-10-02T22:08:41.000Z
       - subcategory:
         name: Library
         items:
@@ -598,50 +721,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-      - subcategory:
-        name: Algorithm
-        items:
-          - item:
-            name: Mahout
-            homepage_url: 'https://mahout.apache.org/'
-            repo_url: 'https://github.com/apache/mahout'
-            logo: apache-mahout.svg
-            twitter: 'https://twitter.com/ApacheMahout'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 1594
-              license: Other
-              description: Mirror of Apache Mahout
-              latest_commit_date: '2019-01-19T00:00:00.000Z'
-              latest_commit_link: /apache/mahout/commit/b7a99b44553faa9147b4813342bb78ba1c5e11d3
-              release_date: '2018-06-05T15:49:05Z'
-              release_link: 'https://github.com/apache/mahout/releases'
-              contributors_count: 30
-              contributors_link: 'https://github.com/apache/mahout/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/mahout/commit/e6eaf50b5bf0bca7f435d61b3e8f54022c7cc238
-              start_date: '2008-01-15T03:13:56Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: mahout.svg
-              hash: cO5szXTXXftwEjFy/KjHTNLIFrrlvcD6ZLAWKA3guRQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-01-22T03:51:04.000Z
           - item:
             name: XGBoost
             homepage_url: 'https://xgboost.ai/'
@@ -683,137 +762,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2018-12-28T18:26:45.000Z
-      - subcategory:
-        name: Feature Engineering
-        items:
-          - item:
-            name: Featuretools
-            homepage_url: 'https://www.featuretools.com/'
-            repo_url: 'https://github.com/featuretools/featuretools'
-            logo: featuretools.svg
-            twitter: 'https://twitter.com/feature_labs'
-            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
-            crunchbase_data:
-              name: Feature Labs
-              description: Feature Labs builds tools and APIs for data science and feature engineering automation.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.featurelabs.com/'
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: 'https://twitter.com/feature_labs'
-              linkedin: 'https://www.linkedin.com/company/featurelabs/'
-              kind: funding
-              funding: 3000000
-            github_data:
-              stars: 3006
-              license: BSD 3-Clause "New" or "Revised" License
-              description: An open source python framework for automated feature engineering
-              latest_commit_date: '2019-01-21T00:00:00.000Z'
-              latest_commit_link: /Featuretools/featuretools/commit/23c7f36c0d00820e50e10a8563e2f461c78cc808
-              release_date: '2018-06-04T19:50:32Z'
-              release_link: 'https://github.com/featuretools/featuretools/releases'
-              contributors_count: 15
-              contributors_link: 'https://github.com/featuretools/featuretools/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /Featuretools/featuretools/commit/ff29f264f4d658e93a7d568d24434bd5359ca0e2
-              start_date: '2017-09-09T02:26:18Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: featuretools.svg
-              hash: aBWWgbMz1500GYa8IQ3SMzNjPPtVE7uVwwhf2mOESIg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-01-22T13:48:51.000Z
-      - subcategory:
-        name: System
-        items:
-          - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 736
-              license: Apache License 2.0
-              description: Mirror of Apache SystemML
-              latest_commit_date: '2019-01-14T00:00:00.000Z'
-              latest_commit_link: /apache/systemml/commit/14a79af677979f80f10328e67767822f6d43d2ff
-              release_date: '2018-08-17T05:58:26Z'
-              release_link: 'https://github.com/apache/systemml/releases'
-              contributors_count: 58
-              contributors_link: 'https://github.com/apache/systemml/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/systemml/commit/704ef9a1c297a2fb1f9f266f348b7b0809b84df2
-              start_date: '2012-01-11T21:58:41Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: apache-system-ml.svg
-              hash: nH3J4OHDllDGXsAhqPk77WG/QJZ3Pr7NOgsIZh9KeFY=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-12-21T00:25:55.000Z
-          - item:
-            name: PredictionIO
-            homepage_url: 'https://predictionio.apache.org/'
-            repo_url: 'https://github.com/apache/predictionio'
-            logo: apache-predictionio.svg
-            twitter: 'https://twitter.com/ApachePIO'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-            crunchbase_data:
-              name: Apache Software Foundation
-              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.apache.org'
-              city: Forest Hill
-              region: Maryland
-              country: United States
-              twitter: 'http://twitter.com/TheASF'
-              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
-            github_data:
-              stars: 11628
-              license: Apache License 2.0
-              description: 'PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray.'
-              latest_commit_date: '2019-01-21T00:00:00.000Z'
-              latest_commit_link: /apache/predictionio/commit/52eb306bfba86fd1c732f7f36d28c24dbfffed2f
-              release_date: '2018-09-19T05:20:01Z'
-              release_link: 'https://github.com/apache/predictionio/releases'
-              contributors_count: 130
-              contributors_link: 'https://github.com/apache/predictionio/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /apache/predictionio/commit/fe6dec6237a6aa3fc4f7280b1393abf75a19e23e
-              start_date: '2013-01-25T19:42:32Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: prediction-io.svg
-              hash: rV9/2aUZAXAtXbWbARwhFU/o5YKRGUzuQrf4aSsp0qg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2017-10-02T22:08:41.000Z
   - category:
     name: Deep Learning
     subcategories:
@@ -1024,44 +972,6 @@ landscape:
             image_data:
               fileName: dynamic-neural-network-toolkit.svg
               hash: 16raWfOx+HhsN2V6NXxPFPIjhzRMddksOXw78unk85Y=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Elastic Deep Learning (EDL)
-            homepage_url: 'http://www.paddlepaddle.org/'
-            project: incubating
-            repo_url: 'https://github.com/PaddlePaddle/edl'
-            logo: edl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
-            crunchbase_data:
-              name: LF Deep Learning Foundation
-              description: 'The LF Deep Learning Foundation is an open source software foundation that  supports projects within the AI, ML and DL learning space.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://deeplearningfoundation.org/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: null
-              linkedin: null
-            github_data:
-              stars: 26
-              license: Apache License 2.0
-              description: Elastic Deep Learning using PaddlePaddle and Kubernetes
-              latest_commit_date: '2018-08-29T00:00:00.000Z'
-              latest_commit_link: /PaddlePaddle/edl/commit/2e4bec7701dd9126cd07b1e0dd3f36b926547983
-              contributors_count: 14
-              contributors_link: 'https://github.com/PaddlePaddle/edl/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /PaddlePaddle/edl/commit/7cb875ea0434864dd9b08d6588c0ac9c1658f851
-              start_date: '2017-04-26T13:35:43Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: elastic-deep-learning-edl.svg
-              hash: 20rqq/LuTm4XG/nJdBezsw++ihG3ErJuC15UznJq6tg=
             best_practice_data:
               badge: false
               percentage: null
@@ -2462,6 +2372,52 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-01-04T20:31:41.000Z
       - subcategory:
+        name: Feature Engineering
+        items:
+          - item:
+            name: Featuretools
+            homepage_url: 'https://www.featuretools.com/'
+            repo_url: 'https://github.com/featuretools/featuretools'
+            logo: featuretools.svg
+            twitter: 'https://twitter.com/feature_labs'
+            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+            crunchbase_data:
+              name: Feature Labs
+              description: Feature Labs builds tools and APIs for data science and feature engineering automation.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.featurelabs.com/'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/feature_labs'
+              linkedin: 'https://www.linkedin.com/company/featurelabs/'
+              kind: funding
+              funding: 3000000
+            github_data:
+              stars: 3006
+              license: BSD 3-Clause "New" or "Revised" License
+              description: An open source python framework for automated feature engineering
+              latest_commit_date: '2019-01-21T00:00:00.000Z'
+              latest_commit_link: /Featuretools/featuretools/commit/23c7f36c0d00820e50e10a8563e2f461c78cc808
+              release_date: '2018-06-04T19:50:32Z'
+              release_link: 'https://github.com/featuretools/featuretools/releases'
+              contributors_count: 15
+              contributors_link: 'https://github.com/featuretools/featuretools/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Featuretools/featuretools/commit/ff29f264f4d658e93a7d568d24434bd5359ca0e2
+              start_date: '2017-09-09T02:26:18Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: featuretools.svg
+              hash: aBWWgbMz1500GYa8IQ3SMzNjPPtVE7uVwwhf2mOESIg=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-01-22T13:48:51.000Z
+      - subcategory:
         name: License
         items:
           - item:
@@ -2502,6 +2458,137 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-01-22T22:28:00.000Z
+  - category:
+    name: Reinforcement Learning
+    subcategories:
+      - subcategory:
+        name: Reinforcement Learning
+        items:
+          - item:
+            name: Horizon
+            homepage_url: 'https://code.fb.com/ml-applications/horizon/'
+            repo_url: 'https://github.com/facebookresearch/Horizon'
+            logo: horizon.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.facebook.com'
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/facebook'
+              linkedin: 'https://www.linkedin.com/company/facebook'
+              ticker: FB
+              kind: market_cap
+            github_data:
+              stars: 1675
+              license: Other
+              description: A platform for Applied Reinforcement Learning (Applied RL)
+              latest_commit_date: '2019-01-19T00:00:00.000Z'
+              latest_commit_link: /facebookresearch/Horizon/commit/810b89f31204eabe54b354bd7e828d0918ed46c1
+              contributors_count: 16
+              contributors_link: 'https://github.com/facebookresearch/Horizon/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /facebookresearch/Horizon/commit/2066f11ca9cbfbed8effdeacf0d682632b8be828
+              start_date: '2017-08-25T22:57:58Z'
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 424085192704
+              effective_ticker: FB
+            image_data:
+              fileName: horizon.svg
+              hash: BaK7AQvz5BcIqjJG41yaA9OkQKiPm81XliEU9Q15PNI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: OpenAI Gym
+            homepage_url: 'https://gym.openai.com/'
+            repo_url: 'https://github.com/openai/gym'
+            logo: openai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/openai'
+            crunchbase_data:
+              name: OpenAI
+              description: OpenAI is a non-profit artificial intelligence (AI) research company.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.openai.com/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/OpenAI'
+              linkedin: 'https://www.linkedin.com/company-beta/11130470'
+              kind: funding
+              funding: 120000
+            github_data:
+              stars: 15153
+              license: Other
+              description: A toolkit for developing and comparing reinforcement learning algorithms.
+              latest_commit_date: '2018-12-20T00:00:00.000Z'
+              latest_commit_link: /openai/gym/commit/12e8b763d5dcda4962cbd17887d545f0eec6808a
+              release_date: '2018-11-06T01:15:16Z'
+              release_link: 'https://github.com/openai/gym/releases'
+              contributors_count: 130
+              contributors_link: 'https://github.com/openai/gym/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /openai/gym/commit/e8f29806033861f196cbc679788b985f4b40c4b7
+              start_date: '2016-04-27T15:00:58Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: open-ai-gym.svg
+              hash: PrigB083UfroSyi0EaEECCxcqOXlkmfKJISye0kNyig=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TensorFlow Reinforcement Learning (TRFL)
+            homepage_url: 'https://github.com/deepmind/trfl'
+            repo_url: 'https://github.com/deepmind/trfl'
+            logo: trfl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 2266
+              license: Apache License 2.0
+              description: TensorFlow Reinforcement Learning
+              latest_commit_date: '2018-11-09T00:00:00.000Z'
+              latest_commit_link: /deepmind/trfl/commit/099c2473425f98b8ac69b802e2e2e63a9830df59
+              contributors_count: 6
+              contributors_link: 'https://github.com/deepmind/trfl/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /deepmind/trfl/commit/96389fb49b643d0fde00d6b0c9a6beff2cc7a20e
+              start_date: '2018-06-22T15:58:05Z'
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 747144806400
+              effective_ticker: GOOG
+            image_data:
+              fileName: tensor-flow-reinforcement-learning-trfl.svg
+              hash: eFAwhPsMg8M5YOjw3nMlMiYBlylD+Fzlupqpp6XtLNI=
+            best_practice_data:
+              badge: false
+              percentage: null
   - category:
     name: Model
     subcategories:
@@ -3008,134 +3095,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-01-22T17:58:35.000Z
       - subcategory:
-        name: Reinforcement Learning
-        items:
-          - item:
-            name: Horizon
-            homepage_url: 'https://code.fb.com/ml-applications/horizon/'
-            repo_url: 'https://github.com/facebookresearch/Horizon'
-            logo: horizon.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-            crunchbase_data:
-              name: Facebook
-              description: Facebook is an online social networking service that enables its users to connect with friends and family.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.facebook.com'
-              city: Menlo Park
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/facebook'
-              linkedin: 'https://www.linkedin.com/company/facebook'
-              ticker: FB
-              kind: market_cap
-            github_data:
-              stars: 1675
-              license: Other
-              description: A platform for Applied Reinforcement Learning (Applied RL)
-              latest_commit_date: '2019-01-19T00:00:00.000Z'
-              latest_commit_link: /facebookresearch/Horizon/commit/810b89f31204eabe54b354bd7e828d0918ed46c1
-              contributors_count: 16
-              contributors_link: 'https://github.com/facebookresearch/Horizon/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /facebookresearch/Horizon/commit/2066f11ca9cbfbed8effdeacf0d682632b8be828
-              start_date: '2017-08-25T22:57:58Z'
-            membership_data:
-              member: false
-            yahoo_finance_data:
-              market_cap: 424085192704
-              effective_ticker: FB
-            image_data:
-              fileName: horizon.svg
-              hash: BaK7AQvz5BcIqjJG41yaA9OkQKiPm81XliEU9Q15PNI=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: OpenAI Gym
-            homepage_url: 'https://gym.openai.com/'
-            repo_url: 'https://github.com/openai/gym'
-            logo: openai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/openai'
-            crunchbase_data:
-              name: OpenAI
-              description: OpenAI is a non-profit artificial intelligence (AI) research company.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://www.openai.com/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/OpenAI'
-              linkedin: 'https://www.linkedin.com/company-beta/11130470'
-              kind: funding
-              funding: 120000
-            github_data:
-              stars: 15153
-              license: Other
-              description: A toolkit for developing and comparing reinforcement learning algorithms.
-              latest_commit_date: '2018-12-20T00:00:00.000Z'
-              latest_commit_link: /openai/gym/commit/12e8b763d5dcda4962cbd17887d545f0eec6808a
-              release_date: '2018-11-06T01:15:16Z'
-              release_link: 'https://github.com/openai/gym/releases'
-              contributors_count: 130
-              contributors_link: 'https://github.com/openai/gym/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /openai/gym/commit/e8f29806033861f196cbc679788b985f4b40c4b7
-              start_date: '2016-04-27T15:00:58Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: open-ai-gym.svg
-              hash: PrigB083UfroSyi0EaEECCxcqOXlkmfKJISye0kNyig=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: TensorFlow Reinforcement Learning (TRFL)
-            homepage_url: 'https://github.com/deepmind/trfl'
-            repo_url: 'https://github.com/deepmind/trfl'
-            logo: trfl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-            crunchbase_data:
-              name: Google
-              description: Google is a multinational corporation that is specialized in internet-related services and products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.google.com/'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/google'
-              linkedin: 'https://www.linkedin.com/company/google'
-              ticker: GOOG
-              kind: market_cap
-            github_data:
-              stars: 2266
-              license: Apache License 2.0
-              description: TensorFlow Reinforcement Learning
-              latest_commit_date: '2018-11-09T00:00:00.000Z'
-              latest_commit_link: /deepmind/trfl/commit/099c2473425f98b8ac69b802e2e2e63a9830df59
-              contributors_count: 6
-              contributors_link: 'https://github.com/deepmind/trfl/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /deepmind/trfl/commit/96389fb49b643d0fde00d6b0c9a6beff2cc7a20e
-              start_date: '2018-06-22T15:58:05Z'
-            membership_data:
-              member: false
-            yahoo_finance_data:
-              market_cap: 747144806400
-              effective_ticker: GOOG
-            image_data:
-              fileName: tensor-flow-reinforcement-learning-trfl.svg
-              hash: eFAwhPsMg8M5YOjw3nMlMiYBlylD+Fzlupqpp6XtLNI=
-            best_practice_data:
-              badge: false
-              percentage: null
-      - subcategory:
         name: Marketplace & Community
         items:
           - item:
@@ -3605,12 +3564,202 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: NumPy
+            homepage_url: 'http://www.numpy.org/'
+            repo_url: 'https://github.com/numpy/numpy'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/numpy'
+            crunchbase_data:
+              name: NumPy
+              description: NumPy is the fundamental package for scientific computing with Python.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'http://www.numpy.org/'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: null
+              linkedin: null
+            github_data:
+              stars: 9368
+              license: Other
+              description: The fundamental package for scientific computing with Python.
+              latest_commit_date: '2019-01-21T00:00:00.000Z'
+              latest_commit_link: /numpy/numpy/commit/3cbc11ac56054ad3ac7461e57433aefe37f2e3e4
+              contributors_count: 722
+              contributors_link: 'https://github.com/numpy/numpy/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /numpy/numpy/commit/f1a2d6376c430f65550efa235209b86c1a0967e3
+              start_date: '2001-12-18T15:45:10Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: num-py.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Pomegranete
+            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/jmschrei/pomegranate'
+            logo: pomegranate.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
+            crunchbase_data:
+              name: Pomegranate Open Source Project
+              description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://pomegranate.readthedocs.io/en/latest/'
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: null
+              linkedin: null
+            github_data:
+              stars: 1791
+              license: MIT License
+              description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
+              latest_commit_date: '2018-12-12T00:00:00.000Z'
+              latest_commit_link: /jmschrei/pomegranate/commit/475d1e49245ada0c2129237301ffa13c1fe29bd7
+              release_date: '2018-08-08T07:38:44Z'
+              release_link: 'https://github.com/jmschrei/pomegranate/releases'
+              contributors_count: 33
+              contributors_link: 'https://github.com/jmschrei/pomegranate/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /jmschrei/pomegranate/commit/e9d7596ce3264e340272acebb223e37cdeea1c23
+              start_date: '2014-11-24T08:03:43Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: pomegranete.svg
+              hash: Lz9Q6ujVpihInwvJ5XBfOX/nQ7+qTRwSnj1bvFIT55g=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SciPy
+            homepage_url: 'https://www.scipy.org/'
+            repo_url: 'https://github.com/scipy/scipy'
+            logo: scipy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/enthought'
+            crunchbase_data:
+              name: Enthought
+              description: Enthought transforms the business of science with artificial intelligence.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: 'http://www.enthought.com'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'http://twitter.com/enthought'
+              linkedin: 'https://www.linkedin.com/company/enthought'
+            github_data:
+              stars: 5346
+              license: Other
+              description: Scipy library main repository
+              latest_commit_date: '2019-01-22T00:00:00.000Z'
+              latest_commit_link: /scipy/scipy/commit/df475f7469693c49eb210d871847eef433781c65
+              contributors_count: 683
+              contributors_link: 'https://github.com/scipy/scipy/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /scipy/scipy/commit/02de46a5464f182d3d64be5a7ee1087ae8be8646
+              start_date: '2001-02-01T08:32:30Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: sci-py.svg
+              hash: Haw5DaF3gAhAD5gP4n/ven0DKNQyWaXHye1/o08G1TE=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Stan
+            homepage_url: 'https://mc-stan.org/'
+            repo_url: 'https://github.com/stan-dev/stan'
+            logo: stan.svg
+            twitter: 'https://twitter.com/mcmc_stan'
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+            crunchbase_data:
+              name: NumFOCUS
+              description: 'NumFOCUS is a 501(c)(3) nonprofit that supports and promotes world-class, innovative, open source scientific software.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.numfocus.org/'
+              city: Austin
+              region: Texas
+              country: United States
+              twitter: 'https://twitter.com/numfocus'
+              linkedin: null
+            github_data:
+              stars: 1480
+              license: BSD 3-Clause "New" or "Revised" License
+              description: >-
+                Stan development repository (home page is linked below). The master branch contains the current release. The develop branch contains the latest
+                stable development.  See the Developer Process Wiki for details.  
+              latest_commit_date: '2019-01-19T00:00:00.000Z'
+              latest_commit_link: /stan-dev/stan/commit/fd6586036ec8dd034ec768ad190240f4ea26328f
+              contributors_count: 66
+              contributors_link: 'https://github.com/stan-dev/stan/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /stan-dev/stan/commit/0079cc5fa5b7d13fd201fbae276b01f7f27f8dc9
+              start_date: '2011-09-30T01:57:32Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: stan.svg
+              hash: 9PX8t6AvAafU1hps6noNmf6TnBmTBkfu25hbTjmBC6A=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2018-12-03T13:25:18.000Z
   - category:
     name: Distributed Computing
     subcategories:
       - subcategory:
         name: Computing & Management
         items:
+          - item:
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org/'
+            project: incubating
+            repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: edl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
+            crunchbase_data:
+              name: LF Deep Learning Foundation
+              description: 'The LF Deep Learning Foundation is an open source software foundation that  supports projects within the AI, ML and DL learning space.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://deeplearningfoundation.org/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: null
+              linkedin: null
+            github_data:
+              stars: 26
+              license: Apache License 2.0
+              description: Elastic Deep Learning using PaddlePaddle and Kubernetes
+              latest_commit_date: '2018-08-29T00:00:00.000Z'
+              latest_commit_link: /PaddlePaddle/edl/commit/2e4bec7701dd9126cd07b1e0dd3f36b926547983
+              contributors_count: 14
+              contributors_link: 'https://github.com/PaddlePaddle/edl/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /PaddlePaddle/edl/commit/7cb875ea0434864dd9b08d6588c0ac9c1658f851
+              start_date: '2017-04-26T13:35:43Z'
+            membership_data:
+              member: false
+            image_data:
+              fileName: elastic-deep-learning-edl.svg
+              hash: 20rqq/LuTm4XG/nJdBezsw++ihG3ErJuC15UznJq6tg=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Apache Ambari
             homepage_url: 'https://ambari.apache.org/'
@@ -3857,162 +4006,6 @@ landscape:
               percentage: 100
             twitter_data:
               latest_tweet_date: 2019-01-22T18:37:18.000Z
-      - subcategory:
-        name: Library
-        items:
-          - item:
-            name: NumPy
-            homepage_url: 'http://www.numpy.org/'
-            repo_url: 'https://github.com/numpy/numpy'
-            logo: num-py.svg
-            crunchbase: 'https://www.crunchbase.com/organization/numpy'
-            crunchbase_data:
-              name: NumPy
-              description: NumPy is the fundamental package for scientific computing with Python.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://www.numpy.org/'
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: null
-              linkedin: null
-            github_data:
-              stars: 9368
-              license: Other
-              description: The fundamental package for scientific computing with Python.
-              latest_commit_date: '2019-01-21T00:00:00.000Z'
-              latest_commit_link: /numpy/numpy/commit/3cbc11ac56054ad3ac7461e57433aefe37f2e3e4
-              contributors_count: 722
-              contributors_link: 'https://github.com/numpy/numpy/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /numpy/numpy/commit/f1a2d6376c430f65550efa235209b86c1a0967e3
-              start_date: '2001-12-18T15:45:10Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: num-py.svg
-              hash: GJflni+v0IBcNnZEBBxNwXJcBh/kNQBCrEGsjKEY/3U=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Pomegranete
-            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/jmschrei/pomegranate'
-            logo: pomegranate.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
-            crunchbase_data:
-              name: Pomegranate Open Source Project
-              description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'https://pomegranate.readthedocs.io/en/latest/'
-              city: Seattle
-              region: Washington
-              country: United States
-              twitter: null
-              linkedin: null
-            github_data:
-              stars: 1791
-              license: MIT License
-              description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
-              latest_commit_date: '2018-12-12T00:00:00.000Z'
-              latest_commit_link: /jmschrei/pomegranate/commit/475d1e49245ada0c2129237301ffa13c1fe29bd7
-              release_date: '2018-08-08T07:38:44Z'
-              release_link: 'https://github.com/jmschrei/pomegranate/releases'
-              contributors_count: 33
-              contributors_link: 'https://github.com/jmschrei/pomegranate/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /jmschrei/pomegranate/commit/e9d7596ce3264e340272acebb223e37cdeea1c23
-              start_date: '2014-11-24T08:03:43Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: pomegranete.svg
-              hash: Lz9Q6ujVpihInwvJ5XBfOX/nQ7+qTRwSnj1bvFIT55g=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: SciPy
-            homepage_url: 'https://www.scipy.org/'
-            repo_url: 'https://github.com/scipy/scipy'
-            logo: scipy.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/enthought'
-            crunchbase_data:
-              name: Enthought
-              description: Enthought transforms the business of science with artificial intelligence.
-              num_employees_min: 51
-              num_employees_max: 100
-              homepage: 'http://www.enthought.com'
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: 'http://twitter.com/enthought'
-              linkedin: 'https://www.linkedin.com/company/enthought'
-            github_data:
-              stars: 5346
-              license: Other
-              description: Scipy library main repository
-              latest_commit_date: '2019-01-22T00:00:00.000Z'
-              latest_commit_link: /scipy/scipy/commit/df475f7469693c49eb210d871847eef433781c65
-              contributors_count: 683
-              contributors_link: 'https://github.com/scipy/scipy/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /scipy/scipy/commit/02de46a5464f182d3d64be5a7ee1087ae8be8646
-              start_date: '2001-02-01T08:32:30Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: sci-py.svg
-              hash: Haw5DaF3gAhAD5gP4n/ven0DKNQyWaXHye1/o08G1TE=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Stan
-            homepage_url: 'https://mc-stan.org/'
-            repo_url: 'https://github.com/stan-dev/stan'
-            logo: stan.svg
-            twitter: 'https://twitter.com/mcmc_stan'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
-            crunchbase_data:
-              name: NumFOCUS
-              description: 'NumFOCUS is a 501(c)(3) nonprofit that supports and promotes world-class, innovative, open source scientific software.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'http://www.numfocus.org/'
-              city: Austin
-              region: Texas
-              country: United States
-              twitter: 'https://twitter.com/numfocus'
-              linkedin: null
-            github_data:
-              stars: 1480
-              license: BSD 3-Clause "New" or "Revised" License
-              description: >-
-                Stan development repository (home page is linked below). The master branch contains the current release. The develop branch contains the latest
-                stable development.  See the Developer Process Wiki for details.  
-              latest_commit_date: '2019-01-19T00:00:00.000Z'
-              latest_commit_link: /stan-dev/stan/commit/fd6586036ec8dd034ec768ad190240f4ea26328f
-              contributors_count: 66
-              contributors_link: 'https://github.com/stan-dev/stan/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /stan-dev/stan/commit/0079cc5fa5b7d13fd201fbae276b01f7f27f8dc9
-              start_date: '2011-09-30T01:57:32Z'
-            membership_data:
-              member: false
-            image_data:
-              fileName: stan.svg
-              hash: 9PX8t6AvAafU1hps6noNmf6TnBmTBkfu25hbTjmBC6A=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2018-12-03T13:25:18.000Z
       - subcategory:
         name: Interface
         items:
