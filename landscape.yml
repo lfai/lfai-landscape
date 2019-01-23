@@ -25,6 +25,13 @@ landscape:
             repo_url: 'https://github.com/ray-project/ray'
             logo: ray.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
+          - item:
+            name: Mahout
+            homepage_url: 'https://mahout.apache.org/'
+            repo_url: 'https://github.com/apache/mahout'
+            logo: apache-mahout.svg
+            twitter: 'https://twitter.com/ApacheMahout'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
       - subcategory:
         name: Platform
         items:
@@ -63,6 +70,20 @@ landscape:
             logo: seldon.svg
             twitter: 'https://twitter.com/seldon_io'
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
+          - item:
+            name: Apache SystemML
+            homepage_url: 'https://systemml.apache.org/'
+            repo_url: 'https://github.com/apache/systemml'
+            logo: apache-system-ml.svg
+            twitter: 'https://twitter.com/ApacheSystemML'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: PredictionIO
+            homepage_url: 'https://predictionio.apache.org/'
+            repo_url: 'https://github.com/apache/predictionio'
+            logo: apache-predictionio.svg
+            twitter: 'https://twitter.com/ApachePIO'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
       - subcategory:
         name: Library
         items:
@@ -108,16 +129,6 @@ landscape:
             logo: transmogrifai.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/salesforce'
-      - subcategory:
-        name: Algorithm
-        items:
-          - item:
-            name: Mahout
-            homepage_url: 'https://mahout.apache.org/'
-            repo_url: 'https://github.com/apache/mahout'
-            logo: apache-mahout.svg
-            twitter: 'https://twitter.com/ApacheMahout'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: XGBoost
             homepage_url: 'https://xgboost.ai/'
@@ -125,33 +136,6 @@ landscape:
             logo: xgboost.svg
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
-      - subcategory:
-        name: Feature Engineering
-        items:
-          - item:
-            name: Featuretools
-            homepage_url: 'https://www.featuretools.com/'
-            repo_url: 'https://github.com/featuretools/featuretools'
-            logo: featuretools.svg
-            twitter: 'https://twitter.com/feature_labs'
-            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
-      - subcategory:
-        name: System
-        items:
-          - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: PredictionIO
-            homepage_url: 'https://predictionio.apache.org/'
-            repo_url: 'https://github.com/apache/predictionio'
-            logo: apache-predictionio.svg
-            twitter: 'https://twitter.com/ApachePIO'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
   - category:
     name: Deep Learning
     subcategories:
@@ -192,14 +176,6 @@ landscape:
             logo: dynet.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/carnegie-mellon-university'
-          - item:
-            name: Elastic Deep Learning (EDL)
-            homepage_url: 'http://www.paddlepaddle.org/'
-            project: incubating
-            repo_url: 'https://github.com/PaddlePaddle/edl'
-            logo: edl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
             name: MXNet
             homepage_url: 'https://mxnet.apache.org/'
@@ -459,6 +435,16 @@ landscape:
             twitter: 'https://twitter.com/prestodb'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
       - subcategory:
+        name: Feature Engineering
+        items:
+          - item:
+            name: Featuretools
+            homepage_url: 'https://www.featuretools.com/'
+            repo_url: 'https://github.com/featuretools/featuretools'
+            logo: featuretools.svg
+            twitter: 'https://twitter.com/feature_labs'
+            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+      - subcategory:
         name: License
         items:
           - item:
@@ -467,6 +453,33 @@ landscape:
             repo_url: 'https://github.com/LFDLFoundation/CDLA'
             logo: cdla.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'
+  - category:
+    name: Reinforcement Learning
+    subcategories:
+      - subcategory:
+        name: Reinforcement Learning         
+        items:
+          - item:
+            name: Horizon
+            homepage_url: 'https://code.fb.com/ml-applications/horizon/'
+            repo_url: 'https://github.com/facebookresearch/Horizon'
+            logo: horizon.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: OpenAI Gym
+            homepage_url: 'https://gym.openai.com/'
+            repo_url: 'https://github.com/openai/gym'
+            logo: openai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/openai'
+          - item:
+            name: TensorFlow Reinforcement Learning (TRFL)
+            homepage_url: 'https://github.com/deepmind/trfl'
+            repo_url: 'https://github.com/deepmind/trfl'
+            logo: trfl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Model
     subcategories:
@@ -569,30 +582,6 @@ landscape:
             twitter: 'https://twitter.com/onnxai'
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
       - subcategory:
-        name: Reinforcement Learning
-        items:
-          - item:
-            name: Horizon
-            homepage_url: 'https://code.fb.com/ml-applications/horizon/'
-            repo_url: 'https://github.com/facebookresearch/Horizon'
-            logo: horizon.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
-            name: OpenAI Gym
-            homepage_url: 'https://gym.openai.com/'
-            repo_url: 'https://github.com/openai/gym'
-            logo: openai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/openai'
-          - item:
-            name: TensorFlow Reinforcement Learning (TRFL)
-            homepage_url: 'https://github.com/deepmind/trfl'
-            repo_url: 'https://github.com/deepmind/trfl'
-            logo: trfl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-      - subcategory:
         name: Marketplace & Community
         items:
           - item:
@@ -680,12 +669,47 @@ landscape:
             logo: pyro.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: NumPy
+            homepage_url: 'http://www.numpy.org/'
+            repo_url: 'https://github.com/numpy/numpy'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/numpy'
+          - item:
+            name: Pomegranete
+            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/jmschrei/pomegranate'
+            logo: pomegranate.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
+          - item:
+            name: SciPy
+            homepage_url: 'https://www.scipy.org/'
+            repo_url: 'https://github.com/scipy/scipy'
+            logo: scipy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/enthought'
+          - item:
+            name: Stan
+            homepage_url: 'https://mc-stan.org/'
+            repo_url: 'https://github.com/stan-dev/stan'
+            logo: stan.svg
+            twitter: 'https://twitter.com/mcmc_stan'
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
   - category:
     name: Distributed Computing
     subcategories:
       - subcategory:
         name: Computing & Management
         items:
+          - item:
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org/'
+            project: incubating
+            repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: edl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
             name: Apache Ambari
             homepage_url: 'https://ambari.apache.org/'
@@ -728,36 +752,6 @@ landscape:
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
-      - subcategory:
-        name: Library
-        items:
-          - item:
-            name: NumPy
-            homepage_url: 'http://www.numpy.org/'
-            repo_url: 'https://github.com/numpy/numpy'
-            logo: num-py.svg
-            crunchbase: 'https://www.crunchbase.com/organization/numpy'
-          - item:
-            name: Pomegranete
-            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/jmschrei/pomegranate'
-            logo: pomegranate.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
-          - item:
-            name: SciPy
-            homepage_url: 'https://www.scipy.org/'
-            repo_url: 'https://github.com/scipy/scipy'
-            logo: scipy.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/enthought'
-          - item:
-            name: Stan
-            homepage_url: 'https://mc-stan.org/'
-            repo_url: 'https://github.com/stan-dev/stan'
-            logo: stan.svg
-            twitter: 'https://twitter.com/mcmc_stan'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
       - subcategory:
         name: Interface
         items:
