@@ -16,7 +16,7 @@ landscape:
             name: ML.net
             homepage_url: 'https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet'
             repo_url: 'https://github.com/dotnet/machinelearning'
-            logo: 'https://docs.microsoft.com/en-us/dotnet/images/hub/mldotnet.svg'
+            logo: ml-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
@@ -39,7 +39,7 @@ landscape:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
-            logo: 'https://www.h2o.ai/wp-content/uploads/2018/09/h2o_logo.svg'
+            logo: h2o-ai.svg
             twitter: 'https://twitter.com/h2oai'
             crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
           - item:
@@ -153,7 +153,7 @@ landscape:
             name: Caffe
             homepage_url: 'http://caffe.berkeleyvision.org/'
             repo_url: 'https://github.com/BVLC/caffe'
-            logo: 'https://valohai.com/static/img/support-logos/caffe.svg'
+            logo: caffe.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
           - item:
             name: Chainer
@@ -187,14 +187,14 @@ landscape:
             name: PyTorch
             homepage_url: 'https://pytorch.org/'
             repo_url: 'https://github.com/pytorch/pytorch'
-            logo: 'https://valohai.com/static/img/support-logos/pytorch.svg'
+            logo: py-torch.svg
             twitter: 'https://twitter.com/PyTorch'
             crunchbase: 'https://www.crunchbase.com/organization/pytorch'
           - item:
             name: Tensorflow
             homepage_url: 'https://www.tensorflow.org/'
             repo_url: 'https://github.com/tensorflow/tensorflow'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg'
+            logo: tensorflow.svg
             twitter: 'https://twitter.com/TensorFlow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
@@ -242,7 +242,7 @@ landscape:
             name: Keras
             homepage_url: 'https://keras.io/'
             repo_url: 'https://github.com/keras-team/keras'
-            logo: 'https://valohai.com/static/img/support-logos/keras-text.svg'
+            logo: keras.svg
             twitter: 'https://twitter.com/fchollet'
             crunchbase: 'https://www.crunchbase.com/organization/keras'
           - item:
@@ -257,7 +257,7 @@ landscape:
         items:
           - item:
             name: Plaid ML
-            homepage_url: 'https://ai.intel.com/plaidml/'
+            homepage_url: 'https://www.intel.ai/plaidml/'
             repo_url: 'https://github.com/plaidml/plaidml'
             logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
@@ -355,7 +355,7 @@ landscape:
             name: Beam
             homepage_url: 'https://beam.apache.org'
             repo_url: 'https://github.com/apache/beam'
-            logo: 'https://beam.apache.org/images/logos/3-color/name-right/beam-logo-3-color-name-right.svg'
+            logo: beam.svg
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
@@ -424,14 +424,14 @@ landscape:
             name: Apache Drill
             homepage_url: 'https://drill.apache.org/'
             repo_url: 'https://github.com/apache/drill'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/4/42/Apache_Drill_logo.svg'
+            logo: apache-drill.svg
             twitter: 'https://twitter.com/ApacheDrill'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Presto
             homepage_url: 'https://prestodb.io/'
             repo_url: 'https://github.com/prestodb/presto'
-            logo: 'https://landscape.cncf.io/logos/presto.svg'
+            logo: presto.svg
             twitter: 'https://twitter.com/prestodb'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
       - subcategory:
@@ -612,7 +612,7 @@ landscape:
           - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
-            repo_url: 'https://github.com/apache/incubator-airflow'
+            repo_url: 'https://github.com/apache/airflow'
             logo: apache-airflow.svg
             twitter: 'https://twitter.com/ApacheAirflow'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
@@ -741,7 +741,7 @@ landscape:
             name: Apache Storm
             homepage_url: 'http://storm.apache.org/'
             repo_url: 'https://github.com/apache/storm'
-            logo: 'https://landscape.cncf.io/logos/apache-storm.svg'
+            logo: apache-storm.svg
             twitter: 'https://twitter.com/ApacheStorm'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
@@ -749,7 +749,7 @@ landscape:
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
             homepage_url: 'https://kubernetes.io/'
             repo_url: 'https://github.com/kubernetes/kubernetes'
-            logo: 'https://raw.githubusercontent.com/cncf/artwork/master/kubernetes/stacked/color/kubernetes-stacked-color.svg'
+            logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
       - subcategory:
@@ -819,7 +819,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/cleverhans-project'
           - item:
             name: Foolbox
-            homepage_url: 'https://foolbox.readthedocs.io/'
+            homepage_url: 'https://foolbox.readthedocs.io/en/latest/'
             repo_url: 'https://github.com/bethgelab/foolbox'
             logo: foolbox.svg
             twitter: 'https://twitter.com/bethgelab'
@@ -869,7 +869,7 @@ landscape:
             name: Jupyter Notebooks
             homepage_url: 'https://jupyter.org/'
             repo_url: 'https://github.com/jupyter/notebook'
-            logo: 'https://www.kubeflow.org/images/logo-jupyter.svg'
+            logo: jupyter-notebooks.svg
             twitter: 'https://twitter.com/ProjectJupyter'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
