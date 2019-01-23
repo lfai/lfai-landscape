@@ -91,93 +91,93 @@ big_picture:
     fullscreen_header: See the interactive landscape at l.lfdl.io
     method: getGroupedItemsForCncfBigPicture
     size:
-      width: 920
-      height: 640
+      width: 1115
+      height: 730
     fullscreen_size:
-      width: 1220
-      height: 880
+      width: 1155
+      height: 800
     elements:
       - type: HorizontalCategory
         category: Machine Learning
-        rows: 2
-        width: 525
-        height: 130
+        rows: 3
+        width: 375
+        height: 160
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
       - type: HorizontalCategory
         category: Deep Learning
-        rows: 2
-        width: 525
-        height: 130
+        rows: 3
+        width: 400
+        height: 160
         top: 0
-        left: 545
+        left: 395
         color: 'rgb(104, 145, 145)'
-      - type: HorizontalCategory
-        category: Data
-        rows: 3
-        width: 750
-        height: 130
-        top: 320
-        left: 320
-        color: 'rgb(74, 131, 104)'
-      - type: HorizontalCategory
-        category: Model
-        rows: 3
-        width: 750
-        height: 130
-        top: 160
-        left: 320
-        color: 'rgb(108, 135, 75)'
-      - type: HorizontalCategory
-        category: Distributed Computing
-        rows: 3
-        width: 300
-        height: 130
-        top: 320
-        left: 0
-        color: 'rgb(64, 89, 163)'
       - type: HorizontalCategory
         category: Notebook Environment
         rows: 3
         width: 140
-        height: 130
-        top: 160
-        left: 0
-        color: 'rgb(124, 200, 182)'
+        height: 160
+        top: 0
+        left: 815
+        color: 'rgb(43, 142, 136)'
         fit_width: true
       - type: HorizontalCategory
         category: Reinforcement Learning
         rows: 2
         width: 140
-        height: 130
-        top: 160
-        left: 160
+        height: 160
+        top: 0
+        left: 975
         color: 'rgb(124, 200, 182)'
         fit_width: true
+      - type: HorizontalCategory
+        category: Model
+        rows: 3
+        width: 705 # old 750
+        height: 160
+        top: 190
+        left: 410
+        color: 'rgb(108, 135, 75)'
+      - type: HorizontalCategory
+        category: Distributed Computing
+        rows: 3
+        width: 325
+        height: 160
+        top: 380
+        left: 0
+        color: 'rgb(64, 89, 163)'
+      - type: HorizontalCategory
+        category: Data
+        rows: 3
+        width: 770
+        height: 160
+        top: 380
+        left: 345
+        color: 'rgb(74, 131, 104)'
       - type: HorizontalCategory
         category: LF DL Member Company
         rows: 4
         width: 850
         height: 160
-        top: 480
+        top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: AI Ethics & Fairness
-        rows: 3
-        width: 200
+        rows: 2
+        width: 245
         height: 160
-        top: 480
+        top: 570
         left: 870
-        color: 'rgb(124, 200, 182)'
+        color: 'rgb(142, 209, 216)'
         fit_width: true
       - type: LandscapeInfo
         width: 390
         height: 160
-        top: 660
-        left: 340
+        top: 190
+        left: 0
         children:
           - type: text
             text: >
