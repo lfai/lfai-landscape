@@ -13,6 +13,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
           - item:
+            name: Mahout
+            homepage_url: 'https://mahout.apache.org/'
+            repo_url: 'https://github.com/apache/mahout'
+            logo: apache-mahout.svg
+            twitter: 'https://twitter.com/ApacheMahout'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: ML.net
             homepage_url: 'https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet'
             repo_url: 'https://github.com/dotnet/machinelearning'
@@ -25,16 +32,16 @@ landscape:
             repo_url: 'https://github.com/ray-project/ray'
             logo: ray.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
-          - item:
-            name: Mahout
-            homepage_url: 'https://mahout.apache.org/'
-            repo_url: 'https://github.com/apache/mahout'
-            logo: apache-mahout.svg
-            twitter: 'https://twitter.com/ApacheMahout'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
       - subcategory:
         name: Platform
         items:
+          - item:
+            name: Apache SystemML
+            homepage_url: 'https://systemml.apache.org/'
+            repo_url: 'https://github.com/apache/systemml'
+            logo: apache-system-ml.svg
+            twitter: 'https://twitter.com/ApacheSystemML'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
@@ -64,26 +71,19 @@ landscape:
             twitter: 'https://twitter.com/PipelineAI'
             crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
           - item:
-            name: Seldon
-            homepage_url: 'https://www.seldon.io/'
-            repo_url: 'https://github.com/SeldonIO/seldon-core'
-            logo: seldon.svg
-            twitter: 'https://twitter.com/seldon_io'
-            crunchbase: 'https://www.crunchbase.com/organization/seldon'
-          - item:
-            name: Apache SystemML
-            homepage_url: 'https://systemml.apache.org/'
-            repo_url: 'https://github.com/apache/systemml'
-            logo: apache-system-ml.svg
-            twitter: 'https://twitter.com/ApacheSystemML'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: PredictionIO
             homepage_url: 'https://predictionio.apache.org/'
             repo_url: 'https://github.com/apache/predictionio'
             logo: apache-predictionio.svg
             twitter: 'https://twitter.com/ApachePIO'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Seldon
+            homepage_url: 'https://www.seldon.io/'
+            repo_url: 'https://github.com/SeldonIO/seldon-core'
+            logo: seldon.svg
+            twitter: 'https://twitter.com/seldon_io'
+            crunchbase: 'https://www.crunchbase.com/organization/seldon'
       - subcategory:
         name: Library
         items:
@@ -457,7 +457,7 @@ landscape:
     name: Reinforcement Learning
     subcategories:
       - subcategory:
-        name: Reinforcement Learning         
+        name: Reinforcement Learning
         items:
           - item:
             name: Horizon
@@ -648,6 +648,12 @@ landscape:
             twitter: 'https://twitter.com/JuliaLanguage'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
+            name: NumPy
+            homepage_url: 'http://www.numpy.org/'
+            repo_url: 'https://github.com/numpy/numpy'
+            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/numpy'
+          - item:
             name: Nyoka
             homepage_url: 'https://nyoka-pmml.github.io/nyoka/'
             repo_url: 'https://github.com/nyoka-pmml/nyoka'
@@ -655,6 +661,13 @@ landscape:
             logo: nyoka.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/software-ag'
+          - item:
+            name: Pomegranete
+            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/jmschrei/pomegranate'
+            logo: pomegranate.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
           - item:
             name: PyMC3
             homepage_url: 'https://docs.pymc.io/'
@@ -669,19 +682,6 @@ landscape:
             logo: pyro.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
-          - item:
-            name: NumPy
-            homepage_url: 'http://www.numpy.org/'
-            repo_url: 'https://github.com/numpy/numpy'
-            logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/numpy'
-          - item:
-            name: Pomegranete
-            homepage_url: 'https://pomegranate.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/jmschrei/pomegranate'
-            logo: pomegranate.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/pomegranate-open-source-project'
           - item:
             name: SciPy
             homepage_url: 'https://www.scipy.org/'
@@ -702,14 +702,6 @@ landscape:
       - subcategory:
         name: Computing & Management
         items:
-          - item:
-            name: Elastic Deep Learning (EDL)
-            homepage_url: 'http://www.paddlepaddle.org/'
-            project: incubating
-            repo_url: 'https://github.com/PaddlePaddle/edl'
-            logo: edl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
             name: Apache Ambari
             homepage_url: 'https://ambari.apache.org/'
@@ -744,6 +736,14 @@ landscape:
             logo: apache-storm.svg
             twitter: 'https://twitter.com/ApacheStorm'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Elastic Deep Learning (EDL)
+            homepage_url: 'http://www.paddlepaddle.org/'
+            project: incubating
+            repo_url: 'https://github.com/PaddlePaddle/edl'
+            logo: edl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
