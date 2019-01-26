@@ -64,13 +64,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/databricks'
           - item:
-            name: Pipeline.ai
-            homepage_url: 'https://pipeline.ai/'
-            repo_url: 'https://github.com/PipelineAI/pipeline'
-            logo: pipelineai.svg
-            twitter: 'https://twitter.com/PipelineAI'
-            crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
-          - item:
             name: PredictionIO
             homepage_url: 'https://predictionio.apache.org/'
             repo_url: 'https://github.com/apache/predictionio'
@@ -262,6 +255,14 @@ landscape:
             logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Neural Network Distiller 
+            homepage_url: 'https://nervanasystems.github.io/distiller'
+            repo_url: 'https://github.com/NervanaSystems/distiller'
+            logo: distiller.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+
   - category:
     name: Data
     subcategories:
@@ -460,6 +461,13 @@ landscape:
         name: Reinforcement Learning
         items:
           - item:
+            name: Coach 
+            homepage_url: 'https://nervanasystems.github.io/coach/'
+            repo_url: 'https://github.com/NervanaSystems/coach'
+            logo: coach.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'          
+          - item:
             name: Horizon
             homepage_url: 'https://code.fb.com/ml-applications/horizon/'
             repo_url: 'https://github.com/facebookresearch/Horizon'
@@ -481,10 +489,44 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
+    name: Natural Language Processing
+    subcategories:
+      - subcategory:
+        name: Natural Language Processing
+        items: 
+          - item:
+            name: fastText
+            homepage_url: 'https://fasttext.cc/'
+            repo_url: 'https://github.com/facebookresearch/fastText'
+            logo: fasttext.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: ParlAI
+            homepage_url: 'http://parl.ai/'
+            repo_url: 'https://github.com/facebookresearch/ParlAI'
+            logo: parlai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: NLP Architect 
+            homepage_url: 'http://nlp_architect.nervanasys.com/'
+            repo_url: 'https://github.com/NervanaSystems/nlp-architect'
+            logo: nlp-architect.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: AllenNLP
+            homepage_url: 'https://allennlp.org/'
+            repo_url: 'https://github.com/allenai/allennlp'
+            logo: allennlp.svg
+            twitter: 'https://twitter.com/ai2_allennlp'
+            crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
+  - category:
     name: Model
     subcategories:
       - subcategory:
-        name: Learning & Training
+        name: Benchmarking
         items:
           - item:
             name: DAWNBench
@@ -494,19 +536,22 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
           - item:
+            name: MLPerf
+            homepage_url: 'https://mlperf.org/'
+            repo_url: 'https://github.com/mlperf/training'
+            logo: mlperf.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
+      - subcategory:
+        name: Training
+        items:
+          - item:
             name: Embedded Learning Library
             homepage_url: 'https://microsoft.github.io/ELL/'
             repo_url: 'https://github.com/Microsoft/ELL'
             logo: embedded-learning-library.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: fastText
-            homepage_url: 'https://fasttext.cc/'
-            repo_url: 'https://github.com/facebookresearch/fastText'
-            logo: fasttext.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: Horovod
             homepage_url: 'https://eng.uber.com/horovod/'
@@ -516,13 +561,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
           - item:
-            name: ParlAI
-            homepage_url: 'http://parl.ai/'
-            repo_url: 'https://github.com/facebookresearch/ParlAI'
-            logo: parlai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
             name: Petastorm
             homepage_url: 'https://eng.uber.com/petastorm/'
             repo_url: 'https://github.com/uber/petastorm'
@@ -530,15 +568,8 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
-        name: Evaluation & Management
+        name: Management
         items:
-          - item:
-            name: AllenNLP
-            homepage_url: 'https://allennlp.org/'
-            repo_url: 'https://github.com/allenai/allennlp'
-            logo: allennlp.svg
-            twitter: 'https://twitter.com/ai2_allennlp'
-            crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
           - item:
             name: Datmo
             homepage_url: 'https://datmo.com/open-source'
@@ -547,12 +578,12 @@ landscape:
             twitter: 'https://twitter.com/datmoai'
             crunchbase: 'https://www.crunchbase.com/organization/datmo'
           - item:
-            name: MLPerf
-            homepage_url: 'https://mlperf.org/'
-            repo_url: 'https://github.com/mlperf/training'
-            logo: mlperf.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
+            name: Pipeline.ai
+            homepage_url: 'https://pipeline.ai/'
+            repo_url: 'https://github.com/PipelineAI/pipeline'
+            logo: pipelineai.svg
+            twitter: 'https://twitter.com/PipelineAI'
+            crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
       - subcategory:
         name: Parameter
         items:
@@ -582,7 +613,7 @@ landscape:
             twitter: 'https://twitter.com/onnxai'
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
       - subcategory:
-        name: Marketplace & Community
+        name: Marketplace
         items:
           - item:
             name: Acumos
@@ -607,7 +638,7 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
       - subcategory:
-        name: Workflow Management
+        name: Workflow
         items:
           - item:
             name: Apache Airflow
@@ -696,6 +727,13 @@ landscape:
             logo: stan.svg
             twitter: 'https://twitter.com/mcmc_stan'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: Infer.net 
+            homepage_url: 'https://dotnet.github.io/infer/'
+            repo_url: 'https://github.com/dotnet/infer'
+            logo: infernet.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'  
   - category:
     name: Distributed Computing
     subcategories:
@@ -752,6 +790,13 @@ landscape:
             logo: kubernetes.svg
             twitter: 'https://twitter.com/kubernetesio'
             crunchbase: 'https://www.crunchbase.com/organization/cloud-native-computing-foundation'
+          - item:
+            name: Nauta
+            homepage_url: 'https://www.intel.ai/nauta/'
+            repo_url: 'https://github.com/IntelAI/Nauta'
+            logo: nauta.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
         name: Interface
         items:
