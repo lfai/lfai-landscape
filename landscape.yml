@@ -249,20 +249,19 @@ landscape:
         name: Tool
         items:
           - item:
+            name: Neural Network Distiller
+            homepage_url: 'https://nervanasystems.github.io/distiller'
+            repo_url: 'https://github.com/NervanaSystems/distiller'
+            logo: distiller.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
             name: Plaid ML
             homepage_url: 'https://www.intel.ai/plaidml/'
             repo_url: 'https://github.com/plaidml/plaidml'
             logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
-          - item:
-            name: Neural Network Distiller 
-            homepage_url: 'https://nervanasystems.github.io/distiller'
-            repo_url: 'https://github.com/NervanaSystems/distiller'
-            logo: distiller.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
-
   - category:
     name: Data
     subcategories:
@@ -461,12 +460,19 @@ landscape:
         name: Reinforcement Learning
         items:
           - item:
-            name: Coach 
+            name: Coach
             homepage_url: 'https://nervanasystems.github.io/coach/'
             repo_url: 'https://github.com/NervanaSystems/coach'
             logo: coach.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/intel'          
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: DeepMind Lab
+            homepage_url: 'https://github.com/deepmind/lab'
+            repo_url: 'https://github.com/deepmind/lab'
+            logo: deepmindlab.svg
+            twitter: 'https://twitter.com/deepmindai'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: Horizon
             homepage_url: 'https://code.fb.com/ml-applications/horizon/'
@@ -488,40 +494,12 @@ landscape:
             logo: trfl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: DeepMind Lab
-            homepage_url: 'https://github.com/deepmind/lab' 
-            repo_url: 'https://github.com/deepmind/lab'
-            logo: deepmindlab.svg
-            twitter: 'https://twitter.com/deepmindai' 
-            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Natural Language Processing
     subcategories:
       - subcategory:
         name: Natural Language Processing
-        items: 
-          - item:
-            name: fastText
-            homepage_url: 'https://fasttext.cc/'
-            repo_url: 'https://github.com/facebookresearch/fastText'
-            logo: fasttext.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
-            name: ParlAI
-            homepage_url: 'http://parl.ai/'
-            repo_url: 'https://github.com/facebookresearch/ParlAI'
-            logo: parlai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
-            name: NLP Architect 
-            homepage_url: 'http://nlp_architect.nervanasys.com/'
-            repo_url: 'https://github.com/NervanaSystems/nlp-architect'
-            logo: nlp-architect.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
+        items:
           - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
@@ -530,19 +508,40 @@ landscape:
             twitter: 'https://twitter.com/ai2_allennlp'
             crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
           - item:
-            name: Lucene
-            homepage_url: 'https://lucene.apache.org/'
-            repo_url: 'https://github.com/apache/lucene-solr'
-            logo: lucene.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: Apache UIMA
             homepage_url: 'https://uima.apache.org/'
             repo_url: 'https://github.com/apache/uima-uimaj'
             logo: uima.svg
             twitter: 'https://twitter.com/apacheuima'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: fastText
+            homepage_url: 'https://fasttext.cc/'
+            repo_url: 'https://github.com/facebookresearch/fastText'
+            logo: fasttext.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Lucene
+            homepage_url: 'https://lucene.apache.org/'
+            repo_url: 'https://github.com/apache/lucene-solr'
+            logo: lucene.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: NLP Architect
+            homepage_url: 'http://nlp_architect.nervanasys.com/'
+            repo_url: 'https://github.com/NervanaSystems/nlp-architect'
+            logo: nlp-architect.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: ParlAI
+            homepage_url: 'http://parl.ai/'
+            repo_url: 'https://github.com/facebookresearch/ParlAI'
+            logo: parlai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
   - category:
     name: Model
     subcategories:
@@ -697,11 +696,18 @@ landscape:
             homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
             repo_url: 'https://github.com/neo-ai/neo-ai-dlr'
             logo: neo-ai.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/amazon'
       - subcategory:
         name: Programming
         items:
+          - item:
+            name: Infer.net
+            homepage_url: 'https://dotnet.github.io/infer/'
+            repo_url: 'https://github.com/dotnet/infer'
+            logo: infernet.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: Julia
             homepage_url: 'https://julialang.org/'
@@ -758,13 +764,6 @@ landscape:
             logo: stan.svg
             twitter: 'https://twitter.com/mcmc_stan'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
-          - item:
-            name: Infer.net 
-            homepage_url: 'https://dotnet.github.io/infer/'
-            repo_url: 'https://github.com/dotnet/infer'
-            logo: infernet.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'  
   - category:
     name: Distributed Computing
     subcategories:
@@ -826,7 +825,7 @@ landscape:
             homepage_url: 'https://www.intel.ai/nauta/'
             repo_url: 'https://github.com/IntelAI/Nauta'
             logo: nauta.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
         name: Interface
