@@ -105,6 +105,7 @@ big_picture:
         top: 0
         left: 0
         color: 'rgb(78,171,207)'
+        fit_width: true
       - type: HorizontalCategory
         category: Deep Learning
         rows: 3
@@ -113,6 +114,7 @@ big_picture:
         top: 0
         left: 395
         color: 'rgb(104, 145, 145)'
+        fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
         rows: 3
@@ -132,29 +134,41 @@ big_picture:
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
-        category: Model
+        category: Data
         rows: 3
         width: 705
         height: 160
         top: 190
         left: 410
-        color: 'rgb(108, 135, 75)'
+        color: 'rgb(74, 131, 104)'
+        fit_width: true
       - type: HorizontalCategory
-        category: Distributed Computing
+        category: AI Ethics & Fairness
         rows: 3
-        width: 325
+        width: 190
         height: 160
         top: 380
         left: 0
-        color: 'rgb(64, 89, 163)'
+        color: 'rgb(142, 209, 216)'
+        fit_width: true
       - type: HorizontalCategory
-        category: Data
-        rows: 3
-        width: 770
+        category: Natural Language Processing
+        rows: 2
+        width: 125
         height: 160
         top: 380
-        left: 345
-        color: 'rgb(74, 131, 104)'
+        left: 210
+        color: 'rgb(64, 89, 163)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Model
+        rows: 3
+        width: 760
+        height: 160
+        top: 380
+        left: 355
+        color: 'rgb(108, 135, 75)'
+        fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
         rows: 4
@@ -165,19 +179,19 @@ big_picture:
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
-        category: AI Ethics & Fairness
-        rows: 2
+        category: Distributed Computing
+        rows: 4
         width: 245
         height: 160
         top: 570
         left: 870
-        color: 'rgb(142, 209, 216)'
+        color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: LandscapeInfo
         width: 390
         height: 160
         top: 190
-        left: 0
+        left: 5
         children:
           - type: text
             text: >
