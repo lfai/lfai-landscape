@@ -129,6 +129,16 @@ landscape:
             logo: xgboost.svg
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
+      - subcategory:
+        name: Tool
+        items:
+          - item:
+            name: Neo-AI
+            homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
+            repo_url: 'https://github.com/neo-ai/neo-ai-dlr'
+            logo: neo-ai.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
   - category:
     name: Deep Learning
     subcategories:
@@ -488,6 +498,13 @@ landscape:
             logo: trfl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: DeepMind Lab
+            homepage_url: 'https://github.com/deepmind/lab' 
+            repo_url: 'https://github.com/deepmind/lab'
+            logo: deepmindlab.svg
+            twitter: 'https://twitter.com/deepmindai' 
+            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Natural Language Processing
     subcategories:
@@ -522,6 +539,20 @@ landscape:
             logo: allennlp.svg
             twitter: 'https://twitter.com/ai2_allennlp'
             crunchbase: 'https://www.crunchbase.com/organization/allen-institute-for-artificial-intelligence'
+          - item:
+            name: Lucene
+            homepage_url: 'https://lucene.apache.org/'
+            repo_url: 'https://github.com/apache/lucene-solr'
+            logo: lucene.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache UIMA
+            homepage_url: 'https://uima.apache.org/'
+            repo_url: 'https://github.com/apache/uima-uimaj'
+            logo: uima.svg
+            twitter: 'https://twitter.com/apacheuima'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
   - category:
     name: Model
     subcategories:
