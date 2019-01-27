@@ -5694,9 +5694,9 @@ int64-buffer@^0.1.9:
   integrity sha1-J3siiofZWtd30HwTgyAiQGpHNCM=
 
 interactive-landscape@~1.0.0:
-  version "1.0.86"
-  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.86.tgz#e682b82f4d25e7e4fa057b9e182dcd64a03f51c2"
-  integrity sha512-Tf634hj3iEVkx/XgyXOo7bR6ex8BSuUPj4LrEdNb/4RMTtlXc8dWotbshOOsxPPiEpDP0Ph2VeGWN4brRCjP3g==
+  version "1.0.88"
+  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.88.tgz#964c48291b1686f03542f2d97bdedfeacf09aaec"
+  integrity sha512-/QdJ55VWXYQwvXV1YkhCiIsELcTiQr01Ua1jtDlXoCM/TVAqZNFMubjnyr2jXvVsqSK9HxWSfC+rddMtBwt5rg==
   dependencies:
     "@babel/cli" "7.2.3"
     "@babel/core" "7.2.2"
@@ -5814,7 +5814,7 @@ interactive-landscape@~1.0.0:
     sitemap "2.1.0"
     string-replace-all "1.0.3"
     style-loader "0.23.1"
-    svg-autocrop "1.0.13"
+    svg-autocrop "1.0.15"
     terser-webpack-plugin "1.2.1"
     traverse "0.6.6"
     twitter "1.7.1"
@@ -10783,10 +10783,10 @@ supports-color@^6.0.0, supports-color@^6.1.0:
   dependencies:
     has-flag "^3.0.0"
 
-svg-autocrop@1.0.13:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/svg-autocrop/-/svg-autocrop-1.0.13.tgz#302c5e57ee9f3dcc406af938f99868308cd87a7e"
-  integrity sha512-0qlOJGM0Y/uymh1mYUvjNhCZ8ShWvN6lURV4RL3Fj5TpLl1/Iohgf2K9FBLgiR1KiQ2lRGortbzgs5foDgLAFQ==
+svg-autocrop@1.0.15:
+  version "1.0.15"
+  resolved "https://registry.yarnpkg.com/svg-autocrop/-/svg-autocrop-1.0.15.tgz#25546dd0dfa3b398e6e6fc686303cfe136155efe"
+  integrity sha512-61zymGPplqZP7MQ9RwaaTMsUCAaIB0SLq2OGuYW48Ukt/dW8fTCXPV8kwPYhoPs+sKPSkSJizqLmXJLvcABgqw==
   dependencies:
     convert-svg-to-png "0.5.0"
     jimp "0.6.0"
