@@ -76,7 +76,7 @@ presets:
   - url: /format=card-mode&grouping=no&license=open-source&sort=first-commit
     label: Open source by age
   - url: /format=card-mode&grouping=category
-    label: Landscape categories
+    label: Cards in categories
   - url: /format=card-mode&grouping=no&license=open-source&sort=stars
     label: Open source by stars
   - url: /format=card-mode&grouping=headquarters
@@ -85,6 +85,7 @@ presets:
     label: Sort by MCap/Funding
 big_picture:
   main:
+    tab_index: -1
     url: landscape
     name: Landscape
     title: Linux Foundation Deep Learning Landscape
