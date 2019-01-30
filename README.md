@@ -1,4 +1,4 @@
-
+[![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0bff52-871d-42c9-b46e-b3dbf8da9309/deploy-status)](https://app.netlify.com/sites/lfdllandscape/deploys)
 
 # Linux Foundation Deep Learning (LFDL) Landscape
 
