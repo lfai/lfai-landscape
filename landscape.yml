@@ -474,6 +474,13 @@ landscape:
             twitter: 'https://twitter.com/deepmindai'
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
+            name: Dopamine
+            homepage_url: 'https://dopamine.ai/'
+            repo_url: 'https://github.com/google/dopamine'
+            logo: dopamine.svg
+            twitter: 'https://twitter.com/dopamine_ai'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Horizon
             homepage_url: 'https://code.fb.com/ml-applications/horizon/'
             repo_url: 'https://github.com/facebookresearch/Horizon'
@@ -493,13 +500,6 @@ landscape:
             repo_url: 'https://github.com/deepmind/trfl'
             logo: trfl.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: Dopamine
-            homepage_url: 'https://dopamine.ai/'
-            repo_url: 'https://github.com/google/dopamine'
-            logo: dopamine.svg
-            twitter: 'https://twitter.com/dopamine_ai'
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Natural Language Processing
@@ -522,6 +522,13 @@ landscape:
             twitter: 'https://twitter.com/apacheuima'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: CoreNLP
+            homepage_url: 'https://stanfordnlp.github.io/CoreNLP/'
+            repo_url: 'https://github.com/stanfordnlp/CoreNLP'
+            logo: corenlp.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
+          - item:
             name: fastText
             homepage_url: 'https://fasttext.cc/'
             repo_url: 'https://github.com/facebookresearch/fastText'
@@ -543,26 +550,19 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
-            name: ParlAI
-            homepage_url: 'http://parl.ai/'
-            repo_url: 'https://github.com/facebookresearch/ParlAI'
-            logo: parlai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item: 
-            name: CoreNLP
-            homepage_url: 'https://stanfordnlp.github.io/CoreNLP/'
-            repo_url: 'https://github.com/stanfordnlp/CoreNLP'
-            logo: corenlp.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/amazon'
-          - item:
             name: OpenNLP
             homepage_url: 'https://opennlp.apache.org/'
             repo_url: 'https://github.com/apache/opennlp'
             logo: opennlp.svg
             twitter: 'https://twitter.com/ApacheOpennlp'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: ParlAI
+            homepage_url: 'http://parl.ai/'
+            repo_url: 'https://github.com/facebookresearch/ParlAI'
+            logo: parlai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
   - category:
     name: Model
     subcategories:
@@ -955,6 +955,13 @@ landscape:
             twitter: 'https://twitter.com/BeakerXNotebook'
             crunchbase: 'https://www.crunchbase.com/organization/two-sigma-investments'
           - item:
+            name: Colaboratory
+            homepage_url: 'https://colab.research.google.com/'
+            repo_url: 'https://github.com/googlecolab/colabtools/'
+            logo: colab.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: IPython
             homepage_url: 'https://ipython.org/'
             repo_url: 'https://github.com/ipython/ipython'
@@ -975,13 +982,6 @@ landscape:
             logo: pixiedust.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: Colaboratory
-            homepage_url: 'https://colab.research.google.com/'
-            repo_url: 'https://github.com/googlecolab/colabtools/'
-            logo: colab.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: LF DL Member Company
     subcategories:
