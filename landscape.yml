@@ -129,6 +129,13 @@ landscape:
             logo: xgboost.svg
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
+          - item:
+            name: Nilearn 
+            homepage_url: 'https://nilearn.github.io/'
+            repo_url: 'https://github.com/nilearn/nilearn'
+            logo: nilearn.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/inria'
   - category:
     name: Deep Learning
     subcategories:
@@ -190,6 +197,13 @@ landscape:
             logo: tensorflow.svg
             twitter: 'https://twitter.com/TensorFlow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Neon
+            homepage_url: 'http://neon.nervanasys.com/docs/latest'
+            repo_url: 'https://github.com/NervanaSystems/neon'
+            logo: neon.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
         name: Platform
         items:
@@ -262,6 +276,13 @@ landscape:
             logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: DeepBench
+            homepage_url: 'https://github.com/baidu-research/DeepBench' 
+            repo_url: 'https://github.com/baidu-research/DeepBench'
+            logo: deepbench.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
   - category:
     name: Data
     subcategories:
@@ -372,6 +393,13 @@ landscape:
             logo: tpot.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/university-of-pennsylvania'
+          - item:
+            name: Fuel
+            homepage_url: 'https://fuel.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/mila-udem/fuel'
+            logo: fuel.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/universit-de-montr-al'
       - subcategory:
         name: Stream Processing
         items:
@@ -444,6 +472,13 @@ landscape:
             logo: featuretools.svg
             twitter: 'https://twitter.com/feature_labs'
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+          - item:
+            name: Feast 
+            homepage_url: 'https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning'
+            repo_url: 'https://github.com/gojek/feast'
+            logo: feast.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: License
         items:
@@ -561,6 +596,13 @@ landscape:
             homepage_url: 'http://parl.ai/'
             repo_url: 'https://github.com/facebookresearch/ParlAI'
             logo: parlai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: PyText
+            homepage_url: 'https://pytext-pytext.readthedocs-hosted.com/en/latest/'
+            repo_url: 'https://github.com/facebookresearch/pytext'
+            logo: pytext.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
   - category:
