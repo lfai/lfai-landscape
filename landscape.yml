@@ -88,6 +88,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Nilearn
+            homepage_url: 'https://nilearn.github.io/'
+            repo_url: 'https://github.com/nilearn/nilearn'
+            logo: nilearn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/inria'
+          - item:
             name: OpenNN
             homepage_url: 'http://www.opennn.net/'
             repo_url: 'https://github.com/Artelnics/OpenNN'
@@ -129,13 +136,6 @@ landscape:
             logo: xgboost.svg
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
-          - item:
-            name: Nilearn 
-            homepage_url: 'https://nilearn.github.io/'
-            repo_url: 'https://github.com/nilearn/nilearn'
-            logo: nilearn.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/inria'
   - category:
     name: Deep Learning
     subcategories:
@@ -184,6 +184,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheMXNet'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Neon
+            homepage_url: 'http://neon.nervanasys.com/docs/latest'
+            repo_url: 'https://github.com/NervanaSystems/neon'
+            logo: neon.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
             name: PyTorch
             homepage_url: 'https://pytorch.org/'
             repo_url: 'https://github.com/pytorch/pytorch'
@@ -197,13 +204,6 @@ landscape:
             logo: tensorflow.svg
             twitter: 'https://twitter.com/TensorFlow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: Neon
-            homepage_url: 'http://neon.nervanasys.com/docs/latest'
-            repo_url: 'https://github.com/NervanaSystems/neon'
-            logo: neon.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
       - subcategory:
         name: Platform
         items:
@@ -263,6 +263,13 @@ landscape:
         name: Tool
         items:
           - item:
+            name: DeepBench
+            homepage_url: 'https://github.com/baidu-research/DeepBench'
+            repo_url: 'https://github.com/baidu-research/DeepBench'
+            logo: deepbench.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
+          - item:
             name: Neural Network Distiller
             homepage_url: 'https://nervanasystems.github.io/distiller/'
             repo_url: 'https://github.com/NervanaSystems/distiller'
@@ -276,13 +283,6 @@ landscape:
             logo: plaidml.svg
             twitter: 'https://twitter.com/plaidml'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
-          - item:
-            name: DeepBench
-            homepage_url: 'https://github.com/baidu-research/DeepBench' 
-            repo_url: 'https://github.com/baidu-research/DeepBench'
-            logo: deepbench.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/baidu'
   - category:
     name: Data
     subcategories:
@@ -380,6 +380,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: Fuel
+            homepage_url: 'https://fuel.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/mila-udem/fuel'
+            logo: fuel.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/universit-de-montr-al'
+          - item:
             name: Keystone ML
             homepage_url: 'http://keystone-ml.org/'
             repo_url: 'https://github.com/amplab/keystone'
@@ -393,13 +400,6 @@ landscape:
             logo: tpot.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/university-of-pennsylvania'
-          - item:
-            name: Fuel
-            homepage_url: 'https://fuel.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/mila-udem/fuel'
-            logo: fuel.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/universit-de-montr-al'
       - subcategory:
         name: Stream Processing
         items:
@@ -466,19 +466,19 @@ landscape:
         name: Feature Engineering
         items:
           - item:
+            name: Feast
+            homepage_url: 'https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning'
+            repo_url: 'https://github.com/gojek/feast'
+            logo: feast.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Featuretools
             homepage_url: 'https://www.featuretools.com/'
             repo_url: 'https://github.com/featuretools/featuretools'
             logo: featuretools.svg
             twitter: 'https://twitter.com/feature_labs'
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
-          - item:
-            name: Feast 
-            homepage_url: 'https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning'
-            repo_url: 'https://github.com/gojek/feast'
-            logo: feast.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: License
         items:
