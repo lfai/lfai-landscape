@@ -2267,9 +2267,9 @@ bignumber.js@^2.1.0:
   integrity sha1-g4qZLan51zfg9LLbC+YrsJ3Qxeg=
 
 binary-extensions@^1.0.0:
-  version "1.12.0"
-  resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.12.0.tgz#c2d780f53d45bba8317a8902d4ceeaf3a6385b14"
-  integrity sha512-DYWGk01lDcxeS/K9IHPGWfT8PsJmbXRtRd2Sx72Tnb8pcYZQFF1oSDb8hJtS1vhp212q1Rzi5dUf9+nq0o9UIg==
+  version "1.13.0"
+  resolved "https://registry.yarnpkg.com/binary-extensions/-/binary-extensions-1.13.0.tgz#9523e001306a32444b907423f1de2164222f6ab1"
+  integrity sha512-EgmjVLMn22z7eGGv3kcnHwSnJXmFHjISTY9E/S5lIcTD3Oxw05QTcBLNkJFzcb3cNueUdF/IN4U+d78V0zO8Hw==
 
 blob@0.0.5:
   version "0.0.5"
@@ -2723,9 +2723,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000929, caniuse-lite@^1.0.30000932:
-  version "1.0.30000933"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000933.tgz#5871ff54b3177675ae1c2a275b2aae7abf2b9222"
-  integrity sha512-d3QXv7eFTU40DSedSP81dV/ajcGSKpT+GW+uhtWmLvQm9bPk0KK++7i1e2NSW/CXGZhWFt2mFbFtCJ5I5bMuVA==
+  version "1.0.30000934"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000934.tgz#4f2d749f51e9e2d4e9b182f8f121d26ec4208e8d"
+  integrity sha512-o7yfZn0R9N+mWAuksDsdLsb1gu9o//XK0QSU0zSSReKNRsXsFc/n/psxi0YSPNiqlKxImp5h4DHnAPdwYJ8nNA==
 
 capture-exit@^1.2.0:
   version "1.2.0"
@@ -5658,9 +5658,9 @@ int64-buffer@^0.1.9:
   integrity sha1-J3siiofZWtd30HwTgyAiQGpHNCM=
 
 interactive-landscape@~1.0.0:
-  version "1.0.108"
-  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.108.tgz#5c31dcc9840e16b412660405bd030e0ca5fc47d8"
-  integrity sha512-HB4yLoPbBip9BtjguIStfXl1Bp+9YXwZ0nC94xYlWD05BoXSMLGXUgcAIaWeX2Nx0FcfdY1OOZHwSAuDEojY+w==
+  version "1.0.112"
+  resolved "https://registry.yarnpkg.com/interactive-landscape/-/interactive-landscape-1.0.112.tgz#a64efbc124c01142e2791797c0b52a30b4dba666"
+  integrity sha512-x2jCHmW8KyaVa1AwGg8bNOn778QO7vMP92GdgwMSC5wU0/f5lV6g3onFMU0+8CX+cnPOqh2zodXwpJ2v0vvNrQ==
   dependencies:
     "@babel/cli" "7.2.3"
     "@babel/core" "7.2.2"
@@ -5779,6 +5779,7 @@ interactive-landscape@~1.0.0:
     string-replace-all "1.0.3"
     style-loader "0.23.1"
     svg-autocrop "1.0.17"
+    terser "3.14.1"
     terser-webpack-plugin "1.2.1"
     traverse "0.6.6"
     twitter "1.7.1"
@@ -7236,9 +7237,9 @@ lru-cache@^5.1.1:
     yallist "^3.0.2"
 
 luxon@^1.3.3:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.10.0.tgz#335b55e2fed50e09f869aee828897a3f67c7044e"
-  integrity sha512-ry3GKh//v3isD6oJN5pFWmdh+3GiScwv9q8VgG6fZ2j1guGOol2vVVdo4GBAWCrcq5RHOqSeipqHBnOu/u024Q==
+  version "1.11.0"
+  resolved "https://registry.yarnpkg.com/luxon/-/luxon-1.11.0.tgz#e0d87e967fb8c1c6d2279d8ca0c55f2ba76ea9f3"
+  integrity sha512-eZRCr3NO83dYOn392giRppz2Z5DVAiHIq3wnt0sKGiTD77v6iscVVH+WAWGPG7A1R7kAVRTK4C0daX/SThEsiQ==
 
 make-dir@^1.0.0, make-dir@^1.3.0:
   version "1.3.0"
@@ -7777,11 +7778,12 @@ node-modules-regexp@^1.0.0:
   integrity sha1-jZ2+KJZKSsVxLpExZCEHxx6Q7EA=
 
 node-notifier@^5.2.1:
-  version "5.3.0"
-  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-5.3.0.tgz#c77a4a7b84038733d5fb351aafd8a268bfe19a01"
-  integrity sha512-AhENzCSGZnZJgBARsUjnQ7DnZbzyP+HxlVXuD0xqAnvL8q+OqtSX7lGg9e8nHzwXkMMXNdVeqq4E2M3EUAqX6Q==
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/node-notifier/-/node-notifier-5.4.0.tgz#7b455fdce9f7de0c63538297354f3db468426e6a"
+  integrity sha512-SUDEb+o71XR5lXSTyivXd9J7fCloE3SyP4lSgt3lU2oSANiox+SxlNRGPjDKrwU1YN3ix2KN/VGGCg0t01rttQ==
   dependencies:
     growly "^1.3.0"
+    is-wsl "^1.1.0"
     semver "^5.5.0"
     shellwords "^0.1.1"
     which "^1.3.0"
