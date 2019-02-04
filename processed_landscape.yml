@@ -1578,7 +1578,7 @@ landscape:
           - item:
             name: TVM
             homepage_url: 'https://tvm.ai/'
-            repo_url: 'https://github.com/dmlc/tvm/'
+            repo_url: 'https://github.com/dmlc/tvm'
             logo: tvm.svg
             twitter: 'https://twitter.com/TVMProject'
             crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
@@ -1595,14 +1595,23 @@ landscape:
               linkedin: 'https://www.linkedin.com/school/university-of-washington/'
               kind: funding
               funding: 79530000
+            github_data:
+              stars: 2783
+              license: Apache License 2.0
+              description: 'Open deep learning compiler stack for cpu, gpu and specialized accelerators'
+              latest_commit_date: '2019-02-03T05:00:00.000Z'
+              latest_commit_link: /dmlc/tvm/commit/3a75b13d663a3bb14e11f5b7fd91980163f9dd75
+              contributors_count: 182
+              contributors_link: 'https://github.com/dmlc/tvm/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /dmlc/tvm/commit/da715a28005d67d7d6593d4c03dc374b06daf5c5
+              start_date: '2016-10-12T22:20:28Z'
             membership_data:
               member: false
             image_data:
               fileName: tvm.svg
               hash: d176wCF+d8PHV3k7i2O4zl52zq7WHYW99naHsB1YuiI=
             best_practice_data:
-              badge: false
-              percentage: null
             twitter_data:
               latest_tweet_date: 2019-02-03T17:27:08.000Z
   - category:
@@ -5339,7 +5348,7 @@ landscape:
           - item:
             name: Colaboratory
             homepage_url: 'https://colab.research.google.com/'
-            repo_url: 'https://github.com/googlecolab/colabtools/'
+            repo_url: 'https://github.com/googlecolab/colabtools'
             logo: colab.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
@@ -5356,6 +5365,17 @@ landscape:
               linkedin: 'https://www.linkedin.com/company/google'
               ticker: GOOG
               kind: market_cap
+            github_data:
+              stars: 311
+              license: Apache License 2.0
+              description: Python libraries for Google Colaboratory
+              latest_commit_date: '2019-02-02T05:00:00.000Z'
+              latest_commit_link: /googlecolab/colabtools/commit/fe99971995c5171d8819fcffb4593f7c7a61c1ef
+              contributors_count: 6
+              contributors_link: 'https://github.com/googlecolab/colabtools/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /googlecolab/colabtools/commit/e70295fa60961fc972d15d61e5550286ca096209
+              start_date: '2017-11-10T18:21:22Z'
             membership_data:
               member: false
             yahoo_finance_data:
@@ -5365,8 +5385,6 @@ landscape:
               fileName: colaboratory.svg
               hash: frEW59is/XdYTYTdhDGLn+h50YrLAls6Q+hLs63mcYw=
             best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: IPython
             homepage_url: 'https://ipython.org/'
