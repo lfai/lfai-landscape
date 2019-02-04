@@ -7,15 +7,12 @@
     "node": ">= 10.5"
   },
   "scripts": {
-    "build": "yarn add interactive-landscape@latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build"
+    "build": "npm install interactive-landscape@latest; npm config set scripts-prepend-node-path true; export PROJECT_PATH=\"$PWD\"; npm explore interactive-landscape -- npm run build"
   },
   "author": "LFDL",
   "license": "Apache-2.0",
   "dependencies": {
     "interactive-landscape": "~1.0.0"
-  },
-  "resolutions": {
-    "terser": "3.14.1"
   },
   "keywords": [],
   "repository": {
