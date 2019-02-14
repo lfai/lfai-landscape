@@ -77,16 +77,23 @@ landscape:
             logo: seldon.svg
             twitter: 'https://twitter.com/seldon_io'
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
-          - item: 
+          - item:
             name: Vowpal Wabbit
-            homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki' 
+            homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki'
             repo_url: 'https://github.com/VowpalWabbit/vowpal_wabbit'
             logo: vowpal-wabbit.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
       - subcategory:
         name: Library
         items:
+          - item:
+            name: CatBoost
+            homepage_url: 'https://catboost.ai'
+            repo_url: 'https://github.com/catboost/catboost'
+            logo: catboost.svg
+            twitter: 'https://twitter.com/catboostml'
+            crunchbase: 'https://www.crunchbase.com/organization/yandex'
           - item:
             name: MLlib
             homepage_url: 'https://spark.apache.org/mllib/'
@@ -94,6 +101,13 @@ landscape:
             logo: mllib.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: mlpack
+            homepage_url: 'http://www.mlpack.org/'
+            repo_url: 'https://github.com/mlpack/mlpack'
+            logo: mlpack.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/georgia-institute-of-technology'
           - item:
             name: Nilearn
             homepage_url: 'https://nilearn.github.io/'
@@ -151,26 +165,12 @@ landscape:
             twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
           - item:
-            name: CatBoost 
-            homepage_url: 'https://catboost.ai'
-            repo_url: 'https://github.com/catboost/catboost'
-            logo: catboost.svg
-            twitter: 'https://twitter.com/catboostml'
-            crunchbase: 'https://www.crunchbase.com/organization/yandex'
-          - item: 
             name: xLearn
-            homepage_url: 'https://xlearn-doc.readthedocs.io/en/latest/index.html' 
+            homepage_url: 'https://xlearn-doc.readthedocs.io/en/latest/index.html'
             repo_url: 'https://github.com/aksnzhy/xlearn'
-            logo: xlearn.svg 
-            twitter: null 
+            logo: xlearn.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/xlearn-open-source-projects'
-          - item: 
-            name: mlpack
-            homepage_url: 'http://www.mlpack.org/'
-            repo_url: 'https://github.com/mlpack/mlpack'
-            logo: mlpack.svg 
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/georgia-institute-of-technology'
   - category:
     name: Deep Learning
     subcategories:
@@ -538,12 +538,12 @@ landscape:
       - subcategory:
         name: Visualization
         items:
-          - item: 
+          - item:
             name: FACETS
             homepage_url: 'https://pair-code.github.io/facets'
             repo_url: 'https://github.com/PAIR-code/facets'
             logo: facets.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: License
