@@ -681,7 +681,7 @@ landscape:
               percentage: null
           - item:
             name: SciKit-learn
-            homepage_url: 'https://scikit-learn.org/'
+            homepage_url: 'https://scikit-learn.org/stable/'
             repo_url: 'https://github.com/scikit-learn/scikit-learn'
             logo: sci-kit-learn.svg
             twitter: ' https://twitter.com/scikit_learn'
@@ -2372,7 +2372,7 @@ landscape:
           - item:
             name: Fuel
             homepage_url: 'https://fuel.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/mila-udem/fuel'
+            repo_url: 'https://github.com/mila-iqia/fuel'
             logo: fuel.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/universit-de-montr-al'
@@ -2393,12 +2393,12 @@ landscape:
               stars: 785
               license: MIT License
               description: A data pipeline framework for machine learning
-              latest_commit_date: '2018-10-31T00:00:00.000Z'
+              latest_commit_date: '2018-10-31T04:00:00.000Z'
               latest_commit_link: /mila-iqia/fuel/commit/1d6292dc25e3a115544237e392e61bff6631d23c
               contributors_count: 32
-              contributors_link: 'https://github.com/mila-udem/fuel/graphs/contributors'
+              contributors_link: 'https://github.com/mila-iqia/fuel/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /mila-udem/fuel/commit/cf3745a84edb33ff1a360c29f260defb425ff980
+              start_commit_link: /mila-iqia/fuel/commit/cf3745a84edb33ff1a360c29f260defb425ff980
               start_date: '2015-02-12T20:42:44Z'
             membership_data:
               member: false
@@ -2657,7 +2657,7 @@ landscape:
               latest_tweet_date: 2019-02-13T18:44:11.000Z
           - item:
             name: Gearpump
-            homepage_url: 'https://gearpump.incubator.apache.org/'
+            homepage_url: 'https://gearpump.incubator.apache.org/overview.html'
             repo_url: 'https://github.com/apache/incubator-gearpump'
             logo: gearpump.svg
             twitter: 'https://twitter.com/apachegearpump'
@@ -2959,7 +2959,7 @@ landscape:
         items:
           - item:
             name: Facets
-            homepage_url: 'https://pair-code.github.io/facets'
+            homepage_url: 'https://pair-code.github.io/facets/'
             repo_url: 'https://github.com/PAIR-code/facets'
             logo: facets.svg
             twitter: null
@@ -3848,7 +3848,7 @@ landscape:
             name: Horovod
             homepage_url: 'https://eng.uber.com/horovod/'
             project: incubating
-            repo_url: 'https://github.com/uber/horovod'
+            repo_url: 'https://github.com/horovod/horovod'
             logo: horovod.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-deep-learning-foundation'
@@ -3864,17 +3864,17 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 5323
+              stars: 5325
               license: Other
               description: 'Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet.'
-              latest_commit_date: '2019-02-07T00:00:00.000Z'
+              latest_commit_date: '2019-02-07T05:00:00.000Z'
               latest_commit_link: /horovod/horovod/commit/f7a24e6860c202c4694a1dded0a5098edd6b4880
               release_date: '2018-11-28T22:41:39Z'
-              release_link: 'https://github.com/uber/horovod/releases'
+              release_link: 'https://github.com/horovod/horovod/releases'
               contributors_count: 35
-              contributors_link: 'https://github.com/uber/horovod/graphs/contributors'
+              contributors_link: 'https://github.com/horovod/horovod/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /uber/horovod/commit/64317537436ae4225a004043acaa37a205a18dc3
+              start_commit_link: /horovod/horovod/commit/64317537436ae4225a004043acaa37a205a18dc3
               start_date: '2017-08-09T19:39:59Z'
             membership_data:
               member: false
@@ -3882,11 +3882,11 @@ landscape:
               fileName: horovod.svg
               hash: StzL9DtwdPgMmus6R2i51l+XvQcbLjExbWlcNNVf914=
             best_practice_data:
-              badge: 2373
-              percentage: 100
+              badge: false
+              percentage: null
           - item:
             name: Ludwig
-            homepage_url: 'http://ludwig.ai/'
+            homepage_url: 'https://uber.github.io/ludwig/?from=%40'
             repo_url: 'https://github.com/uber/ludwig'
             logo: ludwig.svg
             twitter: null
@@ -4852,7 +4852,7 @@ landscape:
           - item:
             name: Pyro
             homepage_url: 'http://pyro.ai/'
-            repo_url: 'https://github.com/uber/pyro'
+            repo_url: 'https://github.com/pyro-ppl/pyro'
             logo: pyro.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
@@ -4873,14 +4873,14 @@ landscape:
               stars: 5010
               license: Other
               description: Deep universal probabilistic programming with Python and PyTorch
-              latest_commit_date: '2019-02-14T00:00:00.000Z'
+              latest_commit_date: '2019-02-14T05:00:00.000Z'
               latest_commit_link: /pyro-ppl/pyro/commit/d58c62e8065df8429224bc086cf6b502f5b0b379
               release_date: '2018-01-10T21:59:12Z'
-              release_link: 'https://github.com/uber/pyro/releases'
+              release_link: 'https://github.com/pyro-ppl/pyro/releases'
               contributors_count: 50
-              contributors_link: 'https://github.com/uber/pyro/graphs/contributors'
+              contributors_link: 'https://github.com/pyro-ppl/pyro/graphs/contributors'
             github_start_commit_data:
-              start_commit_link: /uber/pyro/commit/058fdd38bb0692ad2c8b220dd721c277af755901
+              start_commit_link: /pyro-ppl/pyro/commit/058fdd38bb0692ad2c8b220dd721c277af755901
               start_date: '2017-06-16T05:03:47Z'
             membership_data:
               member: false
@@ -5305,7 +5305,7 @@ landscape:
         items:
           - item:
             name: Apache Toree
-            homepage_url: 'https://toree.apache.org/ '
+            homepage_url: 'https://toree.apache.org'
             repo_url: 'https://github.com/apache/incubator-toree'
             logo: apache-toree.svg
             twitter: null
@@ -5843,7 +5843,7 @@ landscape:
               latest_tweet_date: 2018-07-06T00:07:15.000Z
           - item:
             name: Colaboratory
-            homepage_url: 'https://colab.research.google.com/'
+            homepage_url: 'https://colab.research.google.com/notebooks/welcome.ipynb'
             repo_url: 'https://github.com/googlecolab/colabtools'
             logo: colab.svg
             twitter: null
@@ -6266,7 +6266,7 @@ landscape:
               latest_tweet_date: 2019-02-16T14:37:29.000Z
           - item:
             name: Tencent
-            homepage_url: 'https://www.tencent.com/'
+            homepage_url: 'https://www.tencent.com/zh-cn/index.html'
             stock_ticker: TCEHY
             logo: tencent.svg
             twitter: null
