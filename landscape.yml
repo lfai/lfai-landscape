@@ -32,6 +32,13 @@ landscape:
             repo_url: 'https://github.com/ray-project/ray'
             logo: ray.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
+          - item:
+            name: LightGBM
+            homepage_url: 'https://github.com/Microsoft/LightGBM'
+            repo_url: 'https://github.com/Microsoft/LightGBM'
+            logo: lightgbm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
       - subcategory:
         name: Platform
         items:
@@ -263,6 +270,13 @@ landscape:
             logo: polyaxon.svg
             twitter: 'https://www.twitter.com/polyaxonAI'
             crunchbase: 'https://www.crunchbase.com/organization/polyaxon'
+          - item: 
+            name: DeepDetect 
+            homepage_url: 'https://www.deepdetect.com/'
+            repo_url: 'https://github.com/jolibrain/deepdetect'
+            logo: deepdetect.svg
+            twitter: 'https://twitter.com/jolibrain' 
+            crunchbase: 'https://www.crunchbase.com/organization/jolibrain'
       - subcategory:
         name: Library
         items:
@@ -411,6 +425,13 @@ landscape:
             logo: parquet.svg
             twitter: 'https://twitter.com/apacheparquet'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: AresDB
+            homepage_url: 'https://eng.uber.com/aresdb/'
+            repo_url: 'https://github.com/uber/aresdb'
+            logo: aresdb.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
         name: Pipeline Management
         items:
@@ -494,6 +515,13 @@ landscape:
             logo: apache-samza.svg
             twitter: 'https://twitter.com/samzastream'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: uReplicator
+            homepage_url: 'https://github.com/uber/uReplicator'
+            repo_url: 'https://github.com/uber/uReplicator'
+            logo: ureplicator.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
         name: SQL Engine
         items:
@@ -600,6 +628,13 @@ landscape:
             homepage_url: 'https://github.com/deepmind/trfl'
             repo_url: 'https://github.com/deepmind/trfl'
             logo: trfl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item: 
+            name: PlaNet
+            homepage_url: 'https://planetrl.github.io/'
+            repo_url: 'https://github.com/google-research/planet'
+            logo: planet.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
@@ -723,6 +758,13 @@ landscape:
             logo: petastorm.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item: 
+            name: DSSTNE
+            homepage_url: 'https://github.com/amzn/amazon-dsstne'
+            repo_url: 'https://github.com/amzn/amazon-dsstne'
+            logo: dsstne.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
       - subcategory:
         name: Management
         items:
