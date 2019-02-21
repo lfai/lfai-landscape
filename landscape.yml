@@ -13,6 +13,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
           - item:
+            name: LightGBM
+            homepage_url: 'https://github.com/Microsoft/LightGBM'
+            repo_url: 'https://github.com/Microsoft/LightGBM'
+            logo: lightgbm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+          - item:
             name: Mahout
             homepage_url: 'https://mahout.apache.org/'
             repo_url: 'https://github.com/apache/mahout'
@@ -32,13 +39,6 @@ landscape:
             repo_url: 'https://github.com/ray-project/ray'
             logo: ray.svg
             crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
-          - item:
-            name: LightGBM
-            homepage_url: 'https://github.com/Microsoft/LightGBM'
-            repo_url: 'https://github.com/Microsoft/LightGBM'
-            logo: lightgbm.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
       - subcategory:
         name: Platform
         items:
@@ -250,6 +250,13 @@ landscape:
         name: Platform
         items:
           - item:
+            name: DeepDetect
+            homepage_url: 'https://www.deepdetect.com/'
+            repo_url: 'https://github.com/jolibrain/deepdetect'
+            logo: deepdetect.svg
+            twitter: 'https://twitter.com/jolibrain'
+            crunchbase: 'https://www.crunchbase.com/organization/jolibrain'
+          - item:
             name: FfDL
             homepage_url: 'https://developer.ibm.com/open/projects/fabric-for-deep-learning-ffdl/'
             repo_url: 'https://github.com/IBM/FfDL'
@@ -270,13 +277,6 @@ landscape:
             logo: polyaxon.svg
             twitter: 'https://www.twitter.com/polyaxonAI'
             crunchbase: 'https://www.crunchbase.com/organization/polyaxon'
-          - item: 
-            name: DeepDetect 
-            homepage_url: 'https://www.deepdetect.com/'
-            repo_url: 'https://github.com/jolibrain/deepdetect'
-            logo: deepdetect.svg
-            twitter: 'https://twitter.com/jolibrain' 
-            crunchbase: 'https://www.crunchbase.com/organization/jolibrain'
       - subcategory:
         name: Library
         items:
@@ -384,6 +384,13 @@ landscape:
             twitter: 'https://twitter.com/apacheorc'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: AresDB
+            homepage_url: 'https://eng.uber.com/aresdb/'
+            repo_url: 'https://github.com/uber/aresdb'
+            logo: aresdb.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
             name: Arrow
             homepage_url: 'https://arrow.apache.org/'
             repo_url: 'https://github.com/apache/arrow'
@@ -425,13 +432,6 @@ landscape:
             logo: parquet.svg
             twitter: 'https://twitter.com/apacheparquet'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: AresDB
-            homepage_url: 'https://eng.uber.com/aresdb/'
-            repo_url: 'https://github.com/uber/aresdb'
-            logo: aresdb.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
         name: Pipeline Management
         items:
@@ -520,7 +520,7 @@ landscape:
             homepage_url: 'https://github.com/uber/uReplicator'
             repo_url: 'https://github.com/uber/uReplicator'
             logo: ureplicator.svg
-            twitter: null 
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
       - subcategory:
         name: SQL Engine
@@ -624,17 +624,17 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/openai'
           - item:
-            name: TensorFlow Reinforcement Learning (TRFL)
-            homepage_url: 'https://github.com/deepmind/trfl'
-            repo_url: 'https://github.com/deepmind/trfl'
-            logo: trfl.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item: 
             name: PlaNet
             homepage_url: 'https://planetrl.github.io/'
             repo_url: 'https://github.com/google-research/planet'
             logo: planet.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: TensorFlow Reinforcement Learning (TRFL)
+            homepage_url: 'https://github.com/deepmind/trfl'
+            repo_url: 'https://github.com/deepmind/trfl'
+            logo: trfl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
@@ -730,6 +730,13 @@ landscape:
         name: Training
         items:
           - item:
+            name: DSSTNE
+            homepage_url: 'https://github.com/amzn/amazon-dsstne'
+            repo_url: 'https://github.com/amzn/amazon-dsstne'
+            logo: dsstne.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
+          - item:
             name: Embedded Learning Library
             homepage_url: 'https://microsoft.github.io/ELL/'
             repo_url: 'https://github.com/Microsoft/ELL'
@@ -758,13 +765,6 @@ landscape:
             logo: petastorm.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
-          - item: 
-            name: DSSTNE
-            homepage_url: 'https://github.com/amzn/amazon-dsstne'
-            repo_url: 'https://github.com/amzn/amazon-dsstne'
-            logo: dsstne.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/amazon'
       - subcategory:
         name: Management
         items:
