@@ -138,12 +138,6 @@ Beside that, we have to adjust the width of a parent div (1620), the width in a
 `src/components/BigPicture/FullscreenLandscape.js` (1640) and the width in a
 `tools/renderLandscape.js` (6560, because of x4 zoom and margins)
 
-Serverless has a same approach, files are
-`src/components/BigPicture/ServerlessContent.js`,
-  `src/components/BigPicture/FullscreenServerless.js` and
-  `tools/renderLandscape.js`, with a full width of 3450 (because of x3 zoom and
-      margins)
-
 Sometimes the total height is changed too, then we need to adjust the height the
 same way as we adjust the width.
 
@@ -151,5 +145,4 @@ We have an experimental `fitWidth` property, it is good when you want to get rid
 an extra space on the right of a section.
 
 The best way to test that layout is ok, is to visit `/landscape`, and if it looks ok, run `PORT=3000 babel-node
-tools/renderLandscape` and see the rendered png files, they are in src/images
-folder
+tools/renderLandscape` and see the rendered png files, they are in src/images folder.
