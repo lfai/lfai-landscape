@@ -99,10 +99,10 @@ big_picture:
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
-      height: 730
+      height: 770
     fullscreen_size:
       width: 1155
-      height: 800
+      height: 840
     elements:
       - type: HorizontalCategory
         category: Machine Learning
@@ -178,9 +178,9 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF DL Member Company
-        rows: 4
+        rows: 6
         width: 850
-        height: 160
+        height: 200
         top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
@@ -189,7 +189,7 @@ big_picture:
         category: Distributed Computing
         rows: 4
         width: 245
-        height: 160
+        height: 200
         top: 570
         left: 870
         color: 'rgb(64, 89, 163)'
