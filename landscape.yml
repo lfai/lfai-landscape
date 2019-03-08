@@ -350,7 +350,7 @@ landscape:
     name: Data
     subcategories:
       - subcategory:
-        name: Version Control
+        name: Versionning
         items:
           - item:
             name: DVC
@@ -374,7 +374,7 @@ landscape:
             twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
       - subcategory:
-        name: Store and Format
+        name: Store & Format
         items:
           - item:
             name: Apache ORC
@@ -575,6 +575,15 @@ landscape:
             repo_url: 'https://github.com/LFDLFoundation/CDLA'
             logo: cdla.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'
+      - subcategory:
+        name: Labeling 
+        items:
+          - item:
+            name: Computer Vision Annotation Tool (CVAT)
+            homepage_url: 'https://github.com/opencv/cvat'
+            repo_url: 'https://github.com/opencv/cvat'
+            logo: cvat.svg
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -643,6 +652,13 @@ landscape:
       - subcategory:
         name: Natural Language Processing
         items:
+          - item:
+            name: spaCy
+            homepage_url: 'https://spacy.io'
+            repo_url: 'https://github.com/explosion/spaCy'
+            logo: spacy.svg
+            twitter: 'hhttps://twitter.com/spacy_io'
+            crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
           - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
@@ -1019,6 +1035,13 @@ landscape:
             logo: nauta.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Singularity
+            homepage_url: 'https://www.sylabs.io/'
+            repo_url: 'https://github.com/sylabs/singularity'
+            logo: singularity.svg
+            twitter: 'https://twitter.com/SingularityApp'
+            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
       - subcategory:
         name: Interface
         items:
