@@ -576,7 +576,7 @@ landscape:
             logo: cdla.svg
             crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'
       - subcategory:
-        name: Labeling 
+        name: Labeling
         items:
           - item:
             name: Computer Vision Annotation Tool (CVAT)
@@ -653,13 +653,6 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: spaCy
-            homepage_url: 'https://spacy.io'
-            repo_url: 'https://github.com/explosion/spaCy'
-            logo: spacy.svg
-            twitter: 'hhttps://twitter.com/spacy_io'
-            crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
-          - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
             repo_url: 'https://github.com/allenai/allennlp'
@@ -722,6 +715,13 @@ landscape:
             logo: pytext.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: spaCy
+            homepage_url: 'https://spacy.io'
+            repo_url: 'https://github.com/explosion/spaCy'
+            logo: spacy.svg
+            twitter: 'hhttps://twitter.com/spacy_io'
+            crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
   - category:
     name: Model
     subcategories:
