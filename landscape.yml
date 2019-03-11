@@ -875,6 +875,13 @@ landscape:
         name: Tool
         items:
           - item:
+            name: Datmo
+            homepage_url: 'https://www.datmo.com'
+            repo_url: 'https://github.com/datmo/datmo'
+            logo: datmo.svg
+            twitter: 'https://twitter.com/datmoai'
+            crunchbase: 'https://www.crunchbase.com/organization/datmo'
+          - item:
             name: Neo-AI
             homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
             repo_url: 'https://github.com/neo-ai/neo-ai-dlr'
@@ -888,13 +895,6 @@ landscape:
             logo: netron.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/netron-open-source-project'
-          - item:
-            name: Datmo
-            homepage_url: 'https://www.datmo.com'
-            repo_url: 'https://github.com/datmo/datmo'
-            logo: datmo.svg
-            twitter: 'https://twitter.com/datmoai'
-            crunchbase: 'https://www.crunchbase.com/organization/datmo'
           - item:
             name: Pipeline.ai
             homepage_url: 'https://pipeline.ai/'
