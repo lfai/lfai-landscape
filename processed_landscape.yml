@@ -152,7 +152,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 5338
+              stars: 5339
               license: MIT License
               description: ML.NET is an open source and cross-platform machine learning framework for .NET.
               latest_commit_date: '2019-03-14T00:00:00.000Z'
@@ -193,7 +193,7 @@ landscape:
               kind: funding
               funding: 66500000
             github_data:
-              stars: 6187
+              stars: 6188
               license: Apache License 2.0
               description: A system for parallel and distributed Python that unifies the ML ecosystem.
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -325,7 +325,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 6205
+              stars: 6206
               license: Apache License 2.0
               description: Machine Learning Toolkit for Kubernetes
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -589,7 +589,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 20915
+              stars: 20914
               license: Apache License 2.0
               description: Apache Spark
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -1132,7 +1132,7 @@ landscape:
               license: MIT License
               description: A flexible framework of neural networks for deep learning
               latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /chainer/chainer/commit/bc690880171763a50ccf76842ec37dc83ba7433c
+              latest_commit_link: /chainer/chainer/commit/401818529824cc713313ae80da13b5049bd6894a
               contributors_count: 212
               contributors_link: 'https://github.com/chainer/chainer/graphs/contributors'
             github_start_commit_data:
@@ -1252,7 +1252,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 16488
+              stars: 16489
               license: Apache License 2.0
               description: >-
                 Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia,
@@ -1337,7 +1337,7 @@ landscape:
               twitter: 'https://twitter.com/pytorch'
               linkedin: null
             github_data:
-              stars: 25738
+              stars: 25739
               license: Other
               description: Tensors and Dynamic neural networks in Python  with strong GPU acceleration
               latest_commit_date: '2019-03-14T00:00:00.000Z'
@@ -1384,7 +1384,7 @@ landscape:
               license: Apache License 2.0
               description: An Open Source Machine Learning Framework for Everyone
               latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /tensorflow/tensorflow/commit/50713af4c39f0740e0cf4cea56bdff2b2347f540
+              latest_commit_link: /tensorflow/tensorflow/commit/fe9d5075d4c71e701f1acbe2cc267b1165d8cedd
               contributors_count: 1880
               contributors_link: 'https://github.com/tensorflow/tensorflow/graphs/contributors'
             github_start_commit_data:
@@ -1553,8 +1553,8 @@ landscape:
               stars: 1858
               license: Mozilla Public License 2.0
               description: A platform for reproducible and scalable machine learning and deep learning on kubernetes
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /polyaxon/polyaxon/commit/0645c6660049bfcf21a1bb6058e163bee4b803c8
+              latest_commit_date: '2019-03-14T00:00:00.000Z'
+              latest_commit_link: /polyaxon/polyaxon/commit/3ac1fe17d74aa6b6f63227f55c827f3c04b7b91f
               release_date: '2019-02-28T23:35:14Z'
               release_link: 'https://github.com/polyaxon/polyaxon/releases'
               contributors_count: 29
@@ -1716,7 +1716,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 39023
+              stars: 39024
               license: Other
               description: Deep Learning for humans
               latest_commit_date: '2019-03-12T00:00:00.000Z'
@@ -1735,7 +1735,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-13T19:39:29.000Z
+              latest_tweet_date: 2019-03-14T00:42:53.000Z
           - item:
             name: PySyft
             homepage_url: 'https://github.com/OpenMined/PySyft'
@@ -1934,7 +1934,7 @@ landscape:
               kind: funding
               funding: 79530000
             github_data:
-              stars: 3004
+              stars: 3005
               license: Apache License 2.0
               description: 'Open deep learning compiler stack for cpu, gpu and specialized accelerators'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -1982,8 +1982,8 @@ landscape:
               stars: 2262
               license: Apache License 2.0
               description: '⚡️Data & models versioning for ML projects, make them shareable and reproducible'
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /iterative/dvc/commit/fc81ea10f55289dc7280e9de6f4dcdf4a586eaa9
+              latest_commit_date: '2019-03-14T00:00:00.000Z'
+              latest_commit_link: /iterative/dvc/commit/fdf2b1c01635bbe30f5c3a0bbca0bfa135d2ecb5
               contributors_count: 34
               contributors_link: 'https://github.com/iterative/dvc/graphs/contributors'
             github_start_commit_data:
@@ -2185,15 +2185,15 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 3487
+              stars: 3488
               license: Apache License 2.0
               description: >-
                 Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory
                 format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries
                 and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and
                 Ruby.
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /apache/arrow/commit/92433c8ad3d38aa54f682e4abbdf20ac2cb8a281
+              latest_commit_date: '2019-03-14T00:00:00.000Z'
+              latest_commit_link: /apache/arrow/commit/34c6ffe20c3682d88a4d997ba13c0d9cbde8939f
               release_date: '2019-02-21T13:17:46Z'
               release_link: 'https://github.com/apache/arrow/releases'
               contributors_count: 264
@@ -2308,7 +2308,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 7692
+              stars: 7693
               license: Apache License 2.0
               description: Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -2479,8 +2479,8 @@ landscape:
               stars: 2625
               license: Apache License 2.0
               description: Apache Beam
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /apache/beam/commit/d7ea7aa73ab85af488a0b327e12dbe2ef6fb0933
+              latest_commit_date: '2019-03-14T00:00:00.000Z'
+              latest_commit_link: /apache/beam/commit/0fa4e20dfb1cee76a71021f82ce0729debf8f2b8
               release_date: '2019-03-01T17:21:59Z'
               release_link: 'https://github.com/apache/beam/releases'
               contributors_count: 401
@@ -3369,7 +3369,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 7570
+              stars: 7571
               license: Apache License 2.0
               description: 'Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. '
               latest_commit_date: '2019-02-15T00:00:00.000Z'
@@ -3455,7 +3455,7 @@ landscape:
               kind: funding
               funding: 120000
             github_data:
-              stars: 15835
+              stars: 15836
               license: Other
               description: A toolkit for developing and comparing reinforcement learning algorithms.
               latest_commit_date: '2019-03-12T00:00:00.000Z'
@@ -3584,7 +3584,7 @@ landscape:
               twitter: 'https://www.twitter.com/allen_ai'
               linkedin: 'https://www.linkedin.com/company/allen-institute-for-artificial-intelligence'
             github_data:
-              stars: 5607
+              stars: 5608
               license: Apache License 2.0
               description: 'An open-source NLP research library, built on PyTorch.'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -3873,7 +3873,7 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 4257
+              stars: 4258
               license: MIT License
               description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -5083,7 +5083,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 1849
+              stars: 1850
               license: MIT License
               description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
               latest_commit_date: '2019-02-26T00:00:00.000Z'
@@ -5530,11 +5530,11 @@ landscape:
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
             github_data:
-              stars: 49477
+              stars: 49478
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/118e33dfcd8bf052f34d9a922145ab5f97e6a354
+              latest_commit_date: '2019-03-14T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/897d62ace79a8fa72f9825e065b2b67fdba65bec
               release_date: '2019-02-28T13:29:36Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
               contributors_count: 2048
@@ -5634,7 +5634,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-12T22:37:01.000Z
+              latest_tweet_date: 2019-03-14T01:07:35.000Z
       - subcategory:
         name: Interface
         items:
@@ -6028,7 +6028,7 @@ landscape:
               kind: funding
               funding: 79530000
             github_data:
-              stars: 5381
+              stars: 5382
               license: BSD 2-Clause "Simplified" License
               description: 'Lime: Explaining the predictions of any machine learning classifier'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -6415,7 +6415,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-13T19:44:01.000Z
+              latest_tweet_date: 2019-03-14T01:08:28.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
