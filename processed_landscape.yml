@@ -1916,21 +1916,19 @@ landscape:
             homepage_url: 'https://tvm.ai/'
             repo_url: 'https://github.com/dmlc/tvm'
             logo: tvm.svg
-            twitter: 'https://twitter.com/TVMProject'
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
+            twitter: 'https://twitter.com/ApacheTVM'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
-              name: University of Washington
-              description: 'University of Washington is an educational institution that provides undergraduate, graduate, and research programs.'
-              num_employees_min: null
-              num_employees_max: null
-              homepage: 'http://www.washington.edu/'
-              city: Seattle
-              region: Washington
+              name: Apache Software Foundation
+              description: 'Apache Software Foundation provides organizational, legal and financial support for Apache open-source software projects.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'http://www.apache.org'
+              city: Forest Hill
+              region: Maryland
               country: United States
-              twitter: 'https://twitter.com/UW'
-              linkedin: 'https://www.linkedin.com/school/university-of-washington/'
-              kind: funding
-              funding: 79530000
+              twitter: 'http://twitter.com/TheASF'
+              linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
               stars: 3037
               license: Apache License 2.0
@@ -1951,7 +1949,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-16T06:17:14.000Z
+              latest_tweet_date: 2019-03-18T16:55:59.000Z
   - category:
     name: Data
     subcategories:
@@ -4188,7 +4186,7 @@ landscape:
               percentage: null
           - item:
             name: Ludwig
-            homepage_url: 'https://uber.github.io/ludwig/?from=%40'
+            homepage_url: 'https://uber.github.io/ludwig/'
             repo_url: 'https://github.com/uber/ludwig'
             logo: ludwig.svg
             twitter: null
