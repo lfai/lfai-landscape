@@ -25,12 +25,12 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 3325
+              stars: 3329
               license: Other
               description: 'Machine learning, computer vision, statistics and general scientific computing for .NET'
-              latest_commit_date: '2018-07-10T00:00:00.000Z'
-              latest_commit_link: /accord-net/framework/commit/1b3bd76cd9c37b3c3055df16238862c4918889e1
-              contributors_count: 62
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /accord-net/framework/commit/f38e49bc05385cbbbf28e11256519c14e3ea3636
+              contributors_count: 68
               contributors_link: 'https://github.com/accord-net/framework/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /accord-net/framework/commit/5e834efc89c071bb32c84f41124d5c9a5bbfe1e3
@@ -64,14 +64,14 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 8023
+              stars: 8037
               license: MIT License
               description: >-
                 A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking,
                 classification and many other machine learning tasks. It is under the umbrella of the DMTK(http://github.com/microsoft/dmtk) project of
                 Microsoft.
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /Microsoft/LightGBM/commit/95246cdaec4feb739f3725e3d0fbf2efeb37bc85
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /Microsoft/LightGBM/commit/babe8b313aad747899a3199fba7bc3eae10e582a
               release_date: '2019-02-05T00:31:12Z'
               release_link: 'https://github.com/Microsoft/LightGBM/releases'
               contributors_count: 112
@@ -82,7 +82,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: light-gbm.svg
@@ -152,11 +152,11 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 5360
+              stars: 5368
               license: MIT License
               description: ML.NET is an open source and cross-platform machine learning framework for .NET.
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /dotnet/machinelearning/commit/87ede9ef39c10b8511fc7f14f97d1250bbd2b951
+              latest_commit_date: '2019-03-19T00:00:00.000Z'
+              latest_commit_link: /dotnet/machinelearning/commit/02524a7680f89746e8382dd32b07d416412f4850
               contributors_count: 103
               contributors_link: 'https://github.com/dotnet/machinelearning/graphs/contributors'
             github_start_commit_data:
@@ -165,7 +165,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: ml-net.svg
@@ -193,11 +193,11 @@ landscape:
               kind: funding
               funding: 66500000
             github_data:
-              stars: 6235
+              stars: 6246
               license: Apache License 2.0
               description: A system for parallel and distributed Python that unifies the ML ecosystem.
               latest_commit_date: '2019-03-18T00:00:00.000Z'
-              latest_commit_link: /ray-project/ray/commit/27cd6ea40171f8d01e516c95d9f010405d3bfd12
+              latest_commit_link: /ray-project/ray/commit/3b141b26cd4af491b3c1fb8ce4dbb00265246b1e
               release_date: '2018-08-28T23:52:17Z'
               release_link: 'https://github.com/ray-project/ray/releases'
               contributors_count: 137
@@ -214,7 +214,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-18T00:56:31.000Z
+              latest_tweet_date: 2019-03-18T23:36:00.000Z
       - subcategory:
         name: Platform
         items:
@@ -280,14 +280,14 @@ landscape:
               kind: funding
               funding: 73600000
             github_data:
-              stars: 3876
+              stars: 3875
               license: Apache License 2.0
               description: >-
                 Open Source Fast Scalable Machine Learning Platform For Smarter Applications (Deep Learning, Gradient Boosting, Random Forest, Generalized
                 Linear Modeling (Logistic Regression, Elastic Net), K-Means, PCA, Stacked Ensembles, Automatic Machine Learning (AutoML), ...)
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /h2oai/h2o-3/commit/f573b694968c6ae2ba9f097e6fb9e117746b570a
-              release_date: '2019-03-17T07:07:06Z'
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /h2oai/h2o-3/commit/2ab97efd79aa8fb5cc7d71e502c451e624f2cb53
+              release_date: '2019-03-18T07:03:06Z'
               release_link: 'https://github.com/h2oai/h2o-3/releases'
               contributors_count: 117
               contributors_link: 'https://github.com/h2oai/h2o-3/graphs/contributors'
@@ -303,7 +303,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T21:47:12.000Z
+              latest_tweet_date: 2019-03-19T00:20:59.000Z
           - item:
             name: Kubeflow
             homepage_url: 'https://www.kubeflow.org/'
@@ -325,11 +325,11 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 6230
+              stars: 6243
               license: Apache License 2.0
               description: Machine Learning Toolkit for Kubernetes
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /kubeflow/kubeflow/commit/e78c2705683907a91abb2f731beac74b14cda33f
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /kubeflow/kubeflow/commit/e8af8e5c15b4043ea218d40f53a4f6315d5a58cd
               release_date: '2019-01-15T00:15:01Z'
               release_link: 'https://github.com/kubeflow/kubeflow/releases'
               contributors_count: 143
@@ -340,7 +340,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: kubeflow.svg
@@ -371,11 +371,11 @@ landscape:
               kind: funding
               funding: 497000000
             github_data:
-              stars: 3286
+              stars: 3291
               license: Apache License 2.0
               description: Open source platform for the machine learning lifecycle
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /mlflow/mlflow/commit/834eba56b33434458a697845f9a421a82e93d882
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /mlflow/mlflow/commit/1b03acca64a0a6ead65d7fd8e54222804d90f9e1
               release_date: '2018-10-01T22:51:31Z'
               release_link: 'https://github.com/mlflow/mlflow/releases'
               contributors_count: 78
@@ -410,7 +410,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 11689
+              stars: 11692
               license: Apache License 2.0
               description: 'PredictionIO, a machine learning server for developers and ML engineers.'
               latest_commit_date: '2019-03-12T00:00:00.000Z'
@@ -453,11 +453,11 @@ landscape:
               kind: funding
               funding: 4279681
             github_data:
-              stars: 793
+              stars: 795
               license: Apache License 2.0
               description: Machine Learning Deployment for Kubernetes
-              latest_commit_date: '2019-03-13T00:00:00.000Z'
-              latest_commit_link: /SeldonIO/seldon-core/commit/fe570bf953c9b42490a6da70bf6a2fde31dd8145
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /SeldonIO/seldon-core/commit/2d68062a70eda15478dd6b48382bfd218724c058
               contributors_count: 18
               contributors_link: 'https://github.com/SeldonIO/seldon-core/graphs/contributors'
             github_start_commit_data:
@@ -472,7 +472,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T14:39:26.000Z
+              latest_tweet_date: 2019-03-18T16:10:45.000Z
           - item:
             name: Vowpal Wabbit
             homepage_url: 'https://github.com/VowpalWabbit/vowpal_wabbit/wiki'
@@ -494,13 +494,13 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 6166
+              stars: 6169
               license: Other
               description: >-
                 Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce,
                 reductions, learning2search, active, and interactive learning.
-              latest_commit_date: '2019-03-12T00:00:00.000Z'
-              latest_commit_link: /VowpalWabbit/vowpal_wabbit/commit/eb63f84a6c99e9e98a221189912babd236f14d89
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /VowpalWabbit/vowpal_wabbit/commit/f0912e228f2892a7a473e278b2f6877a89ed38bb
               release_date: '2019-02-05T18:05:24Z'
               release_link: 'https://github.com/VowpalWabbit/vowpal_wabbit/releases'
               contributors_count: 160
@@ -511,7 +511,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: vowpal-wabbit.svg
@@ -543,13 +543,13 @@ landscape:
               ticker: YNDX
               kind: market_cap
             github_data:
-              stars: 3793
+              stars: 3796
               license: Apache License 2.0
               description: >-
                 A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine
                 learning tasks for Python, R, Java, C++. Supports computation on CPU and GPU.
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /catboost/catboost/commit/9d3e8666aeb4bae636aa4c017fd52b0efce8a6f0
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /catboost/catboost/commit/0462ffc5fad1ea010e09dcdc6538536870b31b6e
               contributors_count: 102
               contributors_link: 'https://github.com/catboost/catboost/graphs/contributors'
             github_start_commit_data:
@@ -558,7 +558,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 11683677184
+              market_cap: 11680431104
               effective_ticker: YNDX
             image_data:
               fileName: cat-boost.svg
@@ -587,11 +587,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 20978
+              stars: 20991
               license: Apache License 2.0
               description: Apache Spark
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /apache/spark/commit/f9180f8752b7cddec463faf82cdb09af707ae402
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/spark/commit/5564fe51513f725d2526dbf9e25a2f2c40d19afc
               release_date: '2019-03-10T06:33:54Z'
               release_link: 'https://github.com/apache/spark/releases'
               contributors_count: 1350
@@ -628,7 +628,7 @@ landscape:
               kind: funding
               funding: 600000
             github_data:
-              stars: 2700
+              stars: 2701
               license: Other
               description: 'mlpack: a scalable C++ machine learning library -- '
               latest_commit_date: '2019-03-15T00:00:00.000Z'
@@ -706,7 +706,7 @@ landscape:
               kind: funding
               funding: 55997
             github_data:
-              stars: 600
+              stars: 601
               license: GNU Lesser General Public License v3.0
               description: OpenNN - Open Neural Networks Library
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -745,11 +745,11 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 33883
+              stars: 33912
               license: Other
               description: 'scikit-learn: machine learning in Python'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /scikit-learn/scikit-learn/commit/eaca1729bd2a1d252e17872c8c3c673dd941f903
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /scikit-learn/scikit-learn/commit/c6c10aa31a3607ec22ad64e4d44d09b1367ab2af
               release_date: '2018-08-29T14:04:43Z'
               release_link: 'https://github.com/scikit-learn/scikit-learn/releases'
               contributors_count: 1275
@@ -786,7 +786,7 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 2375
+              stars: 2377
               license: BSD 3-Clause "New" or "Revised" License
               description: Shōgun
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -829,7 +829,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 7418
+              stars: 7422
               license: Apache License 2.0
               description: TensorFlow-based neural network library
               latest_commit_date: '2019-02-26T00:00:00.000Z'
@@ -844,7 +844,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: sonnet.svg
@@ -873,7 +873,7 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 1432
+              stars: 1433
               license: Apache License 2.0
               description: A domain specific language to express machine learning workloads.
               latest_commit_date: '2018-08-31T00:00:00.000Z'
@@ -886,7 +886,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: tensor-comprehensions.svg
@@ -930,7 +930,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124524208128
+              market_cap: 124863447040
               effective_ticker: CRM
             image_data:
               fileName: transmogrif-ai.svg
@@ -957,13 +957,13 @@ landscape:
               twitter: 'https://twitter.com/XGBoostProject'
               linkedin: null
             github_data:
-              stars: 15161
+              stars: 15172
               license: Apache License 2.0
               description: >-
                 Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single
                 machine, Hadoop, Spark, Flink and DataFlow
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /dmlc/xgboost/commit/29a1356669cb3c3ca2a6b22bced5047912072804
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /dmlc/xgboost/commit/359ed9c5bc8b83f6b5d6c10e130d07d4886c9fec
               contributors_count: 347
               contributors_link: 'https://github.com/dmlc/xgboost/graphs/contributors'
             github_start_commit_data:
@@ -998,7 +998,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 2211
+              stars: 2217
               license: Apache License 2.0
               description: >-
                 High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and
@@ -1043,7 +1043,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 1674
+              stars: 1659
               license: Apache License 2.0
               description: Mirror of Apache Singa (Incubating)
               latest_commit_date: '2019-03-15T00:00:00.000Z'
@@ -1085,7 +1085,7 @@ landscape:
               kind: funding
               funding: 66500000
             github_data:
-              stars: 27421
+              stars: 27453
               license: Other
               description: 'Caffe: a fast open framework for deep learning.'
               latest_commit_date: '2019-03-02T00:00:00.000Z'
@@ -1104,7 +1104,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-18T00:56:31.000Z
+              latest_tweet_date: 2019-03-18T23:36:00.000Z
           - item:
             name: Chainer
             homepage_url: 'https://chainer.org/'
@@ -1129,8 +1129,8 @@ landscape:
               stars: 4651
               license: MIT License
               description: A flexible framework of neural networks for deep learning
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /chainer/chainer/commit/3888a80f53e067c8e284f0feed3399f2e89a1e21
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /chainer/chainer/commit/51335fe1e22169ea1865122bb8ffbe26a9f1714d
               contributors_count: 213
               contributors_link: 'https://github.com/chainer/chainer/graphs/contributors'
             github_start_commit_data:
@@ -1167,7 +1167,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 15910
+              stars: 15909
               license: Other
               description: 'Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit'
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -1182,7 +1182,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: cntk.svg
@@ -1213,7 +1213,7 @@ landscape:
               kind: funding
               funding: 288499844
             github_data:
-              stars: 2704
+              stars: 2707
               license: Apache License 2.0
               description: 'DyNet: The Dynamic Neural Network Toolkit'
               latest_commit_date: '2019-03-08T00:00:00.000Z'
@@ -1250,13 +1250,13 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 16500
+              stars: 16504
               license: Apache License 2.0
               description: >-
                 Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia,
                 Scala, Go, Javascript and more
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /apache/incubator-mxnet/commit/020e832d66ce3d60a19760004d48d17b0fecaea3
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/incubator-mxnet/commit/3ab1decd56563e20fefb5f3f8893abbab26f9cbf
               contributors_count: 677
               contributors_link: 'https://github.com/apache/incubator-mxnet/graphs/contributors'
             github_start_commit_data:
@@ -1293,7 +1293,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 3739
+              stars: 3740
               license: Apache License 2.0
               description: Intel® Nervana™ reference deep learning framework committed to best performance on all hardware
               latest_commit_date: '2018-02-09T00:00:00.000Z'
@@ -1308,7 +1308,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: neon.svg
@@ -1335,11 +1335,11 @@ landscape:
               twitter: 'https://twitter.com/pytorch'
               linkedin: null
             github_data:
-              stars: 25868
+              stars: 25903
               license: Other
               description: Tensors and Dynamic neural networks in Python  with strong GPU acceleration
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /pytorch/pytorch/commit/fe22871b49ad0402b511bd21bce5dfc0eb7caa21
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /pytorch/pytorch/commit/87b6cbb6fdec3789a409b02665e731ba67b4377c
               release_date: '2018-10-02T04:54:52Z'
               release_link: 'https://github.com/pytorch/pytorch/releases'
               contributors_count: 971
@@ -1378,12 +1378,12 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 123108
+              stars: 123207
               license: Apache License 2.0
               description: An Open Source Machine Learning Framework for Everyone
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /tensorflow/tensorflow/commit/e3ea52501e947c4df95a6623ca9c7f625230f634
-              contributors_count: 1884
+              latest_commit_date: '2019-03-19T00:00:00.000Z'
+              latest_commit_link: /tensorflow/tensorflow/commit/9c234792c05fb3ce587a8f24e2384bee66e6fd0a
+              contributors_count: 1886
               contributors_link: 'https://github.com/tensorflow/tensorflow/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /tensorflow/tensorflow/commit/f41959ccb2d9d4c722fe8fc3351401d53bcf4900
@@ -1391,7 +1391,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: tensorflow.svg
@@ -1400,7 +1400,7 @@ landscape:
               badge: 1486
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-03-15T17:56:11.000Z
+              latest_tweet_date: 2019-03-18T18:59:48.000Z
       - subcategory:
         name: Platform
         items:
@@ -1423,7 +1423,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 1826
+              stars: 1827
               license: Other
               description: 'Deep Learning API and Server in C++11 support for Caffe, Caffe2, Dlib, Tensorflow, XGBoost and TSNE'
               latest_commit_date: '2019-03-14T00:00:00.000Z'
@@ -1479,7 +1479,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124074008576
+              market_cap: 124768116736
               effective_ticker: IBM
             image_data:
               fileName: ff-dl.svg
@@ -1508,11 +1508,11 @@ landscape:
               ticker: BIDU
               kind: market_cap
             github_data:
-              stars: 8275
+              stars: 8283
               license: Apache License 2.0
               description: PArallel Distributed Deep LEarning （PaddlePaddle核心框架，高性能单机、分布式训练和跨平台部署）
               latest_commit_date: '2019-03-18T00:00:00.000Z'
-              latest_commit_link: /PaddlePaddle/Paddle/commit/7458114b5b0919b26da56396dd30c1f2443bbd9a
+              latest_commit_link: /PaddlePaddle/Paddle/commit/6429d2a88723dc810749ae405a5f981db26540a7
               contributors_count: 184
               contributors_link: 'https://github.com/PaddlePaddle/Paddle/graphs/contributors'
             github_start_commit_data:
@@ -1521,7 +1521,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 59559743488
+              market_cap: 59800805376
               effective_ticker: BIDU
             image_data:
               fileName: paddle-paddle.svg
@@ -1548,11 +1548,11 @@ landscape:
               twitter: 'https://www.twitter.com/polyaxonai'
               linkedin: 'https://www.linkedin.com/company/polyaxon/'
             github_data:
-              stars: 1868
+              stars: 1871
               license: Mozilla Public License 2.0
               description: A platform for reproducible and scalable machine learning and deep learning on kubernetes
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /polyaxon/polyaxon/commit/cd690ff02d2eabd303d2714b23e6be8900b31c55
+              latest_commit_date: '2019-03-19T00:00:00.000Z'
+              latest_commit_link: /polyaxon/polyaxon/commit/199c7adf6371e9aec85afba1f00219ea653c4b86
               release_date: '2019-02-28T23:35:14Z'
               release_link: 'https://github.com/polyaxon/polyaxon/releases'
               contributors_count: 29
@@ -1597,8 +1597,8 @@ landscape:
               stars: 2818
               license: Apache License 2.0
               description: 'BigDL: Distributed Deep Learning Library for Apache Spark'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /intel-analytics/BigDL/commit/e624ef0517524ffb441058c5e51b3d7be8af8dc3
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /intel-analytics/BigDL/commit/7293ec238869ad9e0b868efc67258468822a5023
               release_date: '2017-04-07T03:44:36Z'
               release_link: 'https://github.com/intel-analytics/BigDL/releases'
               contributors_count: 57
@@ -1609,7 +1609,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: big-dl.svg
@@ -1636,11 +1636,11 @@ landscape:
               twitter: 'http://twitter.com/EclipseFdn'
               linkedin: 'https://www.linkedin.com/company/eclipse-foundation'
             github_data:
-              stars: 10491
+              stars: 10497
               license: Apache License 2.0
               description: 'Deeplearning4j, ND4J, DataVec and more - deep learning & linear algebra for Java/Scala with GPUs + Spark'
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /deeplearning4j/deeplearning4j/commit/9aad4bfa95f0558fa236853a22b2e3c0803a2fb4
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /deeplearning4j/deeplearning4j/commit/3b9d8968f0efe594fdef309714a17d05424f026a
               release_date: '2018-11-06T02:37:56Z'
               release_link: 'https://github.com/deeplearning4j/deeplearning4j/releases'
               contributors_count: 248
@@ -1714,11 +1714,11 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 39138
+              stars: 39173
               license: Other
               description: Deep Learning for humans
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /keras-team/keras/commit/28ee86a51fa628f65a62d077e8dd9b7099b1749b
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /keras-team/keras/commit/f0eb8d538c82798944346b4b2df917a06bf5e9d4
               contributors_count: 783
               contributors_link: 'https://github.com/keras-team/keras/graphs/contributors'
             github_start_commit_data:
@@ -1733,7 +1733,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T06:06:38.000Z
+              latest_tweet_date: 2019-03-18T21:47:18.000Z
           - item:
             name: PySyft
             homepage_url: 'https://github.com/OpenMined/PySyft'
@@ -1754,14 +1754,14 @@ landscape:
               twitter: 'https://twitter.com/openminedorg'
               linkedin: null
             github_data:
-              stars: 2805
+              stars: 2808
               license: Unknown License
               description: 'A library for encrypted, privacy preserving deep learning'
-              latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /OpenMined/PySyft/commit/083d0d8c5e9efe96950ef49762a2c9f5cbc357df
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /OpenMined/PySyft/commit/b7731f32ee02c6fc5eeadf9c9ee9bf5601cc455f
               release_date: '2017-09-02T19:49:52Z'
               release_link: 'https://github.com/OpenMined/PySyft/releases'
-              contributors_count: 146
+              contributors_count: 147
               contributors_link: 'https://github.com/OpenMined/PySyft/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /OpenMined/PySyft/commit/5857bbfc9b56564adfc7f0d88af0b2f3ec6ec3b4
@@ -1800,7 +1800,7 @@ landscape:
               ticker: BIDU
               kind: market_cap
             github_data:
-              stars: 755
+              stars: 759
               license: Apache License 2.0
               description: Benchmarking Deep Learning operations on different hardware
               latest_commit_date: '2018-11-05T00:00:00.000Z'
@@ -1813,7 +1813,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 59559743488
+              market_cap: 59800805376
               effective_ticker: BIDU
             image_data:
               fileName: deep-bench.svg
@@ -1842,7 +1842,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 1505
+              stars: 1514
               license: Apache License 2.0
               description: 'Neural Network Distiller by Intel AI Lab: a Python package for neural network compression research.  https://nervanasystems.github.io/distiller'
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -1857,7 +1857,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: neural-network-distiller.svg
@@ -1886,7 +1886,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 1965
+              stars: 1966
               license: Apache License 2.0
               description: PlaidML is a framework for making deep learning work everywhere.
               latest_commit_date: '2019-02-05T00:00:00.000Z'
@@ -1901,7 +1901,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: plaid-ml.svg
@@ -1910,7 +1910,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-01T18:37:56.000Z
+              latest_tweet_date: 2019-03-18T16:19:53.000Z
           - item:
             name: TVM
             homepage_url: 'https://tvm.ai/'
@@ -1932,11 +1932,11 @@ landscape:
               kind: funding
               funding: 79530000
             github_data:
-              stars: 3025
+              stars: 3037
               license: Apache License 2.0
               description: 'Open deep learning compiler stack for cpu, gpu and specialized accelerators'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /dmlc/tvm/commit/011f0b6609e40e02bd57f2281c62cd8f1e21b540
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /dmlc/tvm/commit/5a8ab8fe1e05a9b01f509e8391a0e0d7263c3e9c
               contributors_count: 189
               contributors_link: 'https://github.com/dmlc/tvm/graphs/contributors'
             github_start_commit_data:
@@ -1977,11 +1977,11 @@ landscape:
               twitter: 'http://twitter.com/iterativeteam'
               linkedin: 'https://www.linkedin.com/company/3315146'
             github_data:
-              stars: 2287
+              stars: 2301
               license: Apache License 2.0
               description: '⚡️Data & models versioning for ML projects, make them shareable and reproducible'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /iterative/dvc/commit/a54eaeb59ebb9af56aac0b3eca6c9f99fbaa6cf8
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /iterative/dvc/commit/e1346a8a3603d0fb858abc4e6f53c1a0622cff66
               contributors_count: 35
               contributors_link: 'https://github.com/iterative/dvc/graphs/contributors'
             github_start_commit_data:
@@ -2018,11 +2018,11 @@ landscape:
               kind: funding
               funding: 12120000
             github_data:
-              stars: 3530
+              stars: 3533
               license: Apache License 2.0
               description: Reproducible Data Science at Scale!
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /pachyderm/pachyderm/commit/49ef074af4f564322377571b8e45c9bb49595359
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /pachyderm/pachyderm/commit/601b721412655ecc1fc4ada07141fe40673f4b5d
               release_date: '2019-02-19T22:17:01Z'
               release_link: 'https://github.com/pachyderm/pachyderm/releases'
               contributors_count: 85
@@ -2080,7 +2080,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-14T17:23:47.000Z
+              latest_tweet_date: 2019-03-18T18:04:58.000Z
       - subcategory:
         name: Store & Format
         items:
@@ -2103,14 +2103,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 216
+              stars: 217
               license: Apache License 2.0
               description: Mirror of Apache Orc
-              latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /apache/orc/commit/47a490f083bd411bf04bfed8131eef42606d7789
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/orc/commit/04fad167e3f5ad74c52fb4bfe3f7e4cfa7bb1a7a
               release_date: '2019-03-14T18:43:27Z'
               release_link: 'https://github.com/apache/orc/releases'
-              contributors_count: 43
+              contributors_count: 44
               contributors_link: 'https://github.com/apache/orc/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/orc/commit/dff9270e1af2454a4eb16f5c8daef8f1188dfbd8
@@ -2146,7 +2146,7 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 1811
+              stars: 1813
               license: Apache License 2.0
               description: 'A GPU-powered real-time analytics storage and query engine. '
               latest_commit_date: '2019-03-15T00:00:00.000Z'
@@ -2183,7 +2183,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 3514
+              stars: 3515
               license: Apache License 2.0
               description: >-
                 Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory
@@ -2191,10 +2191,10 @@ landscape:
                 and zero-copy streaming messaging and interprocess communication. Languages currently supported include C, C++, Java, JavaScript, Python, and
                 Ruby.
               latest_commit_date: '2019-03-18T00:00:00.000Z'
-              latest_commit_link: /apache/arrow/commit/fd0b90a7f7e65fde32af04c4746004a1240914cf
+              latest_commit_link: /apache/arrow/commit/816c10d030842a1a0da4d00f95a5e3749c86a74f
               release_date: '2019-02-21T13:17:46Z'
               release_link: 'https://github.com/apache/arrow/releases'
-              contributors_count: 266
+              contributors_count: 267
               contributors_link: 'https://github.com/apache/arrow/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/arrow/commit/d5aa7c46692474376a3c31704cfc4783c86338f2
@@ -2228,11 +2228,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 1155
+              stars: 1156
               license: Apache License 2.0
               description: Apache Avro
-              latest_commit_date: '2019-03-12T00:00:00.000Z'
-              latest_commit_link: /apache/avro/commit/46485b555dc16b38be59aa8e777aaecf74185fab
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/avro/commit/1119b6eb5b92730b27e9798793bc67f192591c15
               release_date: '2017-05-14T22:38:50Z'
               release_link: 'https://github.com/apache/avro/releases'
               contributors_count: 103
@@ -2267,7 +2267,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 3074
+              stars: 3075
               license: MIT License
               description: A consistent distributed data store.
               latest_commit_date: '2013-12-28T00:00:00.000Z'
@@ -2306,14 +2306,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 7710
+              stars: 7717
               license: Apache License 2.0
               description: Apache Druid (Incubating) - Column oriented distributed data store ideal for powering interactive applications
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /apache/incubator-druid/commit/b6b1e6160ca38e3140e151f7bf5133e6809ae1be
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/incubator-druid/commit/e58f541047c16fdc868932d239e535aa61c7dfc5
               release_date: '2019-03-15T23:17:05Z'
               release_link: 'https://github.com/apache/incubator-druid/releases'
-              contributors_count: 273
+              contributors_count: 274
               contributors_link: 'https://github.com/apache/incubator-druid/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/incubator-druid/commit/70e993806e48fbd35ac597a4075d046a98c5b6ae
@@ -2327,7 +2327,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-05T20:03:39.000Z
+              latest_tweet_date: 2019-03-18T18:28:41.000Z
           - item:
             name: Hudi
             homepage_url: 'https://eng.uber.com/hoodie/'
@@ -2349,14 +2349,14 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 436
+              stars: 438
               license: Apache License 2.0
               description: Upserts And Incremental Processing on Big Data
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /apache/incubator-hudi/commit/57bbed21de888b4b58f20fe753630c231547a40d
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/incubator-hudi/commit/a6c45feb2c6d81c4cba5c0e345aca3d1e517c9d6
               release_date: '2019-02-27T15:16:21Z'
               release_link: 'https://github.com/apache/incubator-hudi/releases'
-              contributors_count: 27
+              contributors_count: 28
               contributors_link: 'https://github.com/apache/incubator-hudi/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/incubator-hudi/commit/0512da094bad2f3bcd2ddddc29e8abfec175dcfe
@@ -2434,11 +2434,11 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 394
+              stars: 395
               license: Apache License 2.0
               description: 'Distributed Tensorflow, Keras and BigDL on Apache Spark'
-              latest_commit_date: '2019-03-18T00:00:00.000Z'
-              latest_commit_link: /intel-analytics/analytics-zoo/commit/2705b2c844d27a7bba5c08ce4f7b7aa665daed7e
+              latest_commit_date: '2019-03-19T00:00:00.000Z'
+              latest_commit_link: /intel-analytics/analytics-zoo/commit/8233071f1fd6dee57d33f2b08896fb1638961d47
               contributors_count: 44
               contributors_link: 'https://github.com/intel-analytics/analytics-zoo/graphs/contributors'
             github_start_commit_data:
@@ -2447,7 +2447,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: analytics-zoo.svg
@@ -2474,14 +2474,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 2644
+              stars: 2648
               license: Apache License 2.0
               description: Apache Beam
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /apache/beam/commit/66040ee231ff7fc5ae761a1e909278b40f08d8fc
+              latest_commit_date: '2019-03-19T00:00:00.000Z'
+              latest_commit_link: /apache/beam/commit/6bb4b2332b11bd8295ac6965be8426b9c38fa454
               release_date: '2019-03-01T17:21:59Z'
               release_link: 'https://github.com/apache/beam/releases'
-              contributors_count: 402
+              contributors_count: 403
               contributors_link: 'https://github.com/apache/beam/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/beam/commit/7f3b74c052f0473dab30677214e187d676876237
@@ -2599,11 +2599,11 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 204
+              stars: 205
               license: Other
               description: Generic Data Ingestion & Dispersal Library for Hadoop
-              latest_commit_date: '2018-10-12T00:00:00.000Z'
-              latest_commit_link: /uber/marmaray/commit/6f9c2421ec040300318f7880518f607d49d7b50f
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /uber/marmaray/commit/afef8a89e1c6a7975744ffda7cd223dc113a67cb
               contributors_count: 6
               contributors_link: 'https://github.com/uber/marmaray/graphs/contributors'
             github_start_commit_data:
@@ -2638,7 +2638,7 @@ landscape:
               kind: funding
               funding: 6000000
             github_data:
-              stars: 5429
+              stars: 5437
               license: GNU Lesser General Public License v3.0
               description: A Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
               latest_commit_date: '2019-03-01T00:00:00.000Z'
@@ -2762,11 +2762,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 7908
+              stars: 7919
               license: Apache License 2.0
               description: Apache Flink
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /apache/flink/commit/92c7808e9a2d02b17d4cfddf2afe675260fe4a59
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/flink/commit/e07fc39d4bb15dabdedb2eb80b862646de32d82c
               release_date: '2019-03-13T14:26:24Z'
               release_link: 'https://github.com/apache/flink/releases'
               contributors_count: 496
@@ -2803,11 +2803,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 11413
+              stars: 11422
               license: Apache License 2.0
               description: Mirror of Apache Kafka
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /apache/kafka/commit/74e755fdb1ea98c2f90f2127160f905ad3c00486
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/kafka/commit/8406f3624d8f99b614eb7171b71fae8b0e663dcb
               release_date: '2019-03-09T19:44:15Z'
               release_link: 'https://github.com/apache/kafka/releases'
               contributors_count: 523
@@ -2847,8 +2847,8 @@ landscape:
               stars: 522
               license: Apache License 2.0
               description: Mirror of Apache Samza
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /apache/samza/commit/3e3713cb749ea6bc294f5064d829233da062eb37
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/samza/commit/275d7570bc65aa3a0592ea3a6ec4063b91c4b222
               release_date: '2019-03-12T22:49:20Z'
               release_link: 'https://github.com/apache/samza/releases'
               contributors_count: 100
@@ -2887,7 +2887,7 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 432
+              stars: 433
               license: Apache License 2.0
               description: Improvement of Apache Kafka Mirrormaker
               latest_commit_date: '2019-03-01T00:00:00.000Z'
@@ -2968,7 +2968,7 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 8830
+              stars: 8832
               license: Apache License 2.0
               description: Distributed SQL query engine for big data
               latest_commit_date: '2019-03-09T00:00:00.000Z'
@@ -2983,7 +2983,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: presto.svg
@@ -3017,7 +3017,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 254
+              stars: 256
               license: Apache License 2.0
               description: Feature Store for Machine Learning
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -3032,7 +3032,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: feast.svg
@@ -3061,11 +3061,11 @@ landscape:
               kind: funding
               funding: 3000000
             github_data:
-              stars: 3363
+              stars: 3372
               license: BSD 3-Clause "New" or "Revised" License
               description: An open source python framework for automated feature engineering
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /Featuretools/featuretools/commit/6feaf9319e336dee646b99f58ed3c77b1eeb0cd6
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /Featuretools/featuretools/commit/f6b16bf3f53d4ec9e7fca2a957824339394eefa4
               contributors_count: 21
               contributors_link: 'https://github.com/featuretools/featuretools/graphs/contributors'
             github_start_commit_data:
@@ -3105,7 +3105,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 5353
+              stars: 5355
               license: Apache License 2.0
               description: Visualizations for machine learning datasets
               latest_commit_date: '2019-01-28T00:00:00.000Z'
@@ -3120,7 +3120,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: facets.svg
@@ -3168,7 +3168,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T16:54:01.000Z
+              latest_tweet_date: 2019-03-18T23:23:41.000Z
       - subcategory:
         name: Labeling
         items:
@@ -3192,14 +3192,14 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 1477
+              stars: 1484
               license: Other
               description: Computer Vision Annotation Tool (CVAT) is a web-based tool which helps to annotate video and images for Computer Vision algorithms
-              latest_commit_date: '2019-03-11T00:00:00.000Z'
-              latest_commit_link: /opencv/cvat/commit/344bfb179c66efbdbba6a062bc6e2091f2903659
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /opencv/cvat/commit/af1101bdb739bd26a38246fef04cd07f735966bd
               release_date: '2018-09-28T15:32:24Z'
               release_link: 'https://github.com/opencv/cvat/releases'
-              contributors_count: 16
+              contributors_count: 17
               contributors_link: 'https://github.com/opencv/cvat/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /opencv/cvat/commit/eb9fba36854f524398e4c51ef0b8e4301ced5811
@@ -3207,7 +3207,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: computer-vision-annotation-tool-cvat.svg
@@ -3216,7 +3216,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T14:30:20.000Z
+              latest_tweet_date: 2019-03-18T20:06:53.000Z
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -3244,7 +3244,7 @@ landscape:
               kind: funding
               funding: 129912589
             github_data:
-              stars: 632
+              stars: 633
               license: MIT License
               description: ChainerRL is a deep reinforcement learning library built on top of Chainer.
               latest_commit_date: '2019-03-14T00:00:00.000Z'
@@ -3283,11 +3283,11 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 1175
+              stars: 1176
               license: Apache License 2.0
               description: Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /NervanaSystems/coach/commit/d6158a5cfc7374e44549302ce9e2df94d1522abf
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /NervanaSystems/coach/commit/4a8451ff0210e4f33a85c64817a9d3afb6f19839
               contributors_count: 23
               contributors_link: 'https://github.com/NervanaSystems/coach/graphs/contributors'
             github_start_commit_data:
@@ -3296,7 +3296,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: coach.svg
@@ -3325,7 +3325,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 5686
+              stars: 5689
               license: GNU General Public License v2.0
               description: A customisable 3D platform for agent-based AI research
               latest_commit_date: '2019-02-16T00:00:00.000Z'
@@ -3338,7 +3338,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: deep-mind-lab.svg
@@ -3369,7 +3369,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 7588
+              stars: 7595
               license: Apache License 2.0
               description: 'Dopamine is a research framework for fast prototyping of reinforcement learning algorithms. '
               latest_commit_date: '2019-02-15T00:00:00.000Z'
@@ -3382,7 +3382,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: dopamine.svg
@@ -3416,8 +3416,8 @@ landscape:
               stars: 1783
               license: Other
               description: A platform for Applied Reinforcement Learning (Applied RL)
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /facebookresearch/Horizon/commit/beeeb87c9a30bc0691a74f3789048163b9cda906
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /facebookresearch/Horizon/commit/0a849b983e90e8c5e06467ba2749c03f3f0f062d
               contributors_count: 18
               contributors_link: 'https://github.com/facebookresearch/Horizon/graphs/contributors'
             github_start_commit_data:
@@ -3426,7 +3426,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: horizon.svg
@@ -3455,11 +3455,11 @@ landscape:
               kind: funding
               funding: 120000
             github_data:
-              stars: 15882
+              stars: 15900
               license: Other
               description: A toolkit for developing and comparing reinforcement learning algorithms.
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /openai/gym/commit/0a3665b05098a944b47db8f6b1facc8aa95491b1
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /openai/gym/commit/93c5ca0d3d52afdc1e21905f848f2861ad3bbf80
               release_date: '2019-02-27T00:36:45Z'
               release_link: 'https://github.com/openai/gym/releases'
               contributors_count: 167
@@ -3496,7 +3496,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 520
+              stars: 524
               license: Apache License 2.0
               description: 'Deep Planning Network: Control from pixels by latent planning with learned dynamics'
               latest_commit_date: '2019-02-19T00:00:00.000Z'
@@ -3509,7 +3509,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: pla-net.svg
@@ -3538,7 +3538,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 2423
+              stars: 2428
               license: Apache License 2.0
               description: TensorFlow Reinforcement Learning
               latest_commit_date: '2019-03-14T00:00:00.000Z'
@@ -3551,7 +3551,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: tensor-flow-reinforcement-learning-trfl.svg
@@ -3584,14 +3584,14 @@ landscape:
               twitter: 'https://www.twitter.com/allen_ai'
               linkedin: 'https://www.linkedin.com/company/allen-institute-for-artificial-intelligence'
             github_data:
-              stars: 5645
+              stars: 5651
               license: Apache License 2.0
               description: 'An open-source NLP research library, built on PyTorch.'
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /allenai/allennlp/commit/ff9084568c388a4290ccb66aefddda9fda78cbe4
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /allenai/allennlp/commit/e3038a3f55eef218b936a22cc16ce412bf929f09
               release_date: '2018-12-19T16:06:28Z'
               release_link: 'https://github.com/allenai/allennlp/releases'
-              contributors_count: 103
+              contributors_count: 105
               contributors_link: 'https://github.com/allenai/allennlp/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /allenai/allennlp/commit/f7473cd21e218307a958be83662cb7df8c415d2e
@@ -3666,7 +3666,7 @@ landscape:
               twitter: 'http://twitter.com/Stanford'
               linkedin: 'https://www.linkedin.com/company/stanford-university'
             github_data:
-              stars: 6008
+              stars: 6012
               license: Other
               description: 'Stanford CoreNLP: A Java suite of core NLP tools.'
               latest_commit_date: '2019-02-26T00:00:00.000Z'
@@ -3707,7 +3707,7 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 17745
+              stars: 17761
               license: MIT License
               description: Library for fast text representation and classification.
               latest_commit_date: '2019-02-25T00:00:00.000Z'
@@ -3722,7 +3722,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: fast-text.svg
@@ -3749,11 +3749,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 2383
+              stars: 2387
               license: Unknown License
               description: Mirror of Apache Lucene + Solr
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /apache/lucene-solr/commit/5c143022e7abcdf14a570786afec4ff099fd581c
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/lucene-solr/commit/3ac07b8dfb00322a291c61c480f7410afd5e4ee9
               release_date: '2019-03-13T11:04:01Z'
               release_link: 'https://github.com/apache/lucene-solr/releases'
               contributors_count: 103
@@ -3790,7 +3790,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 1831
+              stars: 1832
               license: Apache License 2.0
               description: >-
                 NLP Architect by Intel AI Lab: A Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language
@@ -3805,7 +3805,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: nlp-architect.svg
@@ -3832,7 +3832,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 749
+              stars: 751
               license: Apache License 2.0
               description: Mirror of Apache OpenNLP
               latest_commit_date: '2019-01-28T00:00:00.000Z'
@@ -3875,11 +3875,11 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 4273
+              stars: 4280
               license: MIT License
               description: A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /facebookresearch/ParlAI/commit/c6618f088d9aac471c6d7e92012b758c89417220
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /facebookresearch/ParlAI/commit/ad6dc049047b5081abe264a3de9ee6a993b8b25f
               contributors_count: 74
               contributors_link: 'https://github.com/facebookresearch/ParlAI/graphs/contributors'
             github_start_commit_data:
@@ -3888,7 +3888,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: parl-ai.svg
@@ -3917,11 +3917,11 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 4719
+              stars: 4722
               license: Other
               description: A natural language modeling framework based on PyTorch
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /facebookresearch/pytext/commit/df30554b96220fbdff78004fef67e19fb70ff9a1
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /facebookresearch/pytext/commit/e6bb79b8b257bc0fd722590924ffbf0a7d5ec4f2
               contributors_count: 28
               contributors_link: 'https://github.com/facebookresearch/pytext/graphs/contributors'
             github_start_commit_data:
@@ -3930,7 +3930,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 473705218048
+              market_cap: 457979756544
               effective_ticker: FB
             image_data:
               fileName: py-text.svg
@@ -3957,12 +3957,12 @@ landscape:
               twitter: 'https://twitter.com/explosion_ai'
               linkedin: 'https://www.linkedin.com/company/10945977'
             github_data:
-              stars: 12535
+              stars: 12548
               license: MIT License
               description: "\U0001F4AB Industrial-strength Natural Language Processing (NLP) with Python and Cython"
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /explosion/spaCy/commit/f0c1efcb00177345b8d08821ae24591707306164
-              release_date: '2019-03-17T21:42:58Z'
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /explosion/spaCy/commit/08284f3a11eb6ee603977bd840ee0100452e497e
+              release_date: '2019-02-21T16:13:34Z'
               release_link: 'https://github.com/explosion/spaCy/releases'
               contributors_count: 305
               contributors_link: 'https://github.com/explosion/spaCy/graphs/contributors'
@@ -3978,7 +3978,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-16T15:57:43.000Z
+              latest_tweet_date: 2019-03-18T19:13:11.000Z
   - category:
     name: Model
     subcategories:
@@ -4007,9 +4007,9 @@ landscape:
               stars: 171
               license: Unknown License
               description: 'DAWNBench: An End-to-End Deep Learning Benchmark and Competition'
-              latest_commit_date: '2019-03-09T00:00:00.000Z'
-              latest_commit_link: /stanford-futuredata/dawn-bench-entries/commit/2c191132624efcfd486f6cdd3b34a3544c12984e
-              contributors_count: 21
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /stanford-futuredata/dawn-bench-entries/commit/8bde72c48cec27020c5da0ba59efdcee004c9fd2
+              contributors_count: 22
               contributors_link: 'https://github.com/stanford-futuredata/dawn-bench-entries/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /stanford-futuredata/dawn-bench-entries/commit/e6e460cbc8552ce30abdc8fe421e8fe40d2b5b68
@@ -4041,7 +4041,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 691
+              stars: 692
               license: Apache License 2.0
               description: Reference implementations of training benchmarks
               latest_commit_date: '2019-03-15T00:00:00.000Z'
@@ -4096,7 +4096,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 841116352512
+              market_cap: 855749361664
               effective_ticker: AMZN
             image_data:
               fileName: dsstne.svg
@@ -4125,7 +4125,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 1960
+              stars: 1961
               license: Other
               description: Embedded Learning Library
               latest_commit_date: '2019-03-02T00:00:00.000Z'
@@ -4138,7 +4138,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: embedded-learning-library.svg
@@ -4166,14 +4166,14 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 5683
+              stars: 5691
               license: Other
               description: 'Distributed training framework for TensorFlow, Keras, PyTorch, and MXNet.'
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /horovod/horovod/commit/57bd00d812a7177f486bc14e1035252f0094ad44
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /horovod/horovod/commit/821c20df2fa2251f529140bd4acf875ef3f3bb1a
               release_date: '2019-02-21T00:05:57Z'
               release_link: 'https://github.com/horovod/horovod/releases'
-              contributors_count: 37
+              contributors_count: 38
               contributors_link: 'https://github.com/horovod/horovod/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /horovod/horovod/commit/64317537436ae4225a004043acaa37a205a18dc3
@@ -4207,12 +4207,12 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 3985
+              stars: 4009
               license: Apache License 2.0
               description: Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
-              latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /uber/ludwig/commit/395ddcd50a4ac3ed43718d610994372741fbeb26
-              contributors_count: 28
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /uber/ludwig/commit/a4e05f9306c297f7233fe6f4e196e0c4dc7eb215
+              contributors_count: 29
               contributors_link: 'https://github.com/uber/ludwig/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /uber/ludwig/commit/984b34552ce1950fb52a436bab669a82c22e14f0
@@ -4246,7 +4246,7 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 436
+              stars: 437
               license: Apache License 2.0
               description: >-
                 Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format.
@@ -4289,7 +4289,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 4013
+              stars: 4015
               license: Other
               description: A Flexible and Powerful Parameter Server for large-scale machine learning
               latest_commit_date: '2019-03-08T00:00:00.000Z'
@@ -4328,7 +4328,7 @@ landscape:
               kind: funding
               funding: 1900000
             github_data:
-              stars: 3145
+              stars: 3153
               license: Other
               description: Distributed Asynchronous Hyperparameter Optimization in Python
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -4372,11 +4372,11 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 5673
+              stars: 5678
               license: Other
               description: Open Neural Network Exchange
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /onnx/onnx/commit/4dfc56de464e6d25568647d5da8d43c409199a98
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /onnx/onnx/commit/47f7aa71efd43446ab2aa0e8225a7d2af8ecade7
               contributors_count: 112
               contributors_link: 'https://github.com/onnx/onnx/graphs/contributors'
             github_start_commit_data:
@@ -4385,7 +4385,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: onnx.svg
@@ -4420,8 +4420,8 @@ landscape:
               stars: 4
               license: Other
               description: null
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /acumos/documentation/commit/92c3ddd02bb696f8b3b0b6c6de65b5d475d3fdd1
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /acumos/documentation/commit/c9b42546d732e88c28842da372446d756e1f93df
               contributors_count: 17
               contributors_link: 'https://github.com/acumos/documentation/graphs/contributors'
             github_start_commit_data:
@@ -4456,7 +4456,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 2214
+              stars: 2218
               license: Apache License 2.0
               description: Official Kaggle API
               latest_commit_date: '2019-02-20T00:00:00.000Z'
@@ -4469,7 +4469,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: kaggle.svg
@@ -4478,7 +4478,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T16:00:28.000Z
+              latest_tweet_date: 2019-03-18T19:15:10.000Z
           - item:
             name: Model Asset eXchange (MAX)
             homepage_url: 'https://developer.ibm.com/exchanges/models/'
@@ -4513,7 +4513,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124074008576
+              market_cap: 124768116736
               effective_ticker: IBM
             image_data:
               fileName: model-asset-e-xchange-max.svg
@@ -4543,14 +4543,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 11476
+              stars: 11493
               license: Apache License 2.0
               description: Apache Airflow
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /apache/airflow/commit/f7f69a27391a94cd6b87bb4d785eb4f11598800a
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/airflow/commit/dce92a54190155898c75c0f3392d42fb28f1884a
               release_date: '2019-01-22T23:58:53Z'
               release_link: 'https://github.com/apache/airflow/releases'
-              contributors_count: 744
+              contributors_count: 743
               contributors_link: 'https://github.com/apache/airflow/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/airflow/commit/1047940ca4363b04044c4963b9c88f7632746407
@@ -4564,7 +4564,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-14T14:04:16.000Z
+              latest_tweet_date: 2019-03-19T00:19:27.000Z
           - item:
             name: Apache Nifi
             homepage_url: 'https://nifi.apache.org'
@@ -4584,14 +4584,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 1344
+              stars: 1352
               license: Apache License 2.0
               description: Mirror of Apache NiFi
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /apache/nifi/commit/43235724e2031c30fc48e05be0d2136fd58efa52
-              release_date: '2019-03-13T04:19:09Z'
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/nifi/commit/0cb15cfb1a5425704a60db2d49415f745df48b1b
+              release_date: '2019-03-18T13:01:36Z'
               release_link: 'https://github.com/apache/nifi/releases'
-              contributors_count: 227
+              contributors_count: 228
               contributors_link: 'https://github.com/apache/nifi/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/nifi/commit/4d998c12c95a6e5ce3d66c0d861e75e33b5cf013
@@ -4605,7 +4605,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-02-21T19:30:57.000Z
+              latest_tweet_date: 2019-03-18T13:18:02.000Z
           - item:
             name: Argo
             homepage_url: 'https://argoproj.github.io/'
@@ -4627,11 +4627,11 @@ landscape:
               ticker: INTU
               kind: market_cap
             github_data:
-              stars: 2603
+              stars: 2607
               license: Apache License 2.0
               description: 'ArgoProj: Get stuff done with Kubernetes.'
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /argoproj/argo/commit/b2743f30c411f5ad8f8c8b481a5d6b6ff83c33bd
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /argoproj/argo/commit/4bfbb20bc23f8bf4611a6314fb80f8138b17b9b9
               release_date: '2018-10-11T16:58:29Z'
               release_link: 'https://github.com/argoproj/argo/releases'
               contributors_count: 74
@@ -4642,7 +4642,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 66874511360
+              market_cap: 66768289792
               effective_ticker: INTU
             image_data:
               fileName: argo.svg
@@ -4673,14 +4673,14 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 764
+              stars: 765
               license: Other
               description: >-
                 Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a
                 scalable and resilient way.
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /uber/cadence/commit/643fea898c124f1d9c7d1c8860e2d3c77a6ed61e
-              contributors_count: 30
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /uber/cadence/commit/5b516bda6b43ddb200ef2f0324e1dda847b42d09
+              contributors_count: 31
               contributors_link: 'https://github.com/uber/cadence/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /uber/cadence/commit/685242e53fb0c0d9cbdd62fc7725418b528506eb
@@ -4810,7 +4810,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 841116352512
+              market_cap: 855749361664
               effective_ticker: AMZN
             image_data:
               fileName: neo-ai.svg
@@ -4837,11 +4837,11 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 3238
+              stars: 3251
               license: MIT License
               description: Visualizer for deep learning and machine learning models
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /lutzroeder/netron/commit/3aa393b039eb558c0d9f5a7f3e1c2482537c6b57
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /lutzroeder/netron/commit/19f6b6d22f51d7a22e07e5290ed026c654454c94
               contributors_count: 1
               contributors_link: 'https://github.com/lutzroeder/Netron/graphs/contributors'
             github_start_commit_data:
@@ -4876,7 +4876,7 @@ landscape:
               kind: funding
               funding: 1200000
             github_data:
-              stars: 3504
+              stars: 3505
               license: Apache License 2.0
               description: 'PipelineAI: Real-Time Enterprise AI Platform'
               latest_commit_date: '2019-03-06T00:00:00.000Z'
@@ -4935,7 +4935,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 889285902336
+              market_cap: 902021709824
               effective_ticker: MSFT
             image_data:
               fileName: infer-net.svg
@@ -4962,11 +4962,11 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 21103
+              stars: 21142
               license: Other
               description: 'The Julia Language: A fresh approach to technical computing.'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /JuliaLang/julia/commit/8c0b550b61bcb196e1c8a9b03b38f0e6eb8a9dd7
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /JuliaLang/julia/commit/b93fd2350e64d626e35cd57759271e8d5045dbfa
               contributors_count: 817
               contributors_link: 'https://github.com/JuliaLang/julia/graphs/contributors'
             github_start_commit_data:
@@ -5000,11 +5000,11 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 9964
+              stars: 9969
               license: Other
               description: The fundamental package for scientific computing with Python.
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /numpy/numpy/commit/d89c4c7e7850578e5ee61e3e09abd86318906975
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /numpy/numpy/commit/632afad440193271535a33a89bc3e19c3ecc291c
               contributors_count: 741
               contributors_link: 'https://github.com/numpy/numpy/graphs/contributors'
             github_start_commit_data:
@@ -5085,7 +5085,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 1851
+              stars: 1852
               license: MIT License
               description: 'Fast, flexible and easy to use probabilistic modelling in Python.'
               latest_commit_date: '2019-02-26T00:00:00.000Z'
@@ -5124,7 +5124,7 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 4035
+              stars: 4036
               license: Other
               description: 'Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -5166,7 +5166,7 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 5107
+              stars: 5110
               license: Other
               description: Deep universal probabilistic programming with Python and PyTorch
               latest_commit_date: '2019-03-01T00:00:00.000Z'
@@ -5205,7 +5205,7 @@ landscape:
               twitter: 'http://twitter.com/enthought'
               linkedin: 'https://www.linkedin.com/company/enthought'
             github_data:
-              stars: 5566
+              stars: 5567
               license: Other
               description: Scipy library main repository
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -5242,14 +5242,14 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 1518
+              stars: 1519
               license: BSD 3-Clause "New" or "Revised" License
               description: >-
                 Stan development repository (home page is linked below). The master branch contains the current release. The develop branch contains the latest
                 stable development.  See the Developer Process Wiki for details.  
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /stan-dev/stan/commit/742169f8d5524621256ef7f72ddfaf95c2697e2f
-              contributors_count: 66
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /stan-dev/stan/commit/1cd416d842020ae6a798204a58847237053b160d
+              contributors_count: 67
               contributors_link: 'https://github.com/stan-dev/stan/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /stan-dev/stan/commit/0079cc5fa5b7d13fd201fbae276b01f7f27f8dc9
@@ -5289,7 +5289,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 1050
+              stars: 1054
               license: Apache License 2.0
               description: Mirror of Apache Ambari
               latest_commit_date: '2019-03-15T00:00:00.000Z'
@@ -5350,7 +5350,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T22:27:50.000Z
+              latest_tweet_date: 2019-03-18T19:53:49.000Z
           - item:
             name: Apache Mesos
             homepage_url: 'http://mesos.apache.org/'
@@ -5370,11 +5370,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 4076
+              stars: 4078
               license: Apache License 2.0
               description: Apache Mesos
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /apache/mesos/commit/1f03f6ba46607bd676c4524e6278d329f20ddb9f
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/mesos/commit/2a22035a1595837d215468859713281aa6dfb279
               release_date: '2019-03-06T06:00:04Z'
               release_link: 'https://github.com/apache/mesos/releases'
               contributors_count: 290
@@ -5452,7 +5452,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 5594
+              stars: 5595
               license: Apache License 2.0
               description: Mirror of Apache Storm
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -5532,11 +5532,11 @@ landscape:
               twitter: 'https://twitter.com/CloudNativeFdn'
               linkedin: 'https://www.linkedin.com/company/cloud-native-computing-foundation'
             github_data:
-              stars: 49629
+              stars: 49682
               license: Apache License 2.0
               description: Production-Grade Container Scheduling and Management
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /kubernetes/kubernetes/commit/ebea0377292677a8895ca632208833a0afbd33f3
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /kubernetes/kubernetes/commit/39277cdf4e3dd304c351c8f953ceb58c0e92e940
               release_date: '2019-02-28T13:29:36Z'
               release_link: 'https://github.com/kubernetes/kubernetes/releases'
               contributors_count: 2049
@@ -5553,7 +5553,7 @@ landscape:
               badge: 569
               percentage: 100
             twitter_data:
-              latest_tweet_date: 2019-03-15T16:01:30.000Z
+              latest_tweet_date: 2019-03-18T17:49:04.000Z
           - item:
             name: Nauta
             homepage_url: 'https://www.intel.ai/nauta/'
@@ -5575,7 +5575,7 @@ landscape:
               ticker: INTC
               kind: market_cap
             github_data:
-              stars: 296
+              stars: 297
               license: Apache License 2.0
               description: 'A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -5588,7 +5588,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: nauta.svg
@@ -5615,11 +5615,11 @@ landscape:
               twitter: 'https://twitter.com/SylabsIO'
               linkedin: 'https://www.linkedin.com/company/18366932'
             github_data:
-              stars: 1069
+              stars: 1070
               license: Other
               description: 'Singularity: Application containers for Linux'
-              latest_commit_date: '2019-03-17T00:00:00.000Z'
-              latest_commit_link: /sylabs/singularity/commit/3bc381b61d3f281015975efc65858a74cadcd1a0
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /sylabs/singularity/commit/8d93b6061a768687240aa45093eeb3c0365c0639
               release_date: '2019-02-21T03:14:50Z'
               release_link: 'https://github.com/sylabs/singularity/releases'
               contributors_count: 90
@@ -5636,7 +5636,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-16T21:20:31.000Z
+              latest_tweet_date: 2019-03-18T22:51:19.000Z
       - subcategory:
         name: Interface
         items:
@@ -5659,7 +5659,7 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 578
+              stars: 579
               license: Apache License 2.0
               description: Mirror of Apache Toree (Incubating)
               latest_commit_date: '2019-01-14T00:00:00.000Z'
@@ -5701,9 +5701,9 @@ landscape:
               stars: 262
               license: Apache License 2.0
               description: Mirror of Apache livy (Incubating)
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /apache/incubator-livy/commit/292896bacfd873ce69c682ba584a03ef8455bd52
-              release_date: '2018-02-05T19:34:26Z'
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/incubator-livy/commit/eebf378343423f7dbcb2b9f079172674315abb3a
+              release_date: '2019-03-18T20:06:00Z'
               release_link: 'https://github.com/apache/incubator-livy/releases'
               contributors_count: 40
               contributors_link: 'https://github.com/apache/incubator-livy/graphs/contributors'
@@ -5737,11 +5737,11 @@ landscape:
               twitter: 'https://twitter.com/JohnSnowLabs'
               linkedin: 'https://www.linkedin.com/company/johnsnowlabs/'
             github_data:
-              stars: 567
+              stars: 569
               license: Apache License 2.0
               description: Natural Language Understanding Library for Apache Spark.
-              latest_commit_date: '2019-03-16T00:00:00.000Z'
-              latest_commit_link: /JohnSnowLabs/spark-nlp/commit/f04b18b5c60c4e0e646392ccf67bb81548655274
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /JohnSnowLabs/spark-nlp/commit/09b5b6c0a7fdd62d1a1a64df41fc90c23f6d7561
               contributors_count: 22
               contributors_link: 'https://github.com/JohnSnowLabs/spark-nlp/graphs/contributors'
             github_start_commit_data:
@@ -5797,7 +5797,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124074008576
+              market_cap: 124768116736
               effective_ticker: IBM
             image_data:
               fileName: adversarial-robustness-toolkit.svg
@@ -5882,7 +5882,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124074008576
+              market_cap: 124768116736
               effective_ticker: IBM
             image_data:
               fileName: ai-fairness-360-toolkit.svg
@@ -5950,11 +5950,11 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 3594
+              stars: 3598
               license: MIT License
               description: 'An adversarial example library for constructing attacks, building defenses, and benchmarking both'
-              latest_commit_date: '2019-03-15T00:00:00.000Z'
-              latest_commit_link: /tensorflow/cleverhans/commit/92eb9dc56629243ce861339cab7bcd4a1db78fee
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /tensorflow/cleverhans/commit/6cc54eb216d375dfbf51106a0776483095ec2bbd
               release_date: '2017-08-22T20:20:26Z'
               release_link: 'https://github.com/tensorflow/cleverhans/releases'
               contributors_count: 86
@@ -6030,7 +6030,7 @@ landscape:
               kind: funding
               funding: 79530000
             github_data:
-              stars: 5410
+              stars: 5415
               license: BSD 2-Clause "Simplified" License
               description: 'Lime: Explaining the predictions of any machine learning classifier'
               latest_commit_date: '2019-03-13T00:00:00.000Z'
@@ -6069,7 +6069,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 2404
+              stars: 2417
               license: Apache License 2.0
               description: A collection of infrastructure and tools for research in neural network interpretability.
               latest_commit_date: '2019-03-07T00:00:00.000Z'
@@ -6084,7 +6084,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: lucid.svg
@@ -6117,11 +6117,11 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 4038
+              stars: 4040
               license: Apache License 2.0
               description: Mirror of Apache Zeppelin
-              latest_commit_date: '2019-03-14T00:00:00.000Z'
-              latest_commit_link: /apache/zeppelin/commit/65a824e9315649a4d349c7717f6b990d76239c9b
+              latest_commit_date: '2019-03-18T00:00:00.000Z'
+              latest_commit_link: /apache/zeppelin/commit/4219d552349f8f7f3e6de34505b8a8ae9835f98b
               release_date: '2019-01-25T14:01:02Z'
               release_link: 'https://github.com/apache/zeppelin/releases'
               contributors_count: 278
@@ -6138,7 +6138,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T18:49:13.000Z
+              latest_tweet_date: 2019-03-18T17:11:24.000Z
           - item:
             name: BeakerX
             homepage_url: 'http://beakerx.com/'
@@ -6214,7 +6214,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 825168232448
+              market_cap: 825028968448
               effective_ticker: GOOG
             image_data:
               fileName: colaboratory.svg
@@ -6282,7 +6282,7 @@ landscape:
               twitter: 'https://twitter.com/numfocus'
               linkedin: null
             github_data:
-              stars: 5512
+              stars: 5518
               license: Other
               description: Jupyter Interactive Notebook
               latest_commit_date: '2019-03-17T00:00:00.000Z'
@@ -6338,7 +6338,7 @@ landscape:
             membership_data:
               member: false
             yahoo_finance_data:
-              market_cap: 124074008576
+              market_cap: 124768116736
               effective_ticker: IBM
             image_data:
               fileName: pixie-dust.svg
@@ -6375,7 +6375,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 7608126464
+              market_cap: 7510818304
               effective_ticker: DOX
             image_data:
               fileName: amdocs.svg
@@ -6384,7 +6384,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T20:30:02.000Z
+              latest_tweet_date: 2019-03-18T23:48:04.000Z
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -6408,7 +6408,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 223418384384
+              market_cap: 224365363200
               effective_ticker: T
             image_data:
               fileName: at-t.svg
@@ -6417,7 +6417,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-18T01:05:43.000Z
+              latest_tweet_date: 2019-03-18T22:29:46.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -6441,7 +6441,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 59559743488
+              market_cap: 59800805376
               effective_ticker: BIDU
             image_data:
               fileName: baidu.svg
@@ -6474,7 +6474,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 31690887168
+              market_cap: 31460528128
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
@@ -6483,7 +6483,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T20:00:17.000Z
+              latest_tweet_date: 2019-03-18T20:59:17.000Z
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
@@ -6511,7 +6511,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T10:35:17.000Z
+              latest_tweet_date: 2019-03-18T10:40:41.000Z
           - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
@@ -6535,7 +6535,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 35605336064
+              market_cap: 35271012352
               effective_ticker: NOK
             image_data:
               fileName: nokia.svg
@@ -6544,7 +6544,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-14T16:12:49.000Z
+              latest_tweet_date: 2019-03-18T12:30:18.000Z
           - item:
             name: Tech Mahindra
             homepage_url: 'https://www.techmahindra.com/CWCE.html'
@@ -6572,7 +6572,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T14:09:18.000Z
+              latest_tweet_date: 2019-03-18T13:38:27.000Z
           - item:
             name: Tencent
             homepage_url: 'https://www.tencent.com/zh-cn/index.html'
@@ -6596,7 +6596,7 @@ landscape:
             membership_data:
               member: premier
             yahoo_finance_data:
-              market_cap: 432257433600
+              market_cap: 440533942272
               effective_ticker: TCEHY
             image_data:
               fileName: tencent.svg
@@ -6688,7 +6688,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 6149226496
+              market_cap: 6100880896
               effective_ticker: CIEN
             image_data:
               fileName: ciena.svg
@@ -6697,7 +6697,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T23:53:12.000Z
+              latest_tweet_date: 2019-03-18T14:50:01.000Z
           - item:
             name: Didi
             homepage_url: 'https://www.didiglobal.com'
@@ -6727,7 +6727,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-08T07:19:39.000Z
+              latest_tweet_date: 2019-03-18T09:40:40.000Z
           - item:
             name: Intel
             homepage_url: 'https://www.intel.com/content/www/us/en/homepage.html'
@@ -6751,7 +6751,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 244322009088
+              market_cap: 243287687168
               effective_ticker: INTC
             image_data:
               fileName: intel.svg
@@ -6760,7 +6760,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T14:30:20.000Z
+              latest_tweet_date: 2019-03-18T20:06:53.000Z
           - item:
             name: Orange
             homepage_url: 'https://www.orange.com/en/home'
@@ -6784,7 +6784,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 42514124800
+              market_cap: 42752823296
               effective_ticker: ORAN
             image_data:
               fileName: orange.svg
@@ -6793,7 +6793,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-15T18:15:00.000Z
+              latest_tweet_date: 2019-03-18T16:02:00.000Z
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
@@ -6817,7 +6817,7 @@ landscape:
             membership_data:
               member: general
             yahoo_finance_data:
-              market_cap: 32131432448
+              market_cap: 32142036992
               effective_ticker: RHT
             image_data:
               fileName: red-hat.svg
@@ -6826,7 +6826,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-17T21:13:01.000Z
+              latest_tweet_date: 2019-03-18T21:20:02.000Z
           - item:
             name: Univa
             homepage_url: 'https://www.univa.com/'
