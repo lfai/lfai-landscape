@@ -353,6 +353,13 @@ landscape:
         name: Versionning
         items:
           - item:
+            name: dotmesh
+            homepage_url: 'https://dotmesh.com/'
+            repo_url: 'https://github.com/dotmesh-io/dotmesh'
+            logo: dotmesh.svg
+            twitter: 'https://twitter.com/getdotmesh'
+            crunchbase: 'https://www.crunchbase.com/organization/dotscience'
+          - item:
             name: DVC
             homepage_url: 'https://dvc.org/'
             repo_url: 'https://github.com/iterative/dvc'
@@ -373,13 +380,6 @@ landscape:
             logo: quiltdata.svg
             twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
-          - item:
-            name: dotmesh
-            homepage_url: 'https://dotmesh.com/'
-            repo_url: 'https://github.com/dotmesh-io/dotmesh'
-            logo: dotmesh.svg
-            twitter: 'https://twitter.com/getdotmesh'
-            crunchbase: 'https://www.crunchbase.com/organization/dotscience'
       - subcategory:
         name: Store & Format
         items:
