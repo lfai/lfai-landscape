@@ -66,7 +66,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 8140
+              stars: 8141
               license: MIT License
               description: >-
                 A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking,
@@ -195,11 +195,11 @@ landscape:
               kind: funding
               funding: 66500000
             github_data:
-              stars: 6398
+              stars: 6401
               license: Apache License 2.0
               description: A system for parallel and distributed Python that unifies the ML ecosystem.
-              latest_commit_date: '2019-03-30T00:00:00.000Z'
-              latest_commit_link: /ray-project/ray/commit/fce006238018f0a0095c452f84f828f6fc91297d
+              latest_commit_date: '2019-03-31T00:00:00.000Z'
+              latest_commit_link: /ray-project/ray/commit/b01ac41e6fb5117bdad376ad5627899a38e8d16a
               release_date: '2019-03-25T21:18:48Z'
               release_link: 'https://github.com/ray-project/ray/releases'
               contributors_count: 141
@@ -216,7 +216,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-31T00:22:00.000Z
+              latest_tweet_date: 2019-03-31T02:13:53.000Z
       - subcategory:
         name: Platform
         items:
@@ -330,8 +330,8 @@ landscape:
               stars: 6338
               license: Apache License 2.0
               description: Machine Learning Toolkit for Kubernetes
-              latest_commit_date: '2019-03-29T00:00:00.000Z'
-              latest_commit_link: /kubeflow/kubeflow/commit/c2b78b00b78a49a543475644744bfa2cdd778bab
+              latest_commit_date: '2019-03-31T00:00:00.000Z'
+              latest_commit_link: /kubeflow/kubeflow/commit/fe37365a13b22d1a8626e0c890760af7f727b93b
               release_date: '2019-01-16T00:33:00Z'
               release_link: 'https://github.com/kubeflow/kubeflow/releases'
               contributors_count: 146
@@ -373,7 +373,7 @@ landscape:
               kind: funding
               funding: 497000000
             github_data:
-              stars: 3360
+              stars: 3362
               license: Apache License 2.0
               description: Open source platform for the machine learning lifecycle
               latest_commit_date: '2019-03-29T00:00:00.000Z'
@@ -1106,7 +1106,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-31T00:22:00.000Z
+              latest_tweet_date: 2019-03-31T02:13:53.000Z
           - item:
             name: Chainer
             homepage_url: 'https://chainer.org/'
@@ -3299,7 +3299,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-30T15:00:18.000Z
+              latest_tweet_date: 2019-03-31T04:38:33.000Z
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -4002,11 +4002,11 @@ landscape:
               ticker: FB
               kind: market_cap
             github_data:
-              stars: 4767
+              stars: 4770
               license: Other
               description: A natural language modeling framework based on PyTorch
               latest_commit_date: '2019-03-29T00:00:00.000Z'
-              latest_commit_link: /facebookresearch/pytext/commit/962f01e75b618a467278334ec55578b8eebc50f1
+              latest_commit_link: /facebookresearch/pytext/commit/b21c407b76a5ad2f208bcf8e5531d705e579c79f
               release_date: '2019-02-07T00:36:07Z'
               release_link: 'https://github.com/facebookresearch/pytext/releases'
               contributors_count: 29
@@ -4044,11 +4044,11 @@ landscape:
               twitter: 'https://twitter.com/explosion_ai'
               linkedin: 'https://www.linkedin.com/company/10945977'
             github_data:
-              stars: 12707
+              stars: 12730
               license: MIT License
               description: "\U0001F4AB Industrial-strength Natural Language Processing (NLP) with Python and Cython"
-              latest_commit_date: '2019-03-28T00:00:00.000Z'
-              latest_commit_link: /explosion/spaCy/commit/914b9ff3d2275311e9a23f0a7a88e80431408bb4
+              latest_commit_date: '2019-03-30T00:00:00.000Z'
+              latest_commit_link: /explosion/spaCy/commit/037ffdfd3fa275b6b4303ee0617f3d26475a900f
               release_date: '2019-03-23T17:07:26Z'
               release_link: 'https://github.com/explosion/spaCy/releases'
               contributors_count: 311
@@ -4212,7 +4212,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 1973
+              stars: 1976
               license: Other
               description: Embedded Learning Library
               latest_commit_date: '2019-03-02T00:00:00.000Z'
@@ -4296,11 +4296,11 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 4165
+              stars: 4182
               license: Apache License 2.0
               description: Ludwig is a toolbox built on top of TensorFlow that allows to train and test deep learning models without the need to write code.
-              latest_commit_date: '2019-03-27T00:00:00.000Z'
-              latest_commit_link: /uber/ludwig/commit/ed81dad62c818474ce5f7b5f640774e03549656b
+              latest_commit_date: '2019-03-30T00:00:00.000Z'
+              latest_commit_link: /uber/ludwig/commit/8c300cf623ef44347c5ffc5e8e39f9f217851bd0
               release_date: '2019-02-11T03:34:29Z'
               release_link: 'https://github.com/uber/ludwig/releases'
               contributors_count: 29
@@ -4342,8 +4342,8 @@ landscape:
               description: >-
                 Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format.
                 It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
-              latest_commit_date: '2019-03-28T00:00:00.000Z'
-              latest_commit_link: /uber/petastorm/commit/c01f5535945e27ab12bf83d66dec73fadeae1d7c
+              latest_commit_date: '2019-03-30T00:00:00.000Z'
+              latest_commit_link: /uber/petastorm/commit/11c2cc823f76a02e9c03cfc2dc518a0ac3da1510
               release_date: '2019-03-25T05:57:24Z'
               release_link: 'https://github.com/uber/petastorm/releases'
               contributors_count: 10
@@ -4382,7 +4382,7 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 4039
+              stars: 4041
               license: Other
               description: A Flexible and Powerful Parameter Server for large-scale machine learning
               latest_commit_date: '2019-03-08T00:00:00.000Z'
@@ -4467,7 +4467,7 @@ landscape:
               ticker: MSFT
               kind: market_cap
             github_data:
-              stars: 5747
+              stars: 5754
               license: Other
               description: Open Neural Network Exchange
               latest_commit_date: '2019-03-28T00:00:00.000Z'
@@ -4642,14 +4642,14 @@ landscape:
               twitter: 'http://twitter.com/TheASF'
               linkedin: 'https://www.linkedin.com/company/the-apache-software-foundation'
             github_data:
-              stars: 11638
+              stars: 11666
               license: Apache License 2.0
               description: Apache Airflow
-              latest_commit_date: '2019-03-28T00:00:00.000Z'
-              latest_commit_link: /apache/airflow/commit/6cb735c6d301a5689ff9666349abdb6387abc7a1
+              latest_commit_date: '2019-03-29T00:00:00.000Z'
+              latest_commit_link: /apache/airflow/commit/157f7bff837dda691012da8638dbc570bf5f1844
               release_date: '2016-03-28T19:32:48Z'
               release_link: 'https://github.com/apache/airflow/releases'
-              contributors_count: 756
+              contributors_count: 757
               contributors_link: 'https://github.com/apache/airflow/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /apache/airflow/commit/1047940ca4363b04044c4963b9c88f7632746407
@@ -4726,7 +4726,7 @@ landscape:
               ticker: INTU
               kind: market_cap
             github_data:
-              stars: 2685
+              stars: 2693
               license: Apache License 2.0
               description: 'ArgoProj: Get stuff done with Kubernetes.'
               latest_commit_date: '2019-03-27T00:00:00.000Z'
@@ -4772,13 +4772,13 @@ landscape:
               kind: funding
               funding: 24212450000
             github_data:
-              stars: 786
+              stars: 788
               license: Other
               description: >-
                 Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a
                 scalable and resilient way.
-              latest_commit_date: '2019-03-29T00:00:00.000Z'
-              latest_commit_link: /uber/cadence/commit/fa5e9e922a620e7dee5b87823598d65c39d906e9
+              latest_commit_date: '2019-03-30T00:00:00.000Z'
+              latest_commit_link: /uber/cadence/commit/f1826fe8f2d4f6cbecb24d0238b7468d69ac8093
               release_date: '2019-03-12T17:42:51Z'
               release_link: 'https://github.com/uber/cadence/releases'
               contributors_count: 32
@@ -4940,11 +4940,13 @@ landscape:
               twitter: null
               linkedin: null
             github_data:
-              stars: 3480
+              stars: 3562
               license: MIT License
               description: Visualizer for deep learning and machine learning models
-              latest_commit_date: '2019-03-27T00:00:00.000Z'
-              latest_commit_link: /lutzroeder/netron/commit/92cb845b9f89516fb63da710314995560e99e00a
+              latest_commit_date: '2019-03-30T00:00:00.000Z'
+              latest_commit_link: /lutzroeder/netron/commit/fc527366a4c9e7866a4a093729508a1433bbc68b
+              release_date: '2019-03-26T04:58:14Z'
+              release_link: 'https://github.com/lutzroeder/Netron/releases'
               contributors_count: 1
               contributors_link: 'https://github.com/lutzroeder/Netron/graphs/contributors'
             github_start_commit_data:
@@ -6180,7 +6182,7 @@ landscape:
               ticker: GOOG
               kind: market_cap
             github_data:
-              stars: 2458
+              stars: 2459
               license: Apache License 2.0
               description: A collection of infrastructure and tools for research in neural network interpretability.
               latest_commit_date: '2019-03-07T00:00:00.000Z'
@@ -6497,7 +6499,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-30T23:25:05.000Z
+              latest_tweet_date: 2019-03-31T02:33:02.000Z
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
@@ -6530,7 +6532,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-31T01:34:24.000Z
+              latest_tweet_date: 2019-03-31T04:49:51.000Z
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
@@ -6873,7 +6875,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-03-30T15:00:18.000Z
+              latest_tweet_date: 2019-03-31T04:38:33.000Z
           - item:
             name: Orange
             homepage_url: 'https://www.orange.com/en/home'
