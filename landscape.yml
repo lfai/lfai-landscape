@@ -731,19 +731,19 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
-            name: spaCy
-            homepage_url: 'https://spacy.io'
-            repo_url: 'https://github.com/explosion/spaCy'
-            logo: spacy.svg
-            twitter: 'https://twitter.com/spacy_io'
-            crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
-          - item:
             name: RASA NLU
             homepage_url: 'https://rasa.com/'
             repo_url: 'https://github.com/RasaHQ/rasa_nlu'
             logo: rasa.svg
             twitter: 'https://www.twitter.com/Rasa_HQ'
             crunchbase: 'https://www.crunchbase.com/organization/rasa'
+          - item:
+            name: spaCy
+            homepage_url: 'https://spacy.io'
+            repo_url: 'https://github.com/explosion/spaCy'
+            logo: spacy.svg
+            twitter: 'https://twitter.com/spacy_io'
+            crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
   - category:
     name: Model
     subcategories:
