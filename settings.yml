@@ -141,12 +141,21 @@ big_picture:
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
-        category: Data
+        category: Distributed Computing
         rows: 3
-        width: 715
+        width: 300
         height: 160
         top: 190
-        left: 400
+        left: 5
+        color: 'rgb(64, 89, 163)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Data
+        rows: 3
+        width: 795
+        height: 160
+        top: 190
+        left: 320
         color: 'rgb(74, 131, 104)'
         fit_width: true
       - type: HorizontalCategory
@@ -179,56 +188,47 @@ big_picture:
       - type: HorizontalCategory
         category: LF DL Member Company
         rows: 6
-        width: 850
+        width: 730
         height: 200
         top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
-      - type: HorizontalCategory
-        category: Distributed Computing
-        rows: 4
-        width: 245
+      - type: LandscapeInfo
+        width: 365
         height: 200
         top: 570
-        left: 870
-        color: 'rgb(64, 89, 163)'
-        fit_width: true
-      - type: LandscapeInfo
-        width: 380
-        height: 160
-        top: 190
-        left: 5
+        left: 750
         children:
           - type: text
             text: >
               This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
               and also shows the member companies of the LF Deep Learning Foundation.
-            top: 20
+            top: 45
             left: 100
             right: 120
             font_size: 10
           - type: image
             image: qr.svg
-            top: 15
+            top: 40
             left: 5
             width: 90
             height: 90
           - type: title
             title: l.lfdl.io
-            top: 104
+            top: 129
             left: 19
             font_size: 21
           - type: image
             image: left-logo.svg
             width: 110
             right: 5
-            top: 20
+            top: 45
           - type: image
             image: right-logo.svg
             width: 109
             right: 5
-            top: 60
+            top: 85
 test:
   header: LF Deep Learning Foundation Interactive Landscape
   section: Graduated LFDL Projects
