@@ -204,31 +204,31 @@ big_picture:
             text: >
               This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
               and also shows the member companies of the LF Deep Learning Foundation.
-            top: 20
+            top: 45
             left: 100
             right: 120
             font_size: 10
           - type: image
             image: qr.svg
-            top: 15
+            top: 40
             left: 5
             width: 90
             height: 90
           - type: title
             title: l.lfdl.io
-            top: 104
+            top: 129
             left: 19
             font_size: 21
           - type: image
             image: left-logo.svg
             width: 110
             right: 5
-            top: 20
+            top: 45
           - type: image
             image: right-logo.svg
             width: 109
             right: 5
-            top: 60
+            top: 85
 test:
   header: LF Deep Learning Foundation Interactive Landscape
   section: Graduated LFDL Projects
