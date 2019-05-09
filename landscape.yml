@@ -50,6 +50,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheSystemML'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: AX
+            homepage_url: 'https://ax.dev/'
+            repo_url: 'https://github.com/facebook/Ax'
+            logo: ax.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
@@ -91,13 +98,6 @@ landscape:
             logo: vowpal-wabbit.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: AX
-            homepage_url: 'https://ax.dev/'
-            repo_url: 'https://github.com/facebook/Ax'
-            logo: ax.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
       - subcategory:
         name: Library
         items:
@@ -341,6 +341,13 @@ landscape:
         name: Tool
         items:
           - item:
+            name: BoTorch
+            homepage_url: 'https://botorch.org/'
+            repo_url: 'https://github.com/pytorch/botorch'
+            logo: botorch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
             name: DeepBench
             homepage_url: 'https://github.com/baidu-research/DeepBench'
             repo_url: 'https://github.com/baidu-research/DeepBench'
@@ -362,33 +369,26 @@ landscape:
             twitter: 'https://twitter.com/plaidml'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
+            name: PyTorch BigGraph
+            homepage_url: 'https://torchbiggraph.readthedocs.io/'
+            repo_url: 'https://github.com/facebookresearch/PyTorch-BigGraph'
+            logo: pytorch-biggraph.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: PyTorch Geometric
+            homepage_url: 'https://rusty1s.github.io/pytorch_geometric/build/html/index.html'
+            repo_url: 'https://github.com/rusty1s/pytorch_geometric'
+            logo: pytorch-geometric.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/tu-dortmund-university'
+          - item:
             name: TVM
             homepage_url: 'https://tvm.ai/'
             repo_url: 'https://github.com/dmlc/tvm'
             logo: tvm.svg
             twitter: 'https://twitter.com/ApacheTVM'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item: 
-            name: PyTorch Geometric 
-            homepage_url: 'https://rusty1s.github.io/pytorch_geometric/build/html/index.html'
-            repo_url: 'https://github.com/rusty1s/pytorch_geometric'
-            logo: pytorch-geometric.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/tu-dortmund-university'
-          - item: 
-            name: PyTorch BigGraph 
-            homepage_url: 'https://torchbiggraph.readthedocs.io/'
-            repo_url: 'https://github.com/facebookresearch/PyTorch-BigGraph'
-            logo: pytorch-biggraph.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item: 
-            name: BoTorch 
-            homepage_url: 'https://botorch.org/'
-            repo_url: 'https://github.com/pytorch/botorch'
-            logo: botorch.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
   - category:
     name: Data
     subcategories:
