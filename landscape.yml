@@ -1218,6 +1218,13 @@ landscape:
             twitter: 'https://twitter.com/bethgelab'
             crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
           - item:
+            name: InterpretML
+            homepage_url: 'https://github.com/microsoft/interpret'
+            repo_url: 'https://github.com/microsoft/interpret'
+            logo: interpretml.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+          - item:
             name: LIME
             homepage_url: 'https://homes.cs.washington.edu/~marcotcr/blog/lime/'
             repo_url: 'https://github.com/marcotcr/lime'
@@ -1231,13 +1238,6 @@ landscape:
             logo: lucid.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: InterpretML
-            homepage_url: 'https://github.com/microsoft/interpret'
-            repo_url: 'https://github.com/microsoft/interpret'
-            logo: interpretml.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
   - category:
     name: Notebook Environment
     subcategories:
