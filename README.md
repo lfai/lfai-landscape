@@ -106,7 +106,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LFDL Landscape is available in these formats:
+The LFAI Landscape is available in these formats:
 
 * [PNG](https://landscape.lfai.foundation/images/landscape.png)
 * [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
