@@ -2,9 +2,9 @@
 
 # Linux Foundation Artificial Intelligence (LFAI) Landscape
 
-![LFDL Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![LFAI Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
 
-- [LFDL Landscape](#cloud-native-landscape)
+- [LFAI Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
   * [Interactive Version](#interactive-version)
   * [New Entries](#new-entries)
@@ -24,11 +24,11 @@ This landscape is intended as a map to explore open source artificial intelligen
 
 ## Current Version
 
-[![LFDL Landscape](https://landscape.lfdl.io/images/landscape.png)](https://landscape.lfdl.io/images/landscape.png)
+[![LFAI Landscape](https://landscape.lfai.foundation/images/landscape.png)](https://landscape.lfai.foundation/images/landscape.png)
 
 ## Interactive Version
 
-Please see [landscape.lfdl.io](https://landscape.lfdl.io).
+Please see [landscape.lfai.foundation.io](https://landscape.lfai.foundation).
 
 ## New Entries
 
@@ -108,8 +108,8 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 The LFDL Landscape is available in these formats:
 
-* [PNG](https://landscape.lfdl.io/images/landscape.png)
-* [PDF](https://landscape.lfdl.io/images/landscape.pdf)
+* [PNG](https://landscape.lfai.foundation/images/landscape.png)
+* [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
 
 ## Installation
 
