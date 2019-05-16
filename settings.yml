@@ -1,13 +1,13 @@
 global:
-  name: LF DL Interactive Landscape
-  short_name: LFDL
-  repo: LFDLFoundation/lfdl-landscape
-  website: 'https://landscape.lfdl.io'
-  short_domain: l.lfdl.io
-  company_url: 'https://lfdl.io'
-  email: info@lfdl.io
+  name: LF AI Interactive Landscape
+  short_name: LFAI
+  repo: lfai/landscape
+  website: 'https://landscape.lfai.foundation'
+  short_domain: l.lfai.foundation
+  company_url: 'https://lfai.foundation'
+  email: info@lfai.foundation
   meta:
-    title: LF DL Landscape
+    title: LF AI Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
     twitter: '@LFDeepLearning'
@@ -15,58 +15,58 @@ global:
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
     cncf_sandbox: false
-    companies: LF DL Member Company
+    companies: LF AI Member Company
 twitter:
-  search: landscape.lfdl.io
-  url: 'https://landscape.lfdl.io'
-  text: LF Deep Learning Landscape from @LFDeepLearning
+  search: landscape.lfai.foundation
+  url: 'https://landscape.lfai.foundation'
+  text: LF AI Landscape from @LFDeepLearning
 relation:
-  label: LFDL Relation
-  url: lfdl
+  label: LFAI Relation
+  url: lfai
   values:
     - id: hosted
-      label: LFDL Projects
+      label: LFAI Projects
       children:
         - id: graduated
-          label: Graduated LFDL Projects
-          prefix: LF DL
+          label: Graduated LFAI Projects
+          prefix: LF AI
           tag: Graduated
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFDL Graduated
+          big_picture_label: LFAI Graduated
           big_picture_color: 'rgb(24,54,114)'
         - id: incubating
-          label: Incubating LFDL Projects
-          prefix: LF DL
+          label: Incubating LFAI Projects
+          prefix: LF AI
           tag: Incubating
           color: '#00cbff'
           big_picture_order: 2
-          big_picture_label: LFDL Incubating
+          big_picture_label: LFAI Incubating
           big_picture_color: 'rgb(83, 113, 189)'
     - id: company
-      label: LFDL Members
+      label: LFAI Members
       tag: Company
       big_picture_order: 3
     - id: member
-      label: LFDL Member Products/Projects
-      tag: LFDL Member
+      label: LFAI Member Products/Projects
+      tag: LFAI Member
     - id: false
-      label: Non-LFDL Member Products/Projects
+      label: Non-LFAI Member Products/Projects
       url: 'no'
 membership:
   premier:
-    name: LFDL
+    name: LFAI
     label: Premier Member
     funding: Premier
   general:
-    name: LFDL
+    name: LFAI
     label: Member
     funding: General
   'false':
     funding: 'No'
 home:
   header: >
-    <h1>LF Deep Learning Foundation Interactive Landscape</h1> The LF Deep Learning Foundation landscape (<a target="_blank"
+    <h1>LF AI Foundation Interactive Landscape</h1> The LF AI Foundation landscape (<a target="_blank"
     href="images/landscape.png">png</a>, <a target="_blank" href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a
     href="http://landscape.cncf.io">CNCF landscape</a> and based on the same open source code.
   footer: |
@@ -94,8 +94,8 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: Linux Foundation Deep Learning Landscape
-    fullscreen_header: See the interactive landscape at l.lfdl.io
+    title: Linux Foundation AI Landscape
+    fullscreen_header: See the interactive landscape at l.lfai.foundation
     method: getGroupedItemsForCncfBigPicture
     size:
       width: 1115
@@ -186,7 +186,7 @@ big_picture:
         color: 'rgb(108, 135, 75)'
         fit_width: true
       - type: HorizontalCategory
-        category: LF DL Member Company
+        category: LF AI Member Company
         rows: 6
         width: 730
         height: 200
@@ -215,10 +215,10 @@ big_picture:
             width: 90
             height: 90
           - type: title
-            title: l.lfdl.io
+            title: l.lfai.foundation 
             top: 129
-            left: 19
-            font_size: 21
+            left: 9
+            font_size: 12
           - type: image
             image: left-logo.svg
             width: 110
@@ -230,8 +230,8 @@ big_picture:
             right: 5
             top: 85
 test:
-  header: LF Deep Learning Foundation Interactive Landscape
-  section: Graduated LFDL Projects
+  header: LF AI Foundation Interactive Landscape
+  section: Graduated LFAI Projects
   logo: acumos.svg
 update_server:
   ip: 147.75.106.211
