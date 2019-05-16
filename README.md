@@ -28,7 +28,7 @@ This landscape is intended as a map to explore open source artificial intelligen
 
 ## Interactive Version
 
-Please see [landscape.lfai.foundation.io](https://landscape.lfai.foundation).
+Please see [landscape.lfai.foundation](https://landscape.lfai.foundation).
 
 ## New Entries
 
