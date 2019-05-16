@@ -1,6 +1,6 @@
-[![Dependency Status](https://img.shields.io/david/LFDLFoundation/lfdl-landscape.svg?style=flat-square)](https://david-dm.org/LFDLFoundation/lfdl-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/cb0bff52-871d-42c9-b46e-b3dbf8da9309/deploy-status)](https://app.netlify.com/sites/lfdllandscape/deploys)
+[![Dependency Status](https://img.shields.io/david/lfai/lfai-landscape.svg?style=flat-square)](https://david-dm.org/lfai/lfai-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/a9f0f6cd-9dc2-44c1-baa1-98f288904d6b/deploy-status)](https://app.netlify.com/sites/lfailandscape/deploys)
 
-# Linux Foundation Deep Learning (LFDL) Landscape
+# Linux Foundation Artificial Intelligence (LFAI) Landscape
 
 ![LFDL Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
 
