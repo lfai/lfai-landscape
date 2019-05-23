@@ -192,13 +192,6 @@ landscape:
         name: Framework
         items:
           - item:
-            name: Pythia
-            homepage_url: 'https://github.com/facebookresearch/pythia'
-            repo_url: 'https://github.com/facebookresearch/pythia'
-            logo: pythia.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
             name: Apache SINGA
             homepage_url: 'https://singa.incubator.apache.org/en/index.html'
             repo_url: 'https://github.com/apache/incubator-singa'
@@ -254,6 +247,13 @@ landscape:
             logo: neon.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Pythia
+            homepage_url: 'https://github.com/facebookresearch/pythia'
+            repo_url: 'https://github.com/facebookresearch/pythia'
+            logo: pythia.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: PyTorch
             homepage_url: 'https://pytorch.org/'
