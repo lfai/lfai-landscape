@@ -652,13 +652,20 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
       - subcategory:
-        name: License
+        name: Governance
         items:
           - item:
             name: Community Data License Agreement (CDLA)
             homepage_url: 'https://cdla.io/'
             repo_url: 'https://github.com/LFDLFoundation/CDLA'
             logo: cdla.svg
+            crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'          
+          - item:
+            name: ODPi Egeria
+            homepage_url: 'https://egeria.odpi.org/'
+            repo_url: 'https://github.com/odpi/egeria'
+            logo: odpi_egeria.svg
+            twitter: 'https://twitter.com/ODPiOrg'
             crunchbase: 'https://www.crunchbase.com/organization/the-linux-foundation'
       - subcategory:
         name: Labeling
