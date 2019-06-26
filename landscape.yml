@@ -158,13 +158,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
-            name: Tensor Comprehensions
-            homepage_url: 'https://facebookresearch.github.io/TensorComprehensions/'
-            repo_url: 'https://github.com/facebookresearch/TensorComprehensions'
-            logo: tensorcomprehensions.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
             name: TransmogrifAI
             homepage_url: 'https://transmogrif.ai/'
             repo_url: 'https://github.com/salesforce/TransmogrifAI'
@@ -198,12 +191,6 @@ landscape:
             logo: apache-singa.svg
             twitter: 'https://twitter.com/ApacheSinga'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Caffe
-            homepage_url: 'http://caffe.berkeleyvision.org/'
-            repo_url: 'https://github.com/BVLC/caffe'
-            logo: caffe.svg
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
           - item:
             name: Chainer
             homepage_url: 'https://chainer.org/'
@@ -324,13 +311,6 @@ landscape:
             twitter: 'https://twitter.com/deeplearning4j'
             crunchbase: 'https://www.crunchbase.com/organization/eclipse-foundation'
           - item:
-            name: Gluon
-            homepage_url: 'https://gluon.mxnet.io/'
-            repo_url: 'https://github.com/gluon-api/gluon-api'
-            logo: gluon.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/gluon-open-source-project'
-          - item:
             name: Keras
             homepage_url: 'https://keras.io/'
             repo_url: 'https://github.com/keras-team/keras'
@@ -354,13 +334,6 @@ landscape:
             logo: botorch.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
-            name: DeepBench
-            homepage_url: 'https://github.com/baidu-research/DeepBench'
-            repo_url: 'https://github.com/baidu-research/DeepBench'
-            logo: deepbench.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
             name: Neural Network Distiller
             homepage_url: 'https://nervanasystems.github.io/distiller/'
@@ -469,13 +442,6 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/databricks'
           - item:
-            name: Doozer
-            homepage_url: 'https://github.com/ha/doozerd'
-            repo_url: 'https://github.com/ha/doozerd'
-            logo: doozer.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/doozer-045b'
-          - item:
             name: Druid
             homepage_url: 'http://druid.io'
             repo_url: 'https://github.com/apache/incubator-druid'
@@ -521,20 +487,6 @@ landscape:
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
-            name: Fuel
-            homepage_url: 'https://fuel.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/mila-iqia/fuel'
-            logo: fuel.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/universit-de-montr-al'
-          - item:
-            name: Keystone ML
-            homepage_url: 'http://keystone-ml.org/'
-            repo_url: 'https://github.com/amplab/keystone'
-            logo: keystone.svg
-            twitter: 'https://twitter.com/amplab'
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-california-berkeley'
-          - item:
             name: Marmaray
             homepage_url: 'https://eng.uber.com/marmaray-hadoop-ingestion-open-source/'
             repo_url: 'https://github.com/uber/marmaray'
@@ -551,20 +503,6 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
-          - item:
-            name: Apache Falcon
-            homepage_url: 'https://falcon.apache.org/'
-            repo_url: 'https://github.com/apache/falcon'
-            logo: apache-falcon.svg
-            twitter: 'https://twitter.com/apachefalcon'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Apex
-            homepage_url: 'https://apex.apache.org/'
-            repo_url: 'https://github.com/apache/apex-core'
-            logo: apache-apex.svg
-            twitter: 'https://twitter.com/ApacheApex'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Flink
             homepage_url: 'https://flink.apache.org/'
@@ -1001,20 +939,6 @@ landscape:
       - subcategory:
         name: Tool
         items:
-          - item:
-            name: Datmo
-            homepage_url: 'https://www.datmo.com'
-            repo_url: 'https://github.com/datmo/datmo'
-            logo: datmo.svg
-            twitter: 'https://twitter.com/datmoai'
-            crunchbase: 'https://www.crunchbase.com/organization/datmo'
-          - item:
-            name: GraphPipe
-            homepage_url: 'https://oracle.github.io/graphpipe/'
-            repo_url: 'https://github.com/oracle/graphpipe'
-            logo: graphpipe.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
           - item:
             name: Neo-AI
             homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
