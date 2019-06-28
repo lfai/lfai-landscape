@@ -6,6 +6,13 @@ landscape:
         name: Framework
         items:
           - item:
+            name: FATE
+            homepage_url: 'https://www.fedai.org/'
+            repo_url: 'https://github.com/webankfintech/fate'
+            logo: fedai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/webank'
+          - item:
             name: Accord.NET
             homepage_url: 'http://accord-framework.net/'
             repo_url: 'https://github.com/accord-net/framework'
@@ -690,6 +697,12 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
+            name: BERT
+            homepage_url: 'https://github.com/google-research/bert'
+            repo_url: 'https://github.com/google-research/bert'
+            logo: bert.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
             repo_url: 'https://github.com/allenai/allennlp'
@@ -1358,3 +1371,8 @@ landscape:
             logo: sylabs.svg
             twitter: 'https://twitter.com/SylabsIO'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
+          - item:
+            name: Gemini Open Cloud 
+            homepage_url: 'http://www.geminiopencloud.com'
+            logo: geminiopencloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gemini-open-cloud-computing-inc'
