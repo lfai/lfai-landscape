@@ -6,19 +6,19 @@ landscape:
         name: Framework
         items:
           - item:
-            name: FATE
-            homepage_url: 'https://www.fedai.org/'
-            repo_url: 'https://github.com/webankfintech/fate'
-            logo: fedai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/webank'
-          - item:
             name: Accord.NET
             homepage_url: 'http://accord-framework.net/'
             repo_url: 'https://github.com/accord-net/framework'
             logo: accord-net.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/accord-net-framework-project'
+          - item:
+            name: FATE
+            homepage_url: 'https://www.fedai.org/'
+            repo_url: 'https://github.com/webankfintech/fate'
+            logo: fedai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/webank'
           - item:
             name: LightGBM
             homepage_url: 'https://github.com/Microsoft/LightGBM'
@@ -697,12 +697,6 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: BERT
-            homepage_url: 'https://github.com/google-research/bert'
-            repo_url: 'https://github.com/google-research/bert'
-            logo: bert.svg
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
             repo_url: 'https://github.com/allenai/allennlp'
@@ -716,6 +710,12 @@ landscape:
             logo: uima.svg
             twitter: 'https://twitter.com/apacheuima'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: BERT
+            homepage_url: 'https://github.com/google-research/bert'
+            repo_url: 'https://github.com/google-research/bert'
+            logo: bert.svg
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: CoreNLP
             homepage_url: 'https://stanfordnlp.github.io/CoreNLP/'
@@ -1352,6 +1352,11 @@ landscape:
             twitter: 'https://twitter.com/DidiChuxing'
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
+            name: Gemini Open Cloud
+            homepage_url: 'http://www.geminiopencloud.com'
+            logo: geminiopencloud.svg
+            crunchbase: 'https://www.crunchbase.com/organization/gemini-open-cloud-computing-inc'
+          - item:
             name: Orange
             homepage_url: 'https://www.orange.com/en/home'
             stock_ticker: ORAN
@@ -1371,8 +1376,3 @@ landscape:
             logo: sylabs.svg
             twitter: 'https://twitter.com/SylabsIO'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
-          - item:
-            name: Gemini Open Cloud 
-            homepage_url: 'http://www.geminiopencloud.com'
-            logo: geminiopencloud.svg
-            crunchbase: 'https://www.crunchbase.com/organization/gemini-open-cloud-computing-inc'
