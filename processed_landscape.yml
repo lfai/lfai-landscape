@@ -7329,6 +7329,39 @@ landscape:
         name: General
         items:
           - item:
+            name: IBM
+            homepage_url: 'https://www.ibm.com/'
+            stock_ticker: IBM
+            logo: ibm.svg
+            twitter: 'https://twitter.com/ibm'
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase_data:
+              name: IBM
+              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.ibm.com/'
+              city: Armonk
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/IBM'
+              linkedin: 'https://www.linkedin.com/company/ibm/'
+              ticker: IBM
+              kind: market_cap
+            membership_data:
+              member: false
+            yahoo_finance_data:
+              market_cap: 118928719872
+              effective_ticker: IBM
+            image_data:
+              fileName: ibm.svg
+              hash: ZjpUH4pNt5l4oDV4GctJSS85QJTidUBMfrDP2Kl4y8w=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-22T18:22:02.000Z
+          - item:
             name: B.Yond
             homepage_url: 'https://www.b-yond.com/'
             stock_ticker: null
