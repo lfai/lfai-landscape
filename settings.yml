@@ -188,48 +188,48 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: LF AI Member Company
-        rows: 6
-        width: 730
-        height: 200
+        rows: 2
+        width: 675
+        height: 160
         top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
-        width: 365
-        height: 200
+        width: 420
+        height: 160
         top: 570
-        left: 750
+        left: 700
         children:
           - type: text
             text: >
               This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
-              and also shows the member companies of the LF AI Foundation.
-            top: 45
+              and lists the members of the LF AI Foundation.
+            top: 15
             left: 100
             right: 120
             font_size: 10
           - type: image
             image: qr.svg
-            top: 40
+            top: 10
             left: 5
             width: 90
             height: 90
           - type: title
             title: l.lfai.foundation
-            top: 129
+            top: 99
             left: 9
             font_size: 12
           - type: image
             image: left-logo.svg
             width: 110
             right: 5
-            top: 45
+            top: 15
           - type: image
             image: right-logo.svg
             width: 109
             right: 5
-            top: 85
+            top: 55
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects

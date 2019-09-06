@@ -494,13 +494,6 @@ landscape:
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
-            name: Marmaray
-            homepage_url: 'https://eng.uber.com/marmaray-hadoop-ingestion-open-source/'
-            repo_url: 'https://github.com/uber/marmaray'
-            logo: marmaray.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
-          - item:
             name: TPOT
             homepage_url: 'https://automl.info/tpot/'
             repo_url: 'https://github.com/EpistasisLab/tpot'
@@ -582,6 +575,13 @@ landscape:
       - subcategory:
         name: Visualization
         items:
+          - item:
+            name: RCloud
+            homepage_url: 'https://rcloud.social'
+            repo_url: 'https://github.com/att/rcloud'
+            logo: rcloud.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'          
           - item:
             name: deck.gl
             homepage_url: 'https://deck.gl'
@@ -681,13 +681,6 @@ landscape:
             homepage_url: 'https://planetrl.github.io/'
             repo_url: 'https://github.com/google-research/planet'
             logo: planet.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: TensorFlow Reinforcement Learning (TRFL)
-            homepage_url: 'https://github.com/deepmind/trfl'
-            repo_url: 'https://github.com/deepmind/trfl'
-            logo: trfl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
@@ -817,13 +810,6 @@ landscape:
         name: Training
         items:
           - item:
-            name: DSSTNE
-            homepage_url: 'https://github.com/amzn/amazon-dsstne'
-            repo_url: 'https://github.com/amzn/amazon-dsstne'
-            logo: dsstne.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/amazon'
-          - item:
             name: Embedded Learning Library
             homepage_url: 'https://microsoft.github.io/ELL/'
             repo_url: 'https://github.com/Microsoft/ELL'
@@ -935,13 +921,6 @@ landscape:
             logo: cyclone.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/caicloud'
-          - item:
-            name: Pinball
-            homepage_url: 'https://github.com/pinterest/pinball'
-            repo_url: 'https://github.com/pinterest/pinball'
-            logo: pinball.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/pinterest'
       - subcategory:
         name: Tool
         items:
@@ -973,6 +952,20 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
+          - item:
+            name: Tensorflow Privacy
+            homepage_url: 'https://github.com/tensorflow/privacy'
+            repo_url: 'https://github.com/tensorflow/privacy'
+            logo: tensorflowprivacy.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: ModelDB
+            homepage_url: 'http://modeldb.csail.mit.edu/'
+            repo_url: 'https://github.com/mitdbg/modeldb'
+            logo: modeldb.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/massachusetts-institute-of-technology-mit'
       - subcategory:
         name: Programming
         items:
@@ -1046,6 +1039,13 @@ landscape:
       - subcategory:
         name: Computing & Management
         items:
+          - item:
+            name: Generic Neural Elastic Search (GNES)
+            homepage_url: 'https://github.com/gnes-ai/gnes'
+            repo_url: 'https://github.com/gnes-ai/gnes'
+            logo: gnes.svg
+            twitter: null 
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
             name: Apache Ambari
             homepage_url: 'https://ambari.apache.org/'
