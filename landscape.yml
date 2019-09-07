@@ -562,13 +562,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: RCloud
-            homepage_url: 'https://rcloud.social'
-            repo_url: 'https://github.com/att/rcloud'
-            logo: rcloud.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/at-t'          
-          - item:
             name: deck.gl
             homepage_url: 'https://deck.gl'
             repo_url: 'https://github.com/uber/deck.gl'
@@ -582,6 +575,13 @@ landscape:
             logo: facets.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: RCloud
+            homepage_url: 'https://rcloud.social'
+            repo_url: 'https://github.com/att/rcloud'
+            logo: rcloud.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/at-t'
           - item:
             name: seaborn
             homepage_url: 'https://seaborn.pydata.org/'
@@ -932,19 +932,19 @@ landscape:
             twitter: 'https://twitter.com/PipelineAI'
             crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
           - item:
+            name: Tensorflow Privacy
+            homepage_url: 'https://github.com/tensorflow/privacy'
+            repo_url: 'https://github.com/tensorflow/privacy'
+            logo: tensorflowprivacy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Turi Create
             homepage_url: 'https://github.com/apple/turicreate'
             repo_url: 'https://github.com/apple/turicreate'
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
-          - item:
-            name: Tensorflow Privacy
-            homepage_url: 'https://github.com/tensorflow/privacy'
-            repo_url: 'https://github.com/tensorflow/privacy'
-            logo: tensorflowprivacy.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: Programming
         items:
@@ -1019,13 +1019,6 @@ landscape:
         name: Computing & Management
         items:
           - item:
-            name: Generic Neural Elastic Search (GNES)
-            homepage_url: 'https://github.com/gnes-ai/gnes'
-            repo_url: 'https://github.com/gnes-ai/gnes'
-            logo: gnes.svg
-            twitter: null 
-            crunchbase: 'https://www.crunchbase.com/organization/tencent'
-          - item:
             name: Apache Ambari
             homepage_url: 'https://ambari.apache.org/'
             repo_url: 'https://github.com/apache/ambari'
@@ -1067,6 +1060,13 @@ landscape:
             logo: edl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Generic Neural Elastic Search (GNES)
+            homepage_url: 'https://github.com/gnes-ai/gnes'
+            repo_url: 'https://github.com/gnes-ai/gnes'
+            logo: gnes.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
