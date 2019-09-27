@@ -952,6 +952,9 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
+  - category:
+    name: Programming
+    subcategories:
       - subcategory:
         name: Programming
         items:
@@ -1121,25 +1124,39 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/john-snow-labs-inc'
   - category:
-    name: AI Ethics & Fairness
+    name: Trusted & Responsible AI
     subcategories:
       - subcategory:
-        name: AI Ethics & Fairness
+        name: Explainability
         items:
           - item:
-            name: Adversarial Robustness Toolkit
-            homepage_url: 'https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/'
-            repo_url: 'https://github.com/IBM/adversarial-robustness-toolbox'
-            logo: art.svg
+            name: ALIBI
+            homepage_url: 'https://docs.seldon.io/projects/alibi'
+            repo_url: 'https://github.com/SeldonIO/alibi'
+            logo: alibi.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase: 'https://www.crunchbase.com/organization/seldon'
           - item:
-            name: Aequitas
-            homepage_url: 'http://www.datasciencepublicpolicy.org/projects/aequitas/'
-            repo_url: 'https://github.com/dssg/aequitas'
-            logo: aequitas.svg
+            name: SHAP
+            homepage_url: 'https://github.com/slundberg/shap'
+            repo_url: 'https://github.com/slundberg/shap'
+            logo: shap.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-chicago'
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
+          - item:
+            name: Skater
+            homepage_url: 'https://oracle.github.io/Skater/overview.html'
+            repo_url: 'https://github.com/oracle/Skater'
+            logo: skater.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/oracle'
+          - item:
+            name: ELI5 
+            homepage_url: 'http://eli5.readthedocs.io/'
+            repo_url: 'https://github.com/TeamHG-Memex/eli5'
+            logo: eli5.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/scrapinghub'
           - item:
             name: AI Explainability 360 Toolkit
             homepage_url: 'http://aix360.mybluemix.net'
@@ -1147,34 +1164,6 @@ landscape:
             logo: aix360.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: AI Fairness 360 Toolkit
-            homepage_url: 'https://developer.ibm.com/open/projects/ai-fairness-360/'
-            repo_url: 'https://github.com/IBM/AIF360'
-            logo: aif360.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
-            name: Audit AI
-            homepage_url: 'https://github.com/pymetrics/audit-ai'
-            repo_url: 'https://github.com/pymetrics/audit-ai'
-            logo: audit-ai.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/pymetrics'
-          - item:
-            name: CleverHans
-            homepage_url: 'http://www.cleverhans.io/'
-            repo_url: 'https://github.com/tensorflow/cleverhans'
-            logo: cleverhans.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/cleverhans-project'
-          - item:
-            name: Foolbox
-            homepage_url: 'https://foolbox.readthedocs.io/en/latest/'
-            repo_url: 'https://github.com/bethgelab/foolbox'
-            logo: foolbox.svg
-            twitter: 'https://twitter.com/bethgelab'
-            crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
           - item:
             name: InterpretML
             homepage_url: 'https://github.com/microsoft/interpret'
@@ -1196,6 +1185,54 @@ landscape:
             logo: lucid.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+      - subcategory:
+        name: Adversarial
+        items:
+          - item:
+            name: Adversarial Robustness Toolkit
+            homepage_url: 'https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/'
+            repo_url: 'https://github.com/IBM/adversarial-robustness-toolbox'
+            logo: art.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: CleverHans
+            homepage_url: 'http://www.cleverhans.io/'
+            repo_url: 'https://github.com/tensorflow/cleverhans'
+            logo: cleverhans.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/cleverhans-project'
+          - item:
+            name: Foolbox
+            homepage_url: 'https://foolbox.readthedocs.io/en/latest/'
+            repo_url: 'https://github.com/bethgelab/foolbox'
+            logo: foolbox.svg
+            twitter: 'https://twitter.com/bethgelab'
+            crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
+      - subcategory:
+        name: Bias & Fairness
+        items:
+          - item:
+            name: Aequitas
+            homepage_url: 'http://www.datasciencepublicpolicy.org/projects/aequitas/'
+            repo_url: 'https://github.com/dssg/aequitas'
+            logo: aequitas.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-chicago'
+          - item:
+            name: AI Fairness 360 Toolkit
+            homepage_url: 'https://developer.ibm.com/open/projects/ai-fairness-360/'
+            repo_url: 'https://github.com/IBM/AIF360'
+            logo: aif360.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Audit AI
+            homepage_url: 'https://github.com/pymetrics/audit-ai'
+            repo_url: 'https://github.com/pymetrics/audit-ai'
+            logo: audit-ai.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/pymetrics'
   - category:
     name: Notebook Environment
     subcategories:

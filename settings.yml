@@ -165,9 +165,9 @@ big_picture:
         color: 'rgb(74, 131, 104)'
         fit_width: true
       - type: HorizontalCategory
-        category: AI Ethics & Fairness
+        category: Trusted & Responsible AI
         rows: 4
-        width: 155
+        width: 300
         height: 160
         top: 380
         left: 0
@@ -179,36 +179,36 @@ big_picture:
         width: 200
         height: 160
         top: 380
-        left: 175
+        left: 320
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
         category: Model
         rows: 4
-        width: 720
+        width: 575
         height: 160
         top: 380
-        left: 395
+        left: 540
         color: 'rgb(108, 135, 75)'
         fit_width: true
       - type: HorizontalCategory
         category: LF AI Member Company
         rows: 3
-        width: 675
+        width: 550
         height: 160
         top: 570
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
-        width: 420
+        width: 345
         height: 160
         top: 570
-        left: 700
+        left: 570
         children:
           - type: text
             text: >
-              This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
+              This landscape explores open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects,
               and lists the members of the LF AI Foundation.
             top: 15
             left: 100
@@ -235,6 +235,15 @@ big_picture:
             width: 109
             right: 5
             top: 55
+      - type: HorizontalCategory
+        category: Programming
+        rows: 4
+        width: 180
+        height: 160
+        top: 570
+        left: 935
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects
