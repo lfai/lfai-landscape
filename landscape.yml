@@ -683,21 +683,6 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: Flair
-            homepage_url: 'https://allennlp.org/'
-            repo_url: 'https://github.com/zalandoresearch/flair'
-            logo: flair.svg
-            twitter: null
-            stock_ticker: null 
-            crunchbase: 'https://www.crunchbase.com/organization/zalando'
-          - item:
-            name: Gluon-NLP
-            homepage_url: 'http://gluon-nlp.mxnet.io/'
-            repo_url: 'https://github.com/dmlc/gluon-nlp'
-            logo: gluon.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/gluon-open-source-project'
-          - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
             repo_url: 'https://github.com/allenai/allennlp'
@@ -731,6 +716,21 @@ landscape:
             logo: fasttext.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Flair
+            homepage_url: 'https://allennlp.org/'
+            repo_url: 'https://github.com/zalandoresearch/flair'
+            stock_ticker: null
+            logo: flair.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/zalando'
+          - item:
+            name: Gluon-NLP
+            homepage_url: 'http://gluon-nlp.mxnet.io/'
+            repo_url: 'https://github.com/dmlc/gluon-nlp'
+            logo: gluon.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/gluon-open-source-project'
           - item:
             name: LASER
             homepage_url: 'https://github.com/facebookresearch/LASER'
@@ -1145,6 +1145,13 @@ landscape:
         name: Explainability
         items:
           - item:
+            name: AI Explainability 360 Toolkit
+            homepage_url: 'http://aix360.mybluemix.net'
+            repo_url: 'https://github.com/ibm/aix360'
+            logo: aix360.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
             name: ALIBI
             homepage_url: 'https://docs.seldon.io/projects/alibi'
             repo_url: 'https://github.com/SeldonIO/alibi'
@@ -1152,33 +1159,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
           - item:
-            name: SHAP
-            homepage_url: 'https://github.com/slundberg/shap'
-            repo_url: 'https://github.com/slundberg/shap'
-            logo: shap.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
-          - item:
-            name: Skater
-            homepage_url: 'https://oracle.github.io/Skater/overview.html'
-            repo_url: 'https://github.com/oracle/Skater'
-            logo: skater.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/oracle'
-          - item:
-            name: ELI5 
+            name: ELI5
             homepage_url: 'http://eli5.readthedocs.io/'
             repo_url: 'https://github.com/TeamHG-Memex/eli5'
             logo: eli5.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/scrapinghub'
-          - item:
-            name: AI Explainability 360 Toolkit
-            homepage_url: 'http://aix360.mybluemix.net'
-            repo_url: 'https://github.com/ibm/aix360'
-            logo: aix360.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: InterpretML
             homepage_url: 'https://github.com/microsoft/interpret'
@@ -1200,6 +1186,20 @@ landscape:
             logo: lucid.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: SHAP
+            homepage_url: 'https://github.com/slundberg/shap'
+            repo_url: 'https://github.com/slundberg/shap'
+            logo: shap.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-washington'
+          - item:
+            name: Skater
+            homepage_url: 'https://oracle.github.io/Skater/overview.html'
+            repo_url: 'https://github.com/oracle/Skater'
+            logo: skater.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/oracle'
       - subcategory:
         name: Adversarial
         items:
