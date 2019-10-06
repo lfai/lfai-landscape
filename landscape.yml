@@ -500,9 +500,9 @@ landscape:
             name: Brooklin
             homepage_url: 'https://github.com/linkedin/Brooklin'
             repo_url: 'https://github.com/linkedin/Brooklin'
+            stock_ticker: MSFT
             logo: brooklin.svg
             twitter: null
-            stock_ticker: MSFT 
             crunchbase: 'https://www.crunchbase.com/organization/linkedin'
           - item:
             name: Flink
@@ -807,7 +807,7 @@ landscape:
             homepage_url: 'https://huggingface.co/transformers'
             repo_url: 'https://github.com/huggingface/transformers'
             logo: transformers.svg
-            twitter: https://twitter.com/huggingface
+            twitter: 'https://twitter.com/huggingface'
             crunchbase: 'https://www.crunchbase.com/organization/hugging-face'
   - category:
     name: Model
@@ -931,6 +931,14 @@ landscape:
             twitter: 'https://twitter.com/argoproj'
             crunchbase: 'https://www.crunchbase.com/organization/intuit'
           - item:
+            name: Azkaban
+            homepage_url: 'https://azkaban.github.io'
+            repo_url: 'https://github.com/azkaban/azkaban'
+            stock_ticker: MSFT
+            logo: azkaban.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
+          - item:
             name: Cadence
             homepage_url: 'https://cadenceworkflow.io/'
             repo_url: 'https://github.com/uber/cadence'
@@ -951,17 +959,16 @@ landscape:
             logo: luigi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/spotify'
-          - item:
-            name: Azkaban
-            homepage_url: 'https://azkaban.github.io'
-            repo_url: 'https://github.com/azkaban/azkaban'
-            logo: azkaban.svg
-            twitter: null
-            stock_ticker: MSFT 
-            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
       - subcategory:
         name: Tool
         items:
+          - item:
+            name: Model Server for Apache MXNet
+            homepage_url: 'https://github.com/awslabs/mxnet-model-server'
+            repo_url: 'https://github.com/awslabs/mxnet-model-server'
+            logo: mms.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
             name: Neo-AI
             homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
@@ -984,6 +991,13 @@ landscape:
             twitter: 'https://twitter.com/PipelineAI'
             crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
           - item:
+            name: studio.ml
+            homepage_url: 'https://www.studio.ml'
+            repo_url: 'https://github.com/studioml/studio'
+            logo: studio.ml.svg
+            twitter: 'https://twitter.com/StudiomlDev'
+            crunchbase: 'https://www.crunchbase.com/organization/sentient'
+          - item:
             name: Tensorflow Privacy
             homepage_url: 'https://github.com/tensorflow/privacy'
             repo_url: 'https://github.com/tensorflow/privacy'
@@ -997,20 +1011,6 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
-          - item:
-            name: Model Server for Apache MXNet
-            homepage_url: 'https://github.com/awslabs/mxnet-model-server'
-            repo_url: 'https://github.com/awslabs/mxnet-model-server'
-            logo: mms.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-          - item:
-            name: studio.ml
-            homepage_url: 'https://www.studio.ml'
-            repo_url: 'https://github.com/studioml/studio'
-            logo: studio.ml.svg
-            twitter: 'https://twitter.com/StudiomlDev'
-            crunchbase: 'https://www.crunchbase.com/organization/sentient'
   - category:
     name: Programming
     subcategories:
@@ -1137,6 +1137,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
+            name: genie
+            homepage_url: 'https://netflix.github.io/genie'
+            repo_url: 'https://github.com/Netflix/genie'
+            logo: genie.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
+          - item:
             name: Kubernetes
             description: 'Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications'
             homepage_url: 'https://kubernetes.io/'
@@ -1158,13 +1165,6 @@ landscape:
             logo: singularity.svg
             twitter: 'https://twitter.com/SingularityApp'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
-          - item:
-            name: genie
-            homepage_url: 'https://netflix.github.io/genie'
-            repo_url: 'https://github.com/Netflix/genie'
-            logo: genie.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/netflix'
       - subcategory:
         name: Interface
         items:
@@ -1255,12 +1255,26 @@ landscape:
         name: Adversarial
         items:
           - item:
+            name: AdvBox
+            homepage_url: 'https://github.com/advboxes/AdvBox'
+            repo_url: 'https://github.com/advboxes/AdvBox'
+            logo: advbox.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
+          - item:
             name: Adversarial Robustness Toolkit
             homepage_url: 'https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/'
             repo_url: 'https://github.com/IBM/adversarial-robustness-toolbox'
             logo: art.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Advertorch
+            homepage_url: 'https://advertorch.readthedocs.io/en/latest'
+            repo_url: 'https://github.com/BorealisAI/advertorch'
+            logo: advertorch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
           - item:
             name: CleverHans
             homepage_url: 'http://www.cleverhans.io/'
@@ -1275,20 +1289,6 @@ landscape:
             logo: foolbox.svg
             twitter: 'https://twitter.com/bethgelab'
             crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
-          - item:
-            name: Advertorch
-            homepage_url: 'https://advertorch.readthedocs.io/en/latest'
-            repo_url: 'https://github.com/BorealisAI/advertorch'
-            logo: advertorch.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
-          - item:
-            name: AdvBox
-            homepage_url: 'https://github.com/advboxes/AdvBox'
-            repo_url: 'https://github.com/advboxes/AdvBox'
-            logo: advbox.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/baidu'
       - subcategory:
         name: Bias & Fairness
         items:
