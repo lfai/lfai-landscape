@@ -802,6 +802,13 @@ landscape:
             logo: spacy.svg
             twitter: 'https://twitter.com/spacy_io'
             crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
+          - item:
+            name: Transformers
+            homepage_url: 'https://huggingface.co/transformers'
+            repo_url: 'https://github.com/huggingface/transformers'
+            logo: transformers.svg
+            twitter: https://twitter.com/huggingface
+            crunchbase: 'https://www.crunchbase.com/organization/hugging-face'
   - category:
     name: Model
     subcategories:
@@ -944,6 +951,14 @@ landscape:
             logo: luigi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/spotify'
+          - item:
+            name: Azkaban
+            homepage_url: 'https://azkaban.github.io'
+            repo_url: 'https://github.com/azkaban/azkaban'
+            logo: azkaban.svg
+            twitter: null
+            stock_ticker: MSFT 
+            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
       - subcategory:
         name: Tool
         items:
@@ -989,6 +1004,13 @@ landscape:
             logo: mms.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: studio.ml
+            homepage_url: 'https://www.studio.ml'
+            repo_url: 'https://github.com/studioml/studio'
+            logo: studio.ml.svg
+            twitter: 'https://twitter.com/StudiomlDev'
+            crunchbase: 'https://www.crunchbase.com/organization/sentient'
   - category:
     name: Programming
     subcategories:
@@ -1136,6 +1158,13 @@ landscape:
             logo: singularity.svg
             twitter: 'https://twitter.com/SingularityApp'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
+          - item:
+            name: genie
+            homepage_url: 'https://netflix.github.io/genie'
+            repo_url: 'https://github.com/Netflix/genie'
+            logo: genie.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
       - subcategory:
         name: Interface
         items:
@@ -1253,6 +1282,13 @@ landscape:
             logo: advertorch.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
+          - item:
+            name: AdvBox
+            homepage_url: 'https://github.com/advboxes/AdvBox'
+            repo_url: 'https://github.com/advboxes/AdvBox'
+            logo: advbox.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
       - subcategory:
         name: Bias & Fairness
         items:
