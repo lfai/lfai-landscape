@@ -1042,6 +1042,49 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Tool
+        items:
+          - item:
+            name: Streamlit
+            homepage_url: 'https://streamlit.io'
+            repo_url: 'https://github.com/streamlit/streamlit'
+            logo: streamlit.svg
+            twitter: 'https://twitter.com/streamlit'
+            crunchbase: 'https://www.crunchbase.com/organization/streamlit'
+            crunchbase_data:
+              name: Streamlit
+              description: Streamlit is a app framework specifically for Machine Learning and Data Science teams
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://streamlit.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/streamlit'
+              linkedin: 'https://www.linkedin.com/company/streamlit/'
+              parents: []
+              kind: funding
+              funding: 6000000
+            github_data:
+              stars: 1728
+              license: Apache License 2.0
+              description: Streamlit — The fastest way to build custom ML tools
+              latest_commit_date: '2019-10-05T20:18:30Z'
+              latest_commit_link: /streamlit/streamlit/commit/836b820ea1287730c4e6679b80a5deca8a465144
+              contributors_count: 18
+              contributors_link: 'https://github.com/streamlit/streamlit/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /streamlit/streamlit/commit/a4978c71cba6aa21faa7cea4a65ae17f76b2b5a5
+              start_date: '2018-01-10T00:15:30Z'
+            image_data:
+              fileName: streamlit.svg
+              hash: EwJWElsoe5D12zhN2oTQnkNKyDj735Zi/7/HOcgIhlo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-06T16:43:12.000Z
   - category:
     name: Deep Learning
     subcategories:

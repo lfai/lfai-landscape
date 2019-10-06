@@ -113,8 +113,8 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Machine Learning
-        rows: 3
-        width: 380
+        rows: 4
+        width: 400
         height: 160
         top: 0
         left: 0
@@ -122,16 +122,16 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Deep Learning
-        rows: 3
-        width: 425
+        rows: 4
+        width: 405
         height: 160
         top: 0
-        left: 400
+        left: 420
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
-        rows: 3
+        rows: 4
         width: 125
         height: 160
         top: 0
