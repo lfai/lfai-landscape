@@ -497,6 +497,14 @@ landscape:
         name: Stream Processing
         items:
           - item:
+            name: Brooklin
+            homepage_url: 'https://github.com/linkedin/Brooklin'
+            repo_url: 'https://github.com/linkedin/Brooklin'
+            logo: brooklin.svg
+            twitter: null
+            stock_ticker: null 
+            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
+          - item:
             name: Flink
             homepage_url: 'https://flink.apache.org/'
             repo_url: 'https://github.com/apache/flink'
@@ -929,6 +937,14 @@ landscape:
             logo: cyclone.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/caicloud'
+          - item:
+            name: Luigi
+            homepage_url: 'https://github.com/spotify/luigi'
+            repo_url: 'https://github.com/spotify/luigi'
+            logo: luigi.svg
+            twitter: null
+            stock_ticker: null
+            crunchbase: 'https://www.crunchbase.com/organization/spotify'
       - subcategory:
         name: Tool
         items:
@@ -967,6 +983,13 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
+          - item:
+            name: Model Server for Apache MXNet
+            homepage_url: 'https://github.com/awslabs/mxnet-model-server'
+            repo_url: 'https://github.com/awslabs/mxnet-model-server'
+            logo: mms.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
   - category:
     name: Programming
     subcategories:
@@ -1224,6 +1247,13 @@ landscape:
             logo: foolbox.svg
             twitter: 'https://twitter.com/bethgelab'
             crunchbase: 'https://www.crunchbase.com/organization/tuebingen-university'
+          - item:
+            name: Advertorch
+            homepage_url: 'https://advertorch.readthedocs.io/en/latest'
+            repo_url: 'https://github.com/BorealisAI/advertorch'
+            logo: advertorch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/royal-bank-of-canada'
       - subcategory:
         name: Bias & Fairness
         items:
