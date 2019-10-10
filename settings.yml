@@ -66,6 +66,10 @@ membership:
     name: LFAI
     label: Member
     funding: General
+  Associate:
+    name: LFAI
+    label: Member
+    funding: Associate
   linux_foundation:
     name: LF
     label: Project
@@ -113,8 +117,8 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Machine Learning
-        rows: 4
-        width: 400
+        rows: 3
+        width: 440
         height: 160
         top: 0
         left: 0
@@ -122,90 +126,108 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Deep Learning
-        rows: 4
-        width: 405
+        rows: 3
+        width: 465
         height: 160
         top: 0
-        left: 420
+        left: 460
         color: 'rgb(104, 145, 145)'
         fit_width: true
       - type: HorizontalCategory
-        category: Notebook Environment
-        rows: 4
-        width: 125
-        height: 160
-        top: 0
-        left: 845
-        color: 'rgb(43, 142, 136)'
-        fit_width: true
-      - type: HorizontalCategory
         category: Reinforcement Learning
-        rows: 4
-        width: 125
+        rows: 3
+        width: 170
         height: 160
         top: 0
-        left: 990
+        left: 945
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
-        category: Distributed Computing
+        category: Programming
         rows: 3
-        width: 300
+        width: 240
         height: 160
         top: 190
         left: 0
-        color: 'rgb(64, 89, 163)'
+        color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: HorizontalCategory
         category: Data
         rows: 3
-        width: 795
+        width: 855
         height: 160
         top: 190
-        left: 320
+        left: 260
         color: 'rgb(74, 131, 104)'
         fit_width: true
       - type: HorizontalCategory
         category: Trusted & Responsible AI
-        rows: 4
-        width: 285
+        rows: 3
+        width: 320
         height: 160
         top: 380
         left: 0
         color: 'rgb(142, 209, 216)'
         fit_width: true
       - type: HorizontalCategory
-        category: Natural Language Processing
-        rows: 4
-        width: 225
+        category: Model
+        rows: 3
+        width: 775
         height: 160
         top: 380
-        left: 305
+        left: 340
+        color: 'rgb(108, 135, 75)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Notebook Environment
+        rows: 3
+        width: 180
+        height: 160
+        top: 570
+        left: 0
+        color: 'rgb(43, 142, 136)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Security & Privacy
+        rows: 3
+        width: 160
+        height: 160
+        top: 570
+        left: 200
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Natural Language Processing
+        rows: 3
+        width: 300
+        height: 160
+        top: 570
+        left: 380
         color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
-        category: Model
-        rows: 4
-        width: 565
+        category: Distributed Computing
+        rows: 3
+        width: 415
         height: 160
-        top: 380
-        left: 550
-        color: 'rgb(108, 135, 75)'
+        top: 570
+        left: 700
+        color: 'rgb(64, 89, 163)'
         fit_width: true
       - type: HorizontalCategory
         category: LF AI Member Company
         rows: 4
-        width: 550
+        width: 740
         height: 160
-        top: 570
+        top: 760
         left: 0
         color: 'rgb(124, 200, 182)'
         fit_width: true
       - type: LandscapeInfo
-        width: 345
+        width: 355
         height: 160
-        top: 570
-        left: 570
+        top: 760
+        left: 760
         children:
           - type: text
             text: >
@@ -236,15 +258,7 @@ big_picture:
             width: 109
             right: 5
             top: 55
-      - type: HorizontalCategory
-        category: Programming
-        rows: 4
-        width: 180
-        height: 160
-        top: 570
-        left: 935
-        color: 'rgb(124, 200, 182)'
-        fit_width: true
+
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects
