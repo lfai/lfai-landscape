@@ -932,6 +932,13 @@ landscape:
         name: Workflow
         items:
           - item:
+            name: kedro
+            homepage_url: 'https://github.com/quantumblacklabs/kedro'
+            repo_url: 'https://github.com/quantumblacklabs/kedro'
+            logo: kedro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/quantumblack'
+          - item:
             name: TRAINS
             homepage_url: 'https://github.com/allegroai/trains'
             repo_url: 'https://github.com/allegroai/trains'
@@ -1416,7 +1423,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Security & Privacy
-        items:
+        items:      
           - item:
             name: Differential Privacy Library
             homepage_url: 'https://github.com/google/differential-privacy'
