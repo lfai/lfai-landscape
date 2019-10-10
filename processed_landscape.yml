@@ -1042,49 +1042,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-      - subcategory:
-        name: Tool
-        items:
-          - item:
-            name: Streamlit
-            homepage_url: 'https://streamlit.io'
-            repo_url: 'https://github.com/streamlit/streamlit'
-            logo: streamlit.svg
-            twitter: 'https://twitter.com/streamlit'
-            crunchbase: 'https://www.crunchbase.com/organization/streamlit'
-            crunchbase_data:
-              name: Streamlit
-              description: Streamlit is a app framework specifically for Machine Learning and Data Science teams
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://streamlit.io'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/streamlit'
-              linkedin: 'https://www.linkedin.com/company/streamlit/'
-              parents: []
-              kind: funding
-              funding: 6000000
-            github_data:
-              stars: 2400
-              license: Apache License 2.0
-              description: Streamlit — The fastest way to build custom ML tools
-              latest_commit_date: '2019-10-09T00:42:57Z'
-              latest_commit_link: /streamlit/streamlit/commit/30d53141553f9514d2d5474963abe1f1ad084ffa
-              contributors_count: 18
-              contributors_link: 'https://github.com/streamlit/streamlit/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /streamlit/streamlit/commit/a4978c71cba6aa21faa7cea4a65ae17f76b2b5a5
-              start_date: '2018-01-10T00:15:30Z'
-            image_data:
-              fileName: streamlit.svg
-              hash: EwJWElsoe5D12zhN2oTQnkNKyDj735Zi/7/HOcgIhlo=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-10-09T00:15:16.000Z
   - category:
     name: Deep Learning
     subcategories:
@@ -3191,6 +3148,50 @@ landscape:
         name: Visualization
         items:
           - item:
+            name: TensorBoard
+            homepage_url: 'https://github.com/tensorflow/tensorboard'
+            repo_url: 'https://github.com/tensorflow/tensorboard'
+            logo: tensorboard.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 4140
+              license: Apache License 2.0
+              description: TensorFlow's Visualization Toolkit
+              latest_commit_date: '2019-10-10T05:52:39Z'
+              latest_commit_link: /tensorflow/tensorboard/commit/d4ebc3b5c94da34931e0ff5aebdf9c03af42532f
+              release_date: '2019-09-19T17:33:25Z'
+              release_link: 'https://github.com/tensorflow/tensorboard/releases'
+              contributors_count: 180
+              contributors_link: 'https://github.com/tensorflow/tensorboard/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tensorflow/tensorboard/commit/3c6cf8a35f46a35b4dd37811df95021397046efc
+              start_date: '2015-11-07T00:27:58Z'
+            yahoo_finance_data:
+              market_cap: 826110050304
+              effective_ticker: GOOG
+            image_data:
+              fileName: tensor-board.svg
+              hash: RtCLorTJPIp3iM6iM//l39xVW8loD9QyCrmsclURj8A=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: deck.gl
             homepage_url: 'https://deck.gl'
             repo_url: 'https://github.com/uber/deck.gl'
@@ -4822,6 +4823,44 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: talos
+            homepage_url: 'https://github.com/autonomio/talos'
+            repo_url: 'https://github.com/autonomio/talos'
+            logo: talos.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/autonomio'
+            crunchbase_data:
+              name: Autonomio
+              description: Autonomio is a non-profit organization in Finland.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://autonom.io'
+              city: Helsinki
+              region: Southern Finland
+              country: Finland
+              twitter: null
+              linkedin: null
+              parents: []
+            github_data:
+              stars: 1037
+              license: MIT License
+              description: Hyperparameter Optimization for Keras Models
+              latest_commit_date: '2019-09-26T20:09:06Z'
+              latest_commit_link: /autonomio/talos/commit/3cda43a6014f370a9c9103d71cd991fd375e9846
+              release_date: '2019-08-16T19:51:33Z'
+              release_link: 'https://github.com/autonomio/talos/releases'
+              contributors_count: 13
+              contributors_link: 'https://github.com/autonomio/talos/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /autonomio/talos/commit/e4b5e24c08b2ad9540c7834432e527dae04deeba
+              start_date: '2018-05-04T20:36:42Z'
+            image_data:
+              fileName: talos.svg
+              hash: UXdj6XbOI9snTSChsiyvzbVNWrHIDFkBwtUNA9QqsE0=
+            best_practice_data:
+              badge: false
+              percentage: null
       - subcategory:
         name: Format
         items:
@@ -4958,6 +4997,84 @@ landscape:
       - subcategory:
         name: Workflow
         items:
+          - item:
+            name: TRAINS
+            homepage_url: 'https://github.com/allegroai/trains'
+            repo_url: 'https://github.com/allegroai/trains'
+            logo: trains.svg
+            twitter: 'https://twitter.com/allegroAI'
+            crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
+            crunchbase_data:
+              name: Allegro.AI
+              description: 'Allegro.AI is a deep learning computer vision platform, which provides a complete product lifecycle management solution'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://allegro.ai/'
+              city: Ramat Gan
+              region: Tel Aviv
+              country: Israel
+              twitter: 'https://twitter.com/allegroAI'
+              linkedin: 'https://www.linkedin.com/company/allegroai/'
+              parents: []
+              kind: funding
+              funding: 11000000
+            github_data:
+              stars: 871
+              license: Apache License 2.0
+              description: TRAINS - Auto-Magical Experiment Manager & Version Control for AI
+              latest_commit_date: '2019-10-06T19:05:41Z'
+              latest_commit_link: /allegroai/trains/commit/aedd3fc87eed45cd7552b38ddd4fdfe7269682fd
+              release_date: '2019-10-06T19:37:45Z'
+              release_link: 'https://github.com/allegroai/trains/releases'
+              contributors_count: 5
+              contributors_link: 'https://github.com/allegroai/trains/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /allegroai/trains/commit/03e68d4874c96c4d99723c6263768a3d966202f9
+              start_date: '2019-06-10T08:18:33Z'
+            image_data:
+              fileName: trains.svg
+              hash: oJbtg2SEdavt/bMjcRlqUPHmvI12D+OK97iyMhO+AMU=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-29T12:46:32.000Z
+          - item:
+            name: d6tflow
+            homepage_url: 'https://d6tflow.readthedocs.io'
+            repo_url: 'https://github.com/d6t/d6tflow'
+            logo: d6tflow.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/databolt'
+            crunchbase_data:
+              name: DataBolt
+              description: DataBolt is a collection of python-based products to reduce the time it takes to get your data ready for analysis.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.databolt.tech/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: null
+              parents: []
+            github_data:
+              stars: 792
+              license: MIT License
+              description: Python library for building highly effective data science workflows
+              latest_commit_date: '2019-08-13T03:33:25Z'
+              latest_commit_link: /d6t/d6tflow/commit/fdd0bccf4dc76ad4ba277df6346e6ddf532fccb6
+              contributors_count: 3
+              contributors_link: 'https://github.com/d6t/d6tflow/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /d6t/d6tflow/commit/e04ee04a8009b00205f28692f27bfcbdd3fb018b
+              start_date: '2019-02-02T21:19:03Z'
+            image_data:
+              fileName: d6tflow.svg
+              hash: cZX73xNSLnbOUhtidfj+aO7FdZCRkKTd9PcuSbpCcU4=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
@@ -5465,50 +5582,6 @@ landscape:
             twitter_data:
               latest_tweet_date: 2018-05-29T18:09:24.000Z
           - item:
-            name: Tensorflow Privacy
-            homepage_url: 'https://github.com/tensorflow/privacy'
-            repo_url: 'https://github.com/tensorflow/privacy'
-            logo: tensorflowprivacy.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-            crunchbase_data:
-              name: Google
-              description: Google is a multinational corporation that is specialized in internet-related services and products.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.google.com/'
-              city: Mountain View
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/google'
-              linkedin: 'https://www.linkedin.com/company/google'
-              parents:
-                - 'https://www.crunchbase.com/organization/alphabet'
-              ticker: GOOG
-              kind: market_cap
-            github_data:
-              stars: 910
-              license: Apache License 2.0
-              description: Library for training machine learning models with privacy for training data
-              latest_commit_date: '2019-10-08T18:37:22Z'
-              latest_commit_link: /tensorflow/privacy/commit/142a0871d5f24c0f2b6a6a434be4079c2be38f94
-              release_date: '2019-10-02T22:07:30Z'
-              release_link: 'https://github.com/tensorflow/privacy/releases'
-              contributors_count: 18
-              contributors_link: 'https://github.com/tensorflow/privacy/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /tensorflow/privacy/commit/fe1e84ea6058a841742dbc0dc01869579a598c31
-              start_date: '2018-12-02T18:27:22Z'
-            yahoo_finance_data:
-              market_cap: 826110050304
-              effective_ticker: GOOG
-            image_data:
-              fileName: tensorflow-privacy.svg
-              hash: TisTE4e79DGv17vP/OoXBXA4rW468WE4cn8mQR0oET8=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Turi Create
             homepage_url: 'https://github.com/apple/turicreate'
             repo_url: 'https://github.com/apple/turicreate'
@@ -5548,6 +5621,50 @@ landscape:
             image_data:
               fileName: turi-create.svg
               hash: 7JvfmSXG6BlzN5gooiZMf5Q/w17GES5anmpq0spOswQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TensorFlow Model Analysis
+            homepage_url: 'https://github.com/tensorflow/model-analysis'
+            repo_url: 'https://github.com/tensorflow/model-analysis'
+            logo: tf_model_analysis.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 859
+              license: Apache License 2.0
+              description: Model analysis tools for TensorFlow
+              latest_commit_date: '2019-10-09T17:34:55Z'
+              latest_commit_link: /tensorflow/model-analysis/commit/6cc334e525d474d8380412f5fa770cb2e32098b2
+              release_date: '2019-08-07T00:25:39Z'
+              release_link: 'https://github.com/tensorflow/model-analysis/releases'
+              contributors_count: 18
+              contributors_link: 'https://github.com/tensorflow/model-analysis/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tensorflow/model-analysis/commit/6d5ef8d5c27422d49b72aadb7d0b16f8627e29f9
+              start_date: '2018-03-23T20:44:16Z'
+            yahoo_finance_data:
+              market_cap: 826110050304
+              effective_ticker: GOOG
+            image_data:
+              fileName: tensor-flow-model-analysis.svg
+              hash: 0cnro+KQ5KWs166qtXDLhApc9s4ngtLNrseim/NSe0s=
             best_practice_data:
               badge: false
               percentage: null
@@ -6480,6 +6597,45 @@ landscape:
         name: Explainability
         items:
           - item:
+            name: TreeInterpreter
+            homepage_url: 'https://github.com/andosa/treeinterpreter'
+            repo_url: 'https://github.com/andosa/treeinterpreter'
+            logo: treeinterpreter.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/mtakso'
+            crunchbase_data:
+              name: Bolt
+              description: Bolt provides a ride-sharing platform that connects passengers and drivers from different countries.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'https://bolt.eu/'
+              city: Tallinn
+              region: Harjumaa
+              country: Estonia
+              twitter: 'https://twitter.com/Boltapp'
+              linkedin: 'https://www.linkedin.com/company/taxify'
+              parents:
+                - 'https://www.crunchbase.com/organization/bytelogics'
+              kind: funding
+              funding: 244443270
+            github_data:
+              stars: 507
+              license: BSD 3-Clause "New" or "Revised" License
+              description: null
+              latest_commit_date: '2019-05-31T10:56:14Z'
+              latest_commit_link: /andosa/treeinterpreter/commit/9b846cd03b57c9c92fd17d3ea94bab28c9604028
+              contributors_count: 6
+              contributors_link: 'https://github.com/andosa/treeinterpreter/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /andosa/treeinterpreter/commit/29a5cb808feef663aafc4cc5c5634bbc72ab1b25
+              start_date: '2015-08-02T20:53:49Z'
+            image_data:
+              fileName: tree-interpreter.svg
+              hash: 17F1FpFPqs/k1qynr3ZP/Gag8xiuPViIdIz6we0e6Zg=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: AI Explainability 360 Toolkit
             homepage_url: 'http://aix360.mybluemix.net'
             repo_url: 'https://github.com/ibm/aix360'
@@ -7147,6 +7303,46 @@ landscape:
         name: Notebook Environment
         items:
           - item:
+            name: Streamlit
+            homepage_url: 'https://streamlit.io'
+            repo_url: 'https://github.com/streamlit/streamlit'
+            logo: streamlit.svg
+            twitter: 'https://twitter.com/streamlit'
+            crunchbase: 'https://www.crunchbase.com/organization/streamlit'
+            crunchbase_data:
+              name: Streamlit
+              description: Streamlit is a app framework specifically for Machine Learning and Data Science teams
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://streamlit.io'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/streamlit'
+              linkedin: 'https://www.linkedin.com/company/streamlit/'
+              parents: []
+              kind: funding
+              funding: 6000000
+            github_data:
+              stars: 2400
+              license: Apache License 2.0
+              description: Streamlit — The fastest way to build custom ML tools
+              latest_commit_date: '2019-10-09T00:42:57Z'
+              latest_commit_link: /streamlit/streamlit/commit/30d53141553f9514d2d5474963abe1f1ad084ffa
+              contributors_count: 18
+              contributors_link: 'https://github.com/streamlit/streamlit/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /streamlit/streamlit/commit/a4978c71cba6aa21faa7cea4a65ae17f76b2b5a5
+              start_date: '2018-01-10T00:15:30Z'
+            image_data:
+              fileName: streamlit.svg
+              hash: EwJWElsoe5D12zhN2oTQnkNKyDj735Zi/7/HOcgIhlo=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-09T00:15:16.000Z
+          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
@@ -7386,6 +7582,181 @@ landscape:
             image_data:
               fileName: pixie-dust.svg
               hash: R7tOuzytAo2QgNWWuhXqbVjfJCZIJRTmp0BE8mRWxOI=
+            best_practice_data:
+              badge: false
+              percentage: null
+  - category:
+    name: Security & Privacy
+    subcategories:
+      - subcategory:
+        name: Security & Privacy
+        items:
+          - item:
+            name: Differential Privacy Library
+            homepage_url: 'https://github.com/google/differential-privacy'
+            repo_url: 'https://github.com/google/differential-privacy'
+            logo: differentialprivacy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 1297
+              license: Apache License 2.0
+              description: Google's C++ differential privacy library.
+              latest_commit_date: '2019-09-16T18:43:26Z'
+              latest_commit_link: /google/differential-privacy/commit/7c89b656d73796461c9525077beaaae4840383ef
+              contributors_count: 0
+              contributors_link: 'https://github.com/google/differential-privacy/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /google/differential-privacy/commit/67f1bc5df15f9c7239ae184aecb246a0859b2aef
+              start_date: '2019-09-05T09:51:10Z'
+            yahoo_finance_data:
+              market_cap: 826110050304
+              effective_ticker: GOOG
+            image_data:
+              fileName: differential-privacy-library.svg
+              hash: z5HoA8eKc+/3m6Wpwn431kRcAtk3HYmbdDMr2TqGGVI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: SEAL
+            homepage_url: 'https://www.microsoft.com/en-us/research/project/microsoft-seal'
+            repo_url: 'https://github.com/microsoft/SEAL'
+            logo: seal.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+            crunchbase_data:
+              name: Microsoft
+              description: 'Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.microsoft.com'
+              city: Redmond
+              region: Washington
+              country: United States
+              twitter: 'http://twitter.com/Microsoft'
+              linkedin: 'https://www.linkedin.com/company/microsoft'
+              parents: []
+              ticker: MSFT
+              kind: market_cap
+            github_data:
+              stars: 1339
+              license: MIT License
+              description: Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.
+              latest_commit_date: '2019-08-26T23:53:31Z'
+              latest_commit_link: /microsoft/SEAL/commit/1d5c8169aa5aca9deb75c4079e53ea8d5e94007d
+              contributors_count: 11
+              contributors_link: 'https://github.com/microsoft/SEAL/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /microsoft/SEAL/commit/9f5793eb4c77199e01bd4beb41a1ab4153dab17f
+              start_date: '2018-11-09T00:33:15Z'
+            yahoo_finance_data:
+              market_cap: 1029549391872
+              effective_ticker: MSFT
+            image_data:
+              fileName: seal.svg
+              hash: Y8hp+Qj3IaiK1ub/pkXT6K45fePNml+GeBz5xqMx+6Q=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TensorFlow Privacy
+            homepage_url: 'https://github.com/tensorflow/privacy'
+            repo_url: 'https://github.com/tensorflow/privacy'
+            logo: tf_privacy.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 910
+              license: Apache License 2.0
+              description: Library for training machine learning models with privacy for training data
+              latest_commit_date: '2019-10-08T18:37:22Z'
+              latest_commit_link: /tensorflow/privacy/commit/142a0871d5f24c0f2b6a6a434be4079c2be38f94
+              release_date: '2019-10-02T22:07:30Z'
+              release_link: 'https://github.com/tensorflow/privacy/releases'
+              contributors_count: 18
+              contributors_link: 'https://github.com/tensorflow/privacy/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tensorflow/privacy/commit/fe1e84ea6058a841742dbc0dc01869579a598c31
+              start_date: '2018-12-02T18:27:22Z'
+            yahoo_finance_data:
+              market_cap: 826110050304
+              effective_ticker: GOOG
+            image_data:
+              fileName: tensor-flow-privacy.svg
+              hash: hLnr+LjIxP+zdsEYR6iDVlLGGX6Gm85aItHRBu4m8UU=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: TF Encrypted
+            homepage_url: 'https://tf-encrypted.io'
+            repo_url: 'https://github.com/tf-encrypted/tf-encrypted'
+            logo: tf_encrypted.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that is specialized in internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.google.com/'
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/google'
+              linkedin: 'https://www.linkedin.com/company/google'
+              parents:
+                - 'https://www.crunchbase.com/organization/alphabet'
+              ticker: GOOG
+              kind: market_cap
+            github_data:
+              stars: 481
+              license: Apache License 2.0
+              description: A Framework for Machine Learning on Encrypted Data
+              latest_commit_date: '2019-10-03T09:30:03Z'
+              latest_commit_link: /tf-encrypted/tf-encrypted/commit/f44965ff6f9bb2aaf119de42356454c82fc0fbf6
+              contributors_count: 19
+              contributors_link: 'https://github.com/tf-encrypted/tf-encrypted/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /tf-encrypted/tf-encrypted/commit/1e57e6ba47b379ad4cecf43f0ed20740b6c5c632
+              start_date: '2018-03-21T18:23:11Z'
+            yahoo_finance_data:
+              market_cap: 826110050304
+              effective_ticker: GOOG
+            image_data:
+              fileName: tf-encrypted.svg
+              hash: WJDEelKRHGihwxKgJvbm3cjLtB9aNpz4lzSsvd7CrgI=
             best_practice_data:
               badge: false
               percentage: null
@@ -7935,6 +8306,35 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-10-08T07:42:27.000Z
+          - item:
+            name: New York University
+            homepage_url: 'http://www.nyu.edu'
+            stock_ticker: null
+            logo: nyu.svg
+            twitter: 'https://twitter.com/nyuniversity'
+            crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
+            crunchbase_data:
+              name: New York University
+              description: New York University is one of the largest private universities in the United States.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: 'http://www.nyu.edu/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/nyuniversity'
+              linkedin: 'https://www.linkedin.com/company/3159'
+              parents: []
+              kind: funding
+              funding: 5000000
+            image_data:
+              fileName: new-york-university.svg
+              hash: 4h/GrQvzBUOxdZjgULlk3Zyt72UDOMWAjpHGcITodkY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-09T23:25:01.000Z
 twitter_options:
   count: 40
   since_id: '1170030261523759104'
