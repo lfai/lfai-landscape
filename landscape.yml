@@ -321,6 +321,14 @@ landscape:
         name: Tool
         items:
           - item:
+            name: Adlik
+            homepage_url: 'https://github.com/Adlik/Adlik'
+            project: incubating
+            repo_url: 'https://github.com/Adlik/Adlik'
+            logo: adlik.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
             name: BoTorch
             homepage_url: 'https://botorch.org/'
             repo_url: 'https://github.com/pytorch/botorch'
@@ -362,14 +370,6 @@ landscape:
             logo: tvm.svg
             twitter: 'https://twitter.com/ApacheTVM'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: Adlik
-            homepage_url: 'https://github.com/Adlik/Adlik'
-            project: incubating
-            repo_url: 'https://github.com/Adlik/Adlik'
-            logo: adlik.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   - category:
     name: Data
     subcategories:
@@ -585,13 +585,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: TensorBoard
-            homepage_url: 'https://github.com/tensorflow/tensorboard'
-            repo_url: 'https://github.com/tensorflow/tensorboard'
-            logo: tensorboard.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
             name: deck.gl
             homepage_url: 'https://deck.gl'
             repo_url: 'https://github.com/uber/deck.gl'
@@ -619,6 +612,13 @@ landscape:
             logo: seaborn.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
+          - item:
+            name: TensorBoard
+            homepage_url: 'https://github.com/tensorflow/tensorboard'
+            repo_url: 'https://github.com/tensorflow/tensorboard'
+            logo: tensorboard.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
         name: Governance
         items:
@@ -656,7 +656,7 @@ landscape:
             repo_url: 'https://github.com/Labelbox/Labelbox'
             logo: labelbox.svg
             twitter: 'https://twitter.com/labelbox'
-            crunchbase: 'https://www.crunchbase.com/organization/labelbox' 
+            crunchbase: 'https://www.crunchbase.com/organization/labelbox'
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -945,27 +945,6 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: kedro
-            homepage_url: 'https://github.com/quantumblacklabs/kedro'
-            repo_url: 'https://github.com/quantumblacklabs/kedro'
-            logo: kedro.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/quantumblack'
-          - item:
-            name: TRAINS
-            homepage_url: 'https://github.com/allegroai/trains'
-            repo_url: 'https://github.com/allegroai/trains'
-            logo: trains.svg
-            twitter: 'https://twitter.com/allegroAI'
-            crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
-          - item:
-            name: d6tflow
-            homepage_url: 'https://d6tflow.readthedocs.io'
-            repo_url: 'https://github.com/d6t/d6tflow'
-            logo: d6tflow.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/databolt'
-          - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1009,12 +988,33 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/caicloud'
           - item:
+            name: d6tflow
+            homepage_url: 'https://d6tflow.readthedocs.io'
+            repo_url: 'https://github.com/d6t/d6tflow'
+            logo: d6tflow.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/databolt'
+          - item:
+            name: kedro
+            homepage_url: 'https://github.com/quantumblacklabs/kedro'
+            repo_url: 'https://github.com/quantumblacklabs/kedro'
+            logo: kedro.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/quantumblack'
+          - item:
             name: Luigi
             homepage_url: 'https://github.com/spotify/luigi'
             repo_url: 'https://github.com/spotify/luigi'
             logo: luigi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/spotify'
+          - item:
+            name: TRAINS
+            homepage_url: 'https://github.com/allegroai/trains'
+            repo_url: 'https://github.com/allegroai/trains'
+            logo: trains.svg
+            twitter: 'https://twitter.com/allegroAI'
+            crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
       - subcategory:
         name: Tool
         items:
@@ -1054,19 +1054,19 @@ landscape:
             twitter: 'https://twitter.com/StudiomlDev'
             crunchbase: 'https://www.crunchbase.com/organization/sentient'
           - item:
+            name: TensorFlow Model Analysis
+            homepage_url: 'https://github.com/tensorflow/model-analysis'
+            repo_url: 'https://github.com/tensorflow/model-analysis'
+            logo: tf_model_analysis.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
             name: Turi Create
             homepage_url: 'https://github.com/apple/turicreate'
             repo_url: 'https://github.com/apple/turicreate'
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
-          - item:
-            name: TensorFlow Model Analysis 
-            homepage_url: 'https://github.com/tensorflow/model-analysis'
-            repo_url: 'https://github.com/tensorflow/model-analysis'
-            logo: tf_model_analysis.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
   - category:
     name: Programming
     subcategories:
@@ -1252,13 +1252,6 @@ landscape:
         name: Explainability
         items:
           - item:
-            name: TreeInterpreter
-            homepage_url: 'https://github.com/andosa/treeinterpreter'
-            repo_url: 'https://github.com/andosa/treeinterpreter'
-            logo: treeinterpreter.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/mtakso'
-          - item:
             name: AI Explainability 360 Toolkit
             homepage_url: 'http://aix360.mybluemix.net'
             repo_url: 'https://github.com/ibm/aix360'
@@ -1314,6 +1307,13 @@ landscape:
             logo: skater.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/oracle'
+          - item:
+            name: TreeInterpreter
+            homepage_url: 'https://github.com/andosa/treeinterpreter'
+            repo_url: 'https://github.com/andosa/treeinterpreter'
+            logo: treeinterpreter.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/mtakso'
       - subcategory:
         name: Adversarial
         items:
@@ -1383,13 +1383,6 @@ landscape:
         name: Notebook Environment
         items:
           - item:
-            name: Streamlit
-            homepage_url: 'https://streamlit.io'
-            repo_url: 'https://github.com/streamlit/streamlit'
-            logo: streamlit.svg
-            twitter: 'https://twitter.com/streamlit'
-            crunchbase: 'https://www.crunchbase.com/organization/streamlit'
-          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
@@ -1431,12 +1424,19 @@ landscape:
             logo: pixiedust.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Streamlit
+            homepage_url: 'https://streamlit.io'
+            repo_url: 'https://github.com/streamlit/streamlit'
+            logo: streamlit.svg
+            twitter: 'https://twitter.com/streamlit'
+            crunchbase: 'https://www.crunchbase.com/organization/streamlit'
   - category:
     name: Security & Privacy
     subcategories:
       - subcategory:
         name: Security & Privacy
-        items:      
+        items:
           - item:
             name: Differential Privacy Library
             homepage_url: 'https://github.com/google/differential-privacy'
@@ -1600,7 +1600,7 @@ landscape:
             logo: institute.svg
             twitter: 'https://twitter.com/EthicalML'
             crunchbase: 'https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning'
-          - item: 
+          - item:
             name: New York University
             homepage_url: 'http://www.nyu.edu'
             stock_ticker: null
