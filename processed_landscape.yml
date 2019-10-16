@@ -6073,21 +6073,20 @@ landscape:
             repo_url: 'https://github.com/pyro-ppl/pyro'
             logo: pyro.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: Uber
-              description: 'Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.uber.com'
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/uber'
-              linkedin: 'https://www.linkedin.com/company/1815218'
-              parents: []
-              ticker: UBER
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               stars: 5669
               license: Other
@@ -6101,9 +6100,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /pyro-ppl/pyro/commit/058fdd38bb0692ad2c8b220dd721c277af755901
               start_date: '2017-06-16T05:03:47Z'
-            yahoo_finance_data:
-              market_cap: 54400000000
-              effective_ticker: UBER
             image_data:
               fileName: pyro.svg
               hash: pvASem8plBRtg8bEJ95MZ9D652UcvWWX0iwoxhs5VTo=
