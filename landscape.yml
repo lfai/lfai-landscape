@@ -497,13 +497,6 @@ landscape:
         name: Stream Processing
         items:
           - item:
-            name: faust
-            homepage_url: 'https://github.com/robinhood/faust'
-            repo_url: 'https://github.com/robinhood/faust'
-            logo: faust.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/robinhood'
-          - item:
             name: Brooklin
             homepage_url: 'https://github.com/linkedin/Brooklin'
             repo_url: 'https://github.com/linkedin/Brooklin'
@@ -511,6 +504,13 @@ landscape:
             logo: brooklin.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/linkedin'
+          - item:
+            name: faust
+            homepage_url: 'https://github.com/robinhood/faust'
+            repo_url: 'https://github.com/robinhood/faust'
+            logo: faust.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/robinhood'
           - item:
             name: Flink
             homepage_url: 'https://flink.apache.org/'
@@ -589,14 +589,14 @@ landscape:
             repo_url: 'https://github.com/bokeh/bokeh'
             logo: 'https://static.bokeh.org/logos/logotype.svg'
             twitter: 'https://twitter.com/BokehPlots'
-            crunchbase: 'https://www.crunchbase.com/organization/numfocus' 
+            crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
             name: dash
             homepage_url: 'https://github.com/plotly/dash'
             repo_url: 'https://github.com/plotly/dash'
             logo: dash.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/plotly'  
+            crunchbase: 'https://www.crunchbase.com/organization/plotly'
           - item:
             name: deck.gl
             homepage_url: 'https://deck.gl'
@@ -652,23 +652,17 @@ landscape:
         name: Labeling and Annotation
         items:
           - item:
-            name: doccano
-            homepage_url: 'https://doccano.herokuapp.com'
-            repo_url: 'https://github.com/chakki-works/doccano'
-            logo: doccano.svg
-            crunchbase: 'https://www.crunchbase.com/organization/docanno'
-          - item:
-            name: labellmg
-            homepage_url: 'https://github.com/tzutalin/labelImg'
-            repo_url: 'https://github.com/tzutalin/labelImg'
-            logo: labellmg.svg
-            crunchbase: 'https://www.crunchbase.com/organization/amazon'
-          - item:
             name: Computer Vision Annotation Tool (CVAT)
             homepage_url: 'https://github.com/opencv/cvat'
             repo_url: 'https://github.com/opencv/cvat'
             logo: cvat.svg
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: doccano
+            homepage_url: 'https://doccano.herokuapp.com'
+            repo_url: 'https://github.com/chakki-works/doccano'
+            logo: doccano.svg
+            crunchbase: 'https://www.crunchbase.com/organization/docanno'
           - item:
             name: Label Studio
             homepage_url: 'https://labelstud.io'
@@ -683,20 +677,26 @@ landscape:
             twitter: 'https://twitter.com/labelbox'
             crunchbase: 'https://www.crunchbase.com/organization/labelbox'
           - item:
+            name: labellmg
+            homepage_url: 'https://github.com/tzutalin/labelImg'
+            repo_url: 'https://github.com/tzutalin/labelImg'
+            logo: labellmg.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
+          - item:
+            name: Semantic Segmentation Editor
+            homepage_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
+            repo_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
+            stock_ticker: HTHIY
+            logo: sse.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/hitachi'
+          - item:
             name: Visual Object Tagging Tool (VoTT)
             homepage_url: 'https://github.com/Microsoft/VoTT'
             repo_url: 'https://github.com/Microsoft/VoTT'
             logo: vott.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: Semantic Segmentation Editor 
-            homepage_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
-            repo_url: 'https://github.com/Hitachi-Automotive-And-Industry-Lab/semantic-segmentation-editor'
-            logo: sse.svg
-            twitter: null
-            stock_ticker: HTHIY
-            crunchbase: 'https://www.crunchbase.com/organization/hitachi'
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -985,13 +985,6 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: mleap
-            homepage_url: 'http://mleap-docs.combust.ml/'
-            repo_url: 'https://github.com/combust/mleap'
-            logo: mleap.svg
-            twitter: 'https://twitter.com/combustml'
-            crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
-          - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1056,6 +1049,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/spotify'
           - item:
+            name: mleap
+            homepage_url: 'http://mleap-docs.combust.ml/'
+            repo_url: 'https://github.com/combust/mleap'
+            logo: mleap.svg
+            twitter: 'https://twitter.com/combustml'
+            crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
+          - item:
             name: TRAINS
             homepage_url: 'https://github.com/allegroai/trains'
             repo_url: 'https://github.com/allegroai/trains'
@@ -1098,7 +1098,7 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uc-berkeley-riselab'
           - item:
-            name: MMdnn 
+            name: MMdnn
             homepage_url: 'https://github.com/Microsoft/MMdnn'
             repo_url: 'https://github.com/Microsoft/MMdnn'
             logo: mmdnn.svg
