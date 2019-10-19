@@ -321,14 +321,6 @@ landscape:
         name: Tool
         items:
           - item:
-            name: Adlik
-            homepage_url: 'https://github.com/Adlik/Adlik'
-            project: incubating
-            repo_url: 'https://github.com/Adlik/Adlik'
-            logo: adlik.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-          - item:
             name: BoTorch
             homepage_url: 'https://botorch.org/'
             repo_url: 'https://github.com/pytorch/botorch'
@@ -657,8 +649,20 @@ landscape:
             twitter: 'https://twitter.com/ODPiOrg'
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
       - subcategory:
-        name: Labeling
+        name: Labeling and Annotation
         items:
+          - item:
+            name: doccano
+            homepage_url: 'https://doccano.herokuapp.com'
+            repo_url: 'https://github.com/chakki-works/doccano'
+            logo: doccano.svg
+            crunchbase: 'https://www.crunchbase.com/organization/docanno'
+          - item:
+            name: labellmg
+            homepage_url: 'https://github.com/tzutalin/labelImg'
+            repo_url: 'https://github.com/tzutalin/labelImg'
+            logo: labellmg.svg
+            crunchbase: 'https://www.crunchbase.com/organization/amazon'
           - item:
             name: Computer Vision Annotation Tool (CVAT)
             homepage_url: 'https://github.com/opencv/cvat'
@@ -981,6 +985,13 @@ landscape:
         name: Workflow
         items:
           - item:
+            name: mleap
+            homepage_url: 'http://mleap-docs.combust.ml/'
+            repo_url: 'https://github.com/combust/mleap'
+            logo: mleap.svg
+            twitter: 'https://twitter.com/combustml'
+            crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
+          - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1052,8 +1063,40 @@ landscape:
             twitter: 'https://twitter.com/allegroAI'
             crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
       - subcategory:
+        name: Inference
+        items:
+          - item:
+            name: Adlik
+            homepage_url: 'https://github.com/Adlik/Adlik'
+            project: incubating
+            repo_url: 'https://github.com/Adlik/Adlik'
+            logo: adlik.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: TensorRT
+            homepage_url: 'https://developer.nvidia.com/tensorrt'
+            repo_url: 'https://github.com/NVIDIA/TensorRT'
+            logo: tensorrt.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+          - item:
+            name: TensorRT Inference Server
+            homepage_url: 'https://github.com/NVIDIA/tensorrt-inference-server'
+            repo_url: 'https://github.com/NVIDIA/tensorrt-inference-server'
+            logo: tensorrt-inferenceserver.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+      - subcategory:
         name: Tool
         items:
+          - item:
+            name: Clipper
+            homepage_url: 'http://clipper.ai/'
+            repo_url: 'https://github.com/ucbrise/clipper'
+            logo: clipper.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/uc-berkeley-riselab'
           - item:
             name: MMdnn 
             homepage_url: 'https://github.com/Microsoft/MMdnn'
@@ -1165,7 +1208,7 @@ landscape:
             repo_url: 'https://github.com/pyro-ppl/pyro'
             logo: pyro.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: SciPy
             homepage_url: 'https://www.scipy.org/'
