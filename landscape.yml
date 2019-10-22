@@ -68,7 +68,6 @@ landscape:
             homepage_url: 'https://www.h2o.ai/'
             repo_url: 'https://github.com/h2oai/h2o-3'
             logo: h2o-ai.svg
-            twitter: 'https://twitter.com/h2oai'
             crunchbase: 'https://www.crunchbase.com/organization/h2o-2'
           - item:
             name: Kubeflow
@@ -96,7 +95,6 @@ landscape:
             homepage_url: 'https://www.seldon.io/'
             repo_url: 'https://github.com/SeldonIO/seldon-core'
             logo: seldon.svg
-            twitter: 'https://twitter.com/seldon_io'
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
           - item:
             name: Vowpal Wabbit
@@ -176,7 +174,6 @@ landscape:
             homepage_url: 'https://xgboost.ai/'
             repo_url: 'https://github.com/dmlc/xgboost'
             logo: xgboost.svg
-            twitter: 'https://twitter.com/XGBoostProject'
             crunchbase: 'https://www.crunchbase.com/organization/xgboost'
           - item:
             name: xLearn
@@ -315,7 +312,6 @@ landscape:
             homepage_url: 'https://github.com/OpenMined/PySyft'
             repo_url: 'https://github.com/OpenMined/PySyft'
             logo: pysyft.svg
-            twitter: 'https://twitter.com/openminedorg'
             crunchbase: 'https://www.crunchbase.com/organization/openmined'
       - subcategory:
         name: Tool
@@ -373,7 +369,6 @@ landscape:
             homepage_url: 'https://dotmesh.com/'
             repo_url: 'https://github.com/dotmesh-io/dotmesh'
             logo: dotmesh.svg
-            twitter: 'https://twitter.com/getdotmesh'
             crunchbase: 'https://www.crunchbase.com/organization/dotscience'
           - item:
             name: DVC
@@ -394,7 +389,6 @@ landscape:
             homepage_url: 'https://docs.quiltdata.com/'
             repo_url: 'https://github.com/quiltdata/quilt'
             logo: quiltdata.svg
-            twitter: 'https://twitter.com/quiltdata'
             crunchbase: 'https://www.crunchbase.com/organization/quilt-data'
       - subcategory:
         name: Store & Format
@@ -467,7 +461,6 @@ landscape:
             homepage_url: 'https://www.pilosa.com/'
             repo_url: 'https://github.com/pilosa/pilosa'
             logo: pilosa.svg
-            twitter: 'https://twitter.com/slothware'
             crunchbase: 'https://www.crunchbase.com/organization/pilosa'
       - subcategory:
         name: Pipeline Management
@@ -577,7 +570,6 @@ landscape:
             homepage_url: 'https://www.featuretools.com/'
             repo_url: 'https://github.com/featuretools/featuretools'
             logo: featuretools.svg
-            twitter: 'https://twitter.com/feature_labs'
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
       - subcategory:
         name: Visualization
@@ -673,7 +665,6 @@ landscape:
             homepage_url: 'https://www.labelbox.com'
             repo_url: 'https://github.com/Labelbox/Labelbox'
             logo: labelbox.svg
-            twitter: 'https://twitter.com/labelbox'
             crunchbase: 'https://www.crunchbase.com/organization/labelbox'
           - item:
             name: LabelImg
@@ -860,7 +851,6 @@ landscape:
             homepage_url: 'https://rasa.com/'
             repo_url: 'https://github.com/RasaHQ/rasa'
             logo: rasa.svg
-            twitter: 'https://www.twitter.com/Rasa_HQ'
             crunchbase: 'https://www.crunchbase.com/organization/rasa'
           - item:
             name: spaCy
@@ -874,7 +864,6 @@ landscape:
             homepage_url: 'https://huggingface.co/transformers'
             repo_url: 'https://github.com/huggingface/transformers'
             logo: transformers.svg
-            twitter: 'https://twitter.com/huggingface'
             crunchbase: 'https://www.crunchbase.com/organization/hugging-face'
   - category:
     name: Model
@@ -1052,14 +1041,12 @@ landscape:
             homepage_url: 'http://mleap-docs.combust.ml/'
             repo_url: 'https://github.com/combust/mleap'
             logo: mleap.svg
-            twitter: 'https://twitter.com/combustml'
             crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
           - item:
             name: TRAINS
             homepage_url: 'https://github.com/allegroai/trains'
             repo_url: 'https://github.com/allegroai/trains'
             logo: trains.svg
-            twitter: 'https://twitter.com/allegroAI'
             crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
       - subcategory:
         name: Inference
@@ -1089,13 +1076,6 @@ landscape:
       - subcategory:
         name: Tool
         items:
-          - item:
-            name: ONNX Runtime
-            homepage_url: 'https://github.com/microsoft/onnxruntime'
-            repo_url: 'https://github.com/microsoft/onnxruntime'
-            logo: onnx-runtime.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: Clipper
             homepage_url: 'http://clipper.ai/'
@@ -1132,11 +1112,17 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/netron-open-source-project'
           - item:
+            name: ONNX Runtime
+            homepage_url: 'https://github.com/microsoft/onnxruntime'
+            repo_url: 'https://github.com/microsoft/onnxruntime'
+            logo: onnx-runtime.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+          - item:
             name: Pipeline.ai
             homepage_url: 'https://pipeline.ai/'
             repo_url: 'https://github.com/PipelineAI/pipeline'
             logo: pipelineai.svg
-            twitter: 'https://twitter.com/PipelineAI'
             crunchbase: 'https://www.crunchbase.com/organization/pipelineio'
           - item:
             name: studio.ml
@@ -1521,7 +1507,6 @@ landscape:
             homepage_url: 'https://streamlit.io'
             repo_url: 'https://github.com/streamlit/streamlit'
             logo: streamlit.svg
-            twitter: 'https://twitter.com/streamlit'
             crunchbase: 'https://www.crunchbase.com/organization/streamlit'
   - category:
     name: Security & Privacy
@@ -1566,44 +1551,36 @@ landscape:
           - item:
             name: Amdocs
             homepage_url: 'https://www.amdocs.com/'
-            stock_ticker: DOX
             logo: amdocs.svg
             twitter: 'https://twitter.com/Amdocs'
             crunchbase: 'https://www.crunchbase.com/organization/amdocs'
           - item:
             name: AT&T
             homepage_url: 'https://www.att.com/'
-            stock_ticker: T
             logo: att.svg
-            twitter: 'https://twitter.com/ATT'
             crunchbase: 'https://www.crunchbase.com/organization/at-t'
           - item:
             name: Baidu
             homepage_url: 'https://www.baidu.com/'
-            stock_ticker: BIDU
             logo: baidu.svg
             twitter: 'https://twitter.com/Baidu_Inc'
             crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
             name: Ericsson
             homepage_url: 'https://www.ericsson.com/en'
-            stock_ticker: ERIC
             logo: ericsson.svg
-            twitter: 'https://twitter.com/ericsson'
             crunchbase: 'https://www.crunchbase.com/organization/ericsson'
           - item:
             name: Huawei
             homepage_url: 'https://www.huawei.com/en/'
             stock_ticker: null
             logo: huawei.svg
-            twitter: 'https://twitter.com/Huawei'
             crunchbase: 'https://www.crunchbase.com/organization/huawei'
           - item:
             name: Nokia
             homepage_url: 'https://www.nokia.com'
             stock_ticker: NOK
             logo: nokia.svg
-            twitter: 'https://twitter.com/nokia'
             crunchbase: 'https://www.crunchbase.com/organization/nokia'
           - item:
             name: Tech Mahindra
@@ -1639,7 +1616,6 @@ landscape:
           - item:
             name: Ciena
             homepage_url: 'https://www.ciena.com/'
-            stock_ticker: CIEN
             logo: ciena.svg
             twitter: 'https://twitter.com/ciena'
             crunchbase: 'https://www.crunchbase.com/organization/ciena'
@@ -1648,7 +1624,6 @@ landscape:
             homepage_url: 'https://www.didiglobal.com'
             stock_ticker: null
             logo: didi.svg
-            twitter: 'https://twitter.com/DidiChuxing'
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
             name: Gemini Open Cloud
@@ -1658,7 +1633,6 @@ landscape:
           - item:
             name: IBM
             homepage_url: 'https://www.ibm.com/us-en/?ar=1'
-            stock_ticker: IBM
             logo: ibm.svg
             twitter: 'https://twitter.com/ibm'
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
@@ -1667,20 +1641,17 @@ landscape:
             homepage_url: 'https://www.orange.com/en/home'
             stock_ticker: ORAN
             logo: orange.svg
-            twitter: 'https://twitter.com/orange'
             crunchbase: 'https://www.crunchbase.com/organization/orange'
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
             stock_ticker: IBM
             logo: redhat.svg
-            twitter: 'https://twitter.com/redhat'
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
             name: SyLabs
             homepage_url: 'https://sylabs.io/'
             logo: sylabs.svg
-            twitter: 'https://twitter.com/SylabsIO'
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
       - subcategory:
         name: Associate
@@ -1690,12 +1661,10 @@ landscape:
             homepage_url: 'https://ethical.institute/'
             stock_ticker: null
             logo: institute.svg
-            twitter: 'https://twitter.com/EthicalML'
             crunchbase: 'https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning'
           - item:
             name: New York University
             homepage_url: 'http://www.nyu.edu'
             stock_ticker: null
             logo: nyu.svg
-            twitter: 'https://twitter.com/nyuniversity'
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
