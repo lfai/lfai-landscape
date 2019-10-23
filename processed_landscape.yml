@@ -3515,19 +3515,20 @@ landscape:
             repo_url: 'https://github.com/odpi/egeria'
             logo: odpi_egeria.svg
             twitter: 'https://twitter.com/ODPiOrg'
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
             crunchbase_data:
-              name: Linux Foundation
-              description: The Linux Foundation builds sustainable ecosystems around open source projects to accelerate technology development and industry adoption.
-              num_employees_min: 101
-              num_employees_max: 250
-              homepage: 'http://www.linuxfoundation.org'
+              name: ODPi
+              description: ODPi is an open source effort to promote and advance the state of Apache Hadoop and BigData technologies for the enterprise.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://www.odpi.org'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/linuxfoundation'
-              linkedin: 'https://www.linkedin.com/company/the-linux-foundation'
-              parents: []
+              twitter: 'https://twitter.com/ODPiOrg'
+              linkedin: 'https://www.linkedin.com/company/18133928/'
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               stars: 146
               license: Apache License 2.0
