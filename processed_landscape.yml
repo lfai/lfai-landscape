@@ -428,7 +428,7 @@ landscape:
             homepage_url: 'https://mlflow.org/'
             repo_url: 'https://github.com/mlflow/mlflow'
             logo: mlflow.svg
-            twitter: null
+            twitter: 'https://twitter.com/MLflow'
             crunchbase: 'https://www.crunchbase.com/organization/databricks'
             crunchbase_data:
               name: Databricks
@@ -463,6 +463,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-19T17:39:13.000Z
           - item:
             name: PredictionIO
             homepage_url: 'https://predictionio.apache.org/'
@@ -1601,7 +1603,7 @@ landscape:
         items:
           - item:
             name: BigDL
-            homepage_url: 'https://bigdl-project.github.io/0.7.0/'
+            homepage_url: 'https://bigdl-project.github.io/0.9.0/'
             repo_url: 'https://github.com/intel-analytics/BigDL'
             logo: bigdl.svg
             twitter: null
@@ -2391,7 +2393,7 @@ landscape:
             homepage_url: 'https://delta.io/'
             repo_url: 'https://github.com/delta-io/delta'
             logo: deltalake.svg
-            twitter: null
+            twitter: 'https://twitter.com/DeltaLakeOSS'
             crunchbase: 'https://www.crunchbase.com/organization/databricks'
             crunchbase_data:
               name: Databricks
@@ -2426,6 +2428,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-22T13:50:02.000Z
           - item:
             name: Druid
             homepage_url: 'https://druid.apache.org/'
@@ -3632,6 +3636,7 @@ landscape:
             homepage_url: 'https://labelstud.io'
             repo_url: 'https://github.com/heartexlabs/label-studio'
             logo: labelstudio.svg
+            twitter: 'https://twitter.com/heartexlabs'
             crunchbase: 'https://www.crunchbase.com/organization/heartex'
             crunchbase_data:
               name: Heartex
@@ -3666,6 +3671,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-17T19:12:36.000Z
           - item:
             name: Labelbox
             homepage_url: 'https://www.labelbox.com'
@@ -4343,9 +4350,9 @@ landscape:
               percentage: null
           - item:
             name: Flair
-            homepage_url: 'https://allennlp.org/'
+            homepage_url: 'https://github.com/zalandoresearch/flair'
             repo_url: 'https://github.com/zalandoresearch/flair'
-            stock_ticker: null
+            stock_ticker: ZLNDY
             logo: flair.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/zalando'
@@ -4626,7 +4633,7 @@ landscape:
             homepage_url: 'https://parl.ai/'
             repo_url: 'https://github.com/facebookresearch/ParlAI'
             logo: parlai.svg
-            twitter: null
+            twitter: 'https://twitter.com/parlai_parley'
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
             crunchbase_data:
               name: Facebook
@@ -4662,6 +4669,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-09-18T01:04:08.000Z
           - item:
             name: PyText
             homepage_url: 'https://pytext-pytext.readthedocs-hosted.com/en/latest/'
@@ -4876,7 +4885,7 @@ landscape:
             homepage_url: 'https://mlperf.org/'
             repo_url: 'https://github.com/mlperf/training'
             logo: mlperf.svg
-            twitter: null
+            twitter: 'https://twitter.com/mlperf1'
             crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
             crunchbase_data:
               name: ML Perf
@@ -4909,6 +4918,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-04T20:01:52.000Z
       - subcategory:
         name: Training
         items:
@@ -6089,7 +6100,7 @@ landscape:
           - item:
             name: Netron
             homepage_url: 'https://github.com/lutzroeder/netron'
-            repo_url: 'https://github.com/lutzroeder/Netron'
+            repo_url: 'https://github.com/lutzroeder/netron'
             logo: netron.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/netron-open-source-project'
@@ -6106,15 +6117,15 @@ landscape:
               linkedin: null
               parents: []
             github_data:
-              stars: 6651
+              stars: 6654
               license: MIT License
               description: 'Visualizer for neural network, deep learning and machine learning models'
-              latest_commit_date: '2019-10-22T08:14:43Z'
-              latest_commit_link: /lutzroeder/netron/commit/8973927b7155a1873445a04d8fdd2eba20606b3a
+              latest_commit_date: '2019-10-23T04:00:00.000Z'
+              latest_commit_link: /lutzroeder/netron/commit/043d7104cffd7ec0cfa5aaabfed97b4a40451160
               release_date: '2019-10-21T06:26:29Z'
-              release_link: 'https://github.com/lutzroeder/Netron/releases'
+              release_link: 'https://github.com/lutzroeder/netron/releases'
               contributors_count: 1
-              contributors_link: 'https://github.com/lutzroeder/Netron/graphs/contributors'
+              contributors_link: 'https://github.com/lutzroeder/netron/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /lutzroeder/netron/commit/d8429e893595aa2f2f74c266ed28fab34dab0cb2
               start_date: '2010-12-26T12:55:07Z'
@@ -6129,7 +6140,7 @@ landscape:
             homepage_url: 'https://github.com/microsoft/onnxruntime'
             repo_url: 'https://github.com/microsoft/onnxruntime'
             logo: onnx-runtime.svg
-            twitter: null
+            twitter: 'https://twitter.com/onnxruntime'
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
             crunchbase_data:
               name: Microsoft
@@ -6167,6 +6178,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-08-12T17:50:03.000Z
           - item:
             name: Pipeline.ai
             homepage_url: 'https://pipeline.ai/'
@@ -6822,7 +6835,7 @@ landscape:
             homepage_url: 'http://ranger.apache.org/'
             repo_url: 'https://github.com/apache/ranger'
             logo: apache-ranger.svg
-            twitter: 'https://twitter.com/ApacheRanger'
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apache'
             crunchbase_data:
               name: Apache Software Foundation
@@ -6853,8 +6866,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2011-11-06T00:39:26.000Z
           - item:
             name: Apache Storm
             homepage_url: 'http://storm.apache.org/'
@@ -7062,7 +7073,7 @@ landscape:
             homepage_url: 'https://www.intel.ai/nauta/'
             repo_url: 'https://github.com/IntelAI/Nauta'
             logo: nauta.svg
-            twitter: null
+            twitter: 'https://twitter.com/IntelAI'
             crunchbase: 'https://www.crunchbase.com/organization/intel'
             crunchbase_data:
               name: Intel
@@ -7100,6 +7111,8 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-22T20:49:06.000Z
           - item:
             name: Singularity
             homepage_url: 'https://sylabs.io/'
