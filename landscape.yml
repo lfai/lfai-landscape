@@ -1461,13 +1461,6 @@ landscape:
         name: Notebook Environment
         items:
           - item:
-            name: Polynote
-            homepage_url: 'https://polynote.org'
-            repo_url: 'https://github.com/polynote/polynote'
-            logo: 'https://raw.githubusercontent.com/polynote/polynote/master/polynote-frontend/style/polynote.svg'
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/netflix'
-          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
@@ -1509,6 +1502,13 @@ landscape:
             logo: pixiedust.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
+          - item:
+            name: Polynote
+            homepage_url: 'https://polynote.org'
+            repo_url: 'https://github.com/polynote/polynote'
+            logo: 'https://raw.githubusercontent.com/polynote/polynote/master/polynote-frontend/style/polynote.svg'
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
           - item:
             name: Streamlit
             homepage_url: 'https://streamlit.io'
