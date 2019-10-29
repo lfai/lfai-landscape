@@ -13068,6 +13068,75 @@ landscape:
         name: Notebook Environment
         items:
           - item:
+            name: Polynote
+            homepage_url: 'https://polynote.org'
+            repo_url: 'https://github.com/polynote/polynote'
+            logo: 'https://raw.githubusercontent.com/polynote/polynote/master/polynote-frontend/style/polynote.svg'
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
+            crunchbase_data:
+              name: Netflix
+              description: 'Netflix is an online platform that enables users to watch TV shows and movies on smart TVs, PCs, Macs, mobiles, tablets, and so on. '
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'https://www.netflix.com'
+              city: Los Gatos
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/netflix'
+              linkedin: 'https://www.linkedin.com/company/netflix'
+              parents: []
+              ticker: NFLX
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Scala
+                  value: 551108
+                  color: '#c22d40'
+                - name: TypeScript
+                  value: 397878
+                  color: '#2b7489'
+                - name: CSS
+                  value: 54067
+                  color: '#563d7c'
+                - name: JavaScript
+                  value: 19379
+                  color: '#f1e05a'
+                - name: Java
+                  value: 1570
+                  color: '#b07219'
+                - name: Shell
+                  value: 1037
+                  color: '#89e051'
+                - name: Python
+                  value: 999
+                  color: '#3572A5'
+                - name: HTML
+                  value: 933
+                  color: '#e34c26'
+              contributions: 0;0;0;0;0;0;0;0;0;0;1;1;5;21;22;42;33;42;37;40;57;52;57;32;44;37;18;47;13;0;0;0;0;6;8;24;20;40;35;31;27;21;6;3;11;7;13;49;32;57;34;81
+              firstWeek: 2018-11-05Z
+              stars: 1834
+              license: Apache License 2.0
+              description: A better notebook for Scala (and more)
+              latest_commit_date: '2019-10-28T22:45:43Z'
+              latest_commit_link: /polynote/polynote/commit/28c2e7303efc277b718801a8ca710cda52e970e4
+              release_date: '2019-10-24T00:13:23Z'
+              release_link: 'https://github.com/polynote/polynote/releases'
+              contributors_count: 6
+              contributors_link: 'https://github.com/polynote/polynote/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /polynote/polynote/commit/f3c55cf7e366884676e74e8500beb5b822997a7c
+              start_date: '2019-01-14T17:51:15Z'
+            yahoo_finance_data:
+              market_cap: 121316646912
+              effective_ticker: NFLX
+            image_data:
+              fileName: polynote.svg
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
