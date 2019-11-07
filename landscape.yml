@@ -973,13 +973,6 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: Volcano
-            homepage_url: 'https://github.com/volcano-sh/volcano'
-            repo_url: 'https://github.com/volcano-sh/volcano'
-            logo: 'volcano.svg'
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/huawei'
-          - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1055,6 +1048,13 @@ landscape:
             repo_url: 'https://github.com/allegroai/trains'
             logo: trains.svg
             crunchbase: 'https://www.crunchbase.com/organization/allegro-ai'
+          - item:
+            name: Volcano
+            homepage_url: 'https://github.com/volcano-sh/volcano'
+            repo_url: 'https://github.com/volcano-sh/volcano'
+            logo: volcano.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/huawei'
       - subcategory:
         name: Inference
         items:
