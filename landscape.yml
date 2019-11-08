@@ -949,6 +949,7 @@ landscape:
             name: ONNX
             homepage_url: 'https://onnx.ai/'
             repo_url: 'https://github.com/onnx/onnx'
+            project: graduated
             logo: onnx.svg
             twitter: 'https://twitter.com/onnxai'
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
@@ -1474,6 +1475,20 @@ landscape:
       - subcategory:
         name: Notebook Environment
         items:
+          - item:
+            name: rmarkdown
+            homepage_url: 'https://rmarkdown.rstudio.com'
+            repo_url: 'https://github.com/rstudio/rmarkdown'
+            logo: rmarkdown.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/rstudio'
+          - item:
+            name: Stencila
+            homepage_url: 'http://stenci.la'
+            repo_url: 'https://github.com/stencila/stencila'
+            logo: stencila.svg
+            twitter: 'https://twitter.com/stencila'
+            crunchbase: 'https://www.crunchbase.com/organization/stencila'
           - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
