@@ -1475,20 +1475,6 @@ landscape:
         name: Notebook Environment
         items:
           - item:
-            name: rmarkdown
-            homepage_url: 'https://rmarkdown.rstudio.com'
-            repo_url: 'https://github.com/rstudio/rmarkdown'
-            logo: rmarkdown.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/rstudio'
-          - item:
-            name: Stencila
-            homepage_url: 'http://stenci.la'
-            repo_url: 'https://github.com/stencila/stencila'
-            logo: stencila.svg
-            twitter: 'https://twitter.com/stencila'
-            crunchbase: 'https://www.crunchbase.com/organization/stencila'
-          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
@@ -1537,6 +1523,19 @@ landscape:
             logo: 'https://raw.githubusercontent.com/polynote/polynote/master/polynote-frontend/style/polynote.svg'
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/netflix'
+          - item:
+            name: rmarkdown
+            homepage_url: 'https://rmarkdown.rstudio.com'
+            repo_url: 'https://github.com/rstudio/rmarkdown'
+            logo: rmarkdown.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/rstudio'
+          - item:
+            name: Stencila
+            homepage_url: 'http://stenci.la'
+            repo_url: 'https://github.com/stencila/stencila'
+            logo: stencila.svg
+            crunchbase: 'https://www.crunchbase.com/organization/stencila'
           - item:
             name: Streamlit
             homepage_url: 'https://streamlit.io'
