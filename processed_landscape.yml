@@ -13166,6 +13166,123 @@ landscape:
         name: Notebook Environment
         items:
           - item:
+            name: rmarkdown
+            homepage_url: 'https://rmarkdown.rstudio.com'
+            repo_url: 'https://github.com/rstudio/rmarkdown'
+            logo: rmarkdown.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/rstudio'
+            crunchbase_data:
+              name: RStudio
+              description: RStudio develops open source and enterprise-ready professional software for the R statistical computing environment.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'http://www.rstudio.com/'
+              city: Boston
+              region: Massachusetts
+              country: United States
+              twitter: 'https://twitter.com/rstudio'
+              linkedin: 'https://www.linkedin.com/company/rstudio-inc.'
+              parents: []
+            github_data:
+              languages:
+                - name: R
+                  value: 415233
+                  color: '#198CE7'
+                - name: JavaScript
+                  value: 214954
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 136564
+                  color: '#563d7c'
+                - name: HTML
+                  value: 52013
+                  color: '#e34c26'
+                - name: TeX
+                  value: 27510
+                  color: '#3D6117'
+                - name: Lua
+                  value: 17367
+                  color: '#000080'
+                - name: Shell
+                  value: 3152
+                  color: '#89e051'
+              contributions: 3;1;0;32;5;2;0;0;1;0;1;0;1;5;1;6;5;11;3;1;4;2;0;0;0;6;1;5;0;0;3;2;9;4;5;3;2;0;0;2;2;3;2;1;5;1;9;2;2;0;2;2
+              firstWeek: 2018-11-12Z
+              stars: 1651
+              license: Unknown License
+              description: Dynamic Documents for R
+              latest_commit_date: '2019-11-07T22:32:36Z'
+              latest_commit_link: /rstudio/rmarkdown/commit/6b45557dd0db771a4b871f7de1623cb68bcbbf4e
+              release_date: '2019-10-01T20:40:09Z'
+              release_link: 'https://github.com/rstudio/rmarkdown/releases'
+              contributors_count: 85
+              contributors_link: 'https://github.com/rstudio/rmarkdown/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /rstudio/rmarkdown/commit/081efbbc5f62e9b4b1974f020163c1010b764f38
+              start_date: '2014-01-22T17:27:14Z'
+            image_data:
+              fileName: rmarkdown.svg
+              hash: xlgIHV+GZIEPAAQgR7OTOR5ApoikfIG5p0MqakwYaGw=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Stencila
+            homepage_url: 'http://stenci.la'
+            repo_url: 'https://github.com/stencila/stencila'
+            logo: stencila.svg
+            twitter: 'https://twitter.com/stencila'
+            crunchbase: 'https://www.crunchbase.com/organization/stencila'
+            crunchbase_data:
+              name: Stencila
+              description: Stencila lets researchers create reproducible papers in their favorite tools and environment.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://stenci.la/'
+              city: Kaikoura
+              region: Gisborne
+              country: New Zealand
+              twitter: 'https://twitter.com/stencila'
+              linkedin: 'https://www.linkedin.com/company/stencila/'
+              parents: []
+            github_data:
+              languages:
+                - name: TypeScript
+                  value: 14915
+                  color: '#2b7489'
+                - name: Shell
+                  value: 2759
+                  color: '#89e051'
+                - name: JavaScript
+                  value: 1871
+                  color: '#f1e05a'
+                - name: Makefile
+                  value: 119
+                  color: '#427819'
+              contributions: 3;5;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;12;21;20;0;0;0;0;0;0;0;0;0;0;0;19;8;8;2;3;2;0;0;0;0
+              firstWeek: 2018-11-12Z
+              stars: 548
+              license: Apache License 2.0
+              description: Stencila
+              latest_commit_date: '2019-10-11T04:33:48Z'
+              latest_commit_link: /stencila/stencila/commit/c3958591f2c09b100aee48b21c26270ab1c4bf5e
+              release_date: '2019-10-11T04:34:00Z'
+              release_link: 'https://github.com/stencila/stencila/releases'
+              contributors_count: 14
+              contributors_link: 'https://github.com/stencila/stencila/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /stencila/stencila/commit/1dd95e89daba42fd3dcbdf71605c3b156d3cf512
+              start_date: '2016-09-12T02:42:46Z'
+            image_data:
+              fileName: stencila.svg
+              hash: +tx5762B4u5hV1fsHjM3kPINcEmXmvAbnnMPCK40Vgw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-10-08T18:09:21.000Z
+          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
