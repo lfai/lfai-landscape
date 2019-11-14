@@ -559,12 +559,6 @@ landscape:
         name: Feature Engineering
         items:
           - item:
-            name: tsfresh
-            homepage_url: 'http://tsfresh.readthedocs.io'
-            repo_url: 'https://github.com/blue-yonder/tsfresh'
-            logo: tsfresh.svg
-            crunchbase: 'https://www.crunchbase.com/organization/blue-yonder'
-          - item:
             name: Feast
             homepage_url: 'https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning'
             repo_url: 'https://github.com/gojek/feast'
@@ -577,6 +571,12 @@ landscape:
             repo_url: 'https://github.com/featuretools/featuretools'
             logo: featuretools.svg
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+          - item:
+            name: tsfresh
+            homepage_url: 'http://tsfresh.readthedocs.io'
+            repo_url: 'https://github.com/blue-yonder/tsfresh'
+            logo: tsfresh.svg
+            crunchbase: 'https://www.crunchbase.com/organization/blue-yonder'
       - subcategory:
         name: Visualization
         items:
@@ -700,13 +700,6 @@ landscape:
         name: Reinforcement Learning
         items:
           - item:
-            name: Stable Baselines
-            homepage_url: 'http://stable-baselines.readthedocs.io'
-            repo_url: 'https://github.com/hill-a/stable-baselines'
-            logo: stable-baselines.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/stable-baselines-open-source-project'
-          - item:
             name: Chainer RL
             homepage_url: 'https://chainerrl.readthedocs.io/en/latest/'
             repo_url: 'https://github.com/chainer/chainerrl'
@@ -755,33 +748,19 @@ landscape:
             logo: planet.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Stable Baselines
+            homepage_url: 'http://stable-baselines.readthedocs.io'
+            repo_url: 'https://github.com/hill-a/stable-baselines'
+            logo: stable-baselines.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/stable-baselines-open-source-project'
   - category:
     name: Natural Language Processing
     subcategories:
       - subcategory:
         name: Natural Language Processing
         items:
-          - item:
-            name: Kashgari
-            homepage_url: 'https://github.com/BrikerMan/Kashgari'
-            repo_url: 'https://github.com/BrikerMan/Kashgari'
-            logo: kashgari.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/kashgari-open-source-project'
-          - item:
-            name: YouTokenToMe
-            homepage_url: 'https://github.com/VKCOM/YouTokenToMe'
-            repo_url: 'https://github.com/VKCOM/YouTokenToMe'
-            logo: YouTokenToMe.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/vk'
-          - item:
-            name: XLM
-            homepage_url: 'https://github.com/facebookresearch/XLM'
-            repo_url: 'https://github.com/facebookresearch/XLM'
-            logo: xlm.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
@@ -831,6 +810,13 @@ landscape:
             logo: gluon.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/gluon-open-source-project'
+          - item:
+            name: Kashgari
+            homepage_url: 'https://github.com/BrikerMan/Kashgari'
+            repo_url: 'https://github.com/BrikerMan/Kashgari'
+            logo: kashgari.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/kashgari-open-source-project'
           - item:
             name: LASER
             homepage_url: 'https://github.com/facebookresearch/LASER'
@@ -899,6 +885,20 @@ landscape:
             repo_url: 'https://github.com/huggingface/transformers'
             logo: transformers.svg
             crunchbase: 'https://www.crunchbase.com/organization/hugging-face'
+          - item:
+            name: XLM
+            homepage_url: 'https://github.com/facebookresearch/XLM'
+            repo_url: 'https://github.com/facebookresearch/XLM'
+            logo: xlm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: YouTokenToMe
+            homepage_url: 'https://github.com/VKCOM/YouTokenToMe'
+            repo_url: 'https://github.com/VKCOM/YouTokenToMe'
+            logo: YouTokenToMe.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/vk'
   - category:
     name: Model
     subcategories:
@@ -1717,15 +1717,15 @@ landscape:
             logo: redhat.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
-            name: SyLabs
-            homepage_url: 'https://sylabs.io/'
-            logo: sylabs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
-          - item:
             name: RStudio
             homepage_url: 'https://www.rstudio.com'
             logo: rstudio.svg
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
+          - item:
+            name: SyLabs
+            homepage_url: 'https://sylabs.io/'
+            logo: sylabs.svg
+            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
       - subcategory:
         name: Associate
         items:
