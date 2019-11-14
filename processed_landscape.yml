@@ -9047,23 +9047,23 @@ landscape:
             name: ONNX
             homepage_url: 'https://onnx.ai/'
             repo_url: 'https://github.com/onnx/onnx'
+            project: graduated
             logo: onnx.svg
             twitter: 'https://twitter.com/onnxai'
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: Microsoft
-              description: 'Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.microsoft.com'
-              city: Redmond
-              region: Washington
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: 'http://twitter.com/Microsoft'
-              linkedin: 'https://www.linkedin.com/company/microsoft'
-              parents: []
-              ticker: MSFT
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
             github_data:
               languages:
                 - name: PureBasic
@@ -9103,9 +9103,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /onnx/onnx/commit/b8ab0ed286ffd0b0020a367e078f66bdc3303db5
               start_date: '2017-09-07T04:47:53Z'
-            yahoo_finance_data:
-              market_cap: 1123800055808
-              effective_ticker: MSFT
             image_data:
               fileName: onnx.svg
               hash: S8RZRvhtfijaoL39P6LwEDi9W/CMjGJxmEyY5IEGzMY=
