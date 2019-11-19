@@ -394,13 +394,6 @@ landscape:
         name: Store & Format
         items:
           - item:
-            name: Milvus
-            homepage_url: 'https://milvus.io'
-            repo_url: 'https://github.com/milvus-io/milvus'
-            logo: milvus.svg
-            twitter: 'https://twitter.com/milvusio'
-            crunchbase: 'https://www.crunchbase.com/organization/zilliz'
-          - item:
             name: Alluxio
             homepage_url: 'https://www.alluxio.io/'
             repo_url: 'https://github.com/alluxio/alluxio'
@@ -456,6 +449,13 @@ landscape:
             logo: hudi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: Milvus
+            homepage_url: 'https://milvus.io'
+            repo_url: 'https://github.com/milvus-io/milvus'
+            logo: milvus.svg
+            twitter: 'https://twitter.com/milvusio'
+            crunchbase: 'https://www.crunchbase.com/organization/zilliz'
           - item:
             name: Parquet
             homepage_url: 'https://parquet.apache.org/'
