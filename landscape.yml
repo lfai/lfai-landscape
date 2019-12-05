@@ -1021,13 +1021,6 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: Metaflow
-            homepage_url: 'https://metaflow.org/'
-            repo_url: 'https://github.com/Netflix/metaflow'
-            logo: metaflow.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/netflix'
-          - item:
             name: Apache Airflow
             homepage_url: 'https://airflow.apache.org/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1091,6 +1084,13 @@ landscape:
             logo: luigi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/spotify'
+          - item:
+            name: Metaflow
+            homepage_url: 'https://metaflow.org/'
+            repo_url: 'https://github.com/Netflix/metaflow'
+            logo: metaflow.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/netflix'
           - item:
             name: mleap
             homepage_url: 'http://mleap-docs.combust.ml/'
@@ -1686,19 +1686,19 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
-            name: ZTE
-            homepage_url: 'https://www.zte.com.cn/global/'
-            stock_ticker: null
-            logo: zte.svg
-            twitter: 'https://twitter.com/ztepress'
-            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
             name: Zilliz
             homepage_url: 'https://zilliz.com'
             stock_ticker: null
             logo: zilliz.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/zilliz'
+          - item:
+            name: ZTE
+            homepage_url: 'https://www.zte.com.cn/global/'
+            stock_ticker: null
+            logo: zte.svg
+            twitter: 'https://twitter.com/ztepress'
+            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
       - subcategory:
         name: General
         items:
