@@ -232,6 +232,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
+            name: PaddlePaddle
+            homepage_url: 'http://www.paddlepaddle.org.cn/'
+            repo_url: 'https://github.com/PaddlePaddle/Paddle'
+            logo: paddlepaddle.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/baidu'
+          - item:
             name: Pythia
             homepage_url: 'https://github.com/facebookresearch/pythia'
             repo_url: 'https://github.com/facebookresearch/pythia'
@@ -252,13 +259,6 @@ landscape:
             logo: tensorflow.svg
             twitter: 'https://twitter.com/TensorFlow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
-            name: PaddlePaddle
-            homepage_url: 'http://www.paddlepaddle.org.cn/'
-            repo_url: 'https://github.com/PaddlePaddle/Paddle'
-            logo: paddlepaddle.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/baidu'
       - subcategory:
         name: Platform
         items:
@@ -294,6 +294,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
+            name: Catalyst
+            homepage_url: 'https://github.com/catalyst-team/catalyst'
+            repo_url: 'https://github.com/catalyst-team/catalyst'
+            logo: 'https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst-svg-white.svg'
+            crunchbase: 'https://www.crunchbase.com/organization/catalyst-team'
+          - item:
             name: Eclipse Deeplearning4j
             homepage_url: 'https://deeplearning4j.org/'
             repo_url: 'https://github.com/eclipse/deeplearning4j'
@@ -313,12 +319,6 @@ landscape:
             repo_url: 'https://github.com/OpenMined/PySyft'
             logo: pysyft.svg
             crunchbase: 'https://www.crunchbase.com/organization/openmined'
-          - item:
-            name: Catalyst
-            homepage_url: 'https://github.com/catalyst-team/catalyst'
-            repo_url: 'https://github.com/catalyst-team/catalyst'
-            logo: 'https://raw.githubusercontent.com/catalyst-team/catalyst-pics/master/pics/catalyst-svg-white.svg'
-            crunchbase: 'https://www.crunchbase.com/organization/catalyst-team'
       - subcategory:
         name: Tool
         items:
