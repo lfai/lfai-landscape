@@ -50,6 +50,13 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Alink
+            homepage_url: 'https://github.com/alibaba/Alink'
+            repo_url: 'https://github.com/alibaba/Alink'
+            logo: alink.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+          - item:
             name: Apache SystemML
             homepage_url: 'https://systemml.apache.org/'
             repo_url: 'https://github.com/apache/systemml'
@@ -463,6 +470,13 @@ landscape:
             twitter: 'https://twitter.com/milvusio'
             crunchbase: 'https://www.crunchbase.com/organization/zilliz'
           - item:
+            name: VEARCH
+            homepage_url: 'https://vearch.github.io/'
+            repo_url: 'https://github.com/vearch/vearch'
+            logo: vearch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/jd-com'
+          - item:
             name: Parquet
             homepage_url: 'https://parquet.apache.org/'
             repo_url: 'https://github.com/apache/parquet-format'
@@ -475,6 +489,15 @@ landscape:
             repo_url: 'https://github.com/pilosa/pilosa'
             logo: pilosa.svg
             crunchbase: 'https://www.crunchbase.com/organization/pilosa'
+      - subcategory:
+        name: Operations
+        items:
+          - item:
+            name: Marquex
+            homepage_url: 'https://marquezproject.github.io/marquez'
+            repo_url: 'https://github.com/MarquezProject/marquez'
+            logo: marquez.svg
+            crunchbase: 'https://www.crunchbase.com/organization/wework'
       - subcategory:
         name: Pipeline Management
         items:
@@ -1150,6 +1173,13 @@ landscape:
       - subcategory:
         name: Tool
         items:
+          - item:
+            name: dlrm
+            homepage_url: 'https://github.com/facebookresearch/dlrm'
+            repo_url: 'https://github.com/facebookresearch/dlrm'
+            logo: dlrm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: Clipper
             homepage_url: 'http://clipper.ai/'
