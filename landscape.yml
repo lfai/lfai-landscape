@@ -50,6 +50,14 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Angel-ML
+            homepage_url: 'https://github.com/Angel-ML/angel'
+            project: graduated
+            repo_url: 'https://github.com/Angel-ML/angel'
+            logo: angel.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
             name: Alink
             homepage_url: 'https://github.com/alibaba/Alink'
             repo_url: 'https://github.com/alibaba/Alink'
@@ -1002,14 +1010,6 @@ landscape:
       - subcategory:
         name: Parameter
         items:
-          - item:
-            name: Angel-ML
-            homepage_url: 'https://github.com/Angel-ML/angel'
-            project: incubating
-            repo_url: 'https://github.com/Angel-ML/angel'
-            logo: angel.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: HyperOpt
             homepage_url: 'https://hyperopt.github.io/hyperopt/'
