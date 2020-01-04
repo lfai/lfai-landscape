@@ -108,16 +108,16 @@ big_picture:
     title: Linux Foundation AI Landscape
     fullscreen_header: See the interactive landscape at l.lfai.foundation
     size:
-      width: 1170
-      height: 1000
+      width: 1350
+      height: 800
     fullscreen_size:
-      width: 1170
-      height: 1000
+      width: 1350
+      height: 800
     elements:
       - type: HorizontalCategory
         category: Machine Learning
-        rows: 3
-        width: 470
+        rows: 4
+        width: 400
         height: 160
         top: 0
         left: 0
@@ -125,48 +125,57 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Deep Learning
-        rows: 3
-        width: 455
+        rows: 4
+        width: 400
         height: 160
         top: 0
-        left: 490
+        left: 420
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
         category: Reinforcement Learning
-        rows: 3
-        width: 150
+        rows: 4
+        width: 130
         height: 160
         top: 0
-        left: 965
+        left: 840
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
         category: Programming
         rows: 4
-        width: 170
+        width: 165
         height: 160
-        top: 190
-        left: 0
+        top: 0
+        left: 990
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
-        category: Data
+        category: Security & Privacy
         rows: 4
-        width: 925
+        width: 125
         height: 160
-        top: 190
-        left: 190
-        color: 'rgb(193,83,21)'
+        top: 0
+        left: 1175
+        color: 'rgb(165,9,77)'
         fit_width: true
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
         width: 280
         height: 160
-        top: 380
+        top: 190
         left: 0
         color: 'rgb(29,119,164)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Data
+        rows: 4
+        width: 1000
+        height: 160
+        top: 190
+        left: 300
+        color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
         category: Model
@@ -174,64 +183,46 @@ big_picture:
         width: 815
         height: 160
         top: 380
-        left: 300
+        left: 0
         color: 'rgb(37,81,209)'
         fit_width: true
       - type: HorizontalCategory
-        category: Notebook Environment
-        rows: 3
-        width: 220
+        category: Distributed Computing
+        rows: 4
+        width: 280
         height: 160
-        top: 570
-        left: 0
-        color: 'rgb(106,44,218)'
+        top: 380
+        left: 835
+        color: 'rgb(179,60,133)'
         fit_width: true
       - type: HorizontalCategory
-        category: Security & Privacy
-        rows: 3
-        width: 130
+        category: Notebook Environment
+        rows: 4
+        width: 170
         height: 160
-        top: 570
-        left: 240
-        color: 'rgb(165,9,77)'
+        top: 380
+        left: 1130
+        color: 'rgb(106,44,218)'
         fit_width: true
       - type: HorizontalCategory
         category: Trusted & Responsible AI
         rows: 3
-        width: 360
+        width: 300
         height: 160
         top: 570
-        left: 390
+        left: 0
         color: 'rgb(111,12,52)'
         fit_width: true
-      - type: HorizontalCategory
-        category: Distributed Computing
-        rows: 3
-        width: 345
+      - type: LandscapeInfo
+        width: 350
         height: 160
         top: 570
-        left: 770
-        color: 'rgb(179,60,133)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: LF AI Member Company
-        rows: 4
-        width: 740
-        height: 160
-        top: 760
-        left: 0
-        color: 'rgb(124, 200, 182)'
-        fit_width: true
-      - type: LandscapeInfo
-        width: 355
-        height: 160
-        top: 760
-        left: 760
+        left: 320
         children:
           - type: text
             text: >
-              This landscape explores open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects, and lists the members of
-              the LF AI Foundation.
+              This landscape explores open source artificial intelligence, machine learning, and deep learning projects, and lists the members of the LF AI
+              Foundation.
             top: 15
             left: 100
             right: 120
@@ -260,6 +251,15 @@ big_picture:
             right: 5
             top: 55
             title: LF AI Logo
+      - type: HorizontalCategory
+        category: LF AI Member Company
+        rows: 4
+        width: 610
+        height: 160
+        top: 570
+        left: 690
+        color: 'rgb(124, 200, 182)'
+        fit_width: true
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects
