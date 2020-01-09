@@ -513,6 +513,12 @@ landscape:
             repo_url: 'https://github.com/lyft/amundsen'
             logo: amundsen.svg
             crunchbase: 'https://www.crunchbase.com/organization/lyft'
+          - item:
+            name: great_expectations
+            homepage_url: 'https://greatexpectations.io/'
+            repo_url: 'https://github.com/great-expectations/great_expectations'
+            logo: great-expectations.svg
+            crunchbase: 'https://www.crunchbase.com/organization/great-expectations-c89a'
       - subcategory:
         name: Pipeline Management
         items:
@@ -1146,6 +1152,13 @@ landscape:
             logo: volcano.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/huawei'
+          - item:
+            name: Flyte
+            homepage_url: 'https://flyte.org'
+            repo_url: 'https://github.com/lyft/flyte'
+            logo: flyte.svg
+            twitter: 'https://twitter.com/flyteorg'
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
       - subcategory:
         name: Inference
         items:
