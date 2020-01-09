@@ -469,6 +469,128 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Angel-ML
+            homepage_url: 'https://github.com/Angel-ML/angel'
+            project: graduated
+            repo_url: 'https://github.com/Angel-ML/angel'
+            logo: angel.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: null
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+            github_data:
+              languages:
+                - name: Java
+                  value: 4483867
+                  color: '#b07219'
+                - name: Scala
+                  value: 1079395
+                  color: '#c22d40'
+                - name: Perl
+                  value: 293744
+                  color: '#0298c3'
+                - name: Shell
+                  value: 9879
+                  color: '#89e051'
+                - name: Jupyter Notebook
+                  value: 4400
+                  color: '#DA5B0B'
+                - name: CSS
+                  value: 1784
+                  color: '#563d7c'
+                - name: Dockerfile
+                  value: 563
+                  color: '#384d54'
+                - name: Batchfile
+                  value: 78
+                  color: '#C1F12E'
+              contributions: 23;27;27;33;30;23;42;0;1;15;13;14;41;19;12;14;5;21;17;28;22;5;13;7;7;7;8;11;0;2;0;1;18;10;16;76;8;4;4;3;0;0;0;0;0;3;0;0;3;0;0;0
+              firstWeek: 2018-12-16Z
+              stars: 5512
+              license: Other
+              description: A Flexible and Powerful Parameter Server for large-scale machine learning
+              latest_commit_date: '2019-11-20T10:46:21Z'
+              latest_commit_link: /Angel-ML/angel/commit/c3106ea5c7069296e9b5ce56fd0dac4565c6c4cb
+              release_date: '2019-12-06T06:55:04Z'
+              release_link: 'https://github.com/Angel-ML/angel/releases'
+              contributors_count: 39
+              contributors_link: 'https://github.com/Angel-ML/angel/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /Angel-ML/angel/commit/d6691646da3e36999a22598f6ce9c5145d76ed91
+              start_date: '2017-05-03T13:18:47Z'
+            image_data:
+              fileName: angel-ml.svg
+              hash: h/VCNx7SFaCfrwCpPRqyT9NCte3aXXTQ8qJPE9qDqg8=
+            best_practice_data:
+              badge: 3058
+              percentage: 71
+          - item:
+            name: Alink
+            homepage_url: 'https://github.com/alibaba/Alink'
+            repo_url: 'https://github.com/alibaba/Alink'
+            logo: alink.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+            crunchbase_data:
+              name: Alibaba Group
+              description: 'Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.'
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://alibabagroup.com'
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: 'https://twitter.com/alibabagroup'
+              linkedin: 'https://www.linkedin.com/company/alibaba-group'
+              parents: []
+              ticker: BABA
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Java
+                  value: 3625020
+                  color: '#b07219'
+                - name: Jupyter Notebook
+                  value: 42002
+                  color: '#DA5B0B'
+                - name: Scala
+                  value: 22116
+                  color: '#c22d40'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;5;4;4;0;2;5;3
+              firstWeek: 2019-01-14Z
+              stars: 1813
+              license: Apache License 2.0
+              description: 'Alink is the Machine Learning algorithm platform based on Flink, developed by the PAI team of Alibaba computing platform. '
+              latest_commit_date: '2020-01-03T11:52:26Z'
+              latest_commit_link: /alibaba/Alink/commit/963f0b85309529b43bced20c6a4ecc1d91c54834
+              release_date: '2019-12-02T13:10:34Z'
+              release_link: 'https://github.com/alibaba/Alink/releases'
+              contributors_count: 8
+              contributors_link: 'https://github.com/alibaba/Alink/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /alibaba/Alink/commit/afcc786a8c37f981260e81b3d5fbf883803cf404
+              start_date: '2018-09-30T09:26:03Z'
+            yahoo_finance_data:
+              market_cap: 528779182080
+              effective_ticker: BABA
+            image_data:
+              fileName: alink.svg
+              hash: /cVBGjbNKhtubQXSIqD9qnTU6MGiogoZRfsPbMXDMAA=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Apache SystemML
             homepage_url: 'https://systemml.apache.org/'
             repo_url: 'https://github.com/apache/systemml'
@@ -4755,6 +4877,76 @@ landscape:
             twitter_data:
               latest_tweet_date: 2019-12-11T10:16:30.000Z
           - item:
+            name: VEARCH
+            homepage_url: 'https://vearch.github.io/'
+            repo_url: 'https://github.com/vearch/vearch'
+            logo: vearch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/jd-com'
+            crunchbase_data:
+              name: JD.com
+              description: JD.com is an internet company and online consumer electronics retailer in China.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://corporate.jd.com/'
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: 'https://twitter.com/JD_Corporate'
+              linkedin: 'https://www.linkedin.com/company/1040979/'
+              parents: []
+              ticker: JD
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Go
+                  value: 799102
+                  color: '#00ADD8'
+                - name: C++
+                  value: 343001
+                  color: '#f34b7d'
+                - name: Python
+                  value: 112341
+                  color: '#3572A5'
+                - name: Shell
+                  value: 10686
+                  color: '#89e051'
+                - name: CMake
+                  value: 7442
+                - name: HTML
+                  value: 2363
+                  color: '#e34c26'
+                - name: CSS
+                  value: 1180
+                  color: '#563d7c'
+                - name: Dockerfile
+                  value: 830
+                  color: '#384d54'
+                - name: C
+                  value: 436
+                  color: '#555555'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;4;1;0;0;1;1;2;0;24;15;4;22;11;17;6;5;14;4;1;0;1;1;0;6;0;1
+              firstWeek: 2019-01-14Z
+              stars: 404
+              license: Apache License 2.0
+              description: A distributed system for efficient similarity search of embedding vectors
+              latest_commit_date: '2020-01-03T04:24:03Z'
+              latest_commit_link: /vearch/vearch/commit/d2be0ec4c77cb7e699f6171efd4eb118fde551f7
+              contributors_count: 7
+              contributors_link: 'https://github.com/vearch/vearch/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /vearch/vearch/commit/1d41dcbbc28e48ccd2272b06b488e9b43ef74e75
+              start_date: '2019-05-13T02:37:32Z'
+            yahoo_finance_data:
+              market_cap: 55526952960
+              effective_ticker: JD
+            image_data:
+              fileName: vearch.svg
+              hash: qCjDzc2wwjFB5nBfUSHjbDNDgouPBfton9rlXBa+Y7Y=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Parquet
             homepage_url: 'https://parquet.apache.org/'
             repo_url: 'https://github.com/apache/parquet-format'
@@ -4861,6 +5053,166 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-11-30T02:57:04.000Z
+      - subcategory:
+        name: Operations
+        items:
+          - item:
+            name: Marquez
+            homepage_url: 'https://marquezproject.github.io/marquez'
+            repo_url: 'https://github.com/MarquezProject/marquez'
+            logo: marquez.svg
+            twitter: 'https://twitter.com/MarquezProject'
+            crunchbase: 'https://www.crunchbase.com/organization/wework'
+            crunchbase_data:
+              name: The We Company
+              description: 'The We Company is a platform for creators that transforms buildings into dynamic environments for creativity, focus, and collaboration.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'https://www.we.co/'
+              city: New York
+              region: New York
+              country: United States
+              twitter: 'http://twitter.com/wework'
+              linkedin: 'https://www.linkedin.com/company/1953412'
+              parents: []
+              kind: funding
+              funding: 22545784331
+            github_data:
+              languages:
+                - name: Java
+                  value: 370549
+                  color: '#b07219'
+                - name: Shell
+                  value: 10082
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 651
+                  color: '#384d54'
+                - name: TSQL
+                  value: 50
+              contributions: 6;3;2;9;4;7;9;10;5;4;10;7;2;15;13;5;4;22;25;5;11;12;1;1;3;7;4;22;9;9;0;1;5;3;0;0;0;0;0;3;0;7;12;5;4;0;31;14;5;0;6;33
+              firstWeek: 2019-01-14Z
+              stars: 204
+              license: Apache License 2.0
+              description: 'Collect, aggregate, and visualize a data ecosystem''s metadata'
+              latest_commit_date: '2020-01-08T20:15:03Z'
+              latest_commit_link: /MarquezProject/marquez/commit/9586ec2872ec2220d80fd91a611a01b734e24990
+              contributors_count: 21
+              contributors_link: 'https://github.com/MarquezProject/marquez/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /MarquezProject/marquez/commit/be8800523fcf6ba32ae73d6ba4a7bac2b3d632ac
+              start_date: '2018-07-05T22:43:21Z'
+            image_data:
+              fileName: marquez.svg
+              hash: 6c2d8xYUJhODgx1HUHMx1JDwz7bqJApNOuJvd+9be8E=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-01-05T19:23:29.000Z
+          - item:
+            name: Amundsen
+            homepage_url: 'https://github.com/lyft/amundsen'
+            repo_url: 'https://github.com/lyft/amundsen'
+            logo: amundsen.svg
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+            crunchbase_data:
+              name: Lyft
+              description: 'Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://lyft.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/lyft'
+              linkedin: 'https://www.linkedin.com/company/lyft/'
+              parents: []
+              ticker: LYFT
+              kind: market_cap
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;4;1;0;2;2;1;3;1;2;5;1;4;3;1;5;1;5;9;4;3;6;8;6;5;7;4;3;2
+              firstWeek: 2018-12-16Z
+              stars: 505
+              license: Apache License 2.0
+              description: Repository for the Amundsen project
+              latest_commit_date: '2019-12-09T17:41:57Z'
+              latest_commit_link: /lyft/amundsen/commit/ec26637afdb6e08e2743e619a87660ba3316a582
+              contributors_count: 18
+              contributors_link: 'https://github.com/lyft/amundsen/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /lyft/amundsen/commit/ca246afd8538307d986e28b5507ea730768009cf
+              start_date: '2019-05-14T15:12:41Z'
+            yahoo_finance_data:
+              market_cap: 14098882560
+              effective_ticker: LYFT
+            image_data:
+              fileName: amundsen.svg
+              hash: h0TP9WBjn9BQkppch/fprc14O5cgQ8K1toh3A9oZKeE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-11T23:44:47.000Z
+          - item:
+            name: great_expectations
+            homepage_url: 'https://greatexpectations.io/'
+            repo_url: 'https://github.com/great-expectations/great_expectations'
+            logo: great-expectations.svg
+            crunchbase: 'https://www.crunchbase.com/organization/great-expectations-c89a'
+            crunchbase_data:
+              name: Great Expectations
+              description: 'Great Expectations helps teams save time and promote analytic integrity by offering a unique approach to automated testing: pipeline tests.'
+              num_employees_min: null
+              num_employees_max: null
+              homepage: 'https://greatexpectations.io/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/expectgreatdata'
+              linkedin: null
+              parents: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 1992305
+                  color: '#3572A5'
+                - name: Jupyter Notebook
+                  value: 94898
+                  color: '#DA5B0B'
+                - name: CSS
+                  value: 3823
+                  color: '#563d7c'
+                - name: Shell
+                  value: 1543
+                  color: '#89e051'
+                - name: Batchfile
+                  value: 106
+                  color: '#C1F12E'
+              contributions: >-
+                0;5;0;0;10;0;1;19;9;1;1;8;11;28;64;109;63;47;61;82;164;115;82;100;287;73;87;89;82;199;144;206;85;136;77;91;132;155;118;128;58;39;13;16;13;7;5;23;0;0;0;5
+              firstWeek: 2019-01-14Z
+              stars: 1130
+              license: Apache License 2.0
+              description: Always know what to expect from your data.
+              latest_commit_date: '2020-01-07T18:14:07Z'
+              latest_commit_link: /great-expectations/great_expectations/commit/44106e1818eb4771375fae52d80dcec21b554d0e
+              release_date: '2019-12-04T21:50:54Z'
+              release_link: 'https://github.com/great-expectations/great_expectations/releases'
+              contributors_count: 39
+              contributors_link: 'https://github.com/great-expectations/great_expectations/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /great-expectations/great_expectations/commit/5a237f03e7589822a78390647d8e78c9a03ce60d
+              start_date: '2017-06-06T23:53:17Z'
+            image_data:
+              fileName: great-expectations.svg
+              hash: ifWwhjZdDMKWBMEzpTsaCZMTjW3OU5/3Y3YyAayslIk=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2019-12-26T15:09:10.000Z
       - subcategory:
         name: Pipeline Management
         items:
@@ -6432,51 +6784,6 @@ landscape:
       - subcategory:
         name: Governance
         items:
-          - item:
-            name: Amundsen
-            homepage_url: 'https://github.com/lyft/amundsen'
-            repo_url: 'https://github.com/lyft/amundsen'
-            logo: amundsen.svg
-            crunchbase: 'https://www.crunchbase.com/organization/lyft'
-            crunchbase_data:
-              name: Lyft
-              description: 'Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.'
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: 'http://lyft.com'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'http://twitter.com/lyft'
-              linkedin: 'https://www.linkedin.com/company/lyft/'
-              parents: []
-              ticker: LYFT
-              kind: market_cap
-            github_data:
-              languages: []
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;2;0;4;1;0;2;2;1;3;1;2;5;1;4;3;1;5;1;5;9;4;3;6;8;6;5;7;4;3;2
-              firstWeek: 2018-12-16Z
-              stars: 505
-              license: Apache License 2.0
-              description: Repository for the Amundsen project
-              latest_commit_date: '2019-12-09T17:41:57Z'
-              latest_commit_link: /lyft/amundsen/commit/ec26637afdb6e08e2743e619a87660ba3316a582
-              contributors_count: 18
-              contributors_link: 'https://github.com/lyft/amundsen/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /lyft/amundsen/commit/ca246afd8538307d986e28b5507ea730768009cf
-              start_date: '2019-05-14T15:12:41Z'
-            yahoo_finance_data:
-              market_cap: 14098882560
-              effective_ticker: LYFT
-            image_data:
-              fileName: amundsen.svg
-              hash: h0TP9WBjn9BQkppch/fprc14O5cgQ8K1toh3A9oZKeE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-12-11T23:44:47.000Z
           - item:
             name: Community Data License Agreement (CDLA)
             homepage_url: 'https://cdla.io/'
@@ -9151,73 +9458,6 @@ landscape:
         name: Parameter
         items:
           - item:
-            name: Angel-ML
-            homepage_url: 'https://github.com/Angel-ML/angel'
-            project: incubating
-            repo_url: 'https://github.com/Angel-ML/angel'
-            logo: angel.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-            crunchbase_data:
-              name: LF Artificial Intelligence Foundation
-              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://lfai.foundation/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/LFAI_Foundation'
-              linkedin: null
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-            github_data:
-              languages:
-                - name: Java
-                  value: 4483867
-                  color: '#b07219'
-                - name: Scala
-                  value: 1079395
-                  color: '#c22d40'
-                - name: Perl
-                  value: 293744
-                  color: '#0298c3'
-                - name: Shell
-                  value: 9879
-                  color: '#89e051'
-                - name: Jupyter Notebook
-                  value: 4400
-                  color: '#DA5B0B'
-                - name: CSS
-                  value: 1784
-                  color: '#563d7c'
-                - name: Dockerfile
-                  value: 563
-                  color: '#384d54'
-                - name: Batchfile
-                  value: 78
-                  color: '#C1F12E'
-              contributions: 23;27;27;33;30;23;42;0;1;15;13;14;41;19;12;14;5;21;17;28;22;5;13;7;7;7;8;11;0;2;0;1;18;10;16;76;8;4;4;3;0;0;0;0;0;3;0;0;3;0;0;0
-              firstWeek: 2018-12-16Z
-              stars: 5512
-              license: Other
-              description: A Flexible and Powerful Parameter Server for large-scale machine learning
-              latest_commit_date: '2019-11-20T10:46:21Z'
-              latest_commit_link: /Angel-ML/angel/commit/c3106ea5c7069296e9b5ce56fd0dac4565c6c4cb
-              release_date: '2019-12-06T06:55:04Z'
-              release_link: 'https://github.com/Angel-ML/angel/releases'
-              contributors_count: 39
-              contributors_link: 'https://github.com/Angel-ML/angel/graphs/contributors'
-            github_start_commit_data:
-              start_commit_link: /Angel-ML/angel/commit/d6691646da3e36999a22598f6ce9c5145d76ed91
-              start_date: '2017-05-03T13:18:47Z'
-            image_data:
-              fileName: angel-ml.svg
-              hash: h/VCNx7SFaCfrwCpPRqyT9NCte3aXXTQ8qJPE9qDqg8=
-            best_practice_data:
-              badge: 3058
-              percentage: 71
-          - item:
             name: HyperOpt
             homepage_url: 'https://hyperopt.github.io/hyperopt/'
             repo_url: 'https://github.com/hyperopt/hyperopt'
@@ -10270,6 +10510,63 @@ landscape:
             best_practice_data:
               badge: 3012
               percentage: 100
+          - item:
+            name: Flyte
+            homepage_url: 'https://flyte.org'
+            repo_url: 'https://github.com/lyft/flyte'
+            logo: flyte.svg
+            twitter: 'https://twitter.com/flyteorg'
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+            crunchbase_data:
+              name: Lyft
+              description: 'Lyft designs, markets, and operates a mobile application that matches drivers with passengers who request rides.'
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: 'http://lyft.com'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'http://twitter.com/lyft'
+              linkedin: 'https://www.linkedin.com/company/lyft/'
+              parents: []
+              ticker: LYFT
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Shell
+                  value: 8955
+                  color: '#89e051'
+                - name: Python
+                  value: 5953
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 889
+                  color: '#427819'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;8;2;2;8;0;1;2;0;0;1;0
+              firstWeek: 2019-01-14Z
+              stars: 330
+              license: Apache License 2.0
+              description: 'develop, execute, and monitor distributed workflows reliably at scale.'
+              latest_commit_date: '2019-12-27T21:14:24Z'
+              latest_commit_link: /lyft/flyte/commit/6a442229437a95fa38cd3d1816e8dbd1e951559b
+              release_date: '2019-11-22T22:21:23Z'
+              release_link: 'https://github.com/lyft/flyte/releases'
+              contributors_count: 11
+              contributors_link: 'https://github.com/lyft/flyte/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /lyft/flyte/commit/3966f5207d61ee083410fb998f44c1c68e0703b1
+              start_date: '2019-10-21T17:41:28Z'
+            yahoo_finance_data:
+              market_cap: 14098882560
+              effective_ticker: LYFT
+            image_data:
+              fileName: flyte.svg
+              hash: KZXvYnPxga3d7LMxxO/tLg5y52RqZPg0UruNb2QwKUE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-01-07T18:20:03.000Z
       - subcategory:
         name: Inference
         items:
@@ -10467,6 +10764,59 @@ landscape:
       - subcategory:
         name: Tool
         items:
+          - item:
+            name: dlrm
+            homepage_url: 'https://github.com/facebookresearch/dlrm'
+            repo_url: 'https://github.com/facebookresearch/dlrm'
+            logo: dlrm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
+            crunchbase_data:
+              name: Facebook
+              description: Facebook is an online social networking service that enables its users to connect with friends and family.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: 'http://www.facebook.com'
+              city: Menlo Park
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/facebook'
+              linkedin: 'https://www.linkedin.com/company/facebook'
+              parents: []
+              ticker: FB
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Python
+                  value: 225128
+                  color: '#3572A5'
+                - name: Shell
+                  value: 10466
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 362
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;4;4;0;2;0;0;0;0;2;3;0;2;0;0;4;1;2;1;1;0;4;1;6;2;3;2;4;4;1;2;0
+              firstWeek: 2019-01-14Z
+              stars: 1792
+              license: MIT License
+              description: An implementation of a deep learning recommendation model (DLRM)
+              latest_commit_date: '2019-12-31T00:39:48Z'
+              latest_commit_link: /facebookresearch/dlrm/commit/0fb34f322d21b87cc047514fa234e696f45af1b2
+              contributors_count: 11
+              contributors_link: 'https://github.com/facebookresearch/dlrm/graphs/contributors'
+            github_start_commit_data:
+              start_commit_link: /facebookresearch/dlrm/commit/48d4748433d02c3bd78e379f55a2fcfbd85793a3
+              start_date: '2019-06-07T20:12:52Z'
+            yahoo_finance_data:
+              market_cap: 576794918912
+              effective_ticker: FB
+            image_data:
+              fileName: dlrm.svg
+              hash: BVWtfM9vvo9xY5qnM/9rDqKGjWlLpCEovQnedVflpCI=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: Clipper
             homepage_url: 'http://clipper.ai/'
