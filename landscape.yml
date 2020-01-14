@@ -50,6 +50,14 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Alink
+            homepage_url: 'https://github.com/alibaba/Alink'
+            repo_url: 'https://github.com/alibaba/Alink'
+            stock_ticker: BABA
+            logo: alink.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+          - item:
             name: Angel-ML
             homepage_url: 'https://github.com/Angel-ML/angel'
             project: graduated
@@ -57,13 +65,6 @@ landscape:
             logo: angel.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-          - item:
-            name: Alink
-            homepage_url: 'https://github.com/alibaba/Alink'
-            repo_url: 'https://github.com/alibaba/Alink'
-            logo: alink.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: Apache SystemML
             homepage_url: 'https://systemml.apache.org/'
@@ -295,6 +296,7 @@ landscape:
             name: X-DeepLearning
             homepage_url: 'https://github.com/alibaba/x-deeplearning'
             repo_url: 'https://github.com/alibaba/x-deeplearning'
+            stock_ticker: BABA
             logo: x-deeplearning.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
@@ -478,13 +480,6 @@ landscape:
             twitter: 'https://twitter.com/milvusio'
             crunchbase: 'https://www.crunchbase.com/organization/zilliz'
           - item:
-            name: VEARCH
-            homepage_url: 'https://vearch.github.io/'
-            repo_url: 'https://github.com/vearch/vearch'
-            logo: vearch.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/jd-com'
-          - item:
             name: Parquet
             homepage_url: 'https://parquet.apache.org/'
             repo_url: 'https://github.com/apache/parquet-format'
@@ -497,16 +492,16 @@ landscape:
             repo_url: 'https://github.com/pilosa/pilosa'
             logo: pilosa.svg
             crunchbase: 'https://www.crunchbase.com/organization/pilosa'
+          - item:
+            name: VEARCH
+            homepage_url: 'https://vearch.github.io/'
+            repo_url: 'https://github.com/vearch/vearch'
+            logo: vearch.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/jd-com'
       - subcategory:
         name: Operations
         items:
-          - item:
-            name: Marquez
-            homepage_url: 'https://marquezproject.github.io/marquez'
-            repo_url: 'https://github.com/MarquezProject/marquez'
-            logo: marquez.svg
-            twitter: 'https://twitter.com/MarquezProject'
-            crunchbase: 'https://www.crunchbase.com/organization/wework'
           - item:
             name: Amundsen
             homepage_url: 'https://github.com/lyft/amundsen'
@@ -519,6 +514,13 @@ landscape:
             repo_url: 'https://github.com/great-expectations/great_expectations'
             logo: great-expectations.svg
             crunchbase: 'https://www.crunchbase.com/organization/great-expectations-c89a'
+          - item:
+            name: Marquez
+            homepage_url: 'https://marquezproject.github.io/marquez'
+            repo_url: 'https://github.com/MarquezProject/marquez'
+            logo: marquez.svg
+            twitter: 'https://twitter.com/MarquezProject'
+            crunchbase: 'https://www.crunchbase.com/organization/wework'
       - subcategory:
         name: Pipeline Management
         items:
@@ -609,6 +611,7 @@ landscape:
             name: SQLFlow
             homepage_url: 'https://sql-machine-learning.github.io/'
             repo_url: 'https://github.com/sql-machine-learning/sqlflow'
+            stock_ticker: BABA
             logo: sqlflow.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
@@ -1113,6 +1116,13 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/databolt'
           - item:
+            name: Flyte
+            homepage_url: 'https://flyte.org'
+            repo_url: 'https://github.com/lyft/flyte'
+            logo: flyte.svg
+            twitter: 'https://twitter.com/flyteorg'
+            crunchbase: 'https://www.crunchbase.com/organization/lyft'
+          - item:
             name: kedro
             homepage_url: 'https://github.com/quantumblacklabs/kedro'
             repo_url: 'https://github.com/quantumblacklabs/kedro'
@@ -1152,13 +1162,6 @@ landscape:
             logo: volcano.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/huawei'
-          - item:
-            name: Flyte
-            homepage_url: 'https://flyte.org'
-            repo_url: 'https://github.com/lyft/flyte'
-            logo: flyte.svg
-            twitter: 'https://twitter.com/flyteorg'
-            crunchbase: 'https://www.crunchbase.com/organization/lyft'
       - subcategory:
         name: Inference
         items:
@@ -1188,19 +1191,19 @@ landscape:
         name: Tool
         items:
           - item:
-            name: dlrm
-            homepage_url: 'https://github.com/facebookresearch/dlrm'
-            repo_url: 'https://github.com/facebookresearch/dlrm'
-            logo: dlrm.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/facebook'
-          - item:
             name: Clipper
             homepage_url: 'http://clipper.ai/'
             repo_url: 'https://github.com/ucbrise/clipper'
             logo: clipper.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uc-berkeley-riselab'
+          - item:
+            name: dlrm
+            homepage_url: 'https://github.com/facebookresearch/dlrm'
+            repo_url: 'https://github.com/facebookresearch/dlrm'
+            logo: dlrm.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/facebook'
           - item:
             name: MMdnn
             homepage_url: 'https://github.com/Microsoft/MMdnn'
@@ -1385,6 +1388,7 @@ landscape:
             name: Generic Neural Elastic Search (GNES)
             homepage_url: 'https://github.com/gnes-ai/gnes'
             repo_url: 'https://github.com/gnes-ai/gnes'
+            stock_ticker: TCEHY
             logo: gnes.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
