@@ -3258,7 +3258,7 @@ landscape:
             homepage_url: 'https://deeplearning4j.org/'
             repo_url: 'https://github.com/eclipse/deeplearning4j'
             logo: deeplearning4j.svg
-            twitter: 'https://twitter.com/deeplearning4j'
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/eclipse-foundation'
             crunchbase_data:
               name: Eclipse Foundation
@@ -3347,8 +3347,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-11-08T06:03:05.000Z
           - item:
             name: Keras
             homepage_url: 'https://keras.io/'
@@ -4001,7 +3999,6 @@ landscape:
             homepage_url: 'https://pachyderm.io/'
             repo_url: 'https://github.com/pachyderm/pachyderm'
             logo: pachyderm.svg
-            twitter: 'https://twitter.com/pachydermio'
             crunchbase: 'https://www.crunchbase.com/organization/pachyderm'
             crunchbase_data:
               name: Pachyderm
@@ -4012,7 +4009,7 @@ landscape:
               city: San Francisco
               region: California
               country: United States
-              twitter: 'https://twitter.com/pachydermIO'
+              twitter: 'https://twitter.com/pachyderminc'
               linkedin: 'https://www.linkedin.com/company/pachyderm-inc-'
               parents: []
               kind: funding
@@ -4020,19 +4017,19 @@ landscape:
             github_data:
               languages:
                 - name: Go
-                  value: 3184389
+                  value: 3270310
                   color: '#00ADD8'
                 - name: Shell
-                  value: 98471
+                  value: 100490
                   color: '#89e051'
                 - name: Makefile
-                  value: 29891
+                  value: 29547
                   color: '#427819'
                 - name: Python
-                  value: 9143
+                  value: 8486
                   color: '#3572A5'
                 - name: Dockerfile
-                  value: 3173
+                  value: 3211
                   color: '#384d54'
                 - name: Ruby
                   value: 897
@@ -4043,16 +4040,16 @@ landscape:
                 - name: HCL
                   value: 40
               contributions: >-
-                84;18;12;66;53;49;74;111;118;109;113;100;90;107;36;27;38;37;37;32;76;50;32;45;83;90;41;42;53;20;50;59;62;54;37;36;25;23;57;46;36;78;64;139;62;64;32;51;35;21;36;32
-              firstWeek: 2018-12-16Z
-              stars: 4106
+                58;43;90;125;129;98;114;103;98;50;38;33;40;29;39;67;46;44;35;63;104;62;30;55;25;42;46;61;54;60;33;33;11;54;51;32;61;88;81;108;62;40;44;56;15;27;49;40;53;0;13;40
+              firstWeek: 2019-01-21Z
+              stars: 4167
               license: Apache License 2.0
               description: Reproducible Data Science at Scale!
-              latest_commit_date: '2019-12-11T22:04:15Z'
-              latest_commit_link: /pachyderm/pachyderm/commit/f8cdaab5ded2a9072627f847d3411130347cbba5
-              release_date: '2019-12-05T00:25:05Z'
+              latest_commit_date: '2020-01-13T21:51:44Z'
+              latest_commit_link: /pachyderm/pachyderm/commit/62922e2b1a87502dd498d2d360950330f0000035
+              release_date: '2020-01-09T23:15:58Z'
               release_link: 'https://github.com/pachyderm/pachyderm/releases'
-              contributors_count: 96
+              contributors_count: 97
               contributors_link: 'https://github.com/pachyderm/pachyderm/graphs/contributors'
             github_start_commit_data:
               start_commit_link: /pachyderm/pachyderm/commit/11eb4c6e1945beb1e6ce3e878ed2cb6c24ee8bf1
@@ -4064,7 +4061,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2019-10-15T18:07:59.000Z
+              latest_tweet_date: 2020-01-13T17:50:40.000Z
           - item:
             name: Quilt Data
             homepage_url: 'https://docs.quiltdata.com/'
@@ -15395,6 +15392,7 @@ landscape:
             homepage_url: 'https://www.didiglobal.com'
             stock_ticker: null
             logo: didi.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
             crunchbase_data:
               name: Didi Chuxing
@@ -15416,8 +15414,6 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
-            twitter_data:
-              latest_tweet_date: 2019-07-25T08:32:07.000Z
           - item:
             name: Gemini Open Cloud
             homepage_url: 'http://www.geminiopencloud.com'
