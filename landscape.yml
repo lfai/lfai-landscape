@@ -205,13 +205,6 @@ landscape:
         name: Framework
         items:
           - item:
-            name: euler
-            homepage_url: 'https://github.com/alibaba/euler'
-            repo_url: 'https://github.com/alibaba/euler'
-            logo: euler.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
-          - item:
             name: Apache SINGA
             homepage_url: 'https://singa.incubator.apache.org/en/index.html'
             repo_url: 'https://github.com/apache/incubator-singa'
@@ -239,6 +232,13 @@ landscape:
             logo: dynet.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/carnegie-mellon-university'
+          - item:
+            name: euler
+            homepage_url: 'https://github.com/alibaba/euler'
+            repo_url: 'https://github.com/alibaba/euler'
+            logo: euler.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: MXNet
             homepage_url: 'https://mxnet.apache.org/'
@@ -834,12 +834,12 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: DELTA`
-            homepage_url: 'https://delta-didi.readthedocs.io'
-            repo_url: 'https://github.com/didi/delta'
-            logo: delta.svg
+            name: ALBERT
+            homepage_url: 'https://github.com/google-research/ALBERT'
+            repo_url: 'https://github.com/google-research/ALBERT'
+            logo: albert.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: AllenNLP
             homepage_url: 'https://allennlp.org/'
@@ -861,19 +861,19 @@ landscape:
             logo: bert.svg
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
-            name: ALBERT
-            homepage_url: 'https://github.com/google-research/ALBERT'
-            repo_url: 'https://github.com/google-research/ALBERT'
-            logo: albert.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/google'
-          - item:
             name: CoreNLP
             homepage_url: 'https://stanfordnlp.github.io/CoreNLP/'
             repo_url: 'https://github.com/stanfordnlp/CoreNLP'
             logo: corenlp.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
+          - item:
+            name: DELTA`
+            homepage_url: 'https://delta-didi.readthedocs.io'
+            repo_url: 'https://github.com/didi/delta'
+            logo: delta.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
           - item:
             name: fastText
             homepage_url: 'https://fasttext.cc/'
@@ -1186,13 +1186,6 @@ landscape:
         name: Inference
         items:
           - item:
-            name: MNN
-            homepage_url: 'https://github.com/alibaba/MNN'
-            repo_url: 'https://github.com/alibaba/MNN'
-            logo: mnn.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
-          - item:
             name: Adlik
             homepage_url: 'https://github.com/Adlik/Adlik'
             project: incubating
@@ -1200,6 +1193,13 @@ landscape:
             logo: adlik.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: MNN
+            homepage_url: 'https://github.com/alibaba/MNN'
+            repo_url: 'https://github.com/alibaba/MNN'
+            logo: mnn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: TensorRT
             homepage_url: 'https://developer.nvidia.com/tensorrt'
