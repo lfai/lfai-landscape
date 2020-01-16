@@ -205,6 +205,13 @@ landscape:
         name: Framework
         items:
           - item:
+            name: euler
+            homepage_url: 'https://github.com/alibaba/euler'
+            repo_url: 'https://github.com/alibaba/euler'
+            logo: euler.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+          - item:
             name: Apache SINGA
             homepage_url: 'https://singa.incubator.apache.org/en/index.html'
             repo_url: 'https://github.com/apache/incubator-singa'
@@ -1178,6 +1185,13 @@ landscape:
       - subcategory:
         name: Inference
         items:
+          - item:
+            name: MNN
+            homepage_url: 'https://github.com/alibaba/MNN'
+            repo_url: 'https://github.com/alibaba/MNN'
+            logo: mnn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
           - item:
             name: Adlik
             homepage_url: 'https://github.com/Adlik/Adlik'
