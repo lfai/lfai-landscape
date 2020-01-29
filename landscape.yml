@@ -50,6 +50,13 @@ landscape:
         name: Platform
         items:
           - item:
+            name: Cortex
+            homepage_url: 'https://www.cortex.dev/'
+            repo_url: 'https://github.com/cortexlabs/cortex'
+            logo: cortex.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/cortex-dev'
+          - item:
             name: Alink
             homepage_url: 'https://github.com/alibaba/Alink'
             repo_url: 'https://github.com/alibaba/Alink'
@@ -138,7 +145,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: mlpack
-            homepage_url: 'http://www.mlpack.org/'
+            homepage_url: 'https://www.mlpack.org/'
             repo_url: 'https://github.com/mlpack/mlpack'
             logo: mlpack.svg
             twitter: null
@@ -207,7 +214,7 @@ landscape:
           - item:
             name: Apache SINGA
             homepage_url: 'https://singa.incubator.apache.org/en/index.html'
-            repo_url: 'https://github.com/apache/incubator-singa'
+            repo_url: 'https://github.com/apache/singa'
             logo: apache-singa.svg
             twitter: 'https://twitter.com/ApacheSinga'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
@@ -256,7 +263,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/tencent'
           - item:
             name: PaddlePaddle
-            homepage_url: 'http://www.paddlepaddle.org.cn/'
+            homepage_url: 'http://www.paddlepaddle.org.cn:443/'
             repo_url: 'https://github.com/PaddlePaddle/Paddle'
             logo: paddlepaddle.svg
             twitter: null
@@ -384,7 +391,7 @@ landscape:
           - item:
             name: TVM
             homepage_url: 'https://tvm.ai/'
-            repo_url: 'https://github.com/dmlc/tvm'
+            repo_url: 'https://github.com/apache/incubator-tvm'
             logo: tvm.svg
             twitter: 'https://twitter.com/ApacheTVM'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
@@ -467,7 +474,7 @@ landscape:
           - item:
             name: Druid
             homepage_url: 'https://druid.apache.org/'
-            repo_url: 'https://github.com/apache/incubator-druid'
+            repo_url: 'https://github.com/apache/druid'
             logo: apache-druid.svg
             twitter: 'https://twitter.com/druidio'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
@@ -634,7 +641,7 @@ landscape:
           - item:
             name: Featuretools
             homepage_url: 'https://www.featuretools.com/'
-            repo_url: 'https://github.com/featuretools/featuretools'
+            repo_url: 'https://github.com/FeatureLabs/featuretools'
             logo: featuretools.svg
             crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
           - item:
@@ -728,7 +735,7 @@ landscape:
           - item:
             name: doccano
             homepage_url: 'https://doccano.herokuapp.com'
-            repo_url: 'https://github.com/chakki-works/doccano'
+            repo_url: 'https://github.com/doccano/doccano'
             logo: doccano.svg
             crunchbase: 'https://www.crunchbase.com/organization/docanno'
           - item:
@@ -802,7 +809,7 @@ landscape:
           - item:
             name: Horizon
             homepage_url: 'https://engineering.fb.com/ml-applications/horizon/'
-            repo_url: 'https://github.com/facebookresearch/Horizon'
+            repo_url: 'https://github.com/facebookresearch/ReAgent'
             logo: horizon.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
@@ -884,7 +891,7 @@ landscape:
           - item:
             name: Flair
             homepage_url: 'https://github.com/zalandoresearch/flair'
-            repo_url: 'https://github.com/zalandoresearch/flair'
+            repo_url: 'https://github.com/flairNLP/flair'
             stock_ticker: ZLNDY
             logo: flair.svg
             twitter: null
@@ -967,7 +974,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/explosion-ai'
           - item:
             name: Transformers
-            homepage_url: 'https://huggingface.co/transformers'
+            homepage_url: 'https://huggingface.co/transformers/'
             repo_url: 'https://github.com/huggingface/transformers'
             logo: transformers.svg
             crunchbase: 'https://www.crunchbase.com/organization/hugging-face'
@@ -1130,7 +1137,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/caicloud'
           - item:
             name: d6tflow
-            homepage_url: 'https://d6tflow.readthedocs.io'
+            homepage_url: 'https://d6tflow.readthedocs.io/en/latest'
             repo_url: 'https://github.com/d6t/d6tflow'
             logo: d6tflow.svg
             twitter: null
@@ -1165,7 +1172,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/netflix'
           - item:
             name: mleap
-            homepage_url: 'http://mleap-docs.combust.ml/'
+            homepage_url: 'http://mleap-docs.combust.ml'
             repo_url: 'https://github.com/combust/mleap'
             logo: mleap.svg
             crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
@@ -1240,8 +1247,8 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
           - item:
             name: Model Server for Apache MXNet
-            homepage_url: 'https://github.com/awslabs/mxnet-model-server'
-            repo_url: 'https://github.com/awslabs/mxnet-model-server'
+            homepage_url: 'https://github.com/awslabs/multi-model-server'
+            repo_url: 'https://github.com/awslabs/multi-model-server'
             logo: mms.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
@@ -1315,7 +1322,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
           - item:
             name: NumPy
-            homepage_url: 'https://www.numpy.org/'
+            homepage_url: 'https://numpy.org/'
             repo_url: 'https://github.com/numpy/numpy'
             logo: 'https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg'
             crunchbase: 'https://www.crunchbase.com/organization/numpy'
@@ -1475,7 +1482,7 @@ landscape:
           - item:
             name: sparklyr
             homepage_url: 'https://spark.rstudio.com'
-            repo_url: 'https://github.com/rstudio/sparklyr'
+            repo_url: 'https://github.com/sparklyr/sparklyr'
             logo: sparklyr.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
@@ -1494,22 +1501,22 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: ALIBI
-            homepage_url: 'https://docs.seldon.io/projects/alibi'
+            homepage_url: 'https://docs.seldon.io/projects/alibi/'
             repo_url: 'https://github.com/SeldonIO/alibi'
             logo: alibi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/seldon'
           - item:
             name: ELI5
-            homepage_url: 'http://eli5.readthedocs.io/'
+            homepage_url: 'https://eli5.readthedocs.io/'
             repo_url: 'https://github.com/TeamHG-Memex/eli5'
             logo: eli5.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/scrapinghub'
           - item:
             name: InterpretML
-            homepage_url: 'https://github.com/microsoft/interpret'
-            repo_url: 'https://github.com/microsoft/interpret'
+            homepage_url: 'https://github.com/interpretml/interpret'
+            repo_url: 'https://github.com/interpretml/interpret'
             logo: interpretml.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
@@ -1567,7 +1574,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: Advertorch
-            homepage_url: 'https://advertorch.readthedocs.io/en/latest'
+            homepage_url: 'https://advertorch.readthedocs.io/en/latest/'
             repo_url: 'https://github.com/BorealisAI/advertorch'
             logo: advertorch.svg
             twitter: null
@@ -1674,13 +1681,13 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
           - item:
             name: Stencila
-            homepage_url: 'http://stenci.la'
+            homepage_url: 'https://stenci.la'
             repo_url: 'https://github.com/stencila/stencila'
             logo: stencila.svg
             crunchbase: 'https://www.crunchbase.com/organization/stencila'
           - item:
             name: Streamlit
-            homepage_url: 'https://streamlit.io'
+            homepage_url: 'https://www.streamlit.io'
             repo_url: 'https://github.com/streamlit/streamlit'
             logo: streamlit.svg
             crunchbase: 'https://www.crunchbase.com/organization/streamlit'
@@ -1699,7 +1706,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: SEAL
-            homepage_url: 'https://www.microsoft.com/en-us/research/project/microsoft-seal'
+            homepage_url: 'https://www.microsoft.com/en-us/research/project/microsoft-seal/'
             repo_url: 'https://github.com/microsoft/SEAL'
             logo: seal.svg
             twitter: null
@@ -1732,7 +1739,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/amdocs'
           - item:
             name: AT&T
-            homepage_url: 'https://www.att.com/'
+            homepage_url: 'https://att.com/'
             logo: att.svg
             crunchbase: 'https://www.crunchbase.com/organization/at-t'
           - item:
@@ -1804,7 +1811,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ciena'
           - item:
             name: Didi
-            homepage_url: 'https://www.didiglobal.com'
+            homepage_url: 'https://didiglobal.com'
             stock_ticker: null
             logo: didi.svg
             twitter: null
@@ -1839,7 +1846,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
             name: RStudio
-            homepage_url: 'https://www.rstudio.com'
+            homepage_url: 'https://rstudio.com'
             logo: rstudio.svg
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
           - item:
