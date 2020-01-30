@@ -50,13 +50,6 @@ landscape:
         name: Platform
         items:
           - item:
-            name: Cortex
-            homepage_url: 'https://www.cortex.dev/'
-            repo_url: 'https://github.com/cortexlabs/cortex'
-            logo: cortex.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/cortex-dev'
-          - item:
             name: Alink
             homepage_url: 'https://github.com/alibaba/Alink'
             repo_url: 'https://github.com/alibaba/Alink'
@@ -86,6 +79,13 @@ landscape:
             logo: ax.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Cortex
+            homepage_url: 'https://www.cortex.dev/'
+            repo_url: 'https://github.com/cortexlabs/cortex'
+            logo: cortex.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/cortex-dev'
           - item:
             name: H2o.ai
             homepage_url: 'https://www.h2o.ai/'
@@ -1482,8 +1482,8 @@ landscape:
           - item:
             name: sparklyr
             homepage_url: 'https://sparklyr.ai'
-            repo_url: 'https://github.com/sparklyr/sparklyr'
             project: incubating
+            repo_url: 'https://github.com/sparklyr/sparklyr'
             logo: sparklyr.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
