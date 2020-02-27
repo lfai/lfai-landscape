@@ -1093,8 +1093,15 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: Apache Airflow
+            name: Prefect
             homepage_url: 'https://airflow.apache.org/'
+            repo_url: 'https://github.com/prefecthq/prefect'
+            logo: prefect.svg
+            twitter: 'https://twitter.com/ApacheAirflow'
+            crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
+          - item:
+            name: Apache Airflow
+            homepage_url: 'https://docs.prefect.io/'
             repo_url: 'https://github.com/apache/airflow'
             logo: 'https://svn.apache.org/repos/asf/comdev/project-logos/originals/airflow-1.svg'
             twitter: 'https://twitter.com/ApacheAirflow'
@@ -1306,6 +1313,13 @@ landscape:
       - subcategory:
         name: Programming
         items:
+          - item:
+            name: Dask
+            homepage_url: 'https://docs.dask.org/en/latest/'
+            repo_url: 'https://github.com/dask/dask'
+            logo: dask.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/continuum-analytics'
           - item:
             name: Infer.net
             homepage_url: 'https://dotnet.github.io/infer/'
@@ -1842,6 +1856,12 @@ landscape:
             homepage_url: 'https://sylabs.io/'
             logo: sylabs.svg
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
+          - item:
+            name: Broadcom
+            homepage_url: 'https://www.broadcom.com/'
+            logo: broadcom.svg
+            stock_ticker: AVGO
+            crunchbase: 'https://www.crunchbase.com/organization/broadcom'
       - subcategory:
         name: Associate
         items:
@@ -1864,3 +1884,9 @@ landscape:
             stock_ticker: null
             logo: nyu.svg
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
+          - item:
+            name: AI for People
+            homepage_url: 'https://www.aiforpeople.org/'
+            stock_ticker: null
+            logo: aiforpeople.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
