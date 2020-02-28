@@ -516,17 +516,17 @@ landscape:
         name: Operations
         items:
           - item:
-            name: DataHub
-            homepage_url: 'https://github.com/linkedin/datahub'
-            repo_url: 'https://github.com/linkedin/datahub'
-            logo: datahub.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
-          - item:
             name: Amundsen
             homepage_url: 'https://github.com/lyft/amundsen'
             repo_url: 'https://github.com/lyft/amundsen'
             logo: amundsen.svg
             crunchbase: 'https://www.crunchbase.com/organization/lyft'
+          - item:
+            name: DataHub
+            homepage_url: 'https://github.com/linkedin/datahub'
+            repo_url: 'https://github.com/linkedin/datahub'
+            logo: datahub.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linkedin'
           - item:
             name: great_expectations
             homepage_url: 'https://greatexpectations.io/'
@@ -1099,13 +1099,6 @@ landscape:
         name: Workflow
         items:
           - item:
-            name: Prefect
-            homepage_url: 'https://airflow.apache.org/'
-            repo_url: 'https://github.com/prefecthq/prefect'
-            logo: prefect.svg
-            twitter: 'https://twitter.com/ApacheAirflow'
-            crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
-          - item:
             name: Apache Airflow
             homepage_url: 'https://docs.prefect.io/'
             repo_url: 'https://github.com/apache/airflow'
@@ -1189,6 +1182,13 @@ landscape:
             repo_url: 'https://github.com/combust/mleap'
             logo: mleap.svg
             crunchbase: 'https://www.crunchbase.com/organization/combust-ml'
+          - item:
+            name: Prefect
+            homepage_url: 'https://airflow.apache.org/'
+            repo_url: 'https://github.com/prefecthq/prefect'
+            logo: prefect.svg
+            twitter: 'https://twitter.com/ApacheAirflow'
+            crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
           - item:
             name: TRAINS
             homepage_url: 'https://github.com/allegroai/trains'
@@ -1818,6 +1818,12 @@ landscape:
         name: General
         items:
           - item:
+            name: Broadcom
+            homepage_url: 'https://www.broadcom.com/'
+            stock_ticker: AVGO
+            logo: broadcom.svg
+            crunchbase: 'https://www.crunchbase.com/organization/broadcom'
+          - item:
             name: Didi
             homepage_url: 'https://didiglobal.com'
             stock_ticker: null
@@ -1862,15 +1868,15 @@ landscape:
             homepage_url: 'https://sylabs.io/'
             logo: sylabs.svg
             crunchbase: 'https://www.crunchbase.com/organization/sylabs'
-          - item:
-            name: Broadcom
-            homepage_url: 'https://www.broadcom.com/'
-            logo: broadcom.svg
-            stock_ticker: AVGO
-            crunchbase: 'https://www.crunchbase.com/organization/broadcom'
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: AI for People
+            homepage_url: 'https://www.aiforpeople.org/'
+            stock_ticker: null
+            logo: aiforpeople.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
           - item:
             name: Institute of Ethical AI and Machine Learning
             homepage_url: 'https://ethical.institute/'
@@ -1890,9 +1896,3 @@ landscape:
             stock_ticker: null
             logo: nyu.svg
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
-          - item:
-            name: AI for People
-            homepage_url: 'https://www.aiforpeople.org/'
-            stock_ticker: null
-            logo: aiforpeople.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
