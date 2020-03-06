@@ -1206,14 +1206,6 @@ landscape:
         name: Inference
         items:
           - item:
-            name: uTensor
-            homepage_url: 'https://github.com/uTensor/uTensor'
-            repo_url: 'https://github.com/uTensor/uTensor'
-            logo: uTensor.svg
-            stock_ticker: null
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/arm'
-          - item:
             name: Adlik
             homepage_url: 'https://github.com/Adlik/Adlik'
             project: incubating
@@ -1242,6 +1234,14 @@ landscape:
             logo: tensorrt-inferenceserver.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+          - item:
+            name: uTensor
+            homepage_url: 'https://github.com/uTensor/uTensor'
+            repo_url: 'https://github.com/uTensor/uTensor'
+            stock_ticker: null
+            logo: uTensor.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/arm'
       - subcategory:
         name: Tool
         items:
@@ -1882,18 +1882,17 @@ landscape:
         name: Associate
         items:
           - item:
-            name: Ambianic
-            homepage_url: 'https://ambianic.ai/'
-            stock_ticker: null
-            twitter: 'https://www.twitter.com/ambianicai'
-            logo: ambianic.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ambianic'
-          - item:
             name: AI for People
             homepage_url: 'https://www.aiforpeople.org/'
             stock_ticker: null
             logo: aiforpeople.svg
             crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
+          - item:
+            name: Ambianic
+            homepage_url: 'https://ambianic.ai/'
+            stock_ticker: null
+            logo: ambianic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ambianic'
           - item:
             name: Institute of Ethical AI and Machine Learning
             homepage_url: 'https://ethical.institute/'
