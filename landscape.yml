@@ -1206,6 +1206,14 @@ landscape:
         name: Inference
         items:
           - item:
+            name: uTensor
+            homepage_url: 'https://github.com/uTensor/uTensor'
+            repo_url: 'https://github.com/uTensor/uTensor'
+            logo: uTensor.svg
+            stock_ticker: null
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/arm'
+          - item:
             name: Adlik
             homepage_url: 'https://github.com/Adlik/Adlik'
             project: incubating
@@ -1870,14 +1878,16 @@ landscape:
             homepage_url: 'https://rstudio.com'
             logo: rstudio.svg
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
-          - item:
-            name: SyLabs
-            homepage_url: 'https://sylabs.io/'
-            logo: sylabs.svg
-            crunchbase: 'https://www.crunchbase.com/organization/sylabs'
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Ambianic
+            homepage_url: 'https://ambianic.ai/'
+            stock_ticker: null
+            twitter: 'https://www.twitter.com/ambianicai'
+            logo: ambianic.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ambianic'
           - item:
             name: AI for People
             homepage_url: 'https://www.aiforpeople.org/'
