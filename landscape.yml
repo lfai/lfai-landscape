@@ -568,13 +568,6 @@ landscape:
         name: Stream Processing
         items:
           - item:
-            name: Pravega
-            homepage_url: 'http://www.pravega.io/'
-            repo_url: 'https://github.com/pravega/pravega'
-            logo: pravega.svg
-            twitter: 'https://twitter.com/projectpravega'
-            crunchbase: 'https://www.crunchbase.com/organization/dell'
-          - item:
             name: Brooklin
             homepage_url: 'https://github.com/linkedin/Brooklin'
             repo_url: 'https://github.com/linkedin/Brooklin'
@@ -603,6 +596,13 @@ landscape:
             logo: apache-kafka.svg
             twitter: 'https://twitter.com/apachekafka'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Pravega
+            homepage_url: 'http://www.pravega.io/'
+            repo_url: 'https://github.com/pravega/pravega'
+            logo: pravega.svg
+            twitter: 'https://twitter.com/projectpravega'
+            crunchbase: 'https://www.crunchbase.com/organization/dell'
           - item:
             name: Samza
             homepage_url: 'http://samza.apache.org/'
@@ -1893,7 +1893,6 @@ landscape:
             homepage_url: 'https://www.aiforpeople.org/'
             stock_ticker: null
             logo: aiforpeople.svg
-            twitter: 'https://twitter.com/AIforPeople'
             crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
           - item:
             name: Ambianic
