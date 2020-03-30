@@ -108,10 +108,10 @@ big_picture:
     title: Linux Foundation AI Landscape
     fullscreen_header: See the interactive landscape at l.lfai.foundation
     size:
-      width: 1380
+      width: 1420
       height: 800
     fullscreen_size:
-      width: 1380
+      width: 1420
       height: 800
     elements:
       - type: HorizontalCategory
@@ -135,7 +135,7 @@ big_picture:
       - type: HorizontalCategory
         category: Reinforcement Learning
         rows: 4
-        width: 125
+        width: 160
         height: 160
         top: 0
         left: 840
@@ -147,7 +147,7 @@ big_picture:
         width: 200
         height: 160
         top: 0
-        left: 985
+        left: 1020
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
@@ -156,13 +156,13 @@ big_picture:
         width: 125
         height: 160
         top: 0
-        left: 1205
+        left: 1240
         color: 'rgb(165,9,77)'
         fit_width: true
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
-        width: 295
+        width: 300
         height: 160
         top: 190
         left: 0
@@ -171,16 +171,16 @@ big_picture:
       - type: HorizontalCategory
         category: Data
         rows: 4
-        width: 1015
+        width: 1045
         height: 160
         top: 190
-        left: 315
+        left: 320
         color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
         category: Model
         rows: 4
-        width: 825
+        width: 845
         height: 160
         top: 380
         left: 0
@@ -189,25 +189,25 @@ big_picture:
       - type: HorizontalCategory
         category: Distributed Computing
         rows: 4
-        width: 290
+        width: 300
         height: 160
         top: 380
-        left: 845
+        left: 865
         color: 'rgb(179,60,133)'
         fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
         rows: 4
-        width: 175
+        width: 180
         height: 160
         top: 380
-        left: 1155
+        left: 1185
         color: 'rgb(106,44,218)'
         fit_width: true
       - type: HorizontalCategory
         category: Trusted & Responsible AI
         rows: 3
-        width: 300
+        width: 320
         height: 160
         top: 570
         left: 0
@@ -217,7 +217,7 @@ big_picture:
         width: 350
         height: 160
         top: 570
-        left: 320
+        left: 340
         children:
           - type: text
             text: >
@@ -254,10 +254,10 @@ big_picture:
       - type: HorizontalCategory
         category: LF AI Member Company
         rows: 4
-        width: 640
+        width: 655
         height: 160
         top: 570
-        left: 690
+        left: 710
         color: 'rgb(124, 200, 182)'
         fit_width: true
 test:
