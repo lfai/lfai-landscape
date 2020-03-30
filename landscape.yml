@@ -212,6 +212,13 @@ landscape:
         name: Framework
         items:
           - item:
+            name: MindSpore
+            homepage_url: 'https://www.mindspore.cn/en'
+            repo_url: 'https://github.com/mindspore-ai/mindspore'
+            logo: mindspore.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/huawei'
+          - item:
             name: Apache SINGA
             homepage_url: 'https://singa.incubator.apache.org/en/index.html'
             repo_url: 'https://github.com/apache/singa'
@@ -798,6 +805,13 @@ landscape:
       - subcategory:
         name: Reinforcement Learning
         items:
+          - item:
+            name: SEED RL
+            homepage_url: 'https://github.com/google-research/seed_rl'
+            repo_url: 'https://github.com/google-research/seed_rl'
+            logo: seed-rl.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
             name: Chainer RL
             homepage_url: 'https://chainerrl.readthedocs.io/en/latest/'
