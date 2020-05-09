@@ -107,9 +107,6 @@ big_picture:
     name: Landscape
     title: Linux Foundation AI Landscape
     fullscreen_header: See the interactive landscape at l.lfai.foundation
-    size:
-      width: 1420
-      height: 800
     fullscreen_size:
       width: 1420
       height: 800
@@ -117,7 +114,7 @@ big_picture:
       - type: HorizontalCategory
         category: Machine Learning
         rows: 4
-        width: 420
+        width: 430
         height: 160
         top: 0
         left: 0
@@ -129,7 +126,7 @@ big_picture:
         width: 395
         height: 160
         top: 0
-        left: 440
+        left: 450
         color: 'rgb(7,136,62)'
         fit_width: true
       - type: HorizontalCategory
@@ -138,25 +135,25 @@ big_picture:
         width: 155
         height: 160
         top: 0
-        left: 855
+        left: 865
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
         category: Programming
         rows: 4
-        width: 195
+        width: 190
         height: 160
         top: 0
-        left: 1030
+        left: 1040
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
         category: Security & Privacy
         rows: 4
-        width: 120
+        width: 115
         height: 160
         top: 0
-        left: 1245
+        left: 1250
         color: 'rgb(165,9,77)'
         fit_width: true
       - type: HorizontalCategory
@@ -217,7 +214,7 @@ big_picture:
         width: 350
         height: 160
         top: 570
-        left: 340
+        left: 335
         children:
           - type: text
             text: >

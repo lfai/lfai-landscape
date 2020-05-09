@@ -315,6 +315,12 @@ landscape:
             twitter: 'https://twitter.com/jolibrain'
             crunchbase: 'https://www.crunchbase.com/organization/jolibrain'
           - item:
+            name: Jina
+            homepage_url: 'https://jina.ai'
+            repo_url: 'https://github.com/jina-ai/jina'
+            logo: jina-search.svg
+            crunchbase: 'https://www.crunchbase.com/organization/jina-ai'
+          - item:
             name: Polyaxon
             homepage_url: 'https://polyaxon.com'
             repo_url: 'https://github.com/polyaxon/polyaxon'
@@ -329,13 +335,6 @@ landscape:
             logo: x-deeplearning.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
-          - item:
-            name: Jina
-            homepage_url: 'https://jina.ai'
-            repo_url: 'https://github.com/jina-ai/jina'
-            logo: jina-search.svg
-            twitter: 'https://twitter.com/JinaAI_'
-            crunchbase: 'https://www.crunchbase.com/organization/jina-ai'
       - subcategory:
         name: Library
         items:
@@ -1292,13 +1291,6 @@ landscape:
         name: Tool
         items:
           - item:
-            name: TorchServe
-            homepage_url: 'https://pytorch.org/serve/'
-            repo_url: 'https://github.com/pytorch/serve'
-            logo: torchserve.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
-          - item:
             name: Clipper
             homepage_url: 'http://clipper.ai/'
             repo_url: 'https://github.com/ucbrise/clipper'
@@ -1367,6 +1359,13 @@ landscape:
             logo: tf_model_analysis.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: TorchServe
+            homepage_url: 'https://pytorch.org/serve/'
+            repo_url: 'https://github.com/pytorch/serve'
+            logo: torchserve.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
           - item:
             name: Turi Create
             homepage_url: 'https://github.com/apple/turicreate'
