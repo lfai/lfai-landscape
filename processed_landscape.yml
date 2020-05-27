@@ -11848,7 +11848,7 @@ landscape:
             homepage_url: 'https://github.com/linkedin/Brooklin'
             repo_url: 'https://github.com/linkedin/Brooklin'
             stock_ticker: MSFT
-            logo: brooklin.svg
+            logo: 'https://github.com/linkedin/brooklin/blob/master/images/brooklin-logo.svg'
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/linkedin'
             crunchbase_data:
@@ -11922,7 +11922,6 @@ landscape:
               effective_ticker: MSFT
             image_data:
               fileName: brooklin.svg
-              hash: MOWXFlraZY9103MjQfZHld53oJgk2Db5Xavn2S1PmS4=
             best_practice_data:
               badge: false
               percentage: null
@@ -39797,90 +39796,6 @@ landscape:
         name: Premium
         items:
           - item:
-            name: Amdocs
-            homepage_url: 'https://www.amdocs.com/'
-            logo: amdocs.svg
-            twitter: 'https://twitter.com/Amdocs'
-            crunchbase: 'https://www.crunchbase.com/organization/amdocs'
-            crunchbase_data:
-              name: Amdocs
-              description: 'Amdocs is a developer and provider of customer experience systems for communications, media, and entertainment industries.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.amdocs.com'
-              city: Chesterfield
-              region: Missouri
-              country: United States
-              twitter: 'http://twitter.com/amdocs'
-              linkedin: 'https://www.linkedin.com/company/amdocs'
-              acquisitions:
-                - date: '2000-03-01'
-                  acquiree: Solect Technology Group
-                  price: 1150000000
-                - date: '2003-12-22'
-                  acquiree: XACCT Technologies
-                  price: 30000000
-                - date: '2005-07-05'
-                  acquiree: DST Innovis
-                  price: 238000000
-                - date: '2006-04-18'
-                  acquiree: Qpass
-                  price: 275000000
-                - date: '2006-07-18'
-                  acquiree: Cramer Systems
-                  price: 375000000
-                - date: '2008-04-08'
-                  acquiree: Jacobs Rimell Ltd.
-                  price: 45000000
-                - date: '2008-12-31'
-                  acquiree: Changingworlds
-                  price: 60000000
-                - date: '2009-10-27'
-                  acquiree: jNetX
-                - date: '2010-03-23'
-                  acquiree: MX Telecom
-                  price: 104000000
-                - date: '2010-04-23'
-                  acquiree: Streamezzo
-                - date: '2011-06-17'
-                  acquiree: Bridgewater Systems
-                  price: 211000000
-                - date: '2013-06-11'
-                  acquiree: Celcite
-                  price: 129000000
-                - date: '2013-09-03'
-                  acquiree: Actix
-                - date: '2016-01-15'
-                  acquiree: cVidya
-                  price: 30000000
-                - date: '2016-09-14'
-                  acquiree: 'Brite:Bill'
-                - date: '2016-09-14'
-                  acquiree: Pontis
-                - date: '2016-09-14'
-                  acquiree: Vindicia
-                - date: '2018-01-30'
-                  acquiree: Vubiquity
-                  price: 224000000
-                - date: '2019-08-07'
-                  acquiree: Telecom Technology Services
-                  price: 50000000
-              parents: []
-              ticker: DOX
-              stockExchange: nasdaq
-              kind: market_cap
-            yahoo_finance_data:
-              market_cap: 8443874816
-              effective_ticker: DOX
-            image_data:
-              fileName: amdocs.svg
-              hash: iaKVhOYy8vPA9Ck8dI+To81bzfQGP319LoGhVCnMJo4=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-05-25T19:01:35.000Z
-          - item:
             name: AT&T
             homepage_url: 'https://att.com/'
             logo: att.svg
@@ -41428,6 +41343,34 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2020-05-25T16:13:46.000Z
+          - item:
+            name: Montreal AI Ethics Institute
+            homepage_url: 'https://montrealethics.ai'
+            stock_ticker: null
+            logo: maie.svg
+            crunchbase: 'https://www.crunchbase.com/organization/montreal-ai-ethics-institute'
+            crunchbase_data:
+              name: Montreal AI Ethics Institute
+              description: 'Montreal AI Ethics Institute is researching in the ethical, safe and inclusive development of AI.'
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: 'https://montrealethics.ai'
+              city: Montréal
+              region: Quebec
+              country: Canada
+              twitter: 'https://twitter.com/mtlaiethics'
+              linkedin: 'https://www.linkedin.com/company/mtlaiethics'
+              acquisitions: []
+              parents: []
+              stockExchange: null
+            image_data:
+              fileName: montreal-ai-ethics-institute.svg
+              hash: 11DcYoVTUg0dVNIr2AnuKUR0WGX7HZ3Fxk2opp5OOYY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-05-25T16:00:11.000Z
 twitter_options:
   count: 83
   since_id: '1263609168780578816'
