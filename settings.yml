@@ -56,7 +56,7 @@ relation:
       label: Non-LFAI Member Products/Projects
       url: 'no'
 membership:
-  Premium:
+  Premier:
     name: LFAI
     label: Premier Member
     funding: Premier
@@ -254,6 +254,42 @@ big_picture:
         left: 710
         color: 'rgb(124, 200, 182)'
         fit_width: true
+  third:
+    tab_index: 1
+    url: members
+    name: LF AI Members
+    title: LF AI Member Company
+    fullscreen_header: Become an LF AI member at lfai.foundation/join
+    elements:
+      - type: HorizontalCategory
+        category: Premier
+        width: 750
+        height: 150
+        top: 0
+        left: 0
+        color: '#e5e4e2'
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: General
+        width: 750
+        height: 100
+        top: 170
+        left: 0
+        color: '#d4af37'
+        fit_width: true
+        is_large: true
+      - type: HorizontalCategory
+        category: Associate
+        cols: 30
+        width: 750
+        height: 100
+        top: 290
+        left: 0
+        color: '#C0C0C0'
+        fit_width: true
+        is_large: true
+    category: LF AI Member Company
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects
