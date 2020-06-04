@@ -452,6 +452,13 @@ landscape:
         name: Store & Format
         items:
           - item:
+            name: JanusGraph
+            homepage_url: 'https://janusgraph.org/'
+            repo_url: 'https://github.com/JanusGraph/janusgraph'
+            logo: janusgraph.svg
+            twitter: 'https://twitter.com/janusgraph'
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
             name: Alluxio
             homepage_url: 'https://www.alluxio.io/'
             repo_url: 'https://github.com/alluxio/alluxio'
@@ -564,30 +571,6 @@ landscape:
             logo: marquez.svg
             twitter: 'https://twitter.com/MarquezProject'
             crunchbase: 'https://www.crunchbase.com/organization/wework'
-      - subcategory:
-        name: Pipeline Management
-        items:
-          - item:
-            name: Analytics Zoo
-            homepage_url: 'https://pypi.org/project/analytics-zoo/'
-            repo_url: 'https://github.com/intel-analytics/analytics-zoo'
-            logo: analytics-zoo.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/intel'
-          - item:
-            name: Beam
-            homepage_url: 'https://beam.apache.org'
-            repo_url: 'https://github.com/apache/beam'
-            logo: beam.svg
-            twitter: 'https://twitter.com/ApacheBeam'
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
-            name: TPOT
-            homepage_url: 'https://automl.info/tpot/'
-            repo_url: 'https://github.com/EpistasisLab/tpot'
-            logo: tpot.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/university-of-pennsylvania'
       - subcategory:
         name: Stream Processing
         items:
@@ -756,20 +739,29 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
       - subcategory:
-        name: Governance
+        name: Pipeline Management
         items:
           - item:
-            name: Community Data License Agreement (CDLA)
-            homepage_url: 'https://cdla.io/'
-            repo_url: 'https://github.com/lfai/CDLA'
-            logo: cdla.svg
-            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+            name: Analytics Zoo
+            homepage_url: 'https://pypi.org/project/analytics-zoo/'
+            repo_url: 'https://github.com/intel-analytics/analytics-zoo'
+            logo: analytics-zoo.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
-            name: ODPi Egeria
-            homepage_url: 'https://egeria.odpi.org/'
-            repo_url: 'https://github.com/odpi/egeria'
-            logo: odpi_egeria.svg
-            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+            name: Beam
+            homepage_url: 'https://beam.apache.org'
+            repo_url: 'https://github.com/apache/beam'
+            logo: beam.svg
+            twitter: 'https://twitter.com/ApacheBeam'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: TPOT
+            homepage_url: 'https://automl.info/tpot/'
+            repo_url: 'https://github.com/EpistasisLab/tpot'
+            logo: tpot.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/university-of-pennsylvania'
       - subcategory:
         name: Labeling and Annotation
         items:
@@ -819,6 +811,21 @@ landscape:
             logo: vott.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/microsoft'
+      - subcategory:
+        name: Governance
+        items:
+          - item:
+            name: Community Data License Agreement (CDLA)
+            homepage_url: 'https://cdla.io/'
+            repo_url: 'https://github.com/lfai/CDLA'
+            logo: cdla.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+          - item:
+            name: ODPi Egeria
+            homepage_url: 'https://egeria.odpi.org/'
+            repo_url: 'https://github.com/odpi/egeria'
+            logo: odpi_egeria.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
   - category:
     name: Reinforcement Learning
     subcategories:
