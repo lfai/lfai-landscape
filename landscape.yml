@@ -1689,20 +1689,6 @@ landscape:
         name: Bias & Fairness
         items:
           - item:
-            name: Fainlearn
-            homepage_url: 'https://fairlearn.github.io/'
-            repo_url: 'https://github.com/fairlearn/fairlearn'
-            logo: fairlearn.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
-          - item:
-            name: DeepLIFT
-            homepage_url: 'https://github.com/kundajelab/deeplift'
-            repo_url: 'https://github.com/kundajelab/deeplift'
-            logo: deeplift.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
-          - item:
             name: Aequitas
             homepage_url: 'http://www.datasciencepublicpolicy.org/projects/aequitas/'
             repo_url: 'https://github.com/dssg/aequitas'
@@ -1723,6 +1709,20 @@ landscape:
             logo: audit-ai.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/pymetrics'
+          - item:
+            name: DeepLIFT
+            homepage_url: 'https://github.com/kundajelab/deeplift'
+            repo_url: 'https://github.com/kundajelab/deeplift'
+            logo: deeplift.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
+          - item:
+            name: Fainlearn
+            homepage_url: 'https://fairlearn.github.io/'
+            repo_url: 'https://github.com/fairlearn/fairlearn'
+            logo: fairlearn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/microsoft'
   - category:
     name: Notebook Environment
     subcategories:
