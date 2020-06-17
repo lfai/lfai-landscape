@@ -282,7 +282,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
             name: Pythia
-            homepage_url: 'https://github.com/facebookresearch/pythia'
+            homepage_url: 'https://github.com/facebookresearch/mmf'
             repo_url: 'https://github.com/facebookresearch/mmf'
             logo: pythia.svg
             twitter: null
@@ -576,9 +576,9 @@ landscape:
           - item:
             name: Marquez
             homepage_url: 'https://marquezproject.github.io/marquez'
+            project: incubating
             repo_url: 'https://github.com/MarquezProject/marquez'
             logo: marquez.svg
-            project: incubating
             twitter: 'https://twitter.com/MarquezProject'
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
       - subcategory:
@@ -1286,7 +1286,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/nvidia'
           - item:
             name: TensorRT Inference Server
-            homepage_url: 'https://github.com/NVIDIA/tensorrt-inference-server'
+            homepage_url: 'https://github.com/NVIDIA/triton-inference-server'
             repo_url: 'https://github.com/NVIDIA/triton-inference-server'
             logo: tensorrt-inferenceserver.svg
             twitter: null
@@ -1329,6 +1329,12 @@ landscape:
             logo: mms.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/amazon-web-services'
+          - item:
+            name: ModelDB
+            homepage_url: 'https://github.com/VertaAI/modeldb'
+            repo_url: 'https://github.com/VertaAI/modeldb'
+            logo: modeldb.svg
+            crunchbase: 'https://www.crunchbase.com/organization/vertaai'
           - item:
             name: Neo-AI
             homepage_url: 'https://github.com/neo-ai/neo-ai-dlr'
@@ -1383,13 +1389,6 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apple'
-          - item:
-            name: ModelDB
-            homepage_url: 'https://github.com/VertaAI/modeldb'
-            repo_url: 'https://github.com/VertaAI/modeldb'
-            logo: modeldb.svg
-            twitter: 'https://twitter.com/VertaAI'
-            crunchbase: 'https://www.crunchbase.com/organization/vertaai'
   - category:
     name: Programming
     subcategories:
@@ -1885,7 +1884,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/nokia'
           - item:
             name: Tech Mahindra
-            homepage_url: 'https://www.techmahindra.com/CWCE.html'
+            homepage_url: 'https://www.techmahindra.com/en-in'
             logo: tech-mahindra.svg
             twitter: 'https://twitter.com/tech_mahindra'
             crunchbase: 'https://www.crunchbase.com/organization/tech-mahindra'
