@@ -120,7 +120,7 @@ big_picture:
       - type: HorizontalCategory
         category: Deep Learning
         rows: 4
-        width: 395
+        width: 410
         height: 160
         top: 0
         left: 450
@@ -132,7 +132,7 @@ big_picture:
         width: 155
         height: 160
         top: 0
-        left: 865
+        left: 880
         color: 'rgb(126,115,14)'
         fit_width: true
       - type: HorizontalCategory
@@ -141,26 +141,17 @@ big_picture:
         width: 190
         height: 160
         top: 0
-        left: 1040
+        left: 1055
         color: 'rgb(87,43,10)'
         fit_width: true
       - type: HorizontalCategory
-        category: Security & Privacy
+        category: Notebook Environment
         rows: 4
-        width: 115
-        height: 160
-        top: 0
-        left: 1250
-        color: 'rgb(165,9,77)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Natural Language Processing
-        rows: 4
-        width: 300
+        width: 180
         height: 160
         top: 190
         left: 0
-        color: 'rgb(29,119,164)'
+        color: 'rgb(106,44,218)'
         fit_width: true
       - type: HorizontalCategory
         category: Data
@@ -168,55 +159,45 @@ big_picture:
         width: 1045
         height: 160
         top: 190
-        left: 320
+        left: 200
         color: 'rgb(193,83,21)'
         fit_width: true
       - type: HorizontalCategory
         category: Model
         rows: 4
-        width: 845
+        width: 880
         height: 160
         top: 380
         left: 0
         color: 'rgb(37,81,209)'
         fit_width: true
       - type: HorizontalCategory
+        category: Trusted & Responsible AI
+        rows: 3
+        width: 345
+        height: 160
+        top: 380
+        left: 900
+        color: 'rgb(111,12,52)'
+        fit_width: true
+      - type: HorizontalCategory
         category: Distributed Computing
         rows: 4
         width: 300
         height: 160
-        top: 380
-        left: 865
-        color: 'rgb(179,60,133)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Notebook Environment
-        rows: 4
-        width: 180
-        height: 160
-        top: 380
-        left: 1185
-        color: 'rgb(106,44,218)'
-        fit_width: true
-      - type: HorizontalCategory
-        category: Trusted & Responsible AI
-        rows: 3
-        width: 320
-        height: 160
         top: 570
         left: 0
-        color: 'rgb(111,12,52)'
+        color: 'rgb(179,60,133)'
         fit_width: true
       - type: LandscapeInfo
-        width: 350
+        width: 330
         height: 160
         top: 570
-        left: 335
+        left: 320
         children:
           - type: text
             text: >
-              This landscape explores open source artificial intelligence, machine learning, and deep learning projects, and lists the members of the LF AI
-              Foundation.
+              The LF AI landscape explores open source projects in the domains of artificial intelligence, machine learning, and deep learning.
             top: 15
             left: 100
             right: 120
@@ -246,14 +227,41 @@ big_picture:
             top: 55
             title: LF AI Logo
       - type: HorizontalCategory
-        category: LF AI Member Company
+        category: Security & Privacy
         rows: 4
-        width: 655
+        width: 130
         height: 160
         top: 570
-        left: 710
-        color: 'rgb(124, 200, 182)'
+        left: 670
+        color: 'rgb(165,9,77)'
         fit_width: true
+      - type: HorizontalCategory
+        category: Natural Language Processing
+        rows: 4 
+        width: 300
+        height: 160
+        top: 570
+        left: 820
+        color: 'rgb(29,119,164)'
+        fit_width: true
+      - type: HorizontalCategory
+        category: Education
+        rows: 4
+        width: 105
+        height: 160
+        top: 570
+        left: 1140
+        color: 'rgb(106,44,218)'
+        fit_width: true        
+#      - type: HorizontalCategory
+#        category: LF AI Member Company
+#        rows: 4
+#        width: 655
+#        height: 160
+#        top: 570
+#        left: 710
+#        color: 'rgb(124, 200, 182)'
+#        fit_width: true
   third:
     tab_index: 1
     url: members
