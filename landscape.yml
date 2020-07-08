@@ -1,5 +1,23 @@
 landscape:
   - category:
+    name: Education
+    subcategories:
+      - subcategory:
+        name: Education
+        items:
+          - item:
+            name: ODPi OpenDS4All
+            homepage_url: 'https://github.com/odpi/OpenDS4All'
+            repo_url: 'https://github.com/odpi/OpenDS4All'
+            logo: opends4all.svg
+            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+          - item:
+            name: DataPractices.org
+            homepage_url: 'https://datapractices.org/'
+            repo_url: 'https://github.com/datadotworld/data-practices-site'
+            logo: datapractices.svg
+            crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
+  - category:
     name: Machine Learning
     subcategories:
       - subcategory:
