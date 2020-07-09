@@ -196,7 +196,7 @@ big_picture:
         left: 320
         children:
           - type: text
-            text: >
+            text: |
               The LF AI landscape explores open source projects in the domains of artificial intelligence, machine learning, and deep learning.
             top: 15
             left: 100
@@ -237,7 +237,7 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Natural Language Processing
-        rows: 4 
+        rows: 4
         width: 300
         height: 160
         top: 570
@@ -252,16 +252,7 @@ big_picture:
         top: 570
         left: 1140
         color: 'rgb(106,44,218)'
-        fit_width: true        
-#      - type: HorizontalCategory
-#        category: LF AI Member Company
-#        rows: 4
-#        width: 655
-#        height: 160
-#        top: 570
-#        left: 710
-#        color: 'rgb(124, 200, 182)'
-#        fit_width: true
+        fit_width: true
   third:
     tab_index: 1
     url: members
