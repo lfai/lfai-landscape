@@ -570,13 +570,6 @@ landscape:
         name: Operations
         items:
           - item:
-            name: snorkel
-            homepage_url: 'https://www.snorkel.org/'
-            repo_url: 'https://github.com/snorkel-team/snorkel'
-            logo: snorkel.svg
-            twitter: 'https://twitter.com/SnorkelML'
-            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
-          - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
             repo_url: 'https://github.com/lyft/amundsen'
@@ -602,6 +595,13 @@ landscape:
             logo: marquez.svg
             twitter: 'https://twitter.com/MarquezProject'
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: snorkel
+            homepage_url: 'https://www.snorkel.org/'
+            repo_url: 'https://github.com/snorkel-team/snorkel'
+            logo: snorkel.svg
+            twitter: 'https://twitter.com/SnorkelML'
+            crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
       - subcategory:
         name: Stream Processing
         items:
@@ -1755,12 +1755,6 @@ landscape:
         name: Notebook Environment
         items:
           - item:
-            name: Elyra
-            homepage_url: 'https://elyra.readthedocs.io/'
-            repo_url: 'https://github.com/elyra-ai/elyra'
-            logo: elyra.svg
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
-          - item:
             name: Apache Zeppelin
             homepage_url: 'https://zeppelin.apache.org/'
             repo_url: 'https://github.com/apache/zeppelin'
@@ -1781,6 +1775,12 @@ landscape:
             logo: colab.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/google'
+          - item:
+            name: Elyra
+            homepage_url: 'https://elyra.readthedocs.io/en/latest'
+            repo_url: 'https://github.com/elyra-ai/elyra'
+            logo: elyra.svg
+            crunchbase: 'https://www.crunchbase.com/organization/ibm'
           - item:
             name: IPython
             homepage_url: 'https://ipython.org/'
@@ -1960,7 +1960,6 @@ landscape:
           - item:
             name: Red Hat
             homepage_url: 'https://www.redhat.com/en'
-            stock_ticker: IBM
             logo: redhat.svg
             crunchbase: 'https://www.crunchbase.com/organization/red-hat'
           - item:
