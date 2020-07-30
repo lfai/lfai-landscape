@@ -262,7 +262,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Premier
-        width: 750
+        width: 500
         height: 150
         top: 0
         left: 0
@@ -271,9 +271,9 @@ big_picture:
         is_large: true
       - type: HorizontalCategory
         category: General
-        width: 750
-        height: 100
-        top: 170
+        width: 500
+        height: 120
+        top: 150
         left: 0
         color: '#d4af37'
         fit_width: true
@@ -281,14 +281,31 @@ big_picture:
       - type: HorizontalCategory
         category: Associate
         cols: 30
-        width: 750
-        height: 100
-        top: 290
+        width: 500
+        height: 120
+        top: 270
         left: 0
         color: '#C0C0C0'
         fit_width: true
         is_large: true
     category: LF AI Member Company
+  fourth:
+    tab_index: 2
+    url: hosting
+    name: Companies Hosting Projects 
+    title: Companies Hosting Projects 
+    fullscreen_header: Companies hosting projects in LF AI
+    elements:
+      - type: HorizontalCategory
+        category: Hosting Companies
+        width: 450
+        height: 200
+        top: 0
+        left: 0
+        color: '#e5e4e2'
+        fit_width: true
+        is_large: true
+    category: Hosting Companies
 test:
   header: LF AI Foundation Interactive Landscape
   section: Graduated LFAI Projects
