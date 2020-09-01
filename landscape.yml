@@ -122,19 +122,19 @@ landscape:
             twitter: 'https://twitter.com/kubeflow'
             crunchbase: 'https://www.crunchbase.com/organization/google'
           - item:
-            name: MLFlow
-            homepage_url: 'https://mlflow.org/'
-            repo_url: 'https://github.com/mlflow/mlflow'
-            logo: mlflow.svg
-            twitter: 'https://twitter.com/MLflow'
-            crunchbase: 'https://www.crunchbase.com/organization/databricks'
-          - item:
             name: Metaflow
             homepage_url: 'https://metaflow.org/'
             repo_url: 'https://github.com/Netflix/metaflow'
             logo: metaflow.svg
             twitter: 'https://twitter.com/MetaflowOSS'
             crunchbase: 'https://www.crunchbase.com/organization/netflix'
+          - item:
+            name: MLFlow
+            homepage_url: 'https://mlflow.org/'
+            repo_url: 'https://github.com/mlflow/mlflow'
+            logo: mlflow.svg
+            twitter: 'https://twitter.com/MLflow'
+            crunchbase: 'https://www.crunchbase.com/organization/databricks'
           - item:
             name: PredictionIO
             homepage_url: 'https://predictionio.apache.org/'
@@ -937,12 +937,6 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: DeepSpeech
-            homepage_url: 'http://deepspeech.readthedocs.io/'
-            repo_url: 'https://github.com/mozilla/DeepSpeech'
-            logo: deepspeech.svg
-            crunchbase: 'https://www.crunchbase.com/organization/mozilla-foundation'
-          - item:
             name: ALBERT
             homepage_url: 'https://github.com/google-research/ALBERT'
             repo_url: 'https://github.com/google-research/ALBERT'
@@ -976,6 +970,12 @@ landscape:
             logo: corenlp.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/stanford-university'
+          - item:
+            name: DeepSpeech
+            homepage_url: 'https://deepspeech.readthedocs.io/en/latest'
+            repo_url: 'https://github.com/mozilla/DeepSpeech'
+            logo: deepspeech.svg
+            crunchbase: 'https://www.crunchbase.com/organization/mozilla-foundation'
           - item:
             name: DELTA
             homepage_url: 'https://delta-didi.readthedocs.io/en/latest'
