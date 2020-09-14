@@ -21651,36 +21651,23 @@ landscape:
             repo_url: 'https://github.com/didi/delta'
             logo: delta.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/didi-dache'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: Didi Chuxing
-              description: Didi Chuxing is a mobile transportation platform that offers app-based transportation services.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: 'https://www.didiglobal.com/'
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: 'https://twitter.com/DidiChuxing'
-              linkedin: 'https://www.linkedin.com/company/%E6%BB%B4%E6%BB%B4/'
-              acquisitions:
-                - date: '2015-02-14'
-                  acquiree: Kuaidi Dache
-                - date: '2016-08-01'
-                  acquiree: Uber China
-                  price: 7000000000
-                - date: '2017-12-19'
-                  acquiree: 19pay
-                  price: 45000000
-                - date: '2018-01-03'
-                  acquiree: '99'
-                  price: 1000000000
-                - date: '2018-01-03'
-                  acquiree: Bluegogo
-              parents: []
-              funding: 21246700000
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
-              kind: funding
             github_data:
               languages:
                 - name: Python
@@ -25338,7 +25325,7 @@ landscape:
           - item:
             name: Horovod
             homepage_url: 'https://horovod.ai/'
-            project: incubating
+            project: graduated
             repo_url: 'https://github.com/horovod/horovod'
             logo: horovod.svg
             twitter: null
@@ -25403,52 +25390,23 @@ landscape:
             repo_url: 'https://github.com/uber/ludwig'
             logo: ludwig.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/uber'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: Uber
-              description: 'Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.uber.com'
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
               city: San Francisco
               region: California
               country: United States
-              twitter: 'http://twitter.com/uber'
-              linkedin: 'https://www.linkedin.com/company/uber-com/'
-              acquisitions:
-                - date: '2015-03-03'
-                  acquiree: deCarta
-                - date: '2016-08-18'
-                  acquiree: Otto
-                  price: 680000000
-                - date: '2016-12-05'
-                  acquiree: Geometric Intelligence
-                - date: '2017-07-14'
-                  acquiree: Complex Polygon
-                - date: '2017-07-14'
-                  acquiree: Swipe Labs
-                - date: '2018-04-04'
-                  acquiree: JUMP Bikes
-                  price: 200000000
-                - date: '2019-03-26'
-                  acquiree: Careem
-                  price: 3100000000
-                - date: '2019-06-18'
-                  acquiree: Mighty AI
-                - date: '2019-10-11'
-                  acquiree: Cornershop
-                - date: '2020-07-06'
-                  acquiree: Postmates
-                  price: 2650000000
-                - date: '2020-07-16'
-                  acquiree: Routematch Software
-                - date: '2020-08-06'
-                  acquiree: Autocab
-              parents: []
-              ticker: UBER
-              funding: 24712450000
-              stockExchange: nyse
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -25474,9 +25432,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /uber/ludwig/commit/984b34552ce1950fb52a436bab669a82c22e14f0
               start_date: '2019-01-09T23:46:03Z'
-            yahoo_finance_data:
-              market_cap: 58257092608
-              effective_ticker: UBER
             image_data:
               fileName: ludwig.svg
               hash: UH8AcEPLqJ14563Ky2eBm0tGOfUuFy+I7l+7X94DLUk=
@@ -33690,20 +33645,22 @@ landscape:
             repo_url: 'https://github.com/soajs/soajs'
             logo: soajs.svg
             twitter: 'https://twitter.com/soajsorg'
-            crunchbase: 'https://www.crunchbase.com/organization/herron-techology-llc'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: Herron Tech
-              description: 'The enterprise platform you need to build, deploy, and operate applications dramatically faster.'
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
               num_employees_min: 1
               num_employees_max: 10
-              homepage: 'http://www.herrontech.com'
-              city: Boston
-              region: Massachusetts
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: null
-              linkedin: 'https://www.linkedin.com/company/herron-tech/'
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
               acquisitions: []
-              parents: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
               stockExchange: null
             github_data:
               languages:
@@ -34014,412 +33971,23 @@ landscape:
             repo_url: 'https://github.com/Trusted-AI/AIX360'
             logo: aix360.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: IBM
-              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.ibm.com/'
-              city: Armonk
-              region: New York
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: 'http://twitter.com/IBM'
-              linkedin: 'https://www.linkedin.com/company/ibm/'
-              acquisitions:
-                - date: '1923-01-01'
-                  acquiree: Dehomag
-                - date: '1930-01-01'
-                  acquiree: The Automatic Accounting Scale Company
-                - date: '1932-01-01'
-                  acquiree: National Counting Scale Company
-                - date: '1941-01-01'
-                  acquiree: Munitions Manufacturing Corporation
-                - date: '1964-01-01'
-                  acquiree: Science Research Associates
-                - date: '1974-01-01'
-                  acquiree: Satellite Business Systems
-                - date: '1984-09-26'
-                  acquiree: ROLM Corporation
-                - date: '1994-08-01'
-                  acquiree: Transarc
-                - date: '1995-07-06'
-                  acquiree: Lotus Development Corporation
-                  price: 3500000000
-                - date: '1996-02-01'
-                  acquiree: Tivoli Systems
-                  price: 743000000
-                - date: '1999-06-09'
-                  acquiree: Whistle Communications
-                - date: '1999-07-12'
-                  acquiree: Sequent Computer Systems Inc
-                - date: '1999-07-27'
-                  acquiree: Mylex
-                  price: 240000000
-                - date: '1999-09-22'
-                  acquiree: Dascom
-                - date: '2001-06-07'
-                  acquiree: Mainspring
-                - date: '2002-01-14'
-                  acquiree: CrossWorlds Software
-                  price: 129000000
-                - date: '2002-06-25'
-                  acquiree: Metamerge
-                - date: '2002-08-29'
-                  acquiree: TrelliSoft
-                - date: '2002-09-03'
-                  acquiree: Access360
-                - date: '2002-09-12'
-                  acquiree: HOLOSOFX
-                - date: '2002-10-02'
-                  acquiree: PwC Consulting
-                  price: 3500000000
-                - date: '2002-10-07'
-                  acquiree: EADS Matra Datavision
-                - date: '2002-11-04'
-                  acquiree: Tarian Software
-                - date: '2003-02-20'
-                  acquiree: Rational Software
-                - date: '2003-05-14'
-                  acquiree: Think Dynamics
-                - date: '2003-07-15'
-                  acquiree: Presence Online
-                - date: '2003-10-14'
-                  acquiree: CrossAccess
-                - date: '2003-11-13'
-                  acquiree: Productivity Solutions
-                - date: '2003-12-17'
-                  acquiree: Green Pasture Software
-                - date: '2004-03-09'
-                  acquiree: Trigo Technologies
-                - date: '2004-04-07'
-                  acquiree: Daksh Infosoft
-                - date: '2004-04-07'
-                  acquiree: Daksh eServices
-                - date: '2004-06-07'
-                  acquiree: Candle Corporation
-                - date: '2004-07-14'
-                  acquiree: AlphaBlox
-                - date: '2004-07-29'
-                  acquiree: Cyanea Systems
-                - date: '2004-08-17'
-                  acquiree: Maersk Data
-                - date: '2004-08-26'
-                  acquiree: Venetica
-                - date: '2004-10-12'
-                  acquiree: Systemcorp A.L.G.
-                - date: '2004-11-23'
-                  acquiree: Liberty Insurance Services
-                - date: '2004-12-13'
-                  acquiree: KeyMRO
-                - date: '2005-01-07'
-                  acquiree: SRD
-                - date: '2005-01-07'
-                  acquiree: Systems Research & Development
-                - date: '2005-01-25'
-                  acquiree: Corio
-                  price: 182000000
-                - date: '2005-02-02'
-                  acquiree: Equitant
-                - date: '2005-05-02'
-                  acquiree: Ascential Software
-                - date: '2005-05-10'
-                  acquiree: Gluecode Software
-                - date: '2005-06-23'
-                  acquiree: Meiosys
-                - date: '2005-07-27'
-                  acquiree: Isogon Corporation
-                - date: '2005-08-02'
-                  acquiree: DWL
-                - date: '2005-08-05'
-                  acquiree: PureEdge Solutions
-                - date: '2005-10-18'
-                  acquiree: DataPower Technology
-                - date: '2005-11-01'
-                  acquiree: iPhrase Technologies
-                - date: '2005-11-09'
-                  acquiree: Network Solutions Private Limited
-                - date: '2005-11-16'
-                  acquiree: Collation
-                - date: '2005-12-20'
-                  acquiree: Bowstreet
-                - date: '2005-12-21'
-                  acquiree: Micromuse
-                - date: '2006-01-25'
-                  acquiree: CIMS Lab
-                - date: '2006-01-27'
-                  acquiree: ARGUS Semiconductor Software
-                - date: '2006-02-08'
-                  acquiree: Viacore
-                - date: '2006-03-16'
-                  acquiree: Language Analysis Systems
-                - date: '2006-05-02'
-                  acquiree: BuildForge
-                - date: '2006-05-08'
-                  acquiree: Unicorn Solutions
-                - date: '2006-05-18'
-                  acquiree: Rembo Technology
-                - date: '2006-08-02'
-                  acquiree: Webify
-                - date: '2006-09-06'
-                  acquiree: Global Value Solutions
-                - date: '2006-09-30'
-                  acquiree: Valchemy
-                - date: '2006-10-05'
-                  acquiree: MRO Software
-                - date: '2006-10-12'
-                  acquiree: FileNet Corporation
-                  price: 1600000000
-                - date: '2006-10-20'
-                  acquiree: Internet Security Systems
-                - date: '2006-11-10'
-                  acquiree: Palisades Technology Partners
-                - date: '2006-12-05'
-                  acquiree: Consul Risk Management International
-                - date: '2007-02-14'
-                  acquiree: Vallent Corporation
-                - date: '2007-03-01'
-                  acquiree: Softek Storage Solutions
-                - date: '2007-04-20'
-                  acquiree: Unicible
-                - date: '2007-06-11'
-                  acquiree: Telelogic
-                  price: 745000000
-                - date: '2007-07-23'
-                  acquiree: Watchfire
-                - date: '2007-08-03'
-                  acquiree: Princeton Softech
-                - date: '2007-08-22'
-                  acquiree: Webdialogs
-                - date: '2007-09-04'
-                  acquiree: DataMirror
-                - date: '2007-10-24'
-                  acquiree: NovusCG
-                - date: '2007-12-06'
-                  acquiree: Arsenal Digital Solutions
-                - date: '2007-12-21'
-                  acquiree: Solid Information Technology
-                - date: '2008-01-02'
-                  acquiree: XIV
-                - date: '2008-01-18'
-                  acquiree: Net Integration Technologies
-                - date: '2008-01-23'
-                  acquiree: AptSoft
-                - date: '2008-01-31'
-                  acquiree: Cognos
-                - date: '2008-03-12'
-                  acquiree: Encentuate
-                - date: '2008-04-10'
-                  acquiree: FilesX
-                - date: '2008-04-22'
-                  acquiree: Diligent
-                - date: '2008-04-29'
-                  acquiree: InfoDyne Corporation
-                - date: '2008-07-02'
-                  acquiree: Platform Solutions
-                - date: '2008-07-28'
-                  acquiree: ILOG
-                - date: '2008-11-18'
-                  acquiree: Transitive
-                - date: '2009-04-16'
-                  acquiree: Outblaze
-                - date: '2009-05-05'
-                  acquiree: Exeros
-                - date: '2009-07-28'
-                  acquiree: Ounce Labs
-                - date: '2009-07-28'
-                  acquiree: SPSS
-                - date: '2009-09-22'
-                  acquiree: RedPill Solutions
-                - date: '2009-11-30'
-                  acquiree: Guardium
-                  price: 225000000
-                - date: '2009-12-16'
-                  acquiree: Lombardi Software
-                - date: '2010-01-20'
-                  acquiree: National Interest Security Company
-                - date: '2010-02-03'
-                  acquiree: Initiate Systems
-                - date: '2010-02-16'
-                  acquiree: Intelliden
-                - date: '2010-05-03'
-                  acquiree: Cast Iron Systems
-                - date: '2010-05-24'
-                  acquiree: Sterling Commerce
-                - date: '2010-06-14'
-                  acquiree: Storwize
-                  price: 140000000
-                - date: '2010-06-15'
-                  acquiree: Coremetrics
-                - date: '2010-07-01'
-                  acquiree: BigFix
-                - date: '2010-08-10'
-                  acquiree: Datacap
-                - date: '2010-08-13'
-                  acquiree: Unica
-                  price: 480000000
-                - date: '2010-09-15'
-                  acquiree: OpenPages
-                - date: '2010-09-20'
-                  acquiree: Netezza
-                  price: 1800000000
-                - date: '2010-09-27'
-                  acquiree: BLADE Network Technologies
-                - date: '2010-10-13'
-                  acquiree: PSS Systems
-                - date: '2010-10-21'
-                  acquiree: Clarity Systems
-                - date: '2011-04-14'
-                  acquiree: TRIRIGA
-                - date: '2011-08-31'
-                  acquiree: i2
-                - date: '2011-09-01'
-                  acquiree: Algorithmics
-                  price: 380200000
-                - date: '2011-10-04'
-                  acquiree: Q1 Labs
-                - date: '2011-10-11'
-                  acquiree: Platform Computing
-                - date: '2011-12-08'
-                  acquiree: DemandTec
-                  price: 440000000
-                - date: '2011-12-15'
-                  acquiree: Emptoris
-                - date: '2011-12-20'
-                  acquiree: Cúram Software
-                - date: '2012-01-04'
-                  acquiree: Green Hat
-                - date: '2012-01-31'
-                  acquiree: Worklight
-                  price: 70000000
-                - date: '2012-04-13'
-                  acquiree: Varicent Software
-                - date: '2012-04-25'
-                  acquiree: Vivisimo
-                - date: '2012-05-02'
-                  acquiree: Tealeaf
-                - date: '2012-07-01'
-                  acquiree: Cibecs
-                - date: '2012-08-16'
-                  acquiree: Texas Memory Systems
-                - date: '2012-08-28'
-                  acquiree: Kenexa
-                - date: '2012-09-24'
-                  acquiree: Butterfly Software
-                - date: '2013-02-07'
-                  acquiree: StoredIQ
-                - date: '2013-03-20'
-                  acquiree: Star Analytics
-                - date: '2013-04-22'
-                  acquiree: Urbancode
-                - date: '2013-06-04'
-                  acquiree: SoftLayer
-                  price: 2000000000
-                - date: '2013-07-10'
-                  acquiree: CSL International
-                - date: '2013-08-15'
-                  acquiree: Trusteer
-                - date: '2013-09-19'
-                  acquiree: Daeja Image Systems
-                - date: '2013-10-03'
-                  acquiree: Xtify
-                - date: '2013-10-29'
-                  acquiree: The Now Factory
-                - date: '2013-12-18'
-                  acquiree: Fiberlink
-                  price: 375000000
-                - date: '2013-12-19'
-                  acquiree: Aspera
-                - date: '2014-02-24'
-                  acquiree: Cloudant
-                - date: '2014-04-10'
-                  acquiree: Silverpop
-                  price: 270000000
-                - date: '2014-05-20'
-                  acquiree: Cognea
-                - date: '2014-07-31'
-                  acquiree: CrossIdeas
-                - date: '2015-03-04'
-                  acquiree: AlchemyAPI
-                - date: '2015-03-27'
-                  acquiree: Blekko
-                - date: '2015-04-16'
-                  acquiree: Explorys
-                - date: '2015-05-04'
-                  acquiree: Phytel
-                - date: '2015-06-03'
-                  acquiree: Blue Box
-                - date: '2015-07-23'
-                  acquiree: Compose
-                - date: '2015-08-06'
-                  acquiree: Merge Healthcare
-                  price: 1000000000
-                - date: '2015-09-10'
-                  acquiree: StrongLoop
-                - date: '2015-09-28'
-                  acquiree: Meteorix
-                - date: '2015-10-05'
-                  acquiree: Cleversafe
-                  price: 1300000000
-                - date: '2015-10-28'
-                  acquiree: The Weather Company
-                - date: '2015-11-03'
-                  acquiree: Gravitant
-                - date: '2015-12-08'
-                  acquiree: Clearleap
-                - date: '2016-01-15'
-                  acquiree: IRIS Analytics
-                - date: '2016-01-21'
-                  acquiree: Ustream
-                - date: '2016-01-28'
-                  acquiree: Resource/Ammirati
-                - date: '2016-02-02'
-                  acquiree: Aperto
-                - date: '2016-02-03'
-                  acquiree: Ecx.io
-                - date: '2016-02-18'
-                  acquiree: Truven Health Analytics
-                  price: 2600000000
-                - date: '2016-02-29'
-                  acquiree: IBM Resilient
-                - date: '2016-03-17'
-                  acquiree: Optevia
-                - date: '2016-03-30'
-                  acquiree: Bluewolf
-                  price: 200000000
-                - date: '2016-06-01'
-                  acquiree: EZSource
-                - date: '2016-09-29'
-                  acquiree: Promontory Financial Group
-                - date: '2016-10-27'
-                  acquiree: Sanovi Technologies
-                - date: '2016-11-01'
-                  acquiree: Expert Personal Shopper (XPS)
-                - date: '2017-01-23'
-                  acquiree: Agile 3 Solutions
-                - date: '2017-05-02'
-                  acquiree: Verizon - Cloud services
-                - date: '2017-09-24'
-                  acquiree: Cloudigo
-                - date: '2017-10-04'
-                  acquiree: Vivant
-                - date: '2018-05-03'
-                  acquiree: Armanta
-                - date: '2018-06-15'
-                  acquiree: Oniqua Inc.
-                - date: '2018-10-28'
-                  acquiree: Red Hat
-                  price: 34000000000
-                - date: '2019-01-14'
-                  acquiree: T-Systems - Mainframe Services business
-                - date: '2020-06-15'
-                  acquiree: Spanugo
-                - date: '2020-07-08'
-                  acquiree: WDG Automation
-              parents: []
-              ticker: IBM
-              stockExchange: nyse
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -34445,9 +34013,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /IBM/AIX360/commit/272f92eb653c9269d8f5e6a1ea60fa887610774e
               start_date: '2019-07-11T07:17:49Z'
-            yahoo_finance_data:
-              market_cap: 108917817344
-              effective_ticker: IBM
             image_data:
               fileName: ai-explainability-360-toolkit.svg
               hash: ECc8Do+3F/wBRFgUN4N2C6LvTWTvCmYrWLaYwDSOLdE=
@@ -36389,412 +35954,23 @@ landscape:
             repo_url: 'https://github.com/Trusted-AI/adversarial-robustness-toolbox'
             logo: art.svg
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: IBM
-              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.ibm.com/'
-              city: Armonk
-              region: New York
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: 'http://twitter.com/IBM'
-              linkedin: 'https://www.linkedin.com/company/ibm/'
-              acquisitions:
-                - date: '1923-01-01'
-                  acquiree: Dehomag
-                - date: '1930-01-01'
-                  acquiree: The Automatic Accounting Scale Company
-                - date: '1932-01-01'
-                  acquiree: National Counting Scale Company
-                - date: '1941-01-01'
-                  acquiree: Munitions Manufacturing Corporation
-                - date: '1964-01-01'
-                  acquiree: Science Research Associates
-                - date: '1974-01-01'
-                  acquiree: Satellite Business Systems
-                - date: '1984-09-26'
-                  acquiree: ROLM Corporation
-                - date: '1994-08-01'
-                  acquiree: Transarc
-                - date: '1995-07-06'
-                  acquiree: Lotus Development Corporation
-                  price: 3500000000
-                - date: '1996-02-01'
-                  acquiree: Tivoli Systems
-                  price: 743000000
-                - date: '1999-06-09'
-                  acquiree: Whistle Communications
-                - date: '1999-07-12'
-                  acquiree: Sequent Computer Systems Inc
-                - date: '1999-07-27'
-                  acquiree: Mylex
-                  price: 240000000
-                - date: '1999-09-22'
-                  acquiree: Dascom
-                - date: '2001-06-07'
-                  acquiree: Mainspring
-                - date: '2002-01-14'
-                  acquiree: CrossWorlds Software
-                  price: 129000000
-                - date: '2002-06-25'
-                  acquiree: Metamerge
-                - date: '2002-08-29'
-                  acquiree: TrelliSoft
-                - date: '2002-09-03'
-                  acquiree: Access360
-                - date: '2002-09-12'
-                  acquiree: HOLOSOFX
-                - date: '2002-10-02'
-                  acquiree: PwC Consulting
-                  price: 3500000000
-                - date: '2002-10-07'
-                  acquiree: EADS Matra Datavision
-                - date: '2002-11-04'
-                  acquiree: Tarian Software
-                - date: '2003-02-20'
-                  acquiree: Rational Software
-                - date: '2003-05-14'
-                  acquiree: Think Dynamics
-                - date: '2003-07-15'
-                  acquiree: Presence Online
-                - date: '2003-10-14'
-                  acquiree: CrossAccess
-                - date: '2003-11-13'
-                  acquiree: Productivity Solutions
-                - date: '2003-12-17'
-                  acquiree: Green Pasture Software
-                - date: '2004-03-09'
-                  acquiree: Trigo Technologies
-                - date: '2004-04-07'
-                  acquiree: Daksh Infosoft
-                - date: '2004-04-07'
-                  acquiree: Daksh eServices
-                - date: '2004-06-07'
-                  acquiree: Candle Corporation
-                - date: '2004-07-14'
-                  acquiree: AlphaBlox
-                - date: '2004-07-29'
-                  acquiree: Cyanea Systems
-                - date: '2004-08-17'
-                  acquiree: Maersk Data
-                - date: '2004-08-26'
-                  acquiree: Venetica
-                - date: '2004-10-12'
-                  acquiree: Systemcorp A.L.G.
-                - date: '2004-11-23'
-                  acquiree: Liberty Insurance Services
-                - date: '2004-12-13'
-                  acquiree: KeyMRO
-                - date: '2005-01-07'
-                  acquiree: SRD
-                - date: '2005-01-07'
-                  acquiree: Systems Research & Development
-                - date: '2005-01-25'
-                  acquiree: Corio
-                  price: 182000000
-                - date: '2005-02-02'
-                  acquiree: Equitant
-                - date: '2005-05-02'
-                  acquiree: Ascential Software
-                - date: '2005-05-10'
-                  acquiree: Gluecode Software
-                - date: '2005-06-23'
-                  acquiree: Meiosys
-                - date: '2005-07-27'
-                  acquiree: Isogon Corporation
-                - date: '2005-08-02'
-                  acquiree: DWL
-                - date: '2005-08-05'
-                  acquiree: PureEdge Solutions
-                - date: '2005-10-18'
-                  acquiree: DataPower Technology
-                - date: '2005-11-01'
-                  acquiree: iPhrase Technologies
-                - date: '2005-11-09'
-                  acquiree: Network Solutions Private Limited
-                - date: '2005-11-16'
-                  acquiree: Collation
-                - date: '2005-12-20'
-                  acquiree: Bowstreet
-                - date: '2005-12-21'
-                  acquiree: Micromuse
-                - date: '2006-01-25'
-                  acquiree: CIMS Lab
-                - date: '2006-01-27'
-                  acquiree: ARGUS Semiconductor Software
-                - date: '2006-02-08'
-                  acquiree: Viacore
-                - date: '2006-03-16'
-                  acquiree: Language Analysis Systems
-                - date: '2006-05-02'
-                  acquiree: BuildForge
-                - date: '2006-05-08'
-                  acquiree: Unicorn Solutions
-                - date: '2006-05-18'
-                  acquiree: Rembo Technology
-                - date: '2006-08-02'
-                  acquiree: Webify
-                - date: '2006-09-06'
-                  acquiree: Global Value Solutions
-                - date: '2006-09-30'
-                  acquiree: Valchemy
-                - date: '2006-10-05'
-                  acquiree: MRO Software
-                - date: '2006-10-12'
-                  acquiree: FileNet Corporation
-                  price: 1600000000
-                - date: '2006-10-20'
-                  acquiree: Internet Security Systems
-                - date: '2006-11-10'
-                  acquiree: Palisades Technology Partners
-                - date: '2006-12-05'
-                  acquiree: Consul Risk Management International
-                - date: '2007-02-14'
-                  acquiree: Vallent Corporation
-                - date: '2007-03-01'
-                  acquiree: Softek Storage Solutions
-                - date: '2007-04-20'
-                  acquiree: Unicible
-                - date: '2007-06-11'
-                  acquiree: Telelogic
-                  price: 745000000
-                - date: '2007-07-23'
-                  acquiree: Watchfire
-                - date: '2007-08-03'
-                  acquiree: Princeton Softech
-                - date: '2007-08-22'
-                  acquiree: Webdialogs
-                - date: '2007-09-04'
-                  acquiree: DataMirror
-                - date: '2007-10-24'
-                  acquiree: NovusCG
-                - date: '2007-12-06'
-                  acquiree: Arsenal Digital Solutions
-                - date: '2007-12-21'
-                  acquiree: Solid Information Technology
-                - date: '2008-01-02'
-                  acquiree: XIV
-                - date: '2008-01-18'
-                  acquiree: Net Integration Technologies
-                - date: '2008-01-23'
-                  acquiree: AptSoft
-                - date: '2008-01-31'
-                  acquiree: Cognos
-                - date: '2008-03-12'
-                  acquiree: Encentuate
-                - date: '2008-04-10'
-                  acquiree: FilesX
-                - date: '2008-04-22'
-                  acquiree: Diligent
-                - date: '2008-04-29'
-                  acquiree: InfoDyne Corporation
-                - date: '2008-07-02'
-                  acquiree: Platform Solutions
-                - date: '2008-07-28'
-                  acquiree: ILOG
-                - date: '2008-11-18'
-                  acquiree: Transitive
-                - date: '2009-04-16'
-                  acquiree: Outblaze
-                - date: '2009-05-05'
-                  acquiree: Exeros
-                - date: '2009-07-28'
-                  acquiree: Ounce Labs
-                - date: '2009-07-28'
-                  acquiree: SPSS
-                - date: '2009-09-22'
-                  acquiree: RedPill Solutions
-                - date: '2009-11-30'
-                  acquiree: Guardium
-                  price: 225000000
-                - date: '2009-12-16'
-                  acquiree: Lombardi Software
-                - date: '2010-01-20'
-                  acquiree: National Interest Security Company
-                - date: '2010-02-03'
-                  acquiree: Initiate Systems
-                - date: '2010-02-16'
-                  acquiree: Intelliden
-                - date: '2010-05-03'
-                  acquiree: Cast Iron Systems
-                - date: '2010-05-24'
-                  acquiree: Sterling Commerce
-                - date: '2010-06-14'
-                  acquiree: Storwize
-                  price: 140000000
-                - date: '2010-06-15'
-                  acquiree: Coremetrics
-                - date: '2010-07-01'
-                  acquiree: BigFix
-                - date: '2010-08-10'
-                  acquiree: Datacap
-                - date: '2010-08-13'
-                  acquiree: Unica
-                  price: 480000000
-                - date: '2010-09-15'
-                  acquiree: OpenPages
-                - date: '2010-09-20'
-                  acquiree: Netezza
-                  price: 1800000000
-                - date: '2010-09-27'
-                  acquiree: BLADE Network Technologies
-                - date: '2010-10-13'
-                  acquiree: PSS Systems
-                - date: '2010-10-21'
-                  acquiree: Clarity Systems
-                - date: '2011-04-14'
-                  acquiree: TRIRIGA
-                - date: '2011-08-31'
-                  acquiree: i2
-                - date: '2011-09-01'
-                  acquiree: Algorithmics
-                  price: 380200000
-                - date: '2011-10-04'
-                  acquiree: Q1 Labs
-                - date: '2011-10-11'
-                  acquiree: Platform Computing
-                - date: '2011-12-08'
-                  acquiree: DemandTec
-                  price: 440000000
-                - date: '2011-12-15'
-                  acquiree: Emptoris
-                - date: '2011-12-20'
-                  acquiree: Cúram Software
-                - date: '2012-01-04'
-                  acquiree: Green Hat
-                - date: '2012-01-31'
-                  acquiree: Worklight
-                  price: 70000000
-                - date: '2012-04-13'
-                  acquiree: Varicent Software
-                - date: '2012-04-25'
-                  acquiree: Vivisimo
-                - date: '2012-05-02'
-                  acquiree: Tealeaf
-                - date: '2012-07-01'
-                  acquiree: Cibecs
-                - date: '2012-08-16'
-                  acquiree: Texas Memory Systems
-                - date: '2012-08-28'
-                  acquiree: Kenexa
-                - date: '2012-09-24'
-                  acquiree: Butterfly Software
-                - date: '2013-02-07'
-                  acquiree: StoredIQ
-                - date: '2013-03-20'
-                  acquiree: Star Analytics
-                - date: '2013-04-22'
-                  acquiree: Urbancode
-                - date: '2013-06-04'
-                  acquiree: SoftLayer
-                  price: 2000000000
-                - date: '2013-07-10'
-                  acquiree: CSL International
-                - date: '2013-08-15'
-                  acquiree: Trusteer
-                - date: '2013-09-19'
-                  acquiree: Daeja Image Systems
-                - date: '2013-10-03'
-                  acquiree: Xtify
-                - date: '2013-10-29'
-                  acquiree: The Now Factory
-                - date: '2013-12-18'
-                  acquiree: Fiberlink
-                  price: 375000000
-                - date: '2013-12-19'
-                  acquiree: Aspera
-                - date: '2014-02-24'
-                  acquiree: Cloudant
-                - date: '2014-04-10'
-                  acquiree: Silverpop
-                  price: 270000000
-                - date: '2014-05-20'
-                  acquiree: Cognea
-                - date: '2014-07-31'
-                  acquiree: CrossIdeas
-                - date: '2015-03-04'
-                  acquiree: AlchemyAPI
-                - date: '2015-03-27'
-                  acquiree: Blekko
-                - date: '2015-04-16'
-                  acquiree: Explorys
-                - date: '2015-05-04'
-                  acquiree: Phytel
-                - date: '2015-06-03'
-                  acquiree: Blue Box
-                - date: '2015-07-23'
-                  acquiree: Compose
-                - date: '2015-08-06'
-                  acquiree: Merge Healthcare
-                  price: 1000000000
-                - date: '2015-09-10'
-                  acquiree: StrongLoop
-                - date: '2015-09-28'
-                  acquiree: Meteorix
-                - date: '2015-10-05'
-                  acquiree: Cleversafe
-                  price: 1300000000
-                - date: '2015-10-28'
-                  acquiree: The Weather Company
-                - date: '2015-11-03'
-                  acquiree: Gravitant
-                - date: '2015-12-08'
-                  acquiree: Clearleap
-                - date: '2016-01-15'
-                  acquiree: IRIS Analytics
-                - date: '2016-01-21'
-                  acquiree: Ustream
-                - date: '2016-01-28'
-                  acquiree: Resource/Ammirati
-                - date: '2016-02-02'
-                  acquiree: Aperto
-                - date: '2016-02-03'
-                  acquiree: Ecx.io
-                - date: '2016-02-18'
-                  acquiree: Truven Health Analytics
-                  price: 2600000000
-                - date: '2016-02-29'
-                  acquiree: IBM Resilient
-                - date: '2016-03-17'
-                  acquiree: Optevia
-                - date: '2016-03-30'
-                  acquiree: Bluewolf
-                  price: 200000000
-                - date: '2016-06-01'
-                  acquiree: EZSource
-                - date: '2016-09-29'
-                  acquiree: Promontory Financial Group
-                - date: '2016-10-27'
-                  acquiree: Sanovi Technologies
-                - date: '2016-11-01'
-                  acquiree: Expert Personal Shopper (XPS)
-                - date: '2017-01-23'
-                  acquiree: Agile 3 Solutions
-                - date: '2017-05-02'
-                  acquiree: Verizon - Cloud services
-                - date: '2017-09-24'
-                  acquiree: Cloudigo
-                - date: '2017-10-04'
-                  acquiree: Vivant
-                - date: '2018-05-03'
-                  acquiree: Armanta
-                - date: '2018-06-15'
-                  acquiree: Oniqua Inc.
-                - date: '2018-10-28'
-                  acquiree: Red Hat
-                  price: 34000000000
-                - date: '2019-01-14'
-                  acquiree: T-Systems - Mainframe Services business
-                - date: '2020-06-15'
-                  acquiree: Spanugo
-                - date: '2020-07-08'
-                  acquiree: WDG Automation
-              parents: []
-              ticker: IBM
-              stockExchange: nyse
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -36827,9 +36003,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /IBM/adversarial-robustness-toolbox/commit/1b832e5ff459da21f35efc65e4c4c74b1f2c9eb4
               start_date: '2017-05-09T12:41:50Z'
-            yahoo_finance_data:
-              market_cap: 108917817344
-              effective_ticker: IBM
             image_data:
               fileName: adversarial-robustness-toolkit.svg
               hash: JDcHFo8/4qg4pQq37FfbxNiSwY8gYeUC7KhdFdl7Qhk=
@@ -37090,413 +36263,24 @@ landscape:
             homepage_url: 'https://developer.ibm.com/open/projects/ai-fairness-360/'
             repo_url: 'https://github.com/Trusted-AI/AIF360'
             logo: aif360.svg
+            project: incubating
             twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/ibm'
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
             crunchbase_data:
-              name: IBM
-              description: 'IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.'
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: 'http://www.ibm.com/'
-              city: Armonk
-              region: New York
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
               country: United States
-              twitter: 'http://twitter.com/IBM'
-              linkedin: 'https://www.linkedin.com/company/ibm/'
-              acquisitions:
-                - date: '1923-01-01'
-                  acquiree: Dehomag
-                - date: '1930-01-01'
-                  acquiree: The Automatic Accounting Scale Company
-                - date: '1932-01-01'
-                  acquiree: National Counting Scale Company
-                - date: '1941-01-01'
-                  acquiree: Munitions Manufacturing Corporation
-                - date: '1964-01-01'
-                  acquiree: Science Research Associates
-                - date: '1974-01-01'
-                  acquiree: Satellite Business Systems
-                - date: '1984-09-26'
-                  acquiree: ROLM Corporation
-                - date: '1994-08-01'
-                  acquiree: Transarc
-                - date: '1995-07-06'
-                  acquiree: Lotus Development Corporation
-                  price: 3500000000
-                - date: '1996-02-01'
-                  acquiree: Tivoli Systems
-                  price: 743000000
-                - date: '1999-06-09'
-                  acquiree: Whistle Communications
-                - date: '1999-07-12'
-                  acquiree: Sequent Computer Systems Inc
-                - date: '1999-07-27'
-                  acquiree: Mylex
-                  price: 240000000
-                - date: '1999-09-22'
-                  acquiree: Dascom
-                - date: '2001-06-07'
-                  acquiree: Mainspring
-                - date: '2002-01-14'
-                  acquiree: CrossWorlds Software
-                  price: 129000000
-                - date: '2002-06-25'
-                  acquiree: Metamerge
-                - date: '2002-08-29'
-                  acquiree: TrelliSoft
-                - date: '2002-09-03'
-                  acquiree: Access360
-                - date: '2002-09-12'
-                  acquiree: HOLOSOFX
-                - date: '2002-10-02'
-                  acquiree: PwC Consulting
-                  price: 3500000000
-                - date: '2002-10-07'
-                  acquiree: EADS Matra Datavision
-                - date: '2002-11-04'
-                  acquiree: Tarian Software
-                - date: '2003-02-20'
-                  acquiree: Rational Software
-                - date: '2003-05-14'
-                  acquiree: Think Dynamics
-                - date: '2003-07-15'
-                  acquiree: Presence Online
-                - date: '2003-10-14'
-                  acquiree: CrossAccess
-                - date: '2003-11-13'
-                  acquiree: Productivity Solutions
-                - date: '2003-12-17'
-                  acquiree: Green Pasture Software
-                - date: '2004-03-09'
-                  acquiree: Trigo Technologies
-                - date: '2004-04-07'
-                  acquiree: Daksh Infosoft
-                - date: '2004-04-07'
-                  acquiree: Daksh eServices
-                - date: '2004-06-07'
-                  acquiree: Candle Corporation
-                - date: '2004-07-14'
-                  acquiree: AlphaBlox
-                - date: '2004-07-29'
-                  acquiree: Cyanea Systems
-                - date: '2004-08-17'
-                  acquiree: Maersk Data
-                - date: '2004-08-26'
-                  acquiree: Venetica
-                - date: '2004-10-12'
-                  acquiree: Systemcorp A.L.G.
-                - date: '2004-11-23'
-                  acquiree: Liberty Insurance Services
-                - date: '2004-12-13'
-                  acquiree: KeyMRO
-                - date: '2005-01-07'
-                  acquiree: SRD
-                - date: '2005-01-07'
-                  acquiree: Systems Research & Development
-                - date: '2005-01-25'
-                  acquiree: Corio
-                  price: 182000000
-                - date: '2005-02-02'
-                  acquiree: Equitant
-                - date: '2005-05-02'
-                  acquiree: Ascential Software
-                - date: '2005-05-10'
-                  acquiree: Gluecode Software
-                - date: '2005-06-23'
-                  acquiree: Meiosys
-                - date: '2005-07-27'
-                  acquiree: Isogon Corporation
-                - date: '2005-08-02'
-                  acquiree: DWL
-                - date: '2005-08-05'
-                  acquiree: PureEdge Solutions
-                - date: '2005-10-18'
-                  acquiree: DataPower Technology
-                - date: '2005-11-01'
-                  acquiree: iPhrase Technologies
-                - date: '2005-11-09'
-                  acquiree: Network Solutions Private Limited
-                - date: '2005-11-16'
-                  acquiree: Collation
-                - date: '2005-12-20'
-                  acquiree: Bowstreet
-                - date: '2005-12-21'
-                  acquiree: Micromuse
-                - date: '2006-01-25'
-                  acquiree: CIMS Lab
-                - date: '2006-01-27'
-                  acquiree: ARGUS Semiconductor Software
-                - date: '2006-02-08'
-                  acquiree: Viacore
-                - date: '2006-03-16'
-                  acquiree: Language Analysis Systems
-                - date: '2006-05-02'
-                  acquiree: BuildForge
-                - date: '2006-05-08'
-                  acquiree: Unicorn Solutions
-                - date: '2006-05-18'
-                  acquiree: Rembo Technology
-                - date: '2006-08-02'
-                  acquiree: Webify
-                - date: '2006-09-06'
-                  acquiree: Global Value Solutions
-                - date: '2006-09-30'
-                  acquiree: Valchemy
-                - date: '2006-10-05'
-                  acquiree: MRO Software
-                - date: '2006-10-12'
-                  acquiree: FileNet Corporation
-                  price: 1600000000
-                - date: '2006-10-20'
-                  acquiree: Internet Security Systems
-                - date: '2006-11-10'
-                  acquiree: Palisades Technology Partners
-                - date: '2006-12-05'
-                  acquiree: Consul Risk Management International
-                - date: '2007-02-14'
-                  acquiree: Vallent Corporation
-                - date: '2007-03-01'
-                  acquiree: Softek Storage Solutions
-                - date: '2007-04-20'
-                  acquiree: Unicible
-                - date: '2007-06-11'
-                  acquiree: Telelogic
-                  price: 745000000
-                - date: '2007-07-23'
-                  acquiree: Watchfire
-                - date: '2007-08-03'
-                  acquiree: Princeton Softech
-                - date: '2007-08-22'
-                  acquiree: Webdialogs
-                - date: '2007-09-04'
-                  acquiree: DataMirror
-                - date: '2007-10-24'
-                  acquiree: NovusCG
-                - date: '2007-12-06'
-                  acquiree: Arsenal Digital Solutions
-                - date: '2007-12-21'
-                  acquiree: Solid Information Technology
-                - date: '2008-01-02'
-                  acquiree: XIV
-                - date: '2008-01-18'
-                  acquiree: Net Integration Technologies
-                - date: '2008-01-23'
-                  acquiree: AptSoft
-                - date: '2008-01-31'
-                  acquiree: Cognos
-                - date: '2008-03-12'
-                  acquiree: Encentuate
-                - date: '2008-04-10'
-                  acquiree: FilesX
-                - date: '2008-04-22'
-                  acquiree: Diligent
-                - date: '2008-04-29'
-                  acquiree: InfoDyne Corporation
-                - date: '2008-07-02'
-                  acquiree: Platform Solutions
-                - date: '2008-07-28'
-                  acquiree: ILOG
-                - date: '2008-11-18'
-                  acquiree: Transitive
-                - date: '2009-04-16'
-                  acquiree: Outblaze
-                - date: '2009-05-05'
-                  acquiree: Exeros
-                - date: '2009-07-28'
-                  acquiree: Ounce Labs
-                - date: '2009-07-28'
-                  acquiree: SPSS
-                - date: '2009-09-22'
-                  acquiree: RedPill Solutions
-                - date: '2009-11-30'
-                  acquiree: Guardium
-                  price: 225000000
-                - date: '2009-12-16'
-                  acquiree: Lombardi Software
-                - date: '2010-01-20'
-                  acquiree: National Interest Security Company
-                - date: '2010-02-03'
-                  acquiree: Initiate Systems
-                - date: '2010-02-16'
-                  acquiree: Intelliden
-                - date: '2010-05-03'
-                  acquiree: Cast Iron Systems
-                - date: '2010-05-24'
-                  acquiree: Sterling Commerce
-                - date: '2010-06-14'
-                  acquiree: Storwize
-                  price: 140000000
-                - date: '2010-06-15'
-                  acquiree: Coremetrics
-                - date: '2010-07-01'
-                  acquiree: BigFix
-                - date: '2010-08-10'
-                  acquiree: Datacap
-                - date: '2010-08-13'
-                  acquiree: Unica
-                  price: 480000000
-                - date: '2010-09-15'
-                  acquiree: OpenPages
-                - date: '2010-09-20'
-                  acquiree: Netezza
-                  price: 1800000000
-                - date: '2010-09-27'
-                  acquiree: BLADE Network Technologies
-                - date: '2010-10-13'
-                  acquiree: PSS Systems
-                - date: '2010-10-21'
-                  acquiree: Clarity Systems
-                - date: '2011-04-14'
-                  acquiree: TRIRIGA
-                - date: '2011-08-31'
-                  acquiree: i2
-                - date: '2011-09-01'
-                  acquiree: Algorithmics
-                  price: 380200000
-                - date: '2011-10-04'
-                  acquiree: Q1 Labs
-                - date: '2011-10-11'
-                  acquiree: Platform Computing
-                - date: '2011-12-08'
-                  acquiree: DemandTec
-                  price: 440000000
-                - date: '2011-12-15'
-                  acquiree: Emptoris
-                - date: '2011-12-20'
-                  acquiree: Cúram Software
-                - date: '2012-01-04'
-                  acquiree: Green Hat
-                - date: '2012-01-31'
-                  acquiree: Worklight
-                  price: 70000000
-                - date: '2012-04-13'
-                  acquiree: Varicent Software
-                - date: '2012-04-25'
-                  acquiree: Vivisimo
-                - date: '2012-05-02'
-                  acquiree: Tealeaf
-                - date: '2012-07-01'
-                  acquiree: Cibecs
-                - date: '2012-08-16'
-                  acquiree: Texas Memory Systems
-                - date: '2012-08-28'
-                  acquiree: Kenexa
-                - date: '2012-09-24'
-                  acquiree: Butterfly Software
-                - date: '2013-02-07'
-                  acquiree: StoredIQ
-                - date: '2013-03-20'
-                  acquiree: Star Analytics
-                - date: '2013-04-22'
-                  acquiree: Urbancode
-                - date: '2013-06-04'
-                  acquiree: SoftLayer
-                  price: 2000000000
-                - date: '2013-07-10'
-                  acquiree: CSL International
-                - date: '2013-08-15'
-                  acquiree: Trusteer
-                - date: '2013-09-19'
-                  acquiree: Daeja Image Systems
-                - date: '2013-10-03'
-                  acquiree: Xtify
-                - date: '2013-10-29'
-                  acquiree: The Now Factory
-                - date: '2013-12-18'
-                  acquiree: Fiberlink
-                  price: 375000000
-                - date: '2013-12-19'
-                  acquiree: Aspera
-                - date: '2014-02-24'
-                  acquiree: Cloudant
-                - date: '2014-04-10'
-                  acquiree: Silverpop
-                  price: 270000000
-                - date: '2014-05-20'
-                  acquiree: Cognea
-                - date: '2014-07-31'
-                  acquiree: CrossIdeas
-                - date: '2015-03-04'
-                  acquiree: AlchemyAPI
-                - date: '2015-03-27'
-                  acquiree: Blekko
-                - date: '2015-04-16'
-                  acquiree: Explorys
-                - date: '2015-05-04'
-                  acquiree: Phytel
-                - date: '2015-06-03'
-                  acquiree: Blue Box
-                - date: '2015-07-23'
-                  acquiree: Compose
-                - date: '2015-08-06'
-                  acquiree: Merge Healthcare
-                  price: 1000000000
-                - date: '2015-09-10'
-                  acquiree: StrongLoop
-                - date: '2015-09-28'
-                  acquiree: Meteorix
-                - date: '2015-10-05'
-                  acquiree: Cleversafe
-                  price: 1300000000
-                - date: '2015-10-28'
-                  acquiree: The Weather Company
-                - date: '2015-11-03'
-                  acquiree: Gravitant
-                - date: '2015-12-08'
-                  acquiree: Clearleap
-                - date: '2016-01-15'
-                  acquiree: IRIS Analytics
-                - date: '2016-01-21'
-                  acquiree: Ustream
-                - date: '2016-01-28'
-                  acquiree: Resource/Ammirati
-                - date: '2016-02-02'
-                  acquiree: Aperto
-                - date: '2016-02-03'
-                  acquiree: Ecx.io
-                - date: '2016-02-18'
-                  acquiree: Truven Health Analytics
-                  price: 2600000000
-                - date: '2016-02-29'
-                  acquiree: IBM Resilient
-                - date: '2016-03-17'
-                  acquiree: Optevia
-                - date: '2016-03-30'
-                  acquiree: Bluewolf
-                  price: 200000000
-                - date: '2016-06-01'
-                  acquiree: EZSource
-                - date: '2016-09-29'
-                  acquiree: Promontory Financial Group
-                - date: '2016-10-27'
-                  acquiree: Sanovi Technologies
-                - date: '2016-11-01'
-                  acquiree: Expert Personal Shopper (XPS)
-                - date: '2017-01-23'
-                  acquiree: Agile 3 Solutions
-                - date: '2017-05-02'
-                  acquiree: Verizon - Cloud services
-                - date: '2017-09-24'
-                  acquiree: Cloudigo
-                - date: '2017-10-04'
-                  acquiree: Vivant
-                - date: '2018-05-03'
-                  acquiree: Armanta
-                - date: '2018-06-15'
-                  acquiree: Oniqua Inc.
-                - date: '2018-10-28'
-                  acquiree: Red Hat
-                  price: 34000000000
-                - date: '2019-01-14'
-                  acquiree: T-Systems - Mainframe Services business
-                - date: '2020-06-15'
-                  acquiree: Spanugo
-                - date: '2020-07-08'
-                  acquiree: WDG Automation
-              parents: []
-              ticker: IBM
-              stockExchange: nyse
-              kind: market_cap
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
             github_data:
               languages:
                 - name: Python
@@ -37530,9 +36314,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /IBM/AIF360/commit/546d35091200aeb6ea3968aa922881840f29b4be
               start_date: '2018-08-22T20:47:17Z'
-            yahoo_finance_data:
-              market_cap: 108917817344
-              effective_ticker: IBM
             image_data:
               fileName: ai-fairness-360-toolkit.svg
               hash: ppIywGOoZGBIjKsdb7C1CnPMjvr3cvoJ9EOIDoC8HXw=
