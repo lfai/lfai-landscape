@@ -483,13 +483,6 @@ landscape:
         name: Store & Format
         items:
           - item:
-            name: Vespa
-            homepage_url: 'https://vespa.ai/'
-            repo_url: 'https://github.com/vespa-engine/vespa'
-            logo: vespa.svg
-            twitter: 'https://twitter.com/vespaengine'
-            crunchbase: 'https://www.crunchbase.com/organization/verizon-media'
-          - item:
             name: Alluxio
             homepage_url: 'https://www.alluxio.io/'
             repo_url: 'https://github.com/alluxio/alluxio'
@@ -580,6 +573,13 @@ landscape:
             logo: vearch.svg
             twitter: 'https://twitter.com/ai_vearch'
             crunchbase: 'https://www.crunchbase.com/organization/jd-com'
+          - item:
+            name: Vespa
+            homepage_url: 'https://vespa.ai/'
+            repo_url: 'https://github.com/vespa-engine/vespa'
+            logo: vespa.svg
+            twitter: 'https://twitter.com/vespaengine'
+            crunchbase: 'https://www.crunchbase.com/organization/verizon-media'
       - subcategory:
         name: Operations
         items:
@@ -620,13 +620,6 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
-          - item:
-            name: PREFECT
-            homepage_url: 'https://docs.prefect.io/'
-            repo_url: 'https://github.com/PrefectHQ/prefect'
-            logo: prefect.svg
-            twitter: 'https://twitter.com/prefectio'
-            crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
           - item:
             name: Brooklin
             homepage_url: 'https://github.com/linkedin/Brooklin'
@@ -671,6 +664,12 @@ landscape:
             logo: pravega.svg
             twitter: 'https://twitter.com/PravegaIO'
             crunchbase: 'https://www.crunchbase.com/organization/dell'
+          - item:
+            name: PREFECT
+            homepage_url: 'https://docs.prefect.io/'
+            repo_url: 'https://github.com/PrefectHQ/prefect'
+            logo: prefect.svg
+            crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
           - item:
             name: Samza
             homepage_url: 'http://samza.apache.org/'
@@ -793,13 +792,6 @@ landscape:
         name: Pipeline Management
         items:
           - item:
-            name: DAGSTER
-            homepage_url: 'https://dagster.io/'
-            repo_url: 'https://github.com/dagster-io/dagster'
-            logo: dagster.svg
-            twitter: 'https://twitter.com/dagsterio'
-            crunchbase: 'https://www.crunchbase.com/organization/elementl'
-          - item:
             name: Analytics Zoo
             homepage_url: 'https://pypi.org/project/analytics-zoo/'
             repo_url: 'https://github.com/intel-analytics/analytics-zoo'
@@ -814,6 +806,13 @@ landscape:
             twitter: 'https://twitter.com/ApacheBeam'
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
+            name: DAGSTER
+            homepage_url: 'https://dagster.io/'
+            repo_url: 'https://github.com/dagster-io/dagster'
+            logo: dagster.svg
+            twitter: 'https://twitter.com/dagsterio'
+            crunchbase: 'https://www.crunchbase.com/organization/elementl'
+          - item:
             name: TPOT
             homepage_url: 'https://automl.info/tpot/'
             repo_url: 'https://github.com/EpistasisLab/tpot'
@@ -826,7 +825,7 @@ landscape:
           - item:
             name: Computer Vision Annotation Tool (CVAT)
             homepage_url: 'https://github.com/opencv/cvat'
-            repo_url: 'https://github.com/opencv/cvat'
+            repo_url: 'https://github.com/openvinotoolkit/cvat'
             logo: cvat.svg
             crunchbase: 'https://www.crunchbase.com/organization/intel'
           - item:
@@ -1000,10 +999,10 @@ landscape:
           - item:
             name: DELTA
             homepage_url: 'https://delta-didi.readthedocs.io/en/latest'
+            project: incubating
             repo_url: 'https://github.com/didi/delta'
             logo: delta.svg
             twitter: null
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: fastText
@@ -1154,10 +1153,10 @@ landscape:
           - item:
             name: Ludwig
             homepage_url: 'https://uber.github.io/ludwig/'
+            project: incubating
             repo_url: 'https://github.com/uber/ludwig'
             logo: ludwig.svg
             twitter: null
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Petastorm
@@ -1605,10 +1604,10 @@ landscape:
           - item:
             name: SOAJS
             homepage_url: 'https://www.soajs.org/'
+            project: incubating
             repo_url: 'https://github.com/soajs/soajs'
             logo: soajs.svg
             twitter: 'https://twitter.com/soajsorg'
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
       - subcategory:
         name: Interface
@@ -1651,10 +1650,10 @@ landscape:
           - item:
             name: AI Explainability 360 Toolkit
             homepage_url: 'http://aix360.mybluemix.net'
+            project: incubating
             repo_url: 'https://github.com/Trusted-AI/AIX360'
             logo: aix360.svg
             twitter: null
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: ALIBI
@@ -1725,10 +1724,10 @@ landscape:
           - item:
             name: Adversarial Robustness Toolkit
             homepage_url: 'https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/'
+            project: incubating
             repo_url: 'https://github.com/Trusted-AI/adversarial-robustness-toolbox'
             logo: art.svg
             twitter: null
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Advertorch
@@ -1763,9 +1762,9 @@ landscape:
           - item:
             name: AI Fairness 360 Toolkit
             homepage_url: 'https://developer.ibm.com/open/projects/ai-fairness-360/'
+            project: incubating
             repo_url: 'https://github.com/Trusted-AI/AIF360'
             logo: aif360.svg
-            project: incubating
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
@@ -1995,7 +1994,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/inwinstack'
           - item:
             name: Orange
-            homepage_url: 'https://www.orange.com/en/home'
+            homepage_url: 'https://www.orange.com/en'
             logo: orange.svg
             crunchbase: 'https://www.crunchbase.com/organization/orange'
           - item:
@@ -2080,6 +2079,12 @@ landscape:
             twitter: 'https://twitter.com/Baidu_Inc'
             crunchbase: 'https://www.crunchbase.com/organization/baidu'
           - item:
+            name: DiDi (hosting)
+            homepage_url: 'https://www.zte.com.cn/global/'
+            logo: didi.svg
+            twitter: 'https://twitter.com/didiglobal'
+            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
+          - item:
             name: Dreamworks (hosting)
             homepage_url: 'https://dreamworks.com/'
             logo: dreamworks.svg
@@ -2089,6 +2094,11 @@ landscape:
             homepage_url: 'https://facebook.com/'
             logo: facebook.svg
             crunchbase: 'https://www.crunchbase.com/organization/facebook'
+          - item:
+            name: Herron Tech (hosting)
+            homepage_url: 'https://www.herrontech.com/'
+            logo: herrontech.svg
+            crunchbase: 'https://www.crunchbase.com/organization/herron-techology-llc'
           - item:
             name: IBM (hosting)
             homepage_url: 'https://www.ibm.com/us-en/?ar=1'
@@ -2148,14 +2158,3 @@ landscape:
             logo: zte.svg
             twitter: 'https://twitter.com/ztepress'
             crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: DiDi (hosting)
-            homepage_url: 'https://www.zte.com.cn/global/'
-            logo: didi.svg
-            twitter: 'https://twitter.com/didiglobal'
-            crunchbase: 'https://www.crunchbase.com/organization/zte-corporation'
-          - item:
-            name: Herron Tech (hosting)
-            homepage_url: 'https://www.herrontech.com/'
-            logo: herrontech.svg
-            crunchbase: 'https://www.crunchbase.com/organization/herron-techology-llc'
