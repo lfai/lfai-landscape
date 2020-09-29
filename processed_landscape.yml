@@ -11968,6 +11968,77 @@ landscape:
         name: Operations
         items:
           - item:
+            name: Feast
+            homepage_url: 'https://feast.dev/'
+            project: incubating
+            repo_url: 'https://github.com/feast-dev/feast'
+            logo: feast.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+            crunchbase_data:
+              name: LF Artificial Intelligence Foundation
+              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: 'https://lfai.foundation/'
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: 'https://twitter.com/LFAI_Foundation'
+              linkedin: 'https://www.linkedin.com/company/lfai'
+              acquisitions: []
+              parents:
+                - 'https://www.crunchbase.com/organization/linux-foundation'
+              stockExchange: null
+            github_data:
+              languages:
+                - name: Java
+                  value: 1405717
+                  color: '#b07219'
+                - name: Python
+                  value: 416069
+                  color: '#3572A5'
+                - name: Shell
+                  value: 61277
+                  color: '#89e051'
+                - name: Go
+                  value: 29761
+                  color: '#00ADD8'
+                - name: Dockerfile
+                  value: 9773
+                  color: '#384d54'
+                - name: Makefile
+                  value: 7442
+                  color: '#427819'
+                - name: HTML
+                  value: 7273
+                  color: '#e34c26'
+                - name: Twig
+                  value: 521
+              contributions: 67;38;23;45;5;16;24;17;16;14;4;13;7;7;15;7;2;8;5;10;5;9;11;4;14;17;5;4;6;9;16;13;16;20;24;8;10;28;18;19;13;5;14;23;9;6;6;7;18;17;17;3
+              firstWeek: 2019-10-06Z
+              stars: 1056
+              license: Apache License 2.0
+              description: Feature Store for Machine Learning
+              latest_commit_date: '2020-09-28T04:29:05Z'
+              latest_commit_link: /feast-dev/feast/commit/87ee594ebaf94c965342052655533508b93a237a
+              release_date: '2020-09-16T07:00:14Z'
+              release_link: 'https://github.com/feast-dev/feast/releases'
+              contributors_count: 47
+              contributors_link: 'https://github.com/feast-dev/feast/graphs/contributors'
+            repos:
+              - url: 'https://github.com/feast-dev/feast'
+                stars: 1056
+            github_start_commit_data:
+              start_commit_link: /gojek/feast/commit/ec9def2bbb06dc759538e4424caadd70f548ea64
+              start_date: '2018-12-10T08:58:14Z'
+            image_data:
+              fileName: feast.svg
+              hash: f5Cgri7DLqHSNezhMjnTrWQu8p3PGcy5uQrblHcMR44=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
             project: incubating
@@ -13436,77 +13507,6 @@ landscape:
       - subcategory:
         name: Feature Engineering
         items:
-          - item:
-            name: Feast
-            homepage_url: 'https://feast.dev/'
-            project: incubating
-            repo_url: 'https://github.com/feast-dev/feast'
-            logo: feast.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-            crunchbase_data:
-              name: LF Artificial Intelligence Foundation
-              description: 'LF AI supports open source innovation in artificial intelligence, machine learning, and deep learning.'
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: 'https://lfai.foundation/'
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: 'https://twitter.com/LFAI_Foundation'
-              linkedin: 'https://www.linkedin.com/company/lfai'
-              acquisitions: []
-              parents:
-                - 'https://www.crunchbase.com/organization/linux-foundation'
-              stockExchange: null
-            github_data:
-              languages:
-                - name: Java
-                  value: 1405717
-                  color: '#b07219'
-                - name: Python
-                  value: 416069
-                  color: '#3572A5'
-                - name: Shell
-                  value: 61277
-                  color: '#89e051'
-                - name: Go
-                  value: 29761
-                  color: '#00ADD8'
-                - name: Dockerfile
-                  value: 9773
-                  color: '#384d54'
-                - name: Makefile
-                  value: 7442
-                  color: '#427819'
-                - name: HTML
-                  value: 7273
-                  color: '#e34c26'
-                - name: Twig
-                  value: 521
-              contributions: 67;38;23;45;5;16;24;17;16;14;4;13;7;7;15;7;2;8;5;10;5;9;11;4;14;17;5;4;6;9;16;13;16;20;24;8;10;28;18;19;13;5;14;23;9;6;6;7;18;17;17;3
-              firstWeek: 2019-10-06Z
-              stars: 1056
-              license: Apache License 2.0
-              description: Feature Store for Machine Learning
-              latest_commit_date: '2020-09-28T04:29:05Z'
-              latest_commit_link: /feast-dev/feast/commit/87ee594ebaf94c965342052655533508b93a237a
-              release_date: '2020-09-16T07:00:14Z'
-              release_link: 'https://github.com/feast-dev/feast/releases'
-              contributors_count: 47
-              contributors_link: 'https://github.com/feast-dev/feast/graphs/contributors'
-            repos:
-              - url: 'https://github.com/feast-dev/feast'
-                stars: 1056
-            github_start_commit_data:
-              start_commit_link: /gojek/feast/commit/ec9def2bbb06dc759538e4424caadd70f548ea64
-              start_date: '2018-12-10T08:58:14Z'
-            image_data:
-              fileName: feast.svg
-              hash: f5Cgri7DLqHSNezhMjnTrWQu8p3PGcy5uQrblHcMR44=
-            best_practice_data:
-              badge: false
-              percentage: null
           - item:
             name: Featuretools
             homepage_url: 'https://www.featuretools.com/'

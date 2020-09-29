@@ -584,6 +584,14 @@ landscape:
         name: Operations
         items:
           - item:
+            name: Feast
+            homepage_url: 'https://feast.dev/'
+            project: incubating
+            repo_url: 'https://github.com/feast-dev/feast'
+            logo: feast.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
             project: incubating
@@ -710,14 +718,6 @@ landscape:
       - subcategory:
         name: Feature Engineering
         items:
-          - item:
-            name: Feast
-            homepage_url: 'https://feast.dev/'
-            project: incubating
-            repo_url: 'https://github.com/feast-dev/feast'
-            logo: feast.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: Featuretools
             homepage_url: 'https://www.featuretools.com/'
