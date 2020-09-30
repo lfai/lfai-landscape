@@ -584,14 +584,6 @@ landscape:
         name: Operations
         items:
           - item:
-            name: Feast
-            homepage_url: 'https://feast.dev/'
-            project: incubating
-            repo_url: 'https://github.com/feast-dev/feast'
-            logo: feast.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-          - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
             project: incubating
@@ -604,6 +596,14 @@ landscape:
             repo_url: 'https://github.com/linkedin/datahub'
             logo: datahub.svg
             crunchbase: 'https://www.crunchbase.com/organization/linkedin'
+          - item:
+            name: Feast
+            homepage_url: 'https://feast.dev/'
+            project: incubating
+            repo_url: 'https://github.com/feast-dev/feast'
+            logo: feast.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
             name: great_expectations
             homepage_url: 'https://greatexpectations.io/'
