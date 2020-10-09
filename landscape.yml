@@ -12,11 +12,12 @@ landscape:
             logo: datapractices.svg
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
           - item:
-            name: ODPi OpenDS4All
+            name: OpenDS4All
             homepage_url: 'https://github.com/odpi/OpenDS4All'
             repo_url: 'https://github.com/odpi/OpenDS4All'
             logo: opends4all.svg
-            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+            project: incubating
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   - category:
     name: Machine Learning
     subcategories:
@@ -878,11 +879,12 @@ landscape:
             logo: cdla.svg
             crunchbase: 'https://www.crunchbase.com/organization/linux-foundation'
           - item:
-            name: ODPi Egeria
+            name: Egeria
             homepage_url: 'https://egeria.odpi.org/'
             repo_url: 'https://github.com/odpi/egeria'
-            logo: odpi_egeria.svg
-            crunchbase: 'https://www.crunchbase.com/organization/odpi'
+            logo: egeria.svg
+            project: graduated
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   - category:
     name: Reinforcement Learning
     subcategories:
