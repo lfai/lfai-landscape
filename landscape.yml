@@ -14,9 +14,9 @@ landscape:
           - item:
             name: OpenDS4All
             homepage_url: 'https://github.com/odpi/OpenDS4All'
+            project: incubating
             repo_url: 'https://github.com/odpi/OpenDS4All'
             logo: opends4all.svg
-            project: incubating
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   - category:
     name: Machine Learning
@@ -881,9 +881,9 @@ landscape:
           - item:
             name: Egeria
             homepage_url: 'https://egeria.odpi.org/'
+            project: graduated
             repo_url: 'https://github.com/odpi/egeria'
             logo: egeria.svg
-            project: graduated
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   - category:
     name: Reinforcement Learning
@@ -1991,6 +1991,11 @@ landscape:
         name: General
         items:
           - item:
+            name: Databricks
+            homepage_url: 'https://xenonstack.com'
+            logo: databricks.svg
+            crunchbase: 'https://www.crunchbase.com/organization/databricks'
+          - item:
             name: Didi
             homepage_url: 'https://didiglobal.com'
             logo: didi.svg
@@ -2021,11 +2026,6 @@ landscape:
             homepage_url: 'https://rstudio.com'
             logo: rstudio.svg
             crunchbase: 'https://www.crunchbase.com/organization/rstudio'
-          - item:
-            name: Databricks
-            homepage_url: 'https://xenonstack.com'
-            logo: databricks.svg
-            crunchbase: 'https://www.crunchbase.com/organization/databricks'
           - item:
             name: Xenonstack
             homepage_url: 'https://xenonstack.com'
