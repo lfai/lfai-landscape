@@ -2,7 +2,7 @@
 
 # Linux Foundation Artificial Intelligence (LFAI) Landscape
 
-![LFAI Landscape Logo](https://landscape.lfdl.io/images/left-logo.svg)
+![LFAI Landscape Logo](https://artwork.lfaidata.foundation/lfaidata-assets/lfaidata-landscape/horizontal/color/lfaidata-landscape-horizontal-color.svg)
 
 - [LFAI Landscape](#cloud-native-landscape)
   * [Current Version](#current-version)
