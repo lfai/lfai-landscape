@@ -1,6 +1,6 @@
 [![Dependency Status](https://img.shields.io/david/lfai/lfai-landscape.svg?style=flat-square)](https://david-dm.org/lfai/lfai-landscape) [![Netlify Status](https://api.netlify.com/api/v1/badges/a9f0f6cd-9dc2-44c1-baa1-98f288904d6b/deploy-status)](https://app.netlify.com/sites/lfailandscape/deploys)
 
-# Linux Foundation Artificial Intelligence (LFAI) Landscape
+# LF AI & Data Landscape
 
 ![LFAI Landscape Logo](https://artwork.lfaidata.foundation/lfaidata-assets/lfaidata-landscape/horizontal/color/lfaidata-landscape-horizontal-color.svg)
 
@@ -20,7 +20,7 @@
   * [Vulnerability reporting](#vulnerability-reporting)
   * [Adjusting the Landscape View](#adjusting-the-landscape-view)
 
-This landscape is intended as a map to explore open source artificial intelligence (AI), machine learning (ML), and deep learning (DL) projects, and also shows the member companies of the LF Deep Learning Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
+This landscape is intended as a map to explore open source projects in the AI & Data domains, highlights companies that are member of LF AI & Data, and also showcases members of the Foundation. It is modelled after the Cloud Native Computing Foundation (CNCF) [landscape](https://landscape.cncf.io) and based on the same open source code. 
 
 ## Current Version
 
@@ -106,7 +106,7 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 ## Formats
 
-The LFAI Landscape is available in these formats:
+The LF AI & Data Landscape is available in these formats:
 
 * [PNG](https://landscape.lfai.foundation/images/landscape.png)
 * [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
