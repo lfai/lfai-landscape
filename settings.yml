@@ -1,73 +1,73 @@
 global:
-  name: LF AI Interactive Landscape
+  name: LF AI & Data Interactive Landscape
   short_name: LFAI
   repo: lfai/lfai-landscape
   website: 'https://landscape.lfai.foundation'
   short_domain: l.lfai.foundation
   company_url: 'https://lfai.foundation'
-  email: info@lfai.foundation
-  membership: LF AI Member Company
+  email: info@lfaidata.foundation
+  membership: LF AI & Data Member Company
   self: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
   slack_channel: T08PSQ7BQ/BEC09SE3V/3xuzW9rz4RQog9g9iUhnSxgI
   meta:
-    title: LF AI Landscape
+    title: LF AI & Data Landscape
     fb_admin: alex.contini.94
     description: 'Filter and sort by GitHub stars, funding, commits, contributors, hq location, and tweets'
-    twitter: '@LFAI_Foundation'
+    twitter: '@LFAIDataFdn'
     google_site_verification: x3QPMhFwxg1ZMS9tlhhgwIJKokbEkt1zByMLMXiqnds
     ms_validate: 3AF9FFA12CCC3C49C0ABA71CCA222665
   flags:
-    companies: LF AI Member Company
+    companies: LF AI & Data Member Company
 twitter:
   search: landscape.lfai.foundation
   url: 'https://landscape.lfai.foundation'
-  text: LF AI Landscape from @LFAI_Foundation
+  text: LF AI & Data Landscape from @LFAIDataFdn
 relation:
-  label: LFAI Relation
+  label: LF AI & Data Relation
   url: lfai
   values:
     - id: hosted
-      label: LFAI Projects
+      label: LF AI & Data Projects
       children:
         - id: graduated
-          label: Graduated LFAI Projects
+          label: Graduated LF AI & Data Projects
           prefix: LF AI
           tag: Graduated
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LFAI Graduated
+          big_picture_label: LF AI & Data Graduated
           big_picture_color: 'rgb(24,54,114)'
         - id: incubating
-          label: Incubating LFAI Projects
+          label: Incubating LF AI & Data Projects
           prefix: LF AI
           tag: Incubating
           color: '#00cbff'
           big_picture_order: 2
-          big_picture_label: LFAI Incubating
+          big_picture_label: LF AI & Data Incubating
           big_picture_color: 'rgb(83, 113, 189)'
     - id: company
-      label: LFAI Members
+      label: LF AI & Data Members
       tag: Company
       big_picture_order: 3
     - id: member
-      label: LFAI Member Products/Projects
+      label: LF AI & Data Member Products/Projects
       tag: LFAI Member
     - id: false
-      label: Non-LFAI Member Products/Projects
+      label: Non-LF AI & Data Member Products/Projects
       url: 'no'
 membership:
   Premier:
-    name: LFAI
+    name: LF AI & Data
     label: Premier Member
     funding: Premier
     is_large: true
   General:
-    name: LFAI
+    name: LF AI & Data
     label: Member
     funding: General
     is_large: true
   Associate:
-    name: LFAI
+    name: LF AI & Data
     label: Member
     funding: Associate
     is_large: true
@@ -80,7 +80,7 @@ membership:
     funding: 'No'
 home:
   header: >
-    <h1>LF AI Foundation Interactive Landscape</h1> The LF AI Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
+    <h1>LF AI & Data Foundation Interactive Landscape</h1> The LF AI & Data Foundation landscape (<a target="_blank" href="images/landscape.png">png</a>, <a target="_blank"
     href="images/landscape.pdf">pdf</a>) is dynamically generated below. It is modeled after the <a href="http://landscape.cncf.io">CNCF landscape</a> and based
     on the same open source code.
   footer: |
@@ -199,7 +199,7 @@ big_picture:
         children:
           - type: text
             text: |
-              The LF AI landscape explores open source projects in the domains of artificial intelligence, machine learning, and deep learning.
+              The LF AI & Data landscape explores open source projects in Artificial Intelligence and Data and their respective sub-domains.
             top: 15
             left: 100
             right: 120
@@ -212,10 +212,10 @@ big_picture:
             height: 90
             title: QR Code
           - type: title
-            title: l.lfai.foundation
+            title: l.lfaidata.foundation
             top: 99
             left: 9
-            font_size: 12
+            font_size: 9
           - type: image
             image: left-logo.svg
             width: 110
@@ -258,9 +258,9 @@ big_picture:
   third:
     tab_index: 1
     url: members
-    name: LF AI Members
-    title: LF AI Member Company
-    fullscreen_header: Become an LF AI member at lfai.foundation/join
+    name: LF AI & Data Members
+    title: LF AI & Data Member Company
+    fullscreen_header: Become an LF AI & Data member at lfaidata.foundation/join
     elements:
       - type: HorizontalCategory
         category: Premier
@@ -290,13 +290,13 @@ big_picture:
         color: '#C0C0C0'
         fit_width: true
         is_large: true
-    category: LF AI Member Company
+    category: LF AI & Data Member Company
   fourth:
     tab_index: 2
     url: hosting
     name: Companies Hosting Projects
     title: Companies Hosting Projects
-    fullscreen_header: Companies hosting projects in LF AI
+    fullscreen_header: Companies hosting projects in LF AI & Data
     elements:
       - type: HorizontalCategory
         category: Hosting Companies
@@ -309,6 +309,6 @@ big_picture:
         is_large: true
     category: Hosting Companies
 test:
-  header: LF AI Foundation Interactive Landscape
-  section: Graduated LFAI Projects
+  header: LF AI & Data Foundation Interactive Landscape
+  section: Graduated LF AI & Data Projects
   logo: acumos.svg
