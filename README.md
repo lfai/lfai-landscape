@@ -28,7 +28,7 @@ This landscape is intended as a map to explore open source projects in the AI & 
 
 ## Interactive Version
 
-Please see [landscape.lfai.foundation](https://landscape.lfai.foundation).
+Please see [landscape.lfaidata.foundation](https://landscape.lfaidata.foundation).
 
 ## New Entries
 
@@ -108,8 +108,8 @@ Everything else is under the Apache License, Version 2.0, except for project and
 
 The LF AI & Data Landscape is available in these formats:
 
-* [PNG](https://landscape.lfai.foundation/images/landscape.png)
-* [PDF](https://landscape.lfai.foundation/images/landscape.pdf)
+* [PNG](https://landscape.lfaidata.foundation/images/landscape.png)
+* [PDF](https://landscape.lfaidata.foundation/images/landscape.pdf)
 
 ## Installation
 
