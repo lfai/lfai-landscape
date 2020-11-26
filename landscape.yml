@@ -589,8 +589,30 @@ landscape:
             twitter: 'https://twitter.com/vespaengine'
             crunchbase: 'https://www.crunchbase.com/organization/verizon-media'
       - subcategory:
+        name: Feature Engineering
+        items:
+          - item:
+            name: Featuretools
+            homepage_url: 'https://www.featuretools.com/'
+            repo_url: 'https://github.com/alteryx/featuretools'
+            logo: featuretools.svg
+            twitter: 'https://twitter.com/featuretools_py'
+            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
+          - item:
+            name: tsfresh
+            homepage_url: 'https://tsfresh.readthedocs.io/en/latest'
+            repo_url: 'https://github.com/blue-yonder/tsfresh'
+            logo: tsfresh.svg
+            crunchbase: 'https://www.crunchbase.com/organization/blue-yonder'
+      - subcategory:
         name: Operations
         items:
+          - item:
+            name: Apache Hive
+            homepage_url: 'https://hive.apache.org/'
+            repo_url: 'https://github.com/apache/hive'
+            logo: hive.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
@@ -636,6 +658,20 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
+          - item:
+            name: Pulsar
+            homepage_url: 'https://pulsar.apache.org'
+            repo_url: 'https://github.com/apache/incubator-pulsar'
+            logo: pulsar.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Apache RocketMQ
+            homepage_url: 'https://rocketmq.apache.org/'
+            repo_url: 'https://github.com/apache/rocketmq'
+            logo: rocketmq.svg
+            twitter: 'https://twitter.com/ApacheRocketMQ'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Brooklin
             homepage_url: 'https://github.com/linkedin/Brooklin'
@@ -704,6 +740,13 @@ landscape:
         name: SQL Engine
         items:
           - item:
+            name: Hawq
+            homepage_url: 'http://hawq.apache.org/'
+            repo_url: 'https://github.com/apache/hawq'
+            logo: hawq.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: Apache Drill
             homepage_url: 'https://drill.apache.org/'
             repo_url: 'https://github.com/apache/drill'
@@ -724,24 +767,21 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/alibaba'
       - subcategory:
-        name: Feature Engineering
-        items:
-          - item:
-            name: Featuretools
-            homepage_url: 'https://www.featuretools.com/'
-            repo_url: 'https://github.com/alteryx/featuretools'
-            logo: featuretools.svg
-            twitter: 'https://twitter.com/featuretools_py'
-            crunchbase: 'https://www.crunchbase.com/organization/feature-labs'
-          - item:
-            name: tsfresh
-            homepage_url: 'https://tsfresh.readthedocs.io/en/latest'
-            repo_url: 'https://github.com/blue-yonder/tsfresh'
-            logo: tsfresh.svg
-            crunchbase: 'https://www.crunchbase.com/organization/blue-yonder'
-      - subcategory:
         name: Visualization
         items:
+          - item:
+            name: D3 (Data-Driven Documents)
+            homepage_url: 'https://d3js.org'
+            repo_url: 'https://github.com/d3/d3'
+            logo: d3.svg
+            twitter: 'https://twitter.com/d3js_org'
+            crunchbase: 'https://www.crunchbase.com/organization/d3js'
+          - item:
+            name: Superset
+            homepage_url: 'https://superset.apache.org'
+            repo_url: 'https://github.com/apache/incubator-superset'
+            logo: superset.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: bokeh
             homepage_url: 'https://bokeh.org'
@@ -800,6 +840,13 @@ landscape:
       - subcategory:
         name: Pipeline Management
         items:
+          - item:
+            name: Apache Oozie
+            homepage_url: 'http://oozie.apache.org/'
+            repo_url: 'https://github.com/apache/oozie'
+            logo: oozie.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Analytics Zoo
             homepage_url: 'https://pypi.org/project/analytics-zoo/'
@@ -1126,6 +1173,45 @@ landscape:
     name: Model
     subcategories:
       - subcategory:
+        name: Inference
+        items:
+          - item:
+            name: Adlik
+            homepage_url: 'https://adlik.ai/'
+            project: incubating
+            repo_url: 'https://github.com/Adlik/Adlik'
+            logo: adlik.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: MNN
+            homepage_url: 'https://github.com/alibaba/MNN'
+            repo_url: 'https://github.com/alibaba/MNN'
+            logo: mnn.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
+          - item:
+            name: TensorRT
+            homepage_url: 'https://developer.nvidia.com/tensorrt'
+            repo_url: 'https://github.com/NVIDIA/TensorRT'
+            logo: tensorrt.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+          - item:
+            name: TensorRT Inference Server
+            homepage_url: 'https://github.com/triton-inference-server/server'
+            repo_url: 'https://github.com/triton-inference-server/server'
+            logo: tensorrt-inferenceserver.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
+          - item:
+            name: uTensor
+            homepage_url: 'https://github.com/uTensor/uTensor'
+            repo_url: 'https://github.com/uTensor/uTensor'
+            logo: uTensor.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/arm'
+      - subcategory:
         name: Benchmarking
         items:
           - item:
@@ -1328,45 +1414,6 @@ landscape:
             logo: volcano.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/huawei'
-      - subcategory:
-        name: Inference
-        items:
-          - item:
-            name: Adlik
-            homepage_url: 'https://adlik.ai/'
-            project: incubating
-            repo_url: 'https://github.com/Adlik/Adlik'
-            logo: adlik.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
-          - item:
-            name: MNN
-            homepage_url: 'https://github.com/alibaba/MNN'
-            repo_url: 'https://github.com/alibaba/MNN'
-            logo: mnn.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba'
-          - item:
-            name: TensorRT
-            homepage_url: 'https://developer.nvidia.com/tensorrt'
-            repo_url: 'https://github.com/NVIDIA/TensorRT'
-            logo: tensorrt.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
-          - item:
-            name: TensorRT Inference Server
-            homepage_url: 'https://github.com/triton-inference-server/server'
-            repo_url: 'https://github.com/triton-inference-server/server'
-            logo: tensorrt-inferenceserver.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/nvidia'
-          - item:
-            name: uTensor
-            homepage_url: 'https://github.com/uTensor/uTensor'
-            repo_url: 'https://github.com/uTensor/uTensor'
-            logo: uTensor.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/arm'
       - subcategory:
         name: Tool
         items:

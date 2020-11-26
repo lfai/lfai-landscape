@@ -35,7 +35,8 @@ relation:
           tag: Graduated
           color: '#3570af'
           big_picture_order: 1
-          big_picture_label: LF AI & Data Graduated
+#          big_picture_label: LF AI & Data Graduated
+          big_picture_label: Graduated
           big_picture_color: 'rgb(24,54,114)'
         - id: incubating
           label: Incubating LF AI & Data Projects
@@ -43,7 +44,8 @@ relation:
           tag: Incubating
           color: '#00cbff'
           big_picture_order: 2
-          big_picture_label: LF AI & Data Incubating
+#          big_picture_label: LF AI & Data Incubating
+          big_picture_label: Incubating
           big_picture_color: 'rgb(83, 113, 189)'
     - id: company
       label: LF AI & Data Members
@@ -107,8 +109,8 @@ big_picture:
     tab_index: -1
     url: landscape
     name: Landscape
-    title: Linux Foundation AI Landscape
-    fullscreen_header: See the interactive landscape at l.lfai.foundation
+    title: Linux Foundation AI & Data Landscape
+    fullscreen_header: See the interactive landscape at l.lfaidata.foundation
     elements:
       - type: HorizontalCategory
         category: Machine Learning
@@ -140,7 +142,7 @@ big_picture:
       - type: HorizontalCategory
         category: Programming
         rows: 4
-        width: 190
+        width: 210
         height: 160
         top: 0
         left: 1055
@@ -158,7 +160,7 @@ big_picture:
       - type: HorizontalCategory
         category: Data
         rows: 4
-        width: 1045
+        width: 1065
         height: 160
         top: 190
         left: 200
@@ -176,7 +178,7 @@ big_picture:
       - type: HorizontalCategory
         category: Trusted & Responsible AI
         rows: 3
-        width: 345
+        width: 365
         height: 160
         top: 380
         left: 900
@@ -249,7 +251,7 @@ big_picture:
       - type: HorizontalCategory
         category: Education
         rows: 4
-        width: 105
+        width: 125
         height: 160
         top: 570
         left: 1140
@@ -264,7 +266,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Premier
-        width: 650
+        width: 675
         height: 175
         top: 0
         left: 0
@@ -273,7 +275,7 @@ big_picture:
         is_large: true
       - type: HorizontalCategory
         category: General
-        width: 650
+        width: 675
         height: 175
         top: 175
         left: 0
@@ -283,7 +285,7 @@ big_picture:
       - type: HorizontalCategory
         category: Associate
         cols: 30
-        width: 650
+        width: 675
         height: 175
         top: 350
         left: 0
@@ -300,7 +302,7 @@ big_picture:
     elements:
       - type: HorizontalCategory
         category: Hosting Companies
-        width: 650
+        width: 675
         height: 250
         top: 0
         left: 0
