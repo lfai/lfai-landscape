@@ -608,18 +608,18 @@ landscape:
         name: Operations
         items:
           - item:
-            name: Apache Hive
-            homepage_url: 'https://hive.apache.org/'
-            repo_url: 'https://github.com/apache/hive'
-            logo: hive.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: Amundsen
             homepage_url: 'https://lyft.github.io/amundsen/'
             project: incubating
             repo_url: 'https://github.com/amundsen-io/amundsen'
             logo: amundsen.svg
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
+          - item:
+            name: Apache Hive
+            homepage_url: 'https://hive.apache.org/'
+            repo_url: 'https://github.com/apache/hive'
+            logo: hive.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: DataHub
             homepage_url: 'https://github.com/linkedin/datahub'
@@ -658,13 +658,6 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
-          - item:
-            name: Pulsar
-            homepage_url: 'https://pulsar.apache.org'
-            repo_url: 'https://github.com/apache/incubator-pulsar'
-            logo: pulsar.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apache RocketMQ
             homepage_url: 'https://rocketmq.apache.org/'
@@ -723,6 +716,13 @@ landscape:
             logo: prefect.svg
             crunchbase: 'https://www.crunchbase.com/organization/prefect-technologies-inc'
           - item:
+            name: Pulsar
+            homepage_url: 'https://pulsar.apache.org'
+            repo_url: 'https://github.com/apache/pulsar'
+            logo: pulsar.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: Samza
             homepage_url: 'http://samza.apache.org/'
             repo_url: 'https://github.com/apache/samza'
@@ -740,18 +740,18 @@ landscape:
         name: SQL Engine
         items:
           - item:
-            name: Hawq
-            homepage_url: 'http://hawq.apache.org/'
-            repo_url: 'https://github.com/apache/hawq'
-            logo: hawq.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: Apache Drill
             homepage_url: 'https://drill.apache.org/'
             repo_url: 'https://github.com/apache/drill'
             logo: apache-drill.svg
             twitter: 'https://twitter.com/ApacheDrill'
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
+            name: Hawq
+            homepage_url: 'http://hawq.apache.org/'
+            repo_url: 'https://github.com/apache/hawq'
+            logo: hawq.svg
+            twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Presto
@@ -770,25 +770,18 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: D3 (Data-Driven Documents)
-            homepage_url: 'https://d3js.org'
-            repo_url: 'https://github.com/d3/d3'
-            logo: d3.svg
-            twitter: 'https://twitter.com/d3js_org'
-            crunchbase: 'https://www.crunchbase.com/organization/d3js'
-          - item:
-            name: Superset
-            homepage_url: 'https://superset.apache.org'
-            repo_url: 'https://github.com/apache/incubator-superset'
-            logo: superset.svg
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: bokeh
             homepage_url: 'https://bokeh.org'
             repo_url: 'https://github.com/bokeh/bokeh'
             logo: 'https://static.bokeh.org/logos/logotype.svg'
             twitter: 'https://twitter.com/BokehPlots'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: D3 (Data-Driven Documents)
+            homepage_url: 'https://d3js.org'
+            repo_url: 'https://github.com/d3/d3'
+            logo: d3.svg
+            crunchbase: 'https://www.crunchbase.com/organization/d3js'
           - item:
             name: dash
             homepage_url: 'https://github.com/plotly/dash'
@@ -831,6 +824,12 @@ landscape:
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/new-york-university'
           - item:
+            name: Superset
+            homepage_url: 'https://superset.apache.org'
+            repo_url: 'https://github.com/apache/incubator-superset'
+            logo: superset.svg
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
+          - item:
             name: TensorBoard
             homepage_url: 'https://github.com/tensorflow/tensorboard'
             repo_url: 'https://github.com/tensorflow/tensorboard'
@@ -841,19 +840,19 @@ landscape:
         name: Pipeline Management
         items:
           - item:
-            name: Apache Oozie
-            homepage_url: 'http://oozie.apache.org/'
-            repo_url: 'https://github.com/apache/oozie'
-            logo: oozie.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: Analytics Zoo
             homepage_url: 'https://pypi.org/project/analytics-zoo/'
             repo_url: 'https://github.com/intel-analytics/analytics-zoo'
             logo: analytics-zoo.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/intel'
+          - item:
+            name: Apache Oozie
+            homepage_url: 'http://oozie.apache.org/'
+            repo_url: 'https://github.com/apache/oozie'
+            logo: oozie.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Beam
             homepage_url: 'https://beam.apache.org'
@@ -1224,7 +1223,7 @@ landscape:
           - item:
             name: MLPerf
             homepage_url: 'https://mlperf.org/'
-            repo_url: 'https://github.com/mlperf/training'
+            repo_url: 'https://github.com/mlcommons/training'
             logo: mlperf.svg
             twitter: 'https://twitter.com/mlperf1'
             crunchbase: 'https://www.crunchbase.com/organization/ml-perf'
@@ -1282,7 +1281,7 @@ landscape:
         items:
           - item:
             name: Neuropod
-            homepage_url: 'https://neuropod.ai/'
+            homepage_url: 'https://neuropod.ai/docs/stable'
             repo_url: 'https://github.com/uber/neuropod'
             logo: neuropod.svg
             twitter: null
@@ -1518,13 +1517,6 @@ landscape:
         name: Programming
         items:
           - item:
-            name: MARS
-            homepage_url: 'https://github.com/mars-project/mars'
-            repo_url: 'https://github.com/mars-project/mars'
-            logo: mars.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
-          - item:
             name: Dask
             homepage_url: 'https://docs.dask.org/en/latest/'
             repo_url: 'https://github.com/dask/dask'
@@ -1545,6 +1537,13 @@ landscape:
             logo: julia.svg
             twitter: 'https://twitter.com/JuliaLanguage'
             crunchbase: 'https://www.crunchbase.com/organization/numfocus'
+          - item:
+            name: MARS
+            homepage_url: 'https://github.com/mars-project/mars'
+            repo_url: 'https://github.com/mars-project/mars'
+            logo: mars.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/alibaba-cloud'
           - item:
             name: NumPy
             homepage_url: 'https://numpy.org/'
@@ -2148,7 +2147,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/ai-for-people'
           - item:
             name: 'aivancity School for Technology, Business & Society'
-            homepage_url: 'https://www.aivancity.ai/'
+            homepage_url: 'https://www.aivancity.ai/fr'
             logo: aivancity.svg
             crunchbase: 'https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society'
           - item:
