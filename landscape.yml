@@ -491,19 +491,19 @@ landscape:
         name: Store & Format
         items:
           - item:
-            name: Apache Iceberg
-            homepage_url: 'https://iceberg.apache.org/'
-            repo_url: 'https://github.com/apache/iceberg'
-            logo: iceberg.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/apache'
-          - item:
             name: Alluxio
             homepage_url: 'https://www.alluxio.io/'
             repo_url: 'https://github.com/alluxio/alluxio'
             logo: alluxio.svg
             twitter: 'https://twitter.com/alluxio'
             crunchbase: 'https://www.crunchbase.com/organization/alluxio'
+          - item:
+            name: Apache Iceberg
+            homepage_url: 'https://iceberg.apache.org/'
+            repo_url: 'https://github.com/apache/iceberg'
+            logo: iceberg.svg
+            twitter: null
+            crunchbase: 'https://www.crunchbase.com/organization/apache'
           - item:
             name: Apache ORC
             homepage_url: 'https://orc.apache.org/'
@@ -556,9 +556,9 @@ landscape:
           - item:
             name: JanusGraph
             homepage_url: 'https://janusgraph.org/'
+            project: incubating
             repo_url: 'https://github.com/JanusGraph/janusgraph'
             logo: janusgraph.svg
-            project: incubating
             twitter: 'https://twitter.com/janusgraph'
             crunchbase: 'https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation'
           - item:
@@ -1117,7 +1117,7 @@ landscape:
             crunchbase: 'https://www.crunchbase.com/organization/cisco'
           - item:
             name: NLP Architect
-            homepage_url: 'http://nlp_architect.nervanasys.com/'
+            homepage_url: 'https://intellabs.github.io/nlp-architect'
             repo_url: 'https://github.com/IntelLabs/nlp-architect'
             logo: nlp-architect.svg
             twitter: null
