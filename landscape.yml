@@ -668,7 +668,6 @@ landscape:
             homepage_url: 'https://www.whylabs.ai/'
             repo_url: 'https://github.com/whylabs/whylogs-python'
             logo: whylogs.svg
-            twitter: 'https://twitter.com/whylabs'
             crunchbase: 'https://www.crunchbase.com/organization/whylabs'
       - subcategory:
         name: Stream Processing
@@ -785,13 +784,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: ecco
-            homepage_url: 'https://www.eccox.io'
-            repo_url: 'https://github.com/jalammar/ecco'
-            logo: ecco.svg
-            twitter: null
-            crunchbase: 'https://www.crunchbase.com/organization/arpeggio'
-          - item:
             name: bokeh
             homepage_url: 'https://bokeh.org'
             repo_url: 'https://github.com/bokeh/bokeh'
@@ -818,6 +810,12 @@ landscape:
             logo: deckgl.svg
             twitter: null
             crunchbase: 'https://www.crunchbase.com/organization/uber'
+          - item:
+            name: ecco
+            homepage_url: 'https://www.eccox.io'
+            repo_url: 'https://github.com/jalammar/ecco'
+            logo: ecco.svg
+            crunchbase: 'https://www.crunchbase.com/organization/arpeggio'
           - item:
             name: Facets
             homepage_url: 'https://pair-code.github.io/facets/'
