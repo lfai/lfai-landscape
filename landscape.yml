@@ -168,13 +168,6 @@ landscape:
             twitter: https://twitter.com/catboostml
             crunchbase: https://www.crunchbase.com/organization/yandex
           - item:
-            name: MLlib
-            homepage_url: https://spark.apache.org/mllib/
-            repo_url: https://github.com/apache/spark
-            logo: mllib.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/apache
-          - item:
             name: mlpack
             homepage_url: https://www.mlpack.org/
             repo_url: https://github.com/mlpack/mlpack
@@ -1618,6 +1611,13 @@ landscape:
       - subcategory:
         name: Computing & Management
         items:
+          - item:
+            name: Apache Spark
+            homepage_url: https://spark.apache.org
+            repo_url: https://github.com/apache/spark
+            logo: spark.svg
+            twitter: https://twitter.com/apachespark
+            crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: Apache Ambari
             homepage_url: https://ambari.apache.org/
