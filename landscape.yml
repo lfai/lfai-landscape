@@ -593,6 +593,14 @@ landscape:
         name: Feature Engineering
         items:
           - item:
+            name: Feast
+            homepage_url: https://feast.dev/
+            project: incubating
+            repo_url: https://github.com/feast-dev/feast
+            logo: feast.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
             name: Featuretools
             homepage_url: https://www.featuretools.com/
             repo_url: https://github.com/alteryx/featuretools
@@ -628,14 +636,6 @@ landscape:
             logo: datahub.svg
             crunchbase: https://www.crunchbase.com/organization/linkedin
           - item:
-            name: Feast
-            homepage_url: https://feast.dev/
-            project: incubating
-            repo_url: https://github.com/feast-dev/feast
-            logo: feast.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: great_expectations
             homepage_url: https://greatexpectations.io/
             repo_url: https://github.com/great-expectations/great_expectations
@@ -665,6 +665,13 @@ landscape:
       - subcategory:
         name: Stream Processing
         items:
+          - item:
+            name: Beam
+            homepage_url: https://beam.apache.org
+            repo_url: https://github.com/apache/beam
+            logo: beam.svg
+            twitter: https://twitter.com/ApacheBeam
+            crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: Apache RocketMQ
             homepage_url: https://rocketmq.apache.org/
@@ -865,13 +872,6 @@ landscape:
             repo_url: https://github.com/apache/oozie
             logo: oozie.svg
             twitter: null
-            crunchbase: https://www.crunchbase.com/organization/apache
-          - item:
-            name: Beam
-            homepage_url: https://beam.apache.org
-            repo_url: https://github.com/apache/beam
-            logo: beam.svg
-            twitter: https://twitter.com/ApacheBeam
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: DAGSTER
