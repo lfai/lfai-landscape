@@ -784,6 +784,12 @@ landscape:
         name: Visualization
         items:
           - item:
+            name: Carbon
+            homepage_url: https://www.carbondesignsystem.com/
+            repo_url: https://github.com/carbon-design-system/carbon
+            logo: carbon.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
@@ -1186,6 +1192,12 @@ landscape:
       - subcategory:
         name: Inference
         items:
+          - item:
+            name: KFServing
+            homepage_url: https://www.kubeflow.org/docs/components/serving/kfserving/
+            repo_url: https://github.com/kubeflow/kfserving
+            logo: kfserving.svg
+            crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: Adlik
             homepage_url: https://adlik.ai/
@@ -2081,6 +2093,11 @@ landscape:
       - subcategory:
         name: General
         items:
+          - item:
+            name: VMware
+            homepage_url: https://www.vmware.com/
+            logo: vmware.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: AlphaBravo
             homepage_url: https://alphabravo.io/
