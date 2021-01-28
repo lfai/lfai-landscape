@@ -666,18 +666,18 @@ landscape:
         name: Stream Processing
         items:
           - item:
-            name: Beam
-            homepage_url: https://beam.apache.org
-            repo_url: https://github.com/apache/beam
-            logo: beam.svg
-            twitter: https://twitter.com/ApacheBeam
-            crunchbase: https://www.crunchbase.com/organization/apache
-          - item:
             name: Apache RocketMQ
             homepage_url: https://rocketmq.apache.org/
             repo_url: https://github.com/apache/rocketmq
             logo: rocketmq.svg
             twitter: https://twitter.com/ApacheRocketMQ
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Beam
+            homepage_url: https://beam.apache.org
+            repo_url: https://github.com/apache/beam
+            logo: beam.svg
+            twitter: https://twitter.com/ApacheBeam
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: Brooklin
@@ -1612,13 +1612,6 @@ landscape:
         name: Computing & Management
         items:
           - item:
-            name: Apache Spark
-            homepage_url: https://spark.apache.org
-            repo_url: https://github.com/apache/spark
-            logo: spark.svg
-            twitter: https://twitter.com/apachespark
-            crunchbase: https://www.crunchbase.com/organization/apache
-          - item:
             name: Apache Ambari
             homepage_url: https://ambari.apache.org/
             repo_url: https://github.com/apache/ambari
@@ -1644,6 +1637,13 @@ landscape:
             repo_url: https://github.com/apache/ranger
             logo: https://svn.apache.org/repos/asf/comdev/project-logos/originals/ranger.svg
             twitter: null
+            crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Apache Spark
+            homepage_url: https://spark.apache.org
+            repo_url: https://github.com/apache/spark
+            logo: spark.svg
+            twitter: https://twitter.com/apachespark
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: Apache Storm
