@@ -784,18 +784,18 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: Carbon
-            homepage_url: https://www.carbondesignsystem.com/
-            repo_url: https://github.com/carbon-design-system/carbon
-            logo: carbon.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
             logo: https://static.bokeh.org/logos/logotype.svg
             twitter: https://twitter.com/BokehPlots
             crunchbase: https://www.crunchbase.com/organization/numfocus
+          - item:
+            name: Carbon
+            homepage_url: https://www.carbondesignsystem.com/
+            repo_url: https://github.com/carbon-design-system/carbon
+            logo: carbon.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: D3 (Data-Driven Documents)
             homepage_url: https://d3js.org
@@ -1193,12 +1193,6 @@ landscape:
         name: Inference
         items:
           - item:
-            name: KFServing
-            homepage_url: https://www.kubeflow.org/docs/components/serving/kfserving/
-            repo_url: https://github.com/kubeflow/kfserving
-            logo: kfserving.svg
-            crunchbase: https://www.crunchbase.com/organization/google
-          - item:
             name: Adlik
             homepage_url: https://adlik.ai/
             project: incubating
@@ -1206,6 +1200,12 @@ landscape:
             logo: adlik.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: KFServing
+            homepage_url: https://www.kubeflow.org/docs/components/serving/kfserving/
+            repo_url: https://github.com/kubeflow/kfserving
+            logo: kfserving.svg
+            crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: MNN
             homepage_url: https://github.com/alibaba/MNN
@@ -2094,11 +2094,6 @@ landscape:
         name: General
         items:
           - item:
-            name: VMware
-            homepage_url: https://www.vmware.com/
-            logo: vmware.svg
-            crunchbase: https://www.crunchbase.com/organization/vmware
-          - item:
             name: AlphaBravo
             homepage_url: https://alphabravo.io/
             logo: alphabravo.svg
@@ -2169,6 +2164,11 @@ landscape:
             homepage_url: https://rstudio.com
             logo: rstudio.svg
             crunchbase: https://www.crunchbase.com/organization/rstudio
+          - item:
+            name: VMware
+            homepage_url: https://www.vmware.com/
+            logo: vmware.svg
+            crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
             name: Xenonstack
             homepage_url: https://xenonstack.com
