@@ -453,33 +453,14 @@ landscape:
     name: Data
     subcategories:
       - subcategory:
-        name: Versioning
+        name: DMS
         items:
           - item:
-            name: dotmesh
-            homepage_url: https://dotmesh.com/
-            repo_url: https://github.com/dotmesh-io/dotmesh
-            logo: dotmesh.svg
-            crunchbase: https://www.crunchbase.com/organization/dotscience
-          - item:
-            name: DVC
-            homepage_url: https://dvc.org/
-            repo_url: https://github.com/iterative/dvc
-            logo: dvc.svg
-            twitter: https://twitter.com/iterativeai
-            crunchbase: https://www.crunchbase.com/organization/iterative
-          - item:
-            name: Pachyderm
-            homepage_url: https://www.pachyderm.com
-            repo_url: https://github.com/pachyderm/pachyderm
-            logo: pachyderm.svg
-            crunchbase: https://www.crunchbase.com/organization/pachyderm
-          - item:
-            name: Quilt Data
-            homepage_url: https://docs.quiltdata.com/
-            repo_url: https://github.com/quiltdata/quilt
-            logo: quiltdata.svg
-            crunchbase: https://www.crunchbase.com/organization/quilt-data
+            name: CKAN
+            homepage_url: https://ckan.org/
+            repo_url: https://github.com/ckan/ckan
+            logo: ckan.svg
+            crunchbase: https://www.crunchbase.com/organization/the-open-knowledge-foundation-deutschland-okf-de
       - subcategory:
         name: Store & Format
         items:
@@ -590,29 +571,33 @@ landscape:
             twitter: https://twitter.com/vespaengine
             crunchbase: https://www.crunchbase.com/organization/verizon-media
       - subcategory:
-        name: Feature Engineering
+        name: Versioning
         items:
           - item:
-            name: Feast
-            homepage_url: https://feast.dev/
-            project: incubating
-            repo_url: https://github.com/feast-dev/feast
-            logo: feast.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            name: dotmesh
+            homepage_url: https://dotmesh.com/
+            repo_url: https://github.com/dotmesh-io/dotmesh
+            logo: dotmesh.svg
+            crunchbase: https://www.crunchbase.com/organization/dotscience
           - item:
-            name: Featuretools
-            homepage_url: https://www.featuretools.com/
-            repo_url: https://github.com/alteryx/featuretools
-            logo: featuretools.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/feature-labs
+            name: DVC
+            homepage_url: https://dvc.org/
+            repo_url: https://github.com/iterative/dvc
+            logo: dvc.svg
+            twitter: https://twitter.com/iterativeai
+            crunchbase: https://www.crunchbase.com/organization/iterative
           - item:
-            name: tsfresh
-            homepage_url: https://tsfresh.readthedocs.io/en/latest
-            repo_url: https://github.com/blue-yonder/tsfresh
-            logo: tsfresh.svg
-            crunchbase: https://www.crunchbase.com/organization/blue-yonder
+            name: Pachyderm
+            homepage_url: https://www.pachyderm.com
+            repo_url: https://github.com/pachyderm/pachyderm
+            logo: pachyderm.svg
+            crunchbase: https://www.crunchbase.com/organization/pachyderm
+          - item:
+            name: Quilt Data
+            homepage_url: https://docs.quiltdata.com/
+            repo_url: https://github.com/quiltdata/quilt
+            logo: quiltdata.svg
+            crunchbase: https://www.crunchbase.com/organization/quilt-data
       - subcategory:
         name: Operations
         items:
@@ -662,6 +647,30 @@ landscape:
             repo_url: https://github.com/whylabs/whylogs-python
             logo: whylogs.svg
             crunchbase: https://www.crunchbase.com/organization/whylabs
+      - subcategory:
+        name: Feature Engineering
+        items:
+          - item:
+            name: Feast
+            homepage_url: https://feast.dev/
+            project: incubating
+            repo_url: https://github.com/feast-dev/feast
+            logo: feast.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Featuretools
+            homepage_url: https://www.featuretools.com/
+            repo_url: https://github.com/alteryx/featuretools
+            logo: featuretools.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/feature-labs
+          - item:
+            name: tsfresh
+            homepage_url: https://tsfresh.readthedocs.io/en/latest
+            repo_url: https://github.com/blue-yonder/tsfresh
+            logo: tsfresh.svg
+            crunchbase: https://www.crunchbase.com/organization/blue-yonder
       - subcategory:
         name: Stream Processing
         items:
@@ -894,7 +903,7 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/university-of-pennsylvania
       - subcategory:
-        name: Labeling and Annotation
+        name: Labeling & Annotation
         items:
           - item:
             name: Computer Vision Annotation Tool (CVAT)
@@ -1355,7 +1364,7 @@ landscape:
           - item:
             name: Argo
             homepage_url: https://argoproj.github.io/
-            repo_url: https://github.com/argoproj/argo-workflows
+            repo_url: https://github.com/argoproj/argo
             logo: argo.svg
             twitter: https://twitter.com/argoproj
             crunchbase: https://www.crunchbase.com/organization/intuit
