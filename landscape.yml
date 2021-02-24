@@ -365,13 +365,6 @@ landscape:
         name: Library
         items:
           - item:
-            name: Neural Network Libraries
-            homepage_url: https://nnabla.org
-            repo_url: https://github.com/sony/nnabla
-            logo: nnl.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/sony
-          - item:
             name: BigDL
             homepage_url: https://bigdl-project.github.io/0.9.0/
             repo_url: https://github.com/intel-analytics/BigDL
@@ -398,6 +391,13 @@ landscape:
             logo: keras.svg
             twitter: https://twitter.com/fchollet
             crunchbase: https://www.crunchbase.com/organization/keras
+          - item:
+            name: Neural Network Libraries
+            homepage_url: https://nnabla.org
+            repo_url: https://github.com/sony/nnabla
+            logo: nnl.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/sony
           - item:
             name: PySyft
             homepage_url: https://github.com/OpenMined/PySyft
