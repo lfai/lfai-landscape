@@ -467,16 +467,6 @@ landscape:
     name: Data
     subcategories:
       - subcategory:
-        name: DMS
-        items:
-          - item:
-            name: CKAN
-            homepage_url: https://ckan.org/
-            repo_url: https://github.com/ckan/ckan
-            logo: ckan.svg
-            twitter: https://twitter.com/ckanproject
-            crunchbase: https://www.crunchbase.com/organization/open-knowledge-foundation
-      - subcategory:
         name: Store & Format
         items:
           - item:
@@ -616,6 +606,13 @@ landscape:
       - subcategory:
         name: Operations
         items:
+          - item:
+            name: CKAN
+            homepage_url: https://ckan.org/
+            repo_url: https://github.com/ckan/ckan
+            logo: ckan.svg
+            twitter: https://twitter.com/ckanproject
+            crunchbase: https://www.crunchbase.com/organization/open-knowledge-foundation
           - item:
             name: Amundsen
             homepage_url: https://www.amundsen.io/
