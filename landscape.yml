@@ -140,7 +140,7 @@ landscape:
           - item:
             name: PredictionIO
             homepage_url: https://predictionio.apache.org/
-            repo_url: https://github.com/apache/predictionio
+            repo_url: https://github.com/apache/attic-predictionio
             logo: apache-predictionio.svg
             twitter: https://twitter.com/ApachePIO
             crunchbase: https://www.crunchbase.com/organization/apache
@@ -607,13 +607,6 @@ landscape:
         name: Operations
         items:
           - item:
-            name: CKAN
-            homepage_url: https://ckan.org/
-            repo_url: https://github.com/ckan/ckan
-            logo: ckan.svg
-            twitter: https://twitter.com/ckanproject
-            crunchbase: https://www.crunchbase.com/organization/open-knowledge-foundation
-          - item:
             name: Amundsen
             homepage_url: https://www.amundsen.io/
             project: incubating
@@ -627,18 +620,25 @@ landscape:
             logo: hive.svg
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
-            name: Datashim
-            homepage_url: https://github.com/datashim-io/datashim
-            project: incubating
-            repo_url: https://github.com/datashim-io/datashim
-            logo: datashim.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            name: CKAN
+            homepage_url: https://ckan.org/
+            repo_url: https://github.com/ckan/ckan
+            logo: ckan.svg
+            twitter: https://twitter.com/ckanproject
+            crunchbase: https://www.crunchbase.com/organization/open-knowledge-foundation
           - item:
             name: DataHub
             homepage_url: https://github.com/linkedin/datahub
             repo_url: https://github.com/linkedin/datahub
             logo: datahub.svg
             crunchbase: https://www.crunchbase.com/organization/linkedin
+          - item:
+            name: Datashim
+            homepage_url: https://github.com/datashim-io/datashim
+            project: incubating
+            repo_url: https://github.com/datashim-io/datashim
+            logo: datashim.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: great_expectations
             homepage_url: https://greatexpectations.io/
@@ -1058,13 +1058,6 @@ landscape:
         name: Natural Language Processing
         items:
           - item:
-            name: RosaeNLG
-            homepage_url: https://rosaenlg.org
-            repo_url: https://github.com/RosaeNLG/rosaenlg
-            logo: rosaenlg.svg
-            project: sandbox
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: ALBERT
             homepage_url: https://github.com/google-research/ALBERT
             repo_url: https://github.com/google-research/ALBERT
@@ -1194,6 +1187,13 @@ landscape:
             logo: rasa.svg
             crunchbase: https://www.crunchbase.com/organization/rasa
           - item:
+            name: RosaeNLG
+            homepage_url: https://rosaenlg.org
+            project: sandbox
+            repo_url: https://github.com/RosaeNLG/rosaenlg
+            logo: rosaenlg.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
             name: spaCy
             homepage_url: https://spacy.io
             repo_url: https://github.com/explosion/spaCy
@@ -1236,7 +1236,7 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: KFServing
-            homepage_url: https://www.kubeflow.org/docs/components/serving/kfserving/
+            homepage_url: https://www.kubeflow.org/docs/components/kfserving
             repo_url: https://github.com/kubeflow/kfserving
             logo: kfserving.svg
             crunchbase: https://www.crunchbase.com/organization/google
