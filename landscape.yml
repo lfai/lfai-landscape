@@ -476,6 +476,13 @@ landscape:
         name: Store & Format
         items:
           - item:
+            name: Ceph
+            homepage_url: http://ceph.io
+            repo_url: https://github.com/ceph/ceph
+            logo: ceph.svg
+            twitter: https://twitter.com/Ceph
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
             name: Alluxio
             homepage_url: https://www.alluxio.io/
             repo_url: https://github.com/alluxio/alluxio
@@ -700,6 +707,20 @@ landscape:
         name: Stream Processing
         items:
           - item:
+            name: Fluentd
+            homepage_url: https://www.fluentd.org
+            repo_url: https://github.com/fluent/fluentd
+            logo: fluentd.svg
+            twitter: https://twitter.com/fluentd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
+            name: Logstash
+            homepage_url: https://www.elastic.co/logstash
+            repo_url: https://github.com/elastic/logstash
+            logo: logstash.svg
+            twitter: https://twitter.com/logstash
+            crunchbase: https://www.crunchbase.com/organization/elasticsearch
+          - item:
             name: Apache RocketMQ
             homepage_url: https://rocketmq.apache.org/
             repo_url: https://github.com/apache/rocketmq
@@ -818,6 +839,13 @@ landscape:
         name: Visualization
         items:
           - item:
+            name: Prometheus
+            homepage_url: https://prometheus.io/
+            repo_url: https://github.com/prometheus/prometheus
+            logo: prometheus.svg
+            twitter: https://twitter.com/PrometheusIO
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
@@ -899,6 +927,13 @@ landscape:
       - subcategory:
         name: Pipeline Management
         items:
+          - item:
+            name: Tekton Pipelines
+            homepage_url: https://tekton.dev/
+            repo_url: https://github.com/tektoncd/pipeline
+            logo: tekton.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: Analytics Zoo
             homepage_url: https://pypi.org/project/analytics-zoo/
@@ -1583,6 +1618,25 @@ landscape:
         name: Programming
         items:
           - item:
+            name: RStudio IDE
+            homepage_url: http://rstudio.org
+            repo_url: https://github.com/rstudio/rstudio
+            logo: rstudio-project.svg
+            crunchbase: https://www.crunchbase.com/organization/rstudio
+          - item:
+            name: Python
+            homepage_url: https://www.python.org
+            repo_url: https://github.com/python/cpython
+            logo: python.svg
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+          - item:
+            name: Numba
+            homepage_url: https://numba.readthedocs.io/en/stable/index.html
+            repo_url: https://github.com/numba/numba
+            logo: numba.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
+          - item:
             name: Dask
             homepage_url: https://docs.dask.org/en/latest/
             repo_url: https://github.com/dask/dask
@@ -1664,6 +1718,13 @@ landscape:
       - subcategory:
         name: Computing & Management
         items:
+          - item:
+            name: OpenShift
+            homepage_url: https://openshift.com
+            repo_url: https://github.com/openshift/origin
+            logo: openshift.svg
+            twitter: https://twitter.com/openshift
+            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Apache Ambari
             homepage_url: https://ambari.apache.org/
