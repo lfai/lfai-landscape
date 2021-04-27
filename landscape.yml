@@ -173,7 +173,7 @@ landscape:
             repo_url: https://github.com/flashlight/flashlight
             logo: https://raw.githubusercontent.com/facebookresearch/flashlight/master/logo.svg
             twitter: https://twitter.com/facebookai
-            crunchbase: https://www.crunchbase.com/organization/facebook          
+            crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
             name: mlpack
             homepage_url: https://www.mlpack.org/
@@ -392,6 +392,13 @@ landscape:
         name: Library
         items:
           - item:
+            name: fast.ai
+            homepage_url: https://www.fast.ai/
+            repo_url: https://github.com/fastai/fastai
+            logo: fast-ai.svg
+            twitter: https://twitter.com/fastdotai
+            crunchbase: https://www.crunchbase.com/organization/fast-ai
+          - item:
             name: BigDL
             homepage_url: https://bigdl-project.github.io/0.9.0/
             repo_url: https://github.com/intel-analytics/BigDL
@@ -411,13 +418,6 @@ landscape:
             logo: deeplearning4j.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
-          - item:
-            name: fast.ai
-            homepage_url: https://www.fast.ai/
-            repo_url: https://github.com/fastai/fastai
-            logo: https://svgshare.com/i/WNa.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/fast-ai            
           - item:
             name: Keras
             homepage_url: https://keras.io/
@@ -507,6 +507,30 @@ landscape:
   - category:
     name: Data
     subcategories:
+      - subcategory:
+        name: Relational DB
+        items:
+          - item:
+            name: Postgres
+            homepage_url: https://www.postgresql.org
+            repo_url: https://github.com/postgres/postgres
+            logo: postgresql.svg
+            twitter: https://twitter.com/PostgreSQL
+            crunchbase: https://www.crunchbase.com/organization/postgresql
+          - item:
+            name: MySQL
+            homepage_url: https://www.mysql.com/
+            repo_url: https://github.com/mysql/mysql-server
+            logo: mysql.svg
+            twitter: https://twitter.com/MySQL
+            crunchbase: https://www.crunchbase.com/organization/oracle
+          - item:
+            name: CouchDB
+            homepage_url: https://iceberg.apache.org/
+            repo_url: https://github.com/apache/couchdb
+            logo: couchdb.svg
+            twitter: https://twitter.com/CouchDB
+            crunchbase: https://www.crunchbase.com/organization/apache
       - subcategory:
         name: Store & Format
         items:
@@ -2316,6 +2340,11 @@ landscape:
       - subcategory:
         name: Associate
         items:
+          - item:
+            name: Chaitanya Bharathi Institute Of Technology
+            homepage_url: https://www.cbit.ac.in/
+            logo: cbit.svg
+            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology-0b02
           - item:
             name: AI for People
             homepage_url: https://www.aiforpeople.org/
