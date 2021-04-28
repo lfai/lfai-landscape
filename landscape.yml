@@ -175,19 +175,19 @@ landscape:
             twitter: https://twitter.com/facebookai
             crunchbase: https://www.crunchbase.com/organization/facebook
           - item:
-            name: mlpack
-            homepage_url: https://www.mlpack.org/
-            repo_url: https://github.com/mlpack/mlpack
-            logo: mlpack.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/georgia-institute-of-technology
-          - item:
             name: MediaPipe
             homepage_url: https://mediapipe.dev/
             repo_url: https://github.com/google/mediapipe
             logo: mediapipe.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: mlpack
+            homepage_url: https://www.mlpack.org/
+            repo_url: https://github.com/mlpack/mlpack
+            logo: mlpack.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/georgia-institute-of-technology
           - item:
             name: Nilearn
             homepage_url: https://nilearn.github.io/
@@ -200,7 +200,6 @@ landscape:
             homepage_url: https://opencv.org
             repo_url: https://github.com/opencv/opencv
             logo: https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg
-            twitter: https://twitter.com/opencvlibrary
             crunchbase: https://www.crunchbase.com/organization/opencv
           - item:
             name: OpenNN
@@ -392,13 +391,6 @@ landscape:
         name: Library
         items:
           - item:
-            name: fast.ai
-            homepage_url: https://www.fast.ai/
-            repo_url: https://github.com/fastai/fastai
-            logo: fast-ai.svg
-            twitter: https://twitter.com/fastdotai
-            crunchbase: https://www.crunchbase.com/organization/fast-ai
-          - item:
             name: BigDL
             homepage_url: https://bigdl-project.github.io/0.9.0/
             repo_url: https://github.com/intel-analytics/BigDL
@@ -418,6 +410,13 @@ landscape:
             logo: deeplearning4j.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/eclipse-foundation
+          - item:
+            name: fast.ai
+            homepage_url: https://www.fast.ai/
+            repo_url: https://github.com/fastai/fastai
+            logo: fast-ai.svg
+            twitter: https://twitter.com/fastdotai
+            crunchbase: https://www.crunchbase.com/organization/fast-ai
           - item:
             name: Keras
             homepage_url: https://keras.io/
@@ -511,12 +510,12 @@ landscape:
         name: Relational DB
         items:
           - item:
-            name: Postgres
-            homepage_url: https://www.postgresql.org
-            repo_url: https://github.com/postgres/postgres
-            logo: postgresql.svg
-            twitter: https://twitter.com/PostgreSQL
-            crunchbase: https://www.crunchbase.com/organization/postgresql
+            name: CouchDB
+            homepage_url: https://iceberg.apache.org/
+            repo_url: https://github.com/apache/couchdb
+            logo: couchdb.svg
+            twitter: https://twitter.com/CouchDB
+            crunchbase: https://www.crunchbase.com/organization/apache
           - item:
             name: MySQL
             homepage_url: https://www.mysql.com/
@@ -525,29 +524,15 @@ landscape:
             twitter: https://twitter.com/MySQL
             crunchbase: https://www.crunchbase.com/organization/oracle
           - item:
-            name: CouchDB
-            homepage_url: https://iceberg.apache.org/
-            repo_url: https://github.com/apache/couchdb
-            logo: couchdb.svg
-            twitter: https://twitter.com/CouchDB
-            crunchbase: https://www.crunchbase.com/organization/apache
+            name: Postgres
+            homepage_url: https://www.postgresql.org
+            repo_url: https://github.com/postgres/postgres
+            logo: postgresql.svg
+            twitter: https://twitter.com/PostgreSQL
+            crunchbase: https://www.crunchbase.com/organization/postgresql
       - subcategory:
         name: Store & Format
         items:
-          - item:
-            name: pandas
-            homepage_url: https://pandas.pydata.org/
-            repo_url: https://github.com/pandas-dev/pandas
-            logo: pandas.svg
-            twitter: https://twitter.com/pandas_dev
-            crunchbase: https://www.crunchbase.com/organization/ursa-computing
-          - item:
-            name: Ceph
-            homepage_url: http://ceph.io
-            repo_url: https://github.com/ceph/ceph
-            logo: ceph.svg
-            twitter: https://twitter.com/Ceph
-            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Alluxio
             homepage_url: https://www.alluxio.io/
@@ -591,6 +576,13 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
+            name: Ceph
+            homepage_url: https://ceph.io
+            repo_url: https://github.com/ceph/ceph
+            logo: ceph.svg
+            twitter: https://twitter.com/Ceph
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
             name: Delta Lake
             homepage_url: https://delta.io/
             repo_url: https://github.com/delta-io/delta
@@ -627,6 +619,13 @@ landscape:
             logo: milvus.svg
             twitter: https://twitter.com/milvusio
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: pandas
+            homepage_url: https://pandas.pydata.org/
+            repo_url: https://github.com/pandas-dev/pandas
+            logo: pandas.svg
+            twitter: https://twitter.com/pandas_dev
+            crunchbase: https://www.crunchbase.com/organization/ursa-computing
           - item:
             name: Parquet
             homepage_url: https://parquet.apache.org/
@@ -773,20 +772,6 @@ landscape:
         name: Stream Processing
         items:
           - item:
-            name: Fluentd
-            homepage_url: https://www.fluentd.org
-            repo_url: https://github.com/fluent/fluentd
-            logo: fluentd.svg
-            twitter: https://twitter.com/fluentd
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Logstash
-            homepage_url: https://www.elastic.co/logstash
-            repo_url: https://github.com/elastic/logstash
-            logo: logstash.svg
-            twitter: https://twitter.com/logstash
-            crunchbase: https://www.crunchbase.com/organization/elasticsearch
-          - item:
             name: Apache RocketMQ
             homepage_url: https://rocketmq.apache.org/
             repo_url: https://github.com/apache/rocketmq
@@ -822,12 +807,26 @@ landscape:
             twitter: https://twitter.com/ApacheFlink
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
+            name: Fluentd
+            homepage_url: https://www.fluentd.org
+            repo_url: https://github.com/fluent/fluentd
+            logo: fluentd.svg
+            twitter: https://twitter.com/fluentd
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
             name: Kafka
             homepage_url: https://kafka.apache.org/
             repo_url: https://github.com/apache/kafka
             logo: apache-kafka.svg
             twitter: https://twitter.com/apachekafka
             crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Logstash
+            homepage_url: https://www.elastic.co/logstash
+            repo_url: https://github.com/elastic/logstash
+            logo: logstash.svg
+            twitter: https://twitter.com/logstash
+            crunchbase: https://www.crunchbase.com/organization/elasticsearch
           - item:
             name: NNStreamer
             homepage_url: https://nnstreamer.ai/
@@ -905,13 +904,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: Prometheus
-            homepage_url: https://prometheus.io/
-            repo_url: https://github.com/prometheus/prometheus
-            logo: prometheus.svg
-            twitter: https://twitter.com/PrometheusIO
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
@@ -964,6 +956,13 @@ landscape:
             logo: grafana.svg
             crunchbase: https://www.crunchbase.com/organization/raintank
           - item:
+            name: Prometheus
+            homepage_url: https://prometheus.io/
+            repo_url: https://github.com/prometheus/prometheus
+            logo: prometheus.svg
+            twitter: https://twitter.com/PrometheusIO
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          - item:
             name: RCloud
             homepage_url: https://rcloud.social/index.html
             repo_url: https://github.com/att/rcloud
@@ -994,13 +993,6 @@ landscape:
         name: Pipeline Management
         items:
           - item:
-            name: Tekton Pipelines
-            homepage_url: https://tekton.dev/
-            repo_url: https://github.com/tektoncd/pipeline
-            logo: tekton.svg
-            twitter: https://twitter.com/tektoncd
-            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
-          - item:
             name: Analytics Zoo
             homepage_url: https://pypi.org/project/analytics-zoo/
             repo_url: https://github.com/intel-analytics/analytics-zoo
@@ -1021,6 +1013,13 @@ landscape:
             logo: dagster.svg
             twitter: https://twitter.com/dagsterio
             crunchbase: https://www.crunchbase.com/organization/elementl
+          - item:
+            name: Tekton Pipelines
+            homepage_url: https://tekton.dev/
+            repo_url: https://github.com/tektoncd/pipeline
+            logo: tekton.svg
+            twitter: https://twitter.com/tektoncd
+            crunchbase: https://www.crunchbase.com/organization/continuous-delivery-foundation-cdf
           - item:
             name: TPOT
             homepage_url: https://automl.info/tpot/
@@ -1429,19 +1428,19 @@ landscape:
         name: Parameter
         items:
           - item:
-            name: Katib
-            homepage_url: https://github.com/kubeflow/katib
-            repo_url: https://github.com/kubeflow/katib
-            logo: katib.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/google
-          - item:
             name: HyperOpt
             homepage_url: https://hyperopt.github.io/hyperopt/
             repo_url: https://github.com/hyperopt/hyperopt
             logo: hyperopt.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/university-of-waterloo
+          - item:
+            name: Katib
+            homepage_url: https://github.com/kubeflow/katib
+            repo_url: https://github.com/kubeflow/katib
+            logo: katib.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/google
           - item:
             name: talos
             homepage_url: https://github.com/autonomio/talos
@@ -1691,25 +1690,6 @@ landscape:
         name: Programming
         items:
           - item:
-            name: RStudio IDE
-            homepage_url: http://rstudio.org
-            repo_url: https://github.com/rstudio/rstudio
-            logo: rstudio-project.svg
-            crunchbase: https://www.crunchbase.com/organization/rstudio
-          - item:
-            name: Python
-            homepage_url: https://www.python.org
-            repo_url: https://github.com/python/cpython
-            logo: python.svg
-            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
-          - item:
-            name: Numba
-            homepage_url: https://numba.readthedocs.io/en/stable/index.html
-            repo_url: https://github.com/numba/numba
-            logo: numba.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
-          - item:
             name: Dask
             homepage_url: https://docs.dask.org/en/latest/
             repo_url: https://github.com/dask/dask
@@ -1737,6 +1717,13 @@ landscape:
             logo: mars.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+          - item:
+            name: Numba
+            homepage_url: https://numba.readthedocs.io/en/stable/index.html
+            repo_url: https://github.com/numba/numba
+            logo: numba.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/continuum-analytics
           - item:
             name: NumPy
             homepage_url: https://numpy.org/
@@ -1772,6 +1759,18 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
+            name: Python
+            homepage_url: https://www.python.org
+            repo_url: https://github.com/python/cpython
+            logo: python.svg
+            crunchbase: https://www.crunchbase.com/organization/python-software-foundation
+          - item:
+            name: RStudio IDE
+            homepage_url: https://www.rstudio.com
+            repo_url: https://github.com/rstudio/rstudio
+            logo: rstudio-project.svg
+            crunchbase: https://www.crunchbase.com/organization/rstudio
+          - item:
             name: SciPy
             homepage_url: https://www.scipy.org/
             repo_url: https://github.com/scipy/scipy
@@ -1791,13 +1790,6 @@ landscape:
       - subcategory:
         name: Computing & Management
         items:
-          - item:
-            name: OpenShift
-            homepage_url: https://openshift.com
-            repo_url: https://github.com/openshift/origin
-            logo: openshift.svg
-            twitter: https://twitter.com/openshift
-            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Apache Ambari
             homepage_url: https://ambari.apache.org/
@@ -1876,6 +1868,13 @@ landscape:
             logo: nauta.svg
             twitter: https://twitter.com/IntelAI
             crunchbase: https://www.crunchbase.com/organization/intel
+          - item:
+            name: OpenShift
+            homepage_url: https://openshift.com
+            repo_url: https://github.com/openshift/origin
+            logo: openshift.svg
+            twitter: https://twitter.com/openshift
+            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Singularity
             homepage_url: https://sylabs.io/
@@ -2348,11 +2347,6 @@ landscape:
         name: Associate
         items:
           - item:
-            name: Chaitanya Bharathi Institute Of Technology
-            homepage_url: https://www.cbit.ac.in/
-            logo: cbit.svg
-            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology-0b02
-          - item:
             name: AI for People
             homepage_url: https://www.aiforpeople.org/
             logo: aiforpeople.svg
@@ -2372,6 +2366,11 @@ landscape:
             homepage_url: https://www.banque-france.fr
             logo: banque-de-france.svg
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
+          - item:
+            name: Chaitanya Bharathi Institute Of Technology
+            homepage_url: https://www.cbit.ac.in/
+            logo: cbit.svg
+            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology-0b02
           - item:
             name: Galgotias University
             homepage_url: https://www.galgotiasuniversity.edu.in/
