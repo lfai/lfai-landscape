@@ -534,6 +534,12 @@ landscape:
         name: Store & Format
         items:
           - item:
+            name: InfluxDB
+            homepage_url: https://www.influxdata.com/
+            repo_url: https://github.com/influxdata/influxdb
+            logo: influx.svg
+            crunchbase: https://www.crunchbase.com/organization/influxdb
+          - item:
             name: Alluxio
             homepage_url: https://www.alluxio.io/
             repo_url: https://github.com/alluxio/alluxio
@@ -903,6 +909,12 @@ landscape:
       - subcategory:
         name: Visualization
         items:
+          - item:
+            name: redash
+            homepage_url: https://redash.io/
+            repo_url: https://github.com/getredash/redash
+            logo: redash.svg
+            crunchbase: https://www.crunchbase.com/organization/redash
           - item:
             name: bokeh
             homepage_url: https://bokeh.org
