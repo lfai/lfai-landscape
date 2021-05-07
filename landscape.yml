@@ -534,12 +534,6 @@ landscape:
         name: Store & Format
         items:
           - item:
-            name: InfluxDB
-            homepage_url: https://www.influxdata.com/
-            repo_url: https://github.com/influxdata/influxdb
-            logo: influx.svg
-            crunchbase: https://www.crunchbase.com/organization/influxdb
-          - item:
             name: Alluxio
             homepage_url: https://www.alluxio.io/
             repo_url: https://github.com/alluxio/alluxio
@@ -609,6 +603,12 @@ landscape:
             logo: hudi.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/uber
+          - item:
+            name: InfluxDB
+            homepage_url: https://www.influxdata.com/
+            repo_url: https://github.com/influxdata/influxdb
+            logo: influx.svg
+            crunchbase: https://www.crunchbase.com/organization/influxdb
           - item:
             name: JanusGraph
             homepage_url: https://janusgraph.org/
@@ -910,12 +910,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: redash
-            homepage_url: https://redash.io/
-            repo_url: https://github.com/getredash/redash
-            logo: redash.svg
-            crunchbase: https://www.crunchbase.com/organization/redash
-          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
@@ -981,6 +975,12 @@ landscape:
             logo: rcloud.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/at-t
+          - item:
+            name: redash
+            homepage_url: https://redash.io/
+            repo_url: https://github.com/getredash/redash
+            logo: redash.svg
+            crunchbase: https://www.crunchbase.com/organization/redash
           - item:
             name: seaborn
             homepage_url: https://seaborn.pydata.org/
