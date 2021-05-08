@@ -906,9 +906,23 @@ landscape:
             logo: sqlflow.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/alibaba
+          - item:
+            name: Trino
+            homepage_url: https://trino.io/
+            repo_url: https://github.com/trinodb/trino
+            logo: trino.svg
+            twitter: https://twitter.com/trinodb
+            crunchbase: https://www.crunchbase.com/organization/presto-foundation
       - subcategory:
         name: Visualization
         items:
+          - item:
+            name: Metabase
+            homepage_url: https://metabase.com
+            repo_url: https://github.com/metabase/metabase
+            logo: metabase.svg
+            twitter: https://twitter.com/metabase
+            crunchbase: https://www.crunchbase.com/organization/metabase
           - item:
             name: bokeh
             homepage_url: https://bokeh.org
