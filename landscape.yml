@@ -917,13 +917,6 @@ landscape:
         name: Visualization
         items:
           - item:
-            name: Metabase
-            homepage_url: https://metabase.com
-            repo_url: https://github.com/metabase/metabase
-            logo: metabase.svg
-            twitter: https://twitter.com/metabase
-            crunchbase: https://www.crunchbase.com/organization/metabase
-          - item:
             name: bokeh
             homepage_url: https://bokeh.org
             repo_url: https://github.com/bokeh/bokeh
@@ -975,6 +968,12 @@ landscape:
             repo_url: https://github.com/grafana/grafana
             logo: grafana.svg
             crunchbase: https://www.crunchbase.com/organization/raintank
+          - item:
+            name: Metabase
+            homepage_url: https://metabase.com
+            repo_url: https://github.com/metabase/metabase
+            logo: metabase.svg
+            crunchbase: https://www.crunchbase.com/organization/metabase
           - item:
             name: Prometheus
             homepage_url: https://prometheus.io/
