@@ -509,9 +509,9 @@ landscape:
           - item:
             name: OpenLineage
             homepage_url: https://github.com/OpenLineage
+            project: sandbox
             repo_url: https://github.com/OpenLineage/OpenLineage
             logo: openlineage.svg
-            project: sandbox
             twitter: https://twitter.com/OpenLineage
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
@@ -1526,18 +1526,18 @@ landscape:
         name: Marketplace
         items:
           - item:
-            name: Machine Learning eXchange
-            homepage_url: https://github.com/machine-learning-exchange/mlx
-            project: sandbox
-            repo_url: https://github.com/machine-learning-exchange/mlx
-            logo: mlx.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Acumos
             homepage_url: https://www.acumos.org/
             project: graduated
             repo_url: https://github.com/acumos/documentation
             logo: acumos.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Machine Learning eXchange
+            homepage_url: https://github.com/machine-learning-exchange/mlx
+            project: sandbox
+            repo_url: https://github.com/machine-learning-exchange/mlx
+            logo: mlx.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Model Asset eXchange (MAX)
