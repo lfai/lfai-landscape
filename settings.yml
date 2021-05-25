@@ -155,21 +155,12 @@ big_picture:
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
-        category: Notebook Environment
+        category: Data
         rows: 4
-        width: 170
+        width: 1405
         height: 160
         top: 190
         left: 0
-        color: rgb(106,44,218)
-        fit_width: true
-      - type: HorizontalCategory
-        category: Data
-        rows: 4
-        width: 1215
-        height: 160
-        top: 190
-        left: 190
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
@@ -193,17 +184,17 @@ big_picture:
       - type: HorizontalCategory
         category: Distributed Computing
         rows: 4
-        width: 350
+        width: 335
         height: 160
         top: 570
         left: 0
         color: rgb(179,60,133)
         fit_width: true
       - type: LandscapeInfo
-        width: 330
+        width: 325
         height: 160
         top: 570
-        left: 370
+        left: 355
         children:
           - type: text
             text: |
@@ -239,28 +230,28 @@ big_picture:
       - type: HorizontalCategory
         category: Security & Privacy
         rows: 4
-        width: 140
+        width: 130
         height: 160
         top: 570
-        left: 720
+        left: 700
         color: rgb(165,9,77)
         fit_width: true
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
-        width: 380
+        width: 365
         height: 160
         top: 570
-        left: 880
+        left: 850
         color: rgb(29,119,164)
         fit_width: true
       - type: HorizontalCategory
-        category: Education
+        category: Notebook Environment
         rows: 4
-        width: 125
+        width: 170
         height: 160
         top: 570
-        left: 1280
+        left: 1235
         color: rgb(106,44,218)
         fit_width: true
   third:
