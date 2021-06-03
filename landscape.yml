@@ -141,13 +141,6 @@ landscape:
         name: Library
         items:
           - item:
-            name: PyCaret
-            homepage_url: https://pycaret.org/
-            repo_url: https://github.com/pycaret/pycaret
-            logo: pycaret.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/pycaret
-          - item:
             name: CatBoost
             homepage_url: https://catboost.ai
             repo_url: https://github.com/catboost/catboost
@@ -195,6 +188,12 @@ landscape:
             logo: opennn.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/artelnics
+          - item:
+            name: PyCaret
+            homepage_url: https://pycaret.org/
+            repo_url: https://github.com/pycaret/pycaret
+            logo: pycaret.svg
+            crunchbase: https://www.crunchbase.com/organization/pycaret
           - item:
             name: SciKit-learn
             homepage_url: https://scikit-learn.org/stable/
