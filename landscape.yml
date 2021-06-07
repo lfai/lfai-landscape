@@ -189,6 +189,12 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/artelnics
           - item:
+            name: PyCaret
+            homepage_url: https://pycaret.org/
+            repo_url: https://github.com/pycaret/pycaret
+            logo: pycaret.svg
+            crunchbase: https://www.crunchbase.com/organization/pycaret
+          - item:
             name: SciKit-learn
             homepage_url: https://scikit-learn.org/stable/
             repo_url: https://github.com/scikit-learn/scikit-learn
@@ -2236,7 +2242,7 @@ landscape:
           - item:
             name: Substra
             homepage_url: https://www.substra.ai/
-            repo_url: https://github.com/SubstraFoundation/substra
+            repo_url: https://github.com/Substra/substra
             logo: substra.svg
             twitter: https://twitter.com/substra_org
             crunchbase: https://www.crunchbase.com/organization/substra-foundation
@@ -2261,286 +2267,263 @@ landscape:
         name: Premier
         items:
           - item:
-            name: AT&T Services, Inc.
+            name: AT&T
             homepage_url: https://att.com/
-            logo: att_services_inc.svg
-            twitter: https://twitter.com/ATT
+            logo: att.svg
             crunchbase: https://www.crunchbase.com/organization/at-t
           - item:
-            name: Baidu Online Network Technology (Beijing) Co., Ltd
-            homepage_url: https://baidu.com/
-            logo: baidu_online_network_technology_beijing_co_ltd.svg
-            twitter: https://twitter.com/BaiduResearch
+            name: Baidu
+            homepage_url: https://www.baidu.com/
+            logo: baidu.svg
+            twitter: https://twitter.com/Baidu_Inc
             crunchbase: https://www.crunchbase.com/organization/baidu
           - item:
             name: Ericsson
-            homepage_url: https://ericsson.com/
+            homepage_url: https://www.ericsson.com/en
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
           - item:
-            name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
-            homepage_url: https://oppo.com/
-            logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
-            twitter: https://twitter.com/oppomobileindia
-            crunchbase: https://www.crunchbase.com/organization/oppo
-          - item:
-            name: Huawei Technologies Co., Ltd
-            homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
+            name: Huawei
+            homepage_url: https://www.huawei.com/en/
+            logo: huawei.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
-            name: International Business Machines Corporation
-            homepage_url: https://ibm.com/
-            logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
+            name: IBM
+            homepage_url: https://www.ibm.com/us-en/?ar=1
+            logo: ibm.svg
+            twitter: https://twitter.com/ibm
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: Nokia Corporation
-            homepage_url: https://nokia.com/
-            logo: nokia_corporation.svg
-            twitter: https://twitter.com/nokia
-            crunchbase: https://www.crunchbase.com/organization/nokia
+            name: Nokia
+            homepage_url: https://www.nokia.com
             stock_ticker: NOK
+            logo: nokia.svg
+            crunchbase: https://www.crunchbase.com/organization/nokia
           - item:
-            name: SAS Institute Inc.
-            homepage_url: https://sas.com/
-            logo: sas_institute_inc.svg
-            twitter: https://twitter.com/SASInstitute
+            name: OPPO
+            homepage_url: https://www.oppo.com/en
+            logo: oppo.svg
+            crunchbase: https://www.crunchbase.com/organization/oppo
+          - item:
+            name: SAS
+            homepage_url: https://www.sas.com/en_hk/home.html
+            logo: sas.svg
             crunchbase: https://www.crunchbase.com/organization/sas
           - item:
-            name: Tech Mahindra Ltd.
-            homepage_url: https://techmahindra.com/
-            logo: tech_mahindra_ltd.svg
+            name: Tech Mahindra
+            homepage_url: https://www.techmahindra.com/en-in
+            logo: tech-mahindra.svg
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
           - item:
-            name: Tencent Holdings Limited
-            homepage_url: https://tencent.com/
-            logo: tencent_holdings_limited.svg
-            twitter: https://twitter.com/TencentGlobal
+            name: Tencent
+            homepage_url: https://www.tencent.com/zh-cn/index.html
+            logo: tencent.svg
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/tencent
           - item:
             name: Zilliz
-            homepage_url: https://zilliz.com/
+            homepage_url: https://zilliz.com
             logo: zilliz.svg
-            twitter: https://twitter.com/Zilliz10
             crunchbase: https://www.crunchbase.com/organization/zilliz
           - item:
-            name: ZTE Corporation
-            homepage_url: https://zte.com.cn/
-            logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
+            name: ZTE
+            homepage_url: https://www.zte.com.cn/global/
+            logo: zte.svg
+            twitter: https://twitter.com/ztepress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
       - subcategory:
         name: General
         items:
           - item:
-            name: Broadcom Corporation
-            homepage_url: https://broadcom.com/
-            logo: broadcom_corporation.svg
-            twitter: https://twitter.com/Broadcom
+            name: Broadcom
+            homepage_url: https://www.broadcom.com/
+            logo: broadcom.svg
             crunchbase: https://www.crunchbase.com/organization/broadcom
-            stock_ticker: null
           - item:
-            name: Cloudera Inc.
-            homepage_url: https://cloudera.com/
-            logo: cloudera_inc.svg
-            twitter: https://twitter.com/cloudera
+            name: Cloudera
+            homepage_url: https://www.cloudera.com
+            logo: cloudera.svg
             crunchbase: https://www.crunchbase.com/organization/cloudera
           - item:
-            name: D2iQ, Inc.
-            homepage_url: https://d2iq.com/
-            logo: d2iq_inc.svg
-            twitter: https://twitter.com/D2iQ
+            name: D2IQ
+            homepage_url: https://www.d2iq.com
+            logo: d2iq.svg
             crunchbase: https://www.crunchbase.com/organization/D2iQ
           - item:
-            name: Databricks Inc.
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            twitter: https://twitter.com/databricks
+            name: Databricks
+            homepage_url: https://xenonstack.com
+            logo: databricks.svg
             crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
+            name: Didi
+            homepage_url: https://didiglobal.com
+            logo: didi.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/didi-dache
+          - item:
+            name: GSI Technology
+            homepage_url: https://www.gsitechnology.com/
+            logo: gsitech.svg
+            crunchbase: https://www.crunchbase.com/organization/gsi
+          - item:
             name: Herron Tech
-            homepage_url: https://herrontech.com/
-            logo: herron_tech.svg
+            homepage_url: https://www.herrontech.com/
+            logo: herrontech.svg
             crunchbase: https://www.crunchbase.com/organization/herron-techology-llc
           - item:
             name: Index Analytics
-            homepage_url: https://index-analytics.com/
-            logo: index_analytics.svg
-            twitter: https://twitter.com/IndexAnalytics
+            homepage_url: https://index-analytics.com
+            logo: index-analytics.svg
             crunchbase: https://www.crunchbase.com/organization/index-analytics
           - item:
             name: ING
-            homepage_url: https://ing.com/
+            homepage_url: https://www.ing.com
             logo: ing.svg
-            twitter: https://twitter.com/ING_news
             crunchbase: https://www.crunchbase.com/organization/ing-group
           - item:
-            name: InwinSTACK
-            homepage_url: https://inwinstack.com/
+            name: inwinSTACK
+            homepage_url: https://www.inwinstack.com
             logo: inwinstack.svg
-            twitter: https://twitter.com/inwinstack
             crunchbase: https://www.crunchbase.com/organization/inwinstack
           - item:
-            name: Orange SA
-            homepage_url: https://orange.com/
-            logo: orange_sa.svg
-            twitter: https://twitter.com/orange
+            name: Orange
+            homepage_url: https://www.orange.com/en
+            logo: orange.svg
             crunchbase: https://www.crunchbase.com/organization/orange
           - item:
             name: Precisely Holdings, LLC
-            homepage_url: https://precisely.com/
-            logo: precisely_holdings_llc.svg
-            twitter: https://twitter.com/PreciselyData
+            homepage_url: https://www.precisely.com
+            logo: precisely-holdings-llc.svg
             crunchbase: https://www.crunchbase.com/organization/precisely
           - item:
-            name: Red Hat, Inc.
-            homepage_url: https://redhat.com/
-            logo: red_hat_inc.svg
-            twitter: https://twitter.com/RedHat
+            name: Red Hat
+            homepage_url: https://www.redhat.com/en
+            logo: redhat.svg
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: RStudio PBC
-            homepage_url: https://rstudio.com/
-            logo: rstudio_pbc.svg
-            twitter: https://twitter.com/rstudio
+            name: RStudio
+            homepage_url: https://rstudio.com
+            logo: rstudio.svg
             crunchbase: https://www.crunchbase.com/organization/rstudio
           - item:
-            name: VMware, Inc.
-            homepage_url: https://vmware.com/
-            logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
+            name: VMware
+            homepage_url: https://www.vmware.com/
+            logo: vmware.svg
             crunchbase: https://www.crunchbase.com/organization/vmware
           - item:
-            name: XenonStack Inc.
-            homepage_url: https://xenonstack.com/
-            logo: xenonstack_inc.svg
-            twitter: https://twitter.com/xenonstack
+            name: Xenonstack
+            homepage_url: https://xenonstack.com
+            logo: xenonstack.svg
             crunchbase: https://www.crunchbase.com/organization/xenonstack
-          - item:
-            name: Xiaoju Science Technology (Hong Kong) Limited
-            homepage_url: https://didiglobal.com/
-            logo: xiaoju_science_technology_hong_kong_limited.svg
-            twitter: https://twitter.com/DidiGlobal
-            crunchbase: https://www.crunchbase.com/organization/didi-dache
       - subcategory:
         name: Associate
         items:
           - item:
             name: AI for People
-            homepage_url: https://aiforpeople.org/
-            logo: ai_for_people.svg
-            twitter: https://twitter.com/AIforPeople
+            homepage_url: https://www.aiforpeople.org/
+            logo: aiforpeople.svg
             crunchbase: https://www.crunchbase.com/organization/ai-for-people
           - item:
-            name: Aivancity Achool for Technology, Business & Society Paris-Cachan
-            homepage_url: https://aivancity.ai/
-            logo: aivancity_achool_for_technology_business__society_paris-cachan.svg
-            twitter: https://twitter.com/aivancityschool
+            name: aivancity School for Technology, Business & Society
+            homepage_url: https://www.aivancity.ai/fr
+            logo: aivancity.svg
             crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
           - item:
-            name: Ambianic.ai
+            name: Ambianic
             homepage_url: https://ambianic.ai/
-            logo: ambianicai.svg
-            twitter: https://twitter.com/ambianicai
+            logo: ambianic.svg
             crunchbase: https://www.crunchbase.com/organization/ambianic
           - item:
-            name: Banque de France
-            homepage_url: https://banque-france.fr/
-            logo: banque_de_france.svg
-            twitter: https://twitter.com/banquedefrance
+            name: Banque De France
+            homepage_url: https://www.banque-france.fr
+            logo: banque-de-france.svg
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
           - item:
             name: Chaitanya Bharathi Institute Of Technology
-            homepage_url: https://cbit.ac.in/
-            logo: chaitanya_bharathi_institute_of_technology.svg
-            twitter: https://twitter.com/CBIThyd
-            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology
+            homepage_url: https://www.cbit.ac.in/
+            logo: cbit.svg
+            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology-0b02
           - item:
             name: Galgotias University
-            homepage_url: https://galgotiasuniversity.edu.in/
-            logo: galgotias_university.svg
-            twitter: https://twitter.com/GalgotiasUni
+            homepage_url: https://www.galgotiasuniversity.edu.in/
+            logo: galgotias-university.svg
             crunchbase: https://www.crunchbase.com/organization/galgotias-university
           - item:
-            name: High School Technology Services
-            homepage_url: https://myhsts.org/
-            logo: high_school_technology_services.svg
-            twitter: https://twitter.com/MyHSTS
+            name: High School Technical Services
+            homepage_url: https://myhsts.org
+            logo: hsts.svg
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
           - item:
-            name: ISSIP
-            homepage_url: https://issip.org/
+            name: Institute of Ethical AI and Machine Learning
+            homepage_url: https://ethical.institute/
+            logo: institute.svg
+            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
+          - item:
+            name: International Society of Service Innovation Professionals
+            homepage_url: http://www.issip.org
             logo: issip.svg
             twitter: https://twitter.com/The_ISSIP
             crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
           - item:
-            name: Ken Kennedy Institute
-            homepage_url: https://rice.edu/
-            logo: ken_kennedy_institute.svg
-            twitter: https://twitter.com/RiceUniversity
+            name: Ken Kennedy Institute - Rice University
+            homepage_url: https://kenkennedy.rice.edu/
+            logo: kenkennedy.svg
             crunchbase: https://www.crunchbase.com/organization/ken-kennedy-institute
           - item:
             name: Montreal AI Ethics Institute
-            homepage_url: https://montrealethics.ai/
-            logo: montreal_ai_ethics_institute.svg
-            twitter: https://twitter.com/mtlaiethics
+            homepage_url: https://montrealethics.ai
+            logo: maie.svg
             crunchbase: https://www.crunchbase.com/organization/montreal-ai-ethics-institute
           - item:
             name: New York University
-            homepage_url: https://nyu.edu/
-            logo: new_york_university.svg
-            twitter: https://twitter.com/nyuniversity
+            homepage_url: https://www.nyu.edu
+            logo: nyu.svg
             crunchbase: https://www.crunchbase.com/organization/new-york-university
           - item:
             name: OpenI
-            homepage_url: https://pcl.ac.cn/
+            homepage_url: http://en.openi.org.cn/
             logo: openi.svg
             crunchbase: https://www.crunchbase.com/organization/openi
           - item:
             name: OpenUK
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
-            description: Where the UK’s Open communities meet and collaborate
+          - item:
+            name: Peng Cheng Laboratory
+            homepage_url: http://www.szpclab.com/
+            logo: pcl.svg
+            crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
+          - item:
+            name: Penn State University
+            homepage_url: https://www.psu.edu/
+            logo: pennstate.svg
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
           - item:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
-            logo: pranveer_singh_institute_of_technology.svg
-            twitter: https://twitter.com/PSITKanpur2004
+            logo: psit.svg
             crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
           - item:
-            name: Shanghai OpenSource Information Technology Association
-            homepage_url: https://shanghaiopen.org.cn/
-            logo: shanghai_opensource_information_technology_association.svg
+            name: Shanghai Open Source Information Technology Association
+            homepage_url: https://shanghaiopen.org.cn/en
+            logo: shanghai-oss.svg
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
           - item:
-            name: The Institute for Ethical AI & Machine Learning
-            homepage_url: https://ethical.institute/
-            logo: the_institute_for_ethical_ai__machine_learning.svg
-            twitter: https://twitter.com/EthicalML
-            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
-          - item:
-            name: Université Libre de Tunis
-            homepage_url: https://ult-tunisie.com/
-            logo: universite_libre_de_tunis.svg
-            twitter: https://twitter.com/ULT_Tunisie
-            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
-          - item:
-            name: University of Washington
-            homepage_url: https://uw.edu/
-            logo: university_of_washington.svg
-            twitter: https://twitter.com/UW
+            name: University of Washington - Tacoma
+            homepage_url: https://www.tacoma.uw.edu/
+            logo: uw-tacoma.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
           - item:
-            name: XPRIZE
-            homepage_url: https://xprize.org/
+            name: Université Libre de Tunis
+            homepage_url: https://www.ult-tunisie.com/
+            logo: ult.svg
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+          - item:
+            name: XPRIZE Foundation
+            homepage_url: https://xprize.org
             logo: xprize.svg
-            twitter: https://twitter.com/xprize
             crunchbase: https://www.crunchbase.com/organization/x-prize-foundation
   - category:
     name: Hosting Companies
@@ -2548,11 +2531,6 @@ landscape:
       - subcategory:
         name: Hosting Companies
         items:
-          - item:
-            name: Datakin (hosting)
-            homepage_url: https://datakin.com/
-            logo: datakin.svg
-            crunchbase: https://www.crunchbase.com/organization/datakin
           - item:
             name: Amazon (hosting)
             homepage_url: https://amazon.com/
@@ -2574,6 +2552,11 @@ landscape:
             homepage_url: https://data.world/
             logo: dataworld.svg
             crunchbase: https://www.crunchbase.com/organization/data-world
+          - item:
+            name: Datakin (hosting)
+            homepage_url: https://datakin.com/
+            logo: datakin.svg
+            crunchbase: https://www.crunchbase.com/organization/datakin
           - item:
             name: DiDi (hosting)
             homepage_url: https://www.didiglobal.com/
