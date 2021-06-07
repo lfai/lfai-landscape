@@ -23018,7 +23018,7 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 54804122
+                  value: 54797696
                   color: '#b07219'
                 - name: Jupyter Notebook
                   value: 2451229
@@ -23062,13 +23062,13 @@ landscape:
                   value: 49
                   color: '#701516'
               contributions: >-
-                185;115;125;90;82;61;100;102;140;145;61;135;91;108;161;190;260;239;176;205;245;134;195;176;151;234;207;202;30;67;189;89;104;136;197;168;114;157;185;177;189;85;158;130;105;152;131;128;219;73;198;159
+                185;115;125;90;82;61;100;102;140;145;61;135;91;108;161;190;260;239;176;205;245;134;195;176;151;234;207;202;30;67;189;89;104;136;197;168;114;157;185;177;189;85;158;130;105;152;131;128;219;84;201;173
               firstWeek: 2020-06-14Z
               stars: 513
               license: Apache License 2.0
               description: Open Metadata and Governance
-              latest_commit_date: '2021-06-04T16:07:39Z'
-              latest_commit_link: /odpi/egeria/commit/733aa72a3fc3773a7924f0f1adbb97f7f5cfad98
+              latest_commit_date: '2021-06-07T20:12:13Z'
+              latest_commit_link: /odpi/egeria/commit/2f686cc048501f66dd9676ad35a2427c190dfac6
               release_date: '2021-06-02T13:36:40Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 54
@@ -51633,9 +51633,10 @@ landscape:
         name: Premier
         items:
           - item:
-            name: AT&T
+            name: AT&T Services, Inc.
             homepage_url: https://att.com/
-            logo: att.svg
+            logo: att_services_inc.svg
+            twitter: https://twitter.com/ATT
             crunchbase: https://www.crunchbase.com/organization/at-t
             crunchbase_data:
               name: AT&T
@@ -51738,18 +51739,18 @@ landscape:
               market_cap: 208987799552
               effective_ticker: T
             image_data:
-              fileName: at-t.svg
-              hash: CGXHzkvBzjLsCl/b4/24O/JeKhIvwR1M8na4gn7UFOg=
+              fileName: at-t-services-inc.svg
+              hash: mlZTLXohA+O9VdTGAhRx/8bAXbuM4GvBQwQ8GJJmdVs=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-07T04:28:39.000Z
           - item:
-            name: Baidu
-            homepage_url: https://www.baidu.com/
-            logo: baidu.svg
-            twitter: https://twitter.com/Baidu_Inc
+            name: Baidu Online Network Technology (Beijing) Co., Ltd
+            homepage_url: https://baidu.com/
+            logo: baidu_online_network_technology_beijing_co_ltd.svg
+            twitter: https://twitter.com/BaiduResearch
             crunchbase: https://www.crunchbase.com/organization/baidu
             crunchbase_data:
               name: Baidu
@@ -51804,17 +51805,18 @@ landscape:
               market_cap: 78320082944
               effective_ticker: BIDU
             image_data:
-              fileName: baidu.svg
-              hash: ZCmCjgxrmd5SZAhqK372Zt7NG+G8VPJ67fNpLQSR2b4=
+              fileName: baidu-online-network-technology-beijing-co-ltd.svg
+              hash: BFQOXO2QWQKOKdA5Mjgd8gEFFV2m+ZrcZYP+WrwXPlw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-07T04:11:47.000Z
+              latest_tweet_date: 2021-06-07T16:30:00.000Z
           - item:
             name: Ericsson
-            homepage_url: https://www.ericsson.com/en
+            homepage_url: https://ericsson.com/
             logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
             crunchbase_data:
               name: Ericsson
@@ -51931,16 +51933,48 @@ landscape:
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
-              hash: qFmhhsOqOc83qiVcL5kUwhKJr7a1LemHW0kBEO7qHBg=
+              hash: HhjCc1eNOMDeLu0ftdKCe9SnwIinEmKKa4iqIsIQbWw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T18:00:28.000Z
           - item:
-            name: Huawei
-            homepage_url: https://www.huawei.com/en/
-            logo: huawei.svg
+            name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
+            homepage_url: https://oppo.com/
+            logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
+            twitter: https://twitter.com/oppomobileindia
+            crunchbase: https://www.crunchbase.com/organization/oppo
+            crunchbase_data:
+              name: Oppo
+              description: OPPO Electronics Corporation is an electronics manufacturer based in Dongguan, Guangdong, China.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: http://www.oppo.com/en/index.html
+              city: Dongguang
+              region: Guangdong
+              country: China
+              twitter: http://twitter.com/oppo
+              linkedin: https://www.linkedin.com/company/2852649
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Consumer Electronics
+                - Mobile
+                - Mobile Devices
+            image_data:
+              fileName: guangdong-oppo-mobile-telecommunications-corp-ltd.svg
+              hash: LUzhz1ZZJhOCxO3EJJmwNzWvaP0DLSKlSFRX9uCyP9M=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Huawei Technologies Co., Ltd
+            homepage_url: https://huawei.com/
+            logo: huawei_technologies_co_ltd.svg
+            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
             crunchbase_data:
               name: Huawei Technologies
@@ -51987,18 +52021,18 @@ landscape:
                 - Web Hosting
                 - Wireless
             image_data:
-              fileName: huawei.svg
-              hash: 0Bjon8ZsH23Kygq+sL4LGvfNnDRi0ac+7C1lcTTJJUk=
+              fileName: huawei-technologies-co-ltd.svg
+              hash: 2EzPM0nxaY7FP8hejX13fWBbi99eQNy9bxeIONiwrWo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-05T12:00:04.000Z
           - item:
-            name: IBM
-            homepage_url: https://www.ibm.com/us-en/?ar=1
-            logo: ibm.svg
-            twitter: https://twitter.com/ibm
+            name: International Business Machines Corporation
+            homepage_url: https://ibm.com/
+            logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
@@ -52444,19 +52478,20 @@ landscape:
               market_cap: 131723157504
               effective_ticker: IBM
             image_data:
-              fileName: ibm.svg
-              hash: ZjpUH4pNt5l4oDV4GctJSS85QJTidUBMfrDP2Kl4y8w=
+              fileName: international-business-machines-corporation.svg
+              hash: E3EqK0+0lDbMaYLFdixTASQkDfEwHfQSUjMYvazFtoI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T22:25:49.000Z
           - item:
-            name: Nokia
-            homepage_url: https://www.nokia.com
-            stock_ticker: NOK
-            logo: nokia.svg
+            name: Nokia Corporation
+            homepage_url: https://nokia.com/
+            logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
             crunchbase_data:
               name: Nokia
               description: Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices and network infrastructure.
@@ -52604,49 +52639,18 @@ landscape:
               market_cap: 30801817600
               effective_ticker: NOK
             image_data:
-              fileName: nokia.svg
-              hash: WNIT6AVifbzLbqsmlLaGE5xHJ3kJuPCJO/XobkozB9A=
+              fileName: nokia-corporation.svg
+              hash: O58psGjj8Px6dMMskq7TUAb9+UR8Jvb63wV2RtOhXok=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T06:02:34.000Z
           - item:
-            name: OPPO
-            homepage_url: https://www.oppo.com/en
-            logo: oppo.svg
-            crunchbase: https://www.crunchbase.com/organization/oppo
-            crunchbase_data:
-              name: Oppo
-              description: OPPO Electronics Corporation is an electronics manufacturer based in Dongguan, Guangdong, China.
-              num_employees_min: 501
-              num_employees_max: 1000
-              homepage: http://www.oppo.com/en/index.html
-              city: Dongguang
-              region: Guangdong
-              country: China
-              twitter: http://twitter.com/oppo
-              linkedin: https://www.linkedin.com/company/2852649
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Consumer Electronics
-                - Mobile
-                - Mobile Devices
-            image_data:
-              fileName: oppo.svg
-              hash: LUzhz1ZZJhOCxO3EJJmwNzWvaP0DLSKlSFRX9uCyP9M=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-07T03:23:54.000Z
-          - item:
-            name: SAS
-            homepage_url: https://www.sas.com/en_hk/home.html
-            logo: sas.svg
+            name: SAS Institute Inc.
+            homepage_url: https://sas.com/
+            logo: sas_institute_inc.svg
+            twitter: https://twitter.com/SASInstitute
             crunchbase: https://www.crunchbase.com/organization/sas
             crunchbase_data:
               name: SAS
@@ -52685,17 +52689,17 @@ landscape:
                 - Predictive Analytics
                 - Software
             image_data:
-              fileName: sas.svg
-              hash: SYQmN4cSQqZ7oNYcl3EEdNrbWNH4gMVhv8m6Mxz9Lk8=
+              fileName: sas-institute-inc.svg
+              hash: ulw8fJQjorbslc96bN7tFwfZ5MS00FASW0WjciZUzAY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-07T00:29:46.000Z
+              latest_tweet_date: 2010-08-12T20:12:48.000Z
           - item:
-            name: Tech Mahindra
-            homepage_url: https://www.techmahindra.com/en-in
-            logo: tech-mahindra.svg
+            name: Tech Mahindra Limited
+            homepage_url: https://techmahindra.com/
+            logo: tech_mahindra_limited.svg
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
             crunchbase_data:
@@ -52770,18 +52774,18 @@ landscape:
                 - Network Security
                 - Telecommunications
             image_data:
-              fileName: tech-mahindra.svg
-              hash: s17RMV0iwS0jW9PlWs+1ZViBI/ZWD7YHqu/ScoWkrIc=
+              fileName: tech-mahindra-limited.svg
+              hash: eqN6YujrGGRfxZPMEgIdOjwPZcw0vvKsmd6wf8mriV0=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-07T06:07:49.000Z
           - item:
-            name: Tencent
-            homepage_url: https://www.tencent.com/zh-cn/index.html
-            logo: tencent.svg
-            twitter: null
+            name: Tencent Holdings Limited
+            homepage_url: https://tencent.com/
+            logo: tencent_holdings_limited.svg
+            twitter: https://twitter.com/TencentGlobal
             crunchbase: https://www.crunchbase.com/organization/tencent
             crunchbase_data:
               name: Tencent
@@ -52852,15 +52856,18 @@ landscape:
               market_cap: 744528903564
               effective_ticker: 0700.HK
             image_data:
-              fileName: tencent.svg
-              hash: S69ChkUFea+6ilqRx+nz2XzhI/1emDWokQpa/6AHJIw=
+              fileName: tencent-holdings-limited.svg
+              hash: PQiZ4cqkLJF8BJP9/4KUaBPUCLxjn6OqqYJcZZdR/TY=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-04T10:08:02.000Z
           - item:
             name: Zilliz
-            homepage_url: https://zilliz.com
+            homepage_url: https://zilliz.com/
             logo: zilliz.svg
+            twitter: https://twitter.com/Zilliz10
             crunchbase: https://www.crunchbase.com/organization/zilliz
             crunchbase_data:
               name: Zilliz
@@ -52894,10 +52901,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-05-18T00:21:28.000Z
           - item:
-            name: ZTE
-            homepage_url: https://www.zte.com.cn/global/
-            logo: zte.svg
-            twitter: https://twitter.com/ztepress
+            name: ZTE Corporation
+            homepage_url: https://zte.com.cn/
+            logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             crunchbase_data:
               name: ZTE
@@ -52923,8 +52930,8 @@ landscape:
               market_cap: 22404112034
               effective_ticker: 000063.SZ
             image_data:
-              fileName: zte.svg
-              hash: bEAML5TEXVSgQuR8t309i+cUvk4iuIYEytSHiwIBhb4=
+              fileName: zte-corporation.svg
+              hash: IRYqNufKmzvSx2V7mlRdTGB0Wjn8BkrIbKayvH+0KBs=
             best_practice_data:
               badge: false
               percentage: null
@@ -52934,10 +52941,12 @@ landscape:
         name: General
         items:
           - item:
-            name: Broadcom
-            homepage_url: https://www.broadcom.com/
-            logo: broadcom.svg
+            name: Broadcom Corporation
+            homepage_url: https://broadcom.com/
+            logo: broadcom_corporation.svg
+            twitter: https://twitter.com/Broadcom
             crunchbase: https://www.crunchbase.com/organization/broadcom
+            stock_ticker: null
             crunchbase_data:
               name: Broadcom
               description: Broadcom is a leading designer, developer and global supplier of a broad range of analog and digital semiconductor connectivity solutions.
@@ -53063,17 +53072,18 @@ landscape:
                 - Semiconductor
                 - Wireless
             image_data:
-              fileName: broadcom.svg
-              hash: Nr7j71mpk1LXH9f7Iqcqw/GYoLhhSgZ7XpFt72TcvWc=
+              fileName: broadcom-corporation.svg
+              hash: iHTiyggV8yFHGbWfO3vG2c1fn9mKWYqMIa0NyliwstQ=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-04T16:30:06.000Z
           - item:
-            name: Cloudera
-            homepage_url: https://www.cloudera.com
-            logo: cloudera.svg
+            name: Cloudera, Inc.
+            homepage_url: https://cloudera.com/
+            logo: cloudera_inc.svg
+            twitter: https://twitter.com/cloudera
             crunchbase: https://www.crunchbase.com/organization/cloudera
             crunchbase_data:
               name: Cloudera
@@ -53127,17 +53137,18 @@ landscape:
               market_cap: 4642102272
               effective_ticker: CLDR
             image_data:
-              fileName: cloudera.svg
-              hash: nc6xg3DXvM8RkAe0tqzr4uLA6Mbs7SWekLUwq6EXYdg=
+              fileName: cloudera-inc.svg
+              hash: k86a1ytDg0aaerqvbSYg17qDJYYmzNFTMh1SxCYOqHU=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T17:01:01.000Z
           - item:
-            name: D2IQ
-            homepage_url: https://www.d2iq.com
-            logo: d2iq.svg
+            name: D2iQ, Inc. (f/k/a Mesosphere)
+            homepage_url: https://d2iq.com/
+            logo: d2iq_inc_fka_mesosphere.svg
+            twitter: https://twitter.com/D2iQ
             crunchbase: https://www.crunchbase.com/organization/D2iQ
             crunchbase_data:
               name: D2iq
@@ -53166,7 +53177,7 @@ landscape:
                 - Enterprise Software
               kind: funding
             image_data:
-              fileName: d2-iq.svg
+              fileName: d2i-q-inc-f-k-a-mesosphere.svg
               hash: obXeook26fzJPZTC0H1StUe59+qopD7IRBISs1whV8Q=
             best_practice_data:
               badge: false
@@ -53174,9 +53185,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-04T19:42:01.000Z
           - item:
-            name: Databricks
-            homepage_url: https://xenonstack.com
-            logo: databricks.svg
+            name: Databricks Inc.
+            homepage_url: https://databricks.com/
+            logo: databricks_inc.svg
+            twitter: https://twitter.com/databricks
             crunchbase: https://www.crunchbase.com/organization/databricks
             crunchbase_data:
               name: Databricks
@@ -53204,64 +53216,18 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: databricks.svg
-              hash: 4wvvFXDC+diwsGsKa9MweqcVw67az1JA64MXqdhsKoE=
+              fileName: databricks-inc.svg
+              hash: CWv5zzm+SaX9L4RNPAOZzyuEXNTkyV8gKO1dDnoyx98=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T19:10:01.000Z
           - item:
-            name: Didi
-            homepage_url: https://didiglobal.com
-            logo: didi.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/didi-dache
-            crunchbase_data:
-              name: Didi
-              description: Didi is a mobile platform that offers app-based transportation services.
-              num_employees_min: 5001
-              num_employees_max: 10000
-              homepage: https://www.didiglobal.com/
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://twitter.com/DidiChuxing
-              linkedin: https://www.linkedin.com/company/%E6%BB%B4%E6%BB%B4/
-              acquisitions:
-                - date: '2015-02-14'
-                  acquiree: Kuaidi Dache
-                - date: '2016-08-01'
-                  acquiree: Uber China
-                  price: 7000000000
-                - date: '2017-12-19'
-                  acquiree: 19pay
-                  price: 45000000
-                - date: '2018-01-03'
-                  acquiree: '99'
-                  price: 1000000000
-                - date: '2018-01-03'
-                  acquiree: Bluegogo
-              parents: []
-              funding: 23246700000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Mobile Apps
-                - Public Transportation
-                - Ride Sharing
-                - Transportation
-              kind: funding
-            image_data:
-              fileName: didi.svg
-              hash: Hh0XxtzRGIoOrKw9JSYAZWknUOVETIBI5v2I38wKjp0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: GSI Technology
-            homepage_url: https://www.gsitechnology.com/
-            logo: gsitech.svg
+            homepage_url: https://gsitechnology.com/
+            logo: gsi_technology.svg
+            twitter: https://twitter.com/gsitechnology
             crunchbase: https://www.crunchbase.com/organization/gsi
             crunchbase_data:
               name: GSI
@@ -53289,7 +53255,7 @@ landscape:
               effective_ticker: GSIT
             image_data:
               fileName: gsi-technology.svg
-              hash: iIJ9JdHk2Xc3RT4uNvXrOr2iH5+IjbOalrsJ+aXGFNo=
+              hash: hhj4M8SpjIuv9R6pX/bKFAzTYkKMaOayOW2Z0eNlk0E=
             best_practice_data:
               badge: false
               percentage: null
@@ -53297,8 +53263,8 @@ landscape:
               latest_tweet_date: 2021-04-07T13:48:10.000Z
           - item:
             name: Herron Tech
-            homepage_url: https://www.herrontech.com/
-            logo: herrontech.svg
+            homepage_url: https://herrontech.com/
+            logo: herron_tech.svg
             crunchbase: https://www.crunchbase.com/organization/herron-techology-llc
             crunchbase_data:
               name: Herron Tech
@@ -53324,14 +53290,15 @@ landscape:
                 - SaaS
             image_data:
               fileName: herron-tech.svg
-              hash: tLsY3NNjrF2RM44PU1nG3hiX0oqD3rXKHcQ9XGQrUNY=
+              hash: DzVPXDZnnt+BtdGDClcGHftiiMW12BXYQ5ERQNgPAjA=
             best_practice_data:
               badge: false
               percentage: null
           - item:
             name: Index Analytics
-            homepage_url: https://index-analytics.com
-            logo: index-analytics.svg
+            homepage_url: https://index-analytics.com/
+            logo: index_analytics.svg
+            twitter: https://twitter.com/IndexAnalytics
             crunchbase: https://www.crunchbase.com/organization/index-analytics
             crunchbase_data:
               name: Index Analytics
@@ -53355,7 +53322,7 @@ landscape:
                 - Information Services
             image_data:
               fileName: index-analytics.svg
-              hash: vqPMI8z7cAaDSLJuhfe89y8B/7GHvmlZZ0HAOlZgn8k=
+              hash: PXpJrihublwMwmlQfUIjnEarqIyoAqN+HfZQvmE1tT0=
             best_practice_data:
               badge: false
               percentage: null
@@ -53363,8 +53330,9 @@ landscape:
               latest_tweet_date: 2013-06-27T12:16:00.000Z
           - item:
             name: ING
-            homepage_url: https://www.ing.com
+            homepage_url: https://ing.com/
             logo: ing.svg
+            twitter: https://twitter.com/ING_news
             crunchbase: https://www.crunchbase.com/organization/ing-group
             crunchbase_data:
               name: ING Group
@@ -53393,16 +53361,17 @@ landscape:
                 - Financial Services
             image_data:
               fileName: ing.svg
-              hash: r7sIAvxs+00IvK45xLxSivgqr3ObrOEcz3enSyJTZY4=
+              hash: JWFBCG0nCHe5my5s4WQZaoW0B31OUtUnIV8xQEzWVyk=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-04T18:53:40.000Z
+              latest_tweet_date: 2021-06-07T19:37:54.000Z
           - item:
-            name: inwinSTACK
-            homepage_url: https://www.inwinstack.com
+            name: InwinSTACK
+            homepage_url: https://inwinstack.com/
             logo: inwinstack.svg
+            twitter: https://twitter.com/inwinstack
             crunchbase: https://www.crunchbase.com/organization/inwinstack
             crunchbase_data:
               name: inwinSTACK
@@ -53427,16 +53396,17 @@ landscape:
                 - Software
             image_data:
               fileName: inwin-stack.svg
-              hash: tCfmlKvebMy/xdOB3eS45RC+7btZ/zCdx+2e7cH3aTI=
+              hash: BlSZwytEUMoKcDjy6Njk6VJbKVOtAdnKbZ16pc8cfqw=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2019-01-04T02:46:12.000Z
           - item:
-            name: Orange
-            homepage_url: https://www.orange.com/en
-            logo: orange.svg
+            name: Orange SA
+            homepage_url: https://orange.com/
+            logo: orange_sa.svg
+            twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
             crunchbase_data:
               name: Orange
@@ -53507,8 +53477,8 @@ landscape:
               market_cap: 33993112579
               effective_ticker: ORA.PA
             image_data:
-              fileName: orange.svg
-              hash: ONFL5CwjQ3LOkh91HcxYsLu3nFZQSwSTFW/nHOQLDRU=
+              fileName: orange-sa.svg
+              hash: 1jNOA6UGxYOGMX1Z4JaXkiXCtMXIuq53LmifRnjmGXc=
             best_practice_data:
               badge: false
               percentage: null
@@ -53516,8 +53486,9 @@ landscape:
               latest_tweet_date: 2021-06-07T06:13:25.000Z
           - item:
             name: Precisely Holdings, LLC
-            homepage_url: https://www.precisely.com
-            logo: precisely-holdings-llc.svg
+            homepage_url: https://precisely.com/
+            logo: precisely_holdings_llc.svg
+            twitter: https://twitter.com/PreciselyData
             crunchbase: https://www.crunchbase.com/organization/precisely
             crunchbase_data:
               name: Precisely
@@ -53545,16 +53516,17 @@ landscape:
               kind: funding
             image_data:
               fileName: precisely-holdings-llc.svg
-              hash: xTKU+GsBxFPbbHPS2mpXvKWX10dQiHFsmQhthHF2UEs=
+              hash: y/SjrvLjVQAxC3cB9wamKTYdM4XRsdEHCAr60NccJoA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-06T05:05:36.000Z
+              latest_tweet_date: 2021-06-07T18:30:06.000Z
           - item:
-            name: Red Hat
-            homepage_url: https://www.redhat.com/en
-            logo: redhat.svg
+            name: Red Hat, Inc.
+            homepage_url: https://redhat.com/
+            logo: red_hat_inc.svg
+            twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
             crunchbase_data:
               name: Red Hat
@@ -53638,17 +53610,18 @@ landscape:
               market_cap: 131723157504
               effective_ticker: IBM
             image_data:
-              fileName: red-hat.svg
-              hash: cOZzIOXCMM2PWVYXeQ5O8hYtyiZ+BEkOV379IUtosLc=
+              fileName: red-hat-inc.svg
+              hash: DP0xJOzNJFgqbN0RMQSYjY7TWaKh09iHDrR5sH3vk2U=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-06T21:00:03.000Z
+              latest_tweet_date: 2021-06-07T20:21:08.000Z
           - item:
-            name: RStudio
-            homepage_url: https://rstudio.com
-            logo: rstudio.svg
+            name: RStudio PBC
+            homepage_url: https://rstudio.com/
+            logo: rstudio_pbc.svg
+            twitter: https://twitter.com/rstudio
             crunchbase: https://www.crunchbase.com/organization/rstudio
             crunchbase_data:
               name: RStudio
@@ -53671,17 +53644,18 @@ landscape:
                 - Software
                 - Web Browsers
             image_data:
-              fileName: r-studio.svg
-              hash: Azqe9O9t6mjnv/u8mdiCoGu+nD0u2B85wMoxGcqpanw=
+              fileName: r-studio-pbc.svg
+              hash: n9D9D7ZTzhhPUvIT/DKjfp6K0TMovfKownaWyC4lWw0=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-03T14:58:50.000Z
           - item:
-            name: VMware
-            homepage_url: https://www.vmware.com/
-            logo: vmware.svg
+            name: VMware, Inc.
+            homepage_url: https://vmware.com/
+            logo: vmware_inc.svg
+            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
             crunchbase_data:
               name: VMware
@@ -53820,17 +53794,18 @@ landscape:
               market_cap: 67631779840
               effective_ticker: VMW
             image_data:
-              fileName: v-mware.svg
-              hash: nMKtBia7NhrtJvFrsOB0RuWLIZ4J4G1rYZoPbgFUqac=
+              fileName: v-mware-inc.svg
+              hash: 7gVris1FCx5z4YHo5+L3moavB2dGiY/uBWT2wA7fCik=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-07T03:12:03.000Z
           - item:
-            name: Xenonstack
-            homepage_url: https://xenonstack.com
-            logo: xenonstack.svg
+            name: XenonStack Inc.
+            homepage_url: https://xenonstack.com/
+            logo: xenonstack_inc.svg
+            twitter: https://twitter.com/xenonstack
             crunchbase: https://www.crunchbase.com/organization/xenonstack
             crunchbase_data:
               name: XenonStack
@@ -53859,20 +53834,70 @@ landscape:
                 - Machine Learning
                 - Software
             image_data:
-              fileName: xenonstack.svg
+              fileName: xenon-stack-inc.svg
               hash: VQUF2JkcykDkH/EhO5g3M4xhzainItJAYgaJSWc2KUo=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-28T15:29:57.000Z
+          - item:
+            name: Xiaoju Science Technology (Hong Kong) Limited
+            homepage_url: https://didiglobal.com/
+            logo: xiaoju_science_technology_hong_kong_limited.svg
+            twitter: https://twitter.com/DidiGlobal
+            crunchbase: https://www.crunchbase.com/organization/didi-dache
+            crunchbase_data:
+              name: Didi
+              description: Didi is a mobile platform that offers app-based transportation services.
+              num_employees_min: 5001
+              num_employees_max: 10000
+              homepage: https://www.didiglobal.com/
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: https://twitter.com/DidiChuxing
+              linkedin: https://www.linkedin.com/company/%E6%BB%B4%E6%BB%B4/
+              acquisitions:
+                - date: '2015-02-14'
+                  acquiree: Kuaidi Dache
+                - date: '2016-08-01'
+                  acquiree: Uber China
+                  price: 7000000000
+                - date: '2017-12-19'
+                  acquiree: 19pay
+                  price: 45000000
+                - date: '2018-01-03'
+                  acquiree: '99'
+                  price: 1000000000
+                - date: '2018-01-03'
+                  acquiree: Bluegogo
+              parents: []
+              funding: 23246700000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Mobile Apps
+                - Public Transportation
+                - Ride Sharing
+                - Transportation
+              kind: funding
+            image_data:
+              fileName: xiaoju-science-technology-hong-kong-limited.svg
+              hash: pV/8Tnb6o1OuXGCWho/5aBPh0+ILuXgv5yS7RDssEQI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-05-26T08:30:57.000Z
       - subcategory:
         name: Associate
         items:
           - item:
             name: AI for People
-            homepage_url: https://www.aiforpeople.org/
-            logo: aiforpeople.svg
+            homepage_url: https://aiforpeople.org/
+            logo: ai_for_people.svg
+            twitter: https://twitter.com/AIforPeople
             crunchbase: https://www.crunchbase.com/organization/ai-for-people
             crunchbase_data:
               name: AI For People
@@ -53894,16 +53919,17 @@ landscape:
                 - Machine Learning
             image_data:
               fileName: ai-for-people.svg
-              hash: vx1KtF0p26DnSk8efl1jTkEceTFfM5ea6bKyGKK+2mY=
+              hash: H70TnDu7RwKMxxVe3o2mOgmHW6aV/TRtWP3eMVhM6Dc=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-19T16:21:40.000Z
           - item:
-            name: aivancity School for Technology, Business & Society
-            homepage_url: https://www.aivancity.ai/fr
-            logo: aivancity.svg
+            name: Aivancity Achool for Technology, Business & Society Paris-Cachan
+            homepage_url: https://aivancity.ai/
+            logo: aivancity_achool_for_technology_business__society_paris-cachan.svg
+            twitter: https://twitter.com/aivancityschool
             crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
             crunchbase_data:
               name: aivancity school for Technology, Business & Society
@@ -53923,17 +53949,18 @@ landscape:
               industries:
                 - Artificial Intelligence
             image_data:
-              fileName: aivancity-school-for-technology-business-society.svg
-              hash: C/vJ3WC/DaEfWxt+7rR//EsRcZPp6ZoKR0P7BAS6JdI=
+              fileName: aivancity-achool-for-technology-business-society-paris-cachan.svg
+              hash: rZhgNuLFBfesMzrH7zsdQpAlklHl22p41e09atzlqNY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T09:06:59.000Z
           - item:
-            name: Ambianic
+            name: Ambianic.ai
             homepage_url: https://ambianic.ai/
-            logo: ambianic.svg
+            logo: ambianicai.svg
+            twitter: https://twitter.com/ambianicai
             crunchbase: https://www.crunchbase.com/organization/ambianic
             crunchbase_data:
               name: Ambianic
@@ -53952,17 +53979,18 @@ landscape:
               company_type: Non Profit
               industries: []
             image_data:
-              fileName: ambianic.svg
-              hash: v4WNPMhJOYpSWxItCPZpX/ReWnb6DxvEqDsFl67auiA=
+              fileName: ambianic-ai.svg
+              hash: dt8yUCFDiViX7fC38aA3exRUqVYbNAPvVKW/n+CyT5M=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-31T19:21:47.000Z
           - item:
-            name: Banque De France
-            homepage_url: https://www.banque-france.fr
-            logo: banque-de-france.svg
+            name: Banque de France
+            homepage_url: https://banque-france.fr/
+            logo: banque_de_france.svg
+            twitter: https://twitter.com/banquedefrance
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
             crunchbase_data:
               name: Banque de France
@@ -53985,7 +54013,7 @@ landscape:
                 - Financial Services
             image_data:
               fileName: banque-de-france.svg
-              hash: jZd86pxjrsC6et3ASmrj989THdMvLDnfcQf+eYOaKRg=
+              hash: JkfHw3L5tZ7HEAca2aFm8WjEF5WFZQiCYH3TsuxJX4s=
             best_practice_data:
               badge: false
               percentage: null
@@ -53993,19 +54021,20 @@ landscape:
               latest_tweet_date: 2021-06-04T12:18:29.000Z
           - item:
             name: Chaitanya Bharathi Institute Of Technology
-            homepage_url: https://www.cbit.ac.in/
-            logo: cbit.svg
-            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology-0b02
+            homepage_url: https://cbit.ac.in/
+            logo: chaitanya_bharathi_institute_of_technology.svg
+            twitter: https://twitter.com/CBIThyd
+            crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology
             crunchbase_data:
-              name: Chaitanya Bharathi Institute Of Technology
-              description: A private engineering college located in Gandipet, near Financial District, Hyderabad, Telangana, India
+              name: Chaitanya Bharathi Institute of Technology
+              description: Chaitanya Bharathi Institute of Technology is a school.
               num_employees_min: null
               num_employees_max: null
-              homepage: https://www.cbit.ac.in
-              city: Gandipet
+              homepage: http://www.cbit.ac.in
+              city: Hyderabad
               region: Andhra Pradesh
               country: India
-              twitter: https://twitter.com/CBIThyd
+              twitter: https://www.twitter.com/cbitlibrary
               linkedin: null
               acquisitions: []
               parents: []
@@ -54022,8 +54051,9 @@ landscape:
               latest_tweet_date: 2020-02-07T12:57:28.000Z
           - item:
             name: Galgotias University
-            homepage_url: https://www.galgotiasuniversity.edu.in/
-            logo: galgotias-university.svg
+            homepage_url: https://galgotiasuniversity.edu.in/
+            logo: galgotias_university.svg
+            twitter: https://twitter.com/GalgotiasUni
             crunchbase: https://www.crunchbase.com/organization/galgotias-university
             crunchbase_data:
               name: Galgotias University
@@ -54044,16 +54074,17 @@ landscape:
                 - Education
             image_data:
               fileName: galgotias-university.svg
-              hash: TPhyViM3YVX9tR4cqKZVss6tJstPDNYRq3h/fFT+eYA=
+              hash: JIzWC8CCE5xcVhRt94d/ME9c0u/OkL7ZGc9MlLnNdzY=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T13:36:40.000Z
           - item:
-            name: High School Technical Services
-            homepage_url: https://myhsts.org
-            logo: hsts.svg
+            name: High School Technology Services
+            homepage_url: https://myhsts.org/
+            logo: high_school_technology_services.svg
+            twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
             crunchbase_data:
               name: High School Technical Services
@@ -54073,47 +54104,16 @@ landscape:
               industries:
                 - Machine Learning
             image_data:
-              fileName: high-school-technical-services.svg
-              hash: 9hztJjnoeIQrW2ByYYMCpDtDoLdY8P6v1RNdMHxI2yA=
+              fileName: high-school-technology-services.svg
+              hash: 8scQlSmpGogvwr5EILYVvUCiRvv/NVjxo/wG/LDIcig=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-05-27T15:29:27.000Z
           - item:
-            name: Institute of Ethical AI and Machine Learning
-            homepage_url: https://ethical.institute/
-            logo: institute.svg
-            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
-            crunchbase_data:
-              name: The Institute for Ethical AI & Machine Learning
-              description: The IEML is a UK-based think-do-tank that builds frameworks and standards that ensure the ethical development of machine learning systems.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://ethical.institute
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: https://twitter.com/EthicalML
-              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Artificial Intelligence
-                - Machine Learning
-            image_data:
-              fileName: institute-of-ethical-ai-and-machine-learning.svg
-              hash: GYMQHCKYROTKg4OGJGgchYt7gJmEleBA5FYwlDSBBxE=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-05T09:00:03.000Z
-          - item:
-            name: International Society of Service Innovation Professionals
-            homepage_url: http://www.issip.org
+            name: ISSIP
+            homepage_url: https://issip.org/
             logo: issip.svg
             twitter: https://twitter.com/The_ISSIP
             crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
@@ -54135,7 +54135,7 @@ landscape:
               industries:
                 - Education
             image_data:
-              fileName: international-society-of-service-innovation-professionals.svg
+              fileName: issip.svg
               hash: 9uR/xqFRcZCyff00jrDyShNavlTR6im6Hs92aBIOIcE=
             best_practice_data:
               badge: false
@@ -54143,9 +54143,10 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-06T22:34:59.000Z
           - item:
-            name: Ken Kennedy Institute - Rice University
-            homepage_url: https://kenkennedy.rice.edu/
-            logo: kenkennedy.svg
+            name: Ken Kennedy Institute
+            homepage_url: https://rice.edu/
+            logo: ken_kennedy_institute.svg
+            twitter: https://twitter.com/RiceUniversity
             crunchbase: https://www.crunchbase.com/organization/ken-kennedy-institute
             crunchbase_data:
               name: Ken Kennedy Institute
@@ -54164,17 +54165,18 @@ landscape:
               company_type: ''
               industries: []
             image_data:
-              fileName: ken-kennedy-institute-rice-university.svg
-              hash: zMRCWKmTT7Y91InMN94Fv/xGl4GCnkBUelQipbavfkY=
+              fileName: ken-kennedy-institute.svg
+              hash: T78CFzpyUQAcLNymsK2Od7V0JdoZRiq+kK2ioK3koOA=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-05-24T14:51:49.000Z
+              latest_tweet_date: 2021-06-07T19:56:25.000Z
           - item:
             name: Montreal AI Ethics Institute
-            homepage_url: https://montrealethics.ai
-            logo: maie.svg
+            homepage_url: https://montrealethics.ai/
+            logo: montreal_ai_ethics_institute.svg
+            twitter: https://twitter.com/mtlaiethics
             crunchbase: https://www.crunchbase.com/organization/montreal-ai-ethics-institute
             crunchbase_data:
               name: Montreal AI Ethics Institute
@@ -54197,7 +54199,7 @@ landscape:
                 - Social
             image_data:
               fileName: montreal-ai-ethics-institute.svg
-              hash: 11DcYoVTUg0dVNIr2AnuKUR0WGX7HZ3Fxk2opp5OOYY=
+              hash: nHEa4o/+n9QkBFlIDZgeiLPD7FmCaaG8BLFO96YEb88=
             best_practice_data:
               badge: false
               percentage: null
@@ -54205,8 +54207,9 @@ landscape:
               latest_tweet_date: 2021-06-06T16:01:36.000Z
           - item:
             name: New York University
-            homepage_url: https://www.nyu.edu
-            logo: nyu.svg
+            homepage_url: https://nyu.edu/
+            logo: new_york_university.svg
+            twitter: https://twitter.com/nyuniversity
             crunchbase: https://www.crunchbase.com/organization/new-york-university
             crunchbase_data:
               name: New York University
@@ -54232,7 +54235,7 @@ landscape:
               kind: funding
             image_data:
               fileName: new-york-university.svg
-              hash: 4h/GrQvzBUOxdZjgULlk3Zyt72UDOMWAjpHGcITodkY=
+              hash: nEdS3ASJ0sMnPVg3ovVmZRA/3YD2hanacPYggDzLCrw=
             best_practice_data:
               badge: false
               percentage: null
@@ -54240,7 +54243,7 @@ landscape:
               latest_tweet_date: 2021-06-06T14:00:11.000Z
           - item:
             name: OpenI
-            homepage_url: http://en.openi.org.cn/
+            homepage_url: https://pcl.ac.cn/
             logo: openi.svg
             crunchbase: https://www.crunchbase.com/organization/openi
             crunchbase_data:
@@ -54261,7 +54264,7 @@ landscape:
               industries: []
             image_data:
               fileName: open-i.svg
-              hash: wgvRjO1qGiACHj3d9JKvyGSrcJ2ypDrEPnDuRVvACNw=
+              hash: 5is2dfy2jSkXNHjcyzxke8QssMm8a1oShe3NZBbeqGU=
             best_practice_data:
               badge: false
               percentage: null
@@ -54269,7 +54272,9 @@ landscape:
             name: OpenUK
             homepage_url: https://openuk.uk/
             logo: openuk.svg
+            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
@@ -54288,77 +54293,17 @@ landscape:
               industries: []
             image_data:
               fileName: open-uk.svg
-              hash: Fdh5wpzw4qmOWKvGWPuy78ZtQFcv12LT+Oep8+MQAyA=
+              hash: sD/O2Br7hyKC+1gagGj7aW8JTpcrxObd42hHjUbEuR0=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-05T08:00:44.000Z
           - item:
-            name: Peng Cheng Laboratory
-            homepage_url: http://www.szpclab.com/
-            logo: pcl.svg
-            crunchbase: https://www.crunchbase.com/organization/peng-cheng-laboratory
-            crunchbase_data:
-              name: Peng Cheng Laboratory
-              description: It aims at developing a new round of innovation-driven economy for the innovative advancement of the Guangdong Province.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.szpclab.com/
-              city: Shenzhen
-              region: Guangdong
-              country: China
-              twitter: null
-              linkedin: null
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries: []
-            image_data:
-              fileName: peng-cheng-laboratory.svg
-              hash: W8l+I3ZzO8Ofa9PGlEwwl1FIdGybe8AhcCPHHYp8vbU=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: Penn State University
-            homepage_url: https://www.psu.edu/
-            logo: pennstate.svg
-            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
-            crunchbase_data:
-              name: Penn State University
-              description: The Pennsylvania State University is a public, state-related research university with campuses and facilities throughout Pennsylvania.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.psu.edu/
-              city: University Park
-              region: Pennsylvania
-              country: United States
-              twitter: http://twitter.com/penn_state
-              linkedin: https://www.linkedin.com/edu/penn-state-university-19318
-              acquisitions: []
-              parents: []
-              funding: 13400000
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Education
-                - Training
-                - Universities
-              kind: funding
-            image_data:
-              fileName: penn-state-university.svg
-              hash: LQe/wtz3caCSBTdLq0V1gXKqHh3Ir1fcSUc3mwAQTrQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-06T23:00:38.000Z
-          - item:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
-            logo: psit.svg
+            logo: pranveer_singh_institute_of_technology.svg
+            twitter: https://twitter.com/PSITKanpur2004
             crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
             crunchbase_data:
               name: Pranveer Singh Institute Of Technology
@@ -54378,16 +54323,16 @@ landscape:
               industries: []
             image_data:
               fileName: pranveer-singh-institute-of-technology.svg
-              hash: txwftByR8DyzgFoKY6WC7DRNihQDdjYExYMy5mk/bzg=
+              hash: PJO4Mir7tnrb14+/DOUEbkvqlYwaJrTHUyHqBwfnCSg=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-06T13:31:20.000Z
           - item:
-            name: Shanghai Open Source Information Technology Association
-            homepage_url: https://shanghaiopen.org.cn/en
-            logo: shanghai-oss.svg
+            name: Shanghai OpenSource Information Technology Association
+            homepage_url: https://shanghaiopen.org.cn/
+            logo: shanghai_opensource_information_technology_association.svg
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
             crunchbase_data:
               name: Shanghai OpenSource Information Technology Association
@@ -54407,14 +54352,77 @@ landscape:
               industries: []
             image_data:
               fileName: shanghai-open-source-information-technology-association.svg
-              hash: vAESuXtlzLDR/5LPHs+zeyLAas2QYlRH9MxMQcY06vU=
+              hash: O8mK14lrC7IMExBPTfiNBiX1CvSh2F5bckUxII2FO6g=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: University of Washington - Tacoma
-            homepage_url: https://www.tacoma.uw.edu/
-            logo: uw-tacoma.svg
+            name: The Institute for Ethical AI & Machine Learning
+            homepage_url: https://ethical.institute/
+            logo: the_institute_for_ethical_ai__machine_learning.svg
+            twitter: https://twitter.com/EthicalML
+            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
+            crunchbase_data:
+              name: The Institute for Ethical AI & Machine Learning
+              description: The IEML is a UK-based think-do-tank that builds frameworks and standards that ensure the ethical development of machine learning systems.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://ethical.institute
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/EthicalML
+              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+            image_data:
+              fileName: the-institute-for-ethical-ai-machine-learning.svg
+              hash: GYMQHCKYROTKg4OGJGgchYt7gJmEleBA5FYwlDSBBxE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-05T09:00:03.000Z
+          - item:
+            name: Université Libre de Tunis
+            homepage_url: https://ult-tunisie.com/
+            logo: universite_libre_de_tunis.svg
+            twitter: https://twitter.com/ULT_Tunisie
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+            crunchbase_data:
+              name: Université Libre de Tunis
+              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ult-tunisie.com/eng/index.php
+              city: Tunis
+              region: Tunis
+              country: Tunisia
+              twitter: null
+              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: universit-libre-de-tunis.svg
+              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-29T07:35:35.000Z
+          - item:
+            name: University of Washington
+            homepage_url: https://uw.edu/
+            logo: university_of_washington.svg
+            twitter: https://twitter.com/UW
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
             crunchbase_data:
               name: University of Washington
@@ -54443,44 +54451,18 @@ landscape:
                 - Universities
               kind: funding
             image_data:
-              fileName: university-of-washington-tacoma.svg
-              hash: UnFivnNFEU9VUYwRBZCr+vBh1JZkh9bh5Ywo1SQFhCQ=
+              fileName: university-of-washington.svg
+              hash: +K/pf3xXbX3ypTsQdQHtvhXlld4qM7ooABaXVTbdCNI=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-07T00:00:09.000Z
           - item:
-            name: Université Libre de Tunis
-            homepage_url: https://www.ult-tunisie.com/
-            logo: ult.svg
-            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
-            crunchbase_data:
-              name: Université Libre de Tunis
-              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.ult-tunisie.com/eng/index.php
-              city: Tunis
-              region: Tunis
-              country: Tunisia
-              twitter: null
-              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: universit-libre-de-tunis.svg
-              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
-            name: XPRIZE Foundation
-            homepage_url: https://xprize.org
+            name: XPRIZE
+            homepage_url: https://xprize.org/
             logo: xprize.svg
+            twitter: https://twitter.com/xprize
             crunchbase: https://www.crunchbase.com/organization/x-prize-foundation
             crunchbase_data:
               name: XPRIZE
@@ -54504,7 +54486,7 @@ landscape:
                 - Non Profit
               kind: funding
             image_data:
-              fileName: xprize-foundation.svg
+              fileName: xprize.svg
               hash: vs1yy6NrAbacwSvfiXgcWc7jncYfiEVGkNzoYTMWSCM=
             best_practice_data:
               badge: false
