@@ -1,0 +1,19 @@
+name: Autocommit pull requests
+
+on:
+  workflow_dispatch:
+  pull_request:
+    types: [labeled]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Automerge Pull Request if possible
+        uses: "pascalgn/automerge-action@v0.13.0"
+        env:
+          GITHUB_TOKEN: "${{ secrets.PAT }}"
+          MERGE_LABELS: "automerge"
+          MERGE_RETRY_SLEEP: 300000
+          MERGE_METHOD: "squash"
