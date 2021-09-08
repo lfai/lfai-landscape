@@ -257,7 +257,8 @@ landscape:
             repo_url: https://github.com/maiot-io/zenml
             logo: zenml.svg
             twitter:
-            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+            crunchbase: https://www.crunchbase.com/organization/
+            -c7f4
   - category:
     name: Deep Learning
     subcategories:
@@ -1608,7 +1609,7 @@ landscape:
             repo_url: https://github.com/bentoml/BentoML
             logo: bentoml.svg
             twitter: https://twitter.com/bentomlai
-            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+            crunchbase: https://www.crunchbase.com/organization/bentoml
           - item:
             name: Apache Airflow
             homepage_url: https://airflow.apache.org/
