@@ -121,8 +121,8 @@ big_picture:
       - type: HorizontalCategory
         category: Machine Learning
         rows: 4
-        width: 480
-        height: 160
+        width: 525
+        height: 170
         top: 0
         left: 0
         color: rgb(4,81,49)
@@ -130,128 +130,128 @@ big_picture:
       - type: HorizontalCategory
         category: Deep Learning
         rows: 4
-        width: 480
-        height: 160
+        width: 505
+        height: 170
         top: 0
-        left: 500
+        left: 545
         color: rgb(7,136,62)
         fit_width: true
       - type: HorizontalCategory
         category: Reinforcement Learning
         rows: 4
         width: 165
-        height: 160
+        height: 170
         top: 0
-        left: 1000
+        left: 1070
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Programming
         rows: 4
-        width: 240
-        height: 160
+        width: 295
+        height: 170
         top: 0
-        left: 1185
+        left: 1255
         color: rgb(87,43,10)
         fit_width: true
       - type: HorizontalCategory
         category: Data
         rows: 4
-        width: 1425
-        height: 160
-        top: 190
+        width: 1550
+        height: 170
+        top: 200     
         left: 0
         color: rgb(193,83,21)
         fit_width: true
       - type: HorizontalCategory
         category: Model
         rows: 4
-        width: 1050
-        height: 160
-        top: 380
+        width: 1080
+        height: 170
+        top: 400
         left: 0
         color: rgb(37,81,209)
         fit_width: true
       - type: HorizontalCategory
         category: Trusted & Responsible AI
         rows: 3
-        width: 355
-        height: 160
-        top: 380
-        left: 1070
+        width: 450
+        height: 170
+        top: 400
+        left: 1100
         color: rgb(111,12,52)
         fit_width: true
       - type: HorizontalCategory
         category: Distributed Computing
         rows: 4
-        width: 355
-        height: 160
-        top: 570
+        width: 415
+        height: 170
+        top: 600
         left: 0
         color: rgb(179,60,133)
         fit_width: true
       - type: LandscapeInfo
         width: 325
-        height: 160
-        top: 570
-        left: 375
+        height: 170
+        top: 600
+        left: 435
         children:
           - type: text
             text: |
               The LF AI & Data landscape explores open source projects in Artificial Intelligence and Data and their respective sub-domains.
-            top: 15
+            top: 25
             left: 100
             right: 120
             font_size: 10
           - type: image
             image: qr.svg
-            top: 10
+            top: 20
             left: 5
             width: 90
             height: 90
             title: QR Code
           - type: title
             title: l.lfaidata.foundation
-            top: 99
+            top: 109
             left: 9
             font_size: 9
           - type: image
             image: left-logo.svg
             width: 110
             right: 5
-            top: 15
+            top: 25
             title: Landscape Logo
           - type: image
             image: right-logo.svg
             width: 109
             right: 5
-            top: 55
+            top: 65
             title: LF AI Logo
       - type: HorizontalCategory
         category: Security & Privacy
         rows: 4
         width: 130
-        height: 160
-        top: 570
-        left: 720
+        height: 170
+        top: 600
+        left: 780
         color: rgb(165,9,77)
         fit_width: true
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
-        width: 365
-        height: 160
-        top: 570
-        left: 870
+        width: 400
+        height: 170
+        top: 600
+        left: 930
         color: rgb(29,119,164)
         fit_width: true
       - type: HorizontalCategory
         category: Notebook Environment
         rows: 4
-        width: 170
-        height: 160
-        top: 570
-        left: 1255
+        width: 200
+        height: 170
+        top: 600
+        left: 1350
         color: rgb(106,44,218)
         fit_width: true
   third:
