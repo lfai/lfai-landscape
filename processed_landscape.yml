@@ -1,4 +1,3 @@
-# THIS FILE IS GENERATED AUTOMATICALLY!
 landscape:
   - category:
     name: Machine Learning
@@ -3223,6 +3222,89 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-18T16:52:01.000Z
           - item:
+            name: Orchest
+            homepage_url: https://orchest.io/
+            repo_url: https://github.com/orchest/orchest
+            logo: orchest.svg
+            twitter: https://twitter.com/orchestofficial
+            crunchbase: https://www.crunchbase.com/organization/orchest
+            crunchbase_data:
+              name: Orchest
+              description: Orchest is an open source, cloud native, development environment built for data science.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.orchest.io
+              city: Rotterdam
+              region: Zuid-Holland
+              country: The Netherlands
+              twitter: null
+              linkedin: https://www.linkedin.com/company/orchest
+              acquisitions: []
+              parents: []
+              funding: 4150000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Machine Learning
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Python
+                  value: 1007752
+                  color: '#3572A5'
+                - name: TypeScript
+                  value: 808249
+                  color: '#2b7489'
+                - name: SCSS
+                  value: 53010
+                - name: Shell
+                  value: 36206
+                  color: '#89e051'
+                - name: Jupyter Notebook
+                  value: 15951
+                  color: '#DA5B0B'
+                - name: Dockerfile
+                  value: 13569
+                  color: '#384d54'
+                - name: JavaScript
+                  value: 6248
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 1537
+                  color: '#563d7c'
+                - name: Mako
+                  value: 1482
+                - name: HTML
+                  value: 1087
+                  color: '#e34c26'
+              contributions: >-
+                33;18;102;92;99;113;79;63;112;2;21;41;74;70;74;59;44;70;38;33;57;29;20;21;51;44;18;49;76;60;38;96;140;78;73;63;60;57;51;32;48;23;46;50;25;69;53;50;36;7;32;10
+              firstWeek: 2020-10-25Z
+              stars: 1622
+              license: GNU Affero General Public License v3.0
+              description: Build data pipelines, the easy way 🛠️
+              latest_commit_date: '2021-10-18T10:38:52Z'
+              latest_commit_link: /orchest/orchest/commit/ab9d77f990c61362e48e7576ae78d706b167789a
+              release_date: '2021-10-14T12:38:58Z'
+              release_link: https://github.com/orchest/orchest/releases
+              contributors_count: 19
+              contributors_link: https://github.com/orchest/orchest/graphs/contributors
+            repos:
+              - url: https://github.com/orchest/orchest
+                stars: 1622
+            github_start_commit_data:
+              start_commit_link: /orchest/orchest/commit/ed9c767c9c80116501c98042dd3d80f071dd64b3
+              start_date: '2019-11-28T15:33:39Z'
+            image_data:
+              fileName: orchest.svg
+              hash: q1JEe0Z/5Wtu0TXaU0gq4h9/PZ8jRjdhYnao2kF8lTQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-30T18:22:57.000Z
+          - item:
             name: PredictionIO
             homepage_url: https://predictionio.apache.org/
             repo_url: https://github.com/apache/predictionio
@@ -4027,6 +4109,87 @@ landscape:
       - subcategory:
         name: Library
         items:
+          - item:
+            name: AutoGluon
+            homepage_url: https://auto.gluon.ai/
+            repo_url: https://github.com/awslabs/autogluon
+            logo: autogluon.svg
+            twitter: https://twitter.com/autogluon
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            crunchbase_data:
+              name: Amazon Web Services
+              description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://aws.amazon.com
+              city: Seattle
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/awscloud
+              linkedin: https://www.linkedin.com/company/amazon-web-services
+              acquisitions:
+                - date: '2015-07-14'
+                  acquiree: AppThwack
+                - date: '2016-02-11'
+                  acquiree: NICE
+                - date: '2017-03-06'
+                  acquiree: Thinkbox Software
+                - date: '2017-03-08'
+                  acquiree: Do
+                - date: '2018-01-23'
+                  acquiree: Sqrrl
+                - date: '2019-01-14'
+                  acquiree: TSO Logic
+                - date: '2020-02-21'
+                  acquiree: TeamSQL, Inc.
+              parents:
+                - https://www.crunchbase.com/organization/amazon
+              ticker: AMZN
+              funding: 108000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Information Services
+                - Information Technology
+                - Software
+                - Web Development
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Python
+                  value: 3022245
+                  color: '#3572A5'
+                - name: Shell
+                  value: 354
+                  color: '#89e051'
+              contributions: 16;9;7;7;10;1;6;6;2;3;9;10;9;6;11;9;7;20;18;7;2;4;6;0;6;6;9;6;9;5;0;2;3;5;10;6;0;2;8;3;6;0;7;3;5;0;6;4;0;0;3;9
+              firstWeek: 2020-10-25Z
+              stars: 3704
+              license: Apache License 2.0
+              description: 'AutoGluon: AutoML for Text, Image, and Tabular Data'
+              latest_commit_date: '2021-10-20T00:13:35Z'
+              latest_commit_link: /awslabs/autogluon/commit/e4734aadb8db5928db11e1f73fcdc200b37ebd5d
+              release_date: '2021-08-31T20:47:54Z'
+              release_link: https://github.com/awslabs/autogluon/releases
+              contributors_count: 62
+              contributors_link: https://github.com/awslabs/autogluon/graphs/contributors
+            repos:
+              - url: https://github.com/awslabs/autogluon
+                stars: 3704
+            github_start_commit_data:
+              start_commit_link: /awslabs/autogluon/commit/a6a11d8ccb9d85a7776fadd0659456a9dc939d8e
+              start_date: '2019-05-08T18:15:37Z'
+            yahoo_finance_data:
+              market_cap: 1758527356928
+              effective_ticker: AMZN
+            image_data:
+              fileName: auto-gluon.svg
+              hash: Up8AAEN9//6pYAzZKYGXpkh5lHNSuK4yEzBpkGKaTzw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-08-20T18:57:38.000Z
           - item:
             name: CatBoost
             homepage_url: https://catboost.ai
@@ -6718,6 +6881,70 @@ landscape:
             image_data:
               fileName: x-learn.svg
               hash: kZhjkH5tyLXFIJR65cilpv1e2DcAZYQYEBJj6FhwMD4=
+            best_practice_data:
+              badge: false
+              percentage: null
+      - subcategory:
+        name: MLOps
+        items:
+          - item:
+            name: ZenML
+            homepage_url: https://zenml.io/
+            repo_url: https://github.com/maiot-io/zenml
+            logo: zenml.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+            crunchbase_data:
+              name: Maiot
+              description: We commoditize production-ready Machine Learning
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://maiot.io/
+              city: Munich
+              region: Bayern
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/70406980/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 962533
+                  color: '#3572A5'
+                - name: Dockerfile
+                  value: 8162
+                  color: '#384d54'
+                - name: Shell
+                  value: 6381
+                  color: '#89e051'
+                - name: HTML
+                  value: 1283
+                  color: '#e34c26'
+              contributions: >-
+                0;0;0;0;2;6;1;23;159;17;13;114;95;136;65;85;56;7;48;90;88;26;58;25;94;52;52;15;17;31;13;10;2;16;5;6;17;10;13;0;14;19;41;14;60;17;17;82;171;138;150;223
+              firstWeek: 2020-10-25Z
+              stars: 1329
+              license: Apache License 2.0
+              description: 'ZenML 🙏: MLOps framework to create reproducible ML pipelines for production machine learning.'
+              latest_commit_date: '2021-10-21T11:35:25Z'
+              latest_commit_link: /zenml-io/zenml/commit/ce77dcdf33a441b6991f15db238324b7225628cc
+              release_date: '2021-10-15T14:27:01Z'
+              release_link: https://github.com/maiot-io/zenml/releases
+              contributors_count: 17
+              contributors_link: https://github.com/maiot-io/zenml/graphs/contributors
+            repos:
+              - url: https://github.com/maiot-io/zenml
+                stars: 1329
+            github_start_commit_data:
+              start_commit_link: /zenml-io/zenml/commit/ab5f8e881953a6ccac120661a4187d231b01b59e
+              start_date: '2020-11-19T09:25:47Z'
+            image_data:
+              fileName: zen-ml.svg
+              hash: kO/q1Xr8rtEEfr4eXf8hdZy9I6bvySmiIxMpX27GaYs=
             best_practice_data:
               badge: false
               percentage: null
@@ -9703,84 +9930,28 @@ landscape:
             homepage_url: https://github.com/linkedin/TonY
             repo_url: https://github.com/linkedin/TonY
             logo: tony.svg
-            crunchbase: https://www.crunchbase.com/organization/linkedin
+            project: incubating
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             crunchbase_data:
-              name: LinkedIn
-              description: LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://linkedin.com
-              city: Sunnyvale
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
               region: California
               country: United States
-              twitter: http://twitter.com/linkedin
-              linkedin: https://www.linkedin.com/company/linkedin
-              acquisitions:
-                - date: '2010-08-04'
-                  acquiree: mSpoke
-                - date: '2010-09-22'
-                  acquiree: ChoiceVendor
-                - date: '2011-01-26'
-                  acquiree: CardMunch
-                - date: '2011-10-05'
-                  acquiree: Connected
-                - date: '2011-10-11'
-                  acquiree: IndexTank
-                - date: '2012-02-07'
-                  acquiree: Rapportive
-                - date: '2012-05-03'
-                  acquiree: LinkedIn SlideShare
-                - date: '2013-04-13'
-                  acquiree: Pulse
-                  price: 50000000
-                - date: '2014-02-07'
-                  acquiree: Bright.com
-                  price: 120000000
-                - date: '2014-07-14'
-                  acquiree: Newsle
-                - date: '2014-07-22'
-                  acquiree: Bizo
-                  price: 175000000
-                - date: '2014-11-13'
-                  acquiree: We Created It
-                - date: '2015-03-16'
-                  acquiree: Careerify
-                - date: '2015-04-02'
-                  acquiree: Refresh.io
-                - date: '2015-04-09'
-                  acquiree: Lynda
-                  price: 1500000000
-                - date: '2015-08-27'
-                  acquiree: Fliptop
-                - date: '2016-02-04'
-                  acquiree: Connectifier
-                  price: 150000000
-                - date: '2016-05-05'
-                  acquiree: Run Hop
-                - date: '2016-07-26'
-                  acquiree: PointDrive
-                - date: '2017-06-02'
-                  acquiree: Heighten
-                - date: '2018-10-08'
-                  acquiree: Glint
-                - date: '2018-12-01'
-                  acquiree: Sendbloom
-                - date: '2019-05-28'
-                  acquiree: Drawbridge
-                - date: '2020-04-23'
-                  acquiree: UpCounsel
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
               parents:
-                - https://www.crunchbase.com/organization/microsoft
-              ticker: MSFT
-              funding: 154800000
-              stockExchange: nyse
-              company_type: For Profit
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
               industries:
-                - Professional Networking
-                - Recruiting
-                - Social Media
-                - Social Recruiting
-              kind: market_cap
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
             github_data:
               languages:
                 - name: Java
@@ -9815,9 +9986,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /linkedin/TonY/commit/8d91e4fc0f3a87e5324241999cd1f3702a01c788
               start_date: '2018-09-13T02:27:09Z'
-            yahoo_finance_data:
-              market_cap: 1953915207680
-              effective_ticker: MSFT
             image_data:
               fileName: ton-y.svg
               hash: LpOvnWYqJ9GSX/Onn4dNyriGzq4xTAQCfzZXIpvYHBQ=
@@ -9825,7 +9993,7 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-17T16:00:00.000Z
+              latest_tweet_date: 2021-06-17T20:35:40.000Z
           - item:
             name: X-DeepLearning
             homepage_url: https://github.com/alibaba/x-deeplearning
@@ -12603,6 +12771,88 @@ landscape:
         name: Relational DB
         items:
           - item:
+            name: TiKV
+            homepage_url: https://tikv.org
+            repo_url: https://github.com/tikv/tikv
+            logo: tikv.svg
+            twitter: https://twitter.com/tikvproject
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: Rust
+                  value: 11989190
+                  color: '#dea584'
+                - name: Makefile
+                  value: 13492
+                  color: '#427819'
+                - name: Shell
+                  value: 8913
+                  color: '#89e051'
+                - name: Python
+                  value: 7983
+                  color: '#3572A5'
+                - name: C
+                  value: 6514
+                  color: '#555555'
+                - name: Dockerfile
+                  value: 3696
+                  color: '#384d54'
+              contributions: >-
+                25;21;19;21;20;18;21;27;25;17;15;13;10;23;17;12;1;13;14;21;28;24;21;24;13;12;15;3;20;17;19;20;25;13;20;14;10;13;7;10;11;15;21;16;7;5;9;1;10;0;8;14
+              firstWeek: 2020-10-25Z
+              stars: 10073
+              license: Apache License 2.0
+              description: Distributed transactional key-value database, originally created to complement TiDB
+              latest_commit_date: '2021-10-20T13:20:45Z'
+              latest_commit_link: /tikv/tikv/commit/58573b822c7b7f56aeb7933f8e30162a6c9b6073
+              release_date: '2021-09-27T02:44:16Z'
+              release_link: https://github.com/tikv/tikv/releases
+              contributors_count: 336
+              contributors_link: https://github.com/tikv/tikv/graphs/contributors
+            repos:
+              - url: https://github.com/tikv/tikv
+                stars: 10073
+            github_start_commit_data:
+              start_commit_link: /tikv/tikv/commit/b56dbe686b83ef6fda592b46c0d03245559a39e7
+              start_date: '2016-01-07T05:02:04Z'
+            image_data:
+              fileName: ti-kv.svg
+              hash: szI3FwI9/5iT/dc/uHy154fq8ZGok/qG7fDb0CJEn20=
+            best_practice_data:
+              badge: 2574
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2021-10-13T08:58:13.000Z
+          - item:
             name: CouchDB
             homepage_url: https://iceberg.apache.org/
             repo_url: https://github.com/apache/couchdb
@@ -15008,6 +15258,99 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-15T12:54:53.000Z
+          - item:
+            name: Vineyard
+            description: Vineyard (v6d) is an in-memory immutable data manager.
+            homepage_url: https://v6d.io/
+            repo_url: https://github.com/v6d-io/v6d
+            logo: vineyard.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+            crunchbase_data:
+              name: Cloud Native Computing Foundation (CNCF)
+              description: CNCF is an open source software foundation that hosts and nurtures projects like Kubernetes and Prometheus.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.cncf.io
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/CloudNativeFdn
+              linkedin: https://www.linkedin.com/company/cloud-native-computing-foundation
+              acquisitions:
+                - date: '2016-03-10'
+                  acquiree: Kubernetes
+                - date: '2017-02-06'
+                  acquiree: RethinkDB
+                  price: 25000
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              funding: 3000000
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Cloud Computing
+                - Cloud Infrastructure
+                - Non Profit
+                - Open Source
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: C++
+                  value: 1556086
+                  color: '#f34b7d'
+                - name: Python
+                  value: 614505
+                  color: '#3572A5'
+                - name: CMake
+                  value: 86962
+                - name: Rust
+                  value: 69184
+                  color: '#dea584'
+                - name: Java
+                  value: 63509
+                  color: '#b07219'
+                - name: Go
+                  value: 57844
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 9308
+                  color: '#89e051'
+                - name: Makefile
+                  value: 5642
+                  color: '#427819'
+                - name: C
+                  value: 5614
+                  color: '#555555'
+                - name: Smarty
+                  value: 2870
+                - name: Dockerfile
+                  value: 1008
+                  color: '#384d54'
+              contributions: 4;25;12;13;17;15;14;4;9;1;8;9;13;8;13;8;0;8;9;1;5;4;4;4;5;4;9;8;4;2;8;26;9;6;14;11;11;5;11;7;13;19;15;9;9;17;4;11;16;1;12;0
+              firstWeek: 2020-10-25Z
+              stars: 519
+              license: Apache License 2.0
+              description: 'vineyard (v6d): an in-memory immutable data manager. (Project under CNCF)'
+              latest_commit_date: '2021-10-13T05:50:00Z'
+              latest_commit_link: /v6d-io/v6d/commit/f842823f33a7ed5ff07dc6f9d009570c2a1384a2
+              release_date: '2021-10-11T13:59:25Z'
+              release_link: https://github.com/v6d-io/v6d/releases
+              contributors_count: 23
+              contributors_link: https://github.com/v6d-io/v6d/graphs/contributors
+            repos:
+              - url: https://github.com/v6d-io/v6d
+                stars: 519
+            github_start_commit_data:
+              start_commit_link: /v6d-io/v6d/commit/ed17226dc9d2cf0657ee2cfdbb7ac1db3141a07a
+              start_date: '2020-10-27T15:12:37Z'
+            image_data:
+              fileName: vineyard.svg
+              hash: K/y0txlGYERhQM6+4KeSjXtgWALtyof/tcJBEfAlaF8=
+            best_practice_data:
+              badge: 4902
+              percentage: 100
       - subcategory:
         name: Versioning
         items:
@@ -23034,70 +23377,70 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 54708097
+                  value: 60890581
                   color: '#b07219'
                 - name: Jupyter Notebook
-                  value: 2489520
+                  value: 2656877
                   color: '#DA5B0B'
                 - name: JavaScript
-                  value: 1888501
+                  value: 1920449
                   color: '#f1e05a'
                 - name: Groovy
-                  value: 107752
+                  value: 116364
                   color: '#e69f56'
                 - name: SCSS
-                  value: 54412
-                - name: Shell
-                  value: 34238
-                  color: '#89e051'
-                - name: Dockerfile
-                  value: 17795
-                  color: '#384d54'
-                - name: Clojure
-                  value: 17146
-                  color: '#db5855'
+                  value: 55462
                 - name: HTML
-                  value: 16306
+                  value: 54318
                   color: '#e34c26'
                 - name: Go
-                  value: 16018
+                  value: 28772
                   color: '#00ADD8'
+                - name: Shell
+                  value: 28053
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 17956
+                  color: '#384d54'
                 - name: Makefile
-                  value: 8731
+                  value: 10502
                   color: '#427819'
-                - name: Mustache
-                  value: 7036
+                - name: Clojure
+                  value: 8562
+                  color: '#db5855'
                 - name: PLpgSQL
                   value: 5991
+                - name: Mustache
+                  value: 4726
+                - name: CSS
+                  value: 3023
+                  color: '#563d7c'
                 - name: Smarty
                   value: 2224
-                - name: CSS
-                  value: 2187
-                  color: '#563d7c'
                 - name: Ruby
                   value: 49
                   color: '#701516'
               contributions: >-
-                125;90;82;61;100;102;140;145;61;135;91;108;161;190;260;239;176;205;245;134;195;176;151;234;207;202;30;67;190;89;104;136;197;168;114;157;185;177;189;85;158;130;105;152;131;130;219;84;210;202;160;92
-              firstWeek: 2020-06-28Z
-              stars: 513
+                299;137;163;196;168;185;187;211;143;13;165;143;86;133;181;174;134;102;195;207;149;133;123;172;78;156;127;154;191;131;182;193;168;156;69;101;205;108;106;80;165;103;78;90;135;58;69;45;87;151;54;84
+              firstWeek: 2020-10-25Z
+              stars: 589
               license: Apache License 2.0
               description: Open Metadata and Governance
-              latest_commit_date: '2021-06-17T16:26:16Z'
-              latest_commit_link: /odpi/egeria/commit/2d8c6310087162967c7b298d4f92644a44477867
-              release_date: '2021-06-02T13:36:40Z'
+              latest_commit_date: '2021-10-21T11:14:31Z'
+              latest_commit_link: /odpi/egeria/commit/b504333f437300e22b5f5cf6bde5d5389a59ac40
+              release_date: '2021-10-01T08:27:56Z'
               release_link: https://github.com/odpi/egeria/releases
-              contributors_count: 55
+              contributors_count: 57
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 383
+                stars: 450
               - url: https://github.com/odpi/data-governance
-                stars: 71
+                stars: 76
               - url: https://github.com/odpi/egeria-connector-ibm-information-server
                 stars: 14
               - url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
-                stars: 10
+                stars: 11
               - url: https://github.com/odpi/egeria-connector-crux
                 stars: 5
               - url: https://github.com/odpi/egeria-connector-sas-viya
@@ -23117,11 +23460,11 @@ landscape:
               - url: https://github.com/odpi/egeria-samples
                 stars: 3
               - url: https://github.com/odpi/egeria-api-mocks
-                stars: 1
+                stars: 2
               - url: https://github.com/odpi/egeria-js-commons
-                stars: 0
+                stars: 1
               - url: https://github.com/odpi/happi-graph
-                stars: 0
+                stars: 1
             github_start_commit_data:
               start_commit_link: /odpi/data-governance/commit/a1c04d1b8773f0e3db3b758267e3a56914852e1d
               start_date: '2017-10-09T20:05:28Z'
@@ -31216,6 +31559,624 @@ landscape:
               badge: 4513
               percentage: 100
           - item:
+            name: KServe
+            homepage_url: https://kserve.io
+            repo_url: https://github.com/kserve/kserve
+            logo: kserve.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+            crunchbase_data:
+              name: Google
+              description: Google is a multinational corporation that specializes in Internet-related services and products.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.google.com/
+              city: Mountain View
+              region: California
+              country: United States
+              twitter: https://twitter.com/google
+              linkedin: https://www.linkedin.com/company/google
+              acquisitions:
+                - date: '2001-02-12'
+                  acquiree: Deja
+                - date: '2001-09-20'
+                  acquiree: Outride
+                - date: '2003-02-17'
+                  acquiree: Pyra Labs
+                - date: '2003-04-28'
+                  acquiree: Applied Semantics
+                  price: 102000000
+                - date: '2003-06-04'
+                  acquiree: Neotonic Software
+                - date: '2003-09-30'
+                  acquiree: Kaltix
+                - date: '2003-10-07'
+                  acquiree: Genius Labs
+                - date: '2003-10-23'
+                  acquiree: Sprinks
+                - date: '2004-05-10'
+                  acquiree: Ignite Logic
+                - date: '2004-09-10'
+                  acquiree: ZipDash
+                - date: '2004-10-09'
+                  acquiree: Where2
+                - date: '2004-10-27'
+                  acquiree: Keyhole Inc.
+                - date: '2005-01-01'
+                  acquiree: Reqwireless
+                - date: '2005-03-28'
+                  acquiree: Urchin Software
+                - date: '2005-05-12'
+                  acquiree: Dodgeball
+                - date: '2005-08-16'
+                  acquiree: Android
+                  price: 50000000
+                - date: '2005-11-09'
+                  acquiree: Skia
+                - date: '2005-11-17'
+                  acquiree: Akwan Information Technologies
+                - date: '2005-12-27'
+                  acquiree: Phatbits
+                - date: '2005-12-31'
+                  acquiree: allPAY
+                - date: '2005-12-31'
+                  acquiree: bruNET
+                - date: '2006-01-01'
+                  acquiree: dMarc Broadcasting
+                  price: 102000000
+                - date: '2006-02-14'
+                  acquiree: Measure Map
+                - date: '2006-03-09'
+                  acquiree: Upstartle
+                - date: '2006-03-14'
+                  acquiree: SketchUp
+                - date: '2006-04-09'
+                  acquiree: Orion
+                - date: '2006-06-06'
+                  acquiree: 2Web Technologies
+                - date: '2006-08-15'
+                  acquiree: Neven Vision
+                - date: '2006-10-01'
+                  acquiree: YouTube
+                  price: 1650000000
+                - date: '2006-10-31'
+                  acquiree: JotSpot
+                - date: '2006-12-18'
+                  acquiree: Endoxon
+                  price: 28000000
+                - date: '2007-02-16'
+                  acquiree: Adscape
+                  price: 23000000
+                - date: '2007-03-16'
+                  acquiree: Trendalyzer
+                - date: '2007-04-17'
+                  acquiree: Tonic Systems
+                - date: '2007-04-19'
+                  acquiree: Marratech
+                - date: '2007-05-23'
+                  acquiree: Kosiso - store
+                  price: 100000000
+                - date: '2007-05-29'
+                  acquiree: GreenBorder
+                - date: '2007-05-31'
+                  acquiree: Panoramio
+                - date: '2007-06-05'
+                  acquiree: PeakStream
+                  price: 20300000
+                - date: '2007-06-19'
+                  acquiree: Zenter
+                - date: '2007-07-01'
+                  acquiree: GrandCentral
+                  price: 60000000
+                - date: '2007-07-09'
+                  acquiree: Postini
+                - date: '2007-07-20'
+                  acquiree: Image America, Inc.
+                - date: '2007-08-20'
+                  acquiree: Tianya.cn
+                - date: '2007-09-27'
+                  acquiree: Zingku
+                - date: '2007-10-09'
+                  acquiree: Jaiku
+                  price: 12000000
+                - date: '2008-03-11'
+                  acquiree: DoubleClick
+                - date: '2008-07-18'
+                  acquiree: ZAO Begun
+                  price: 140000000
+                - date: '2008-07-30'
+                  acquiree: Omnisio
+                - date: '2008-09-12'
+                  acquiree: TNC
+                - date: '2009-02-19'
+                  acquiree: On2 Technologies
+                  price: 130000000
+                - date: '2009-09-16'
+                  acquiree: reCAPTCHA
+                - date: '2009-11-09'
+                  acquiree: AdMob
+                - date: '2009-11-09'
+                  acquiree: Gizmofive
+                  price: 30000000
+                - date: '2009-11-23'
+                  acquiree: Teracent
+                - date: '2009-12-04'
+                  acquiree: AppJet
+                - date: '2009-12-05'
+                  acquiree: DocVerse
+                - date: '2010-01-25'
+                  acquiree: SayNow
+                - date: '2010-02-11'
+                  acquiree: Aardvark
+                - date: '2010-02-17'
+                  acquiree: reMail
+                - date: '2010-03-01'
+                  acquiree: Picnik
+                - date: '2010-04-02'
+                  acquiree: Episodic
+                - date: '2010-04-12'
+                  acquiree: Plink Search
+                - date: '2010-04-12'
+                  acquiree: Plink Solutions
+                - date: '2010-04-20'
+                  acquiree: Agnilux
+                - date: '2010-04-27'
+                  acquiree: LabPixies
+                - date: '2010-05-02'
+                  acquiree: BumpTop
+                - date: '2010-05-18'
+                  acquiree: Global IP Solutions
+                - date: '2010-05-20'
+                  acquiree: Simplify Media
+                - date: '2010-05-21'
+                  acquiree: Ruba
+                - date: '2010-06-02'
+                  acquiree: Invite Media
+                  price: 81000000
+                - date: '2010-07-16'
+                  acquiree: Metaweb Technologies
+                - date: '2010-07-16'
+                  acquiree: john kenneth rosel
+                - date: '2010-08-04'
+                  acquiree: Instantiations
+                - date: '2010-08-06'
+                  acquiree: Slide
+                  price: 182000000
+                - date: '2010-08-09'
+                  acquiree: Jambool
+                - date: '2010-08-13'
+                  acquiree: Zetawire
+                - date: '2010-08-20'
+                  acquiree: Like.com
+                - date: '2010-08-27'
+                  acquiree: Angstro
+                - date: '2010-08-30'
+                  acquiree: SocialDeck
+                - date: '2010-09-12'
+                  acquiree: MentorWave Technologies
+                  price: 12000000
+                - date: '2010-09-14'
+                  acquiree: Quiksee
+                - date: '2010-09-28'
+                  acquiree: Plannr
+                - date: '2010-10-01'
+                  acquiree: BlindType
+                - date: '2010-12-03'
+                  acquiree: Phonetic Arts
+                - date: '2010-12-03'
+                  acquiree: Widevine Technologies
+                  price: 160000000
+                - date: '2011-01-12'
+                  acquiree: eBook Technologies
+                - date: '2011-01-25'
+                  acquiree: fflick
+                - date: '2011-03-01'
+                  acquiree: zynamics
+                - date: '2011-03-07'
+                  acquiree: BeatThatQuote.com
+                  price: 61208155
+                - date: '2011-03-15'
+                  acquiree: Green Parrot Pictures
+                - date: '2011-04-08'
+                  acquiree: PushLife
+                - date: '2011-04-13'
+                  acquiree: ITA Software
+                  price: 700000000
+                - date: '2011-04-25'
+                  acquiree: Numovis Inc
+                - date: '2011-04-25'
+                  acquiree: TalkBin
+                - date: '2011-05-20'
+                  acquiree: modu
+                  price: 4900000
+                - date: '2011-05-23'
+                  acquiree: Sparkbuy
+                - date: '2011-06-01'
+                  acquiree: Admeld
+                  price: 411556083
+                - date: '2011-06-03'
+                  acquiree: PostRank
+                - date: '2011-06-19'
+                  acquiree: SageTV
+                - date: '2011-07-11'
+                  acquiree: Punchd
+                - date: '2011-07-20'
+                  acquiree: JustSpotted
+                - date: '2011-07-21'
+                  acquiree: Fridge
+                - date: '2011-07-22'
+                  acquiree: PittPatt
+                - date: '2011-08-01'
+                  acquiree: The Dealmap
+                - date: '2011-09-02'
+                  acquiree: Zave Networks
+                - date: '2011-09-19'
+                  acquiree: DailyDeal
+                - date: '2011-10-10'
+                  acquiree: SocialGrapple
+                - date: '2011-10-26'
+                  acquiree: Zagat
+                  price: 151000000
+                - date: '2011-11-10'
+                  acquiree: Apture
+                - date: '2011-11-10'
+                  acquiree: Katango
+                - date: '2011-12-09'
+                  acquiree: RightsFlow
+                - date: '2011-12-13'
+                  acquiree: Clever Sense
+                - date: '2012-03-16'
+                  acquiree: Milk
+                - date: '2012-04-02'
+                  acquiree: TxVia
+                - date: '2012-05-22'
+                  acquiree: Motorola Mobility
+                  price: 12500000000
+                - date: '2012-06-01'
+                  acquiree: KikScore
+                - date: '2012-06-04'
+                  acquiree: Meebo
+                  price: 100000000
+                - date: '2012-06-05'
+                  acquiree: Quickoffice
+                - date: '2012-07-20'
+                  acquiree: Sparrow
+                - date: '2012-07-31'
+                  acquiree: Wildfire
+                  price: 350000000
+                - date: '2012-08-13'
+                  acquiree: Frommer's
+                - date: '2012-09-07'
+                  acquiree: VirusTotal
+                - date: '2012-09-17'
+                  acquiree: Nik Software, Inc.
+                - date: '2012-11-28'
+                  acquiree: Incentive Targeting
+                - date: '2012-11-30'
+                  acquiree: BufferBox
+                - date: '2012-12-01'
+                  acquiree: BufferBox
+                  price: 17000000
+                - date: '2013-02-06'
+                  acquiree: Channel Intelligence
+                - date: '2013-02-15'
+                  acquiree: Phyzios
+                - date: '2013-03-12'
+                  acquiree: DNNresearch
+                - date: '2013-03-15'
+                  acquiree: Talaria
+                - date: '2013-04-18'
+                  acquiree: Behavio
+                - date: '2013-04-24'
+                  acquiree: Wavii
+                  price: 30000000
+                - date: '2013-06-11'
+                  acquiree: Waze
+                  price: 1300000000
+                - date: '2013-08-31'
+                  acquiree: WIMM Labs
+                - date: '2013-09-16'
+                  acquiree: Bump Technologies
+                  price: 30000000
+                - date: '2013-10-02'
+                  acquiree: Flutter
+                - date: '2013-10-22'
+                  acquiree: FlexyCore
+                  price: 23000000
+                - date: '2013-12-02'
+                  acquiree: Schaft
+                  price: 20000000
+                - date: '2013-12-04'
+                  acquiree: Industrial Pereception Inc.
+                - date: '2013-12-04'
+                  acquiree: Redwood Robotics
+                - date: '2013-12-05'
+                  acquiree: Meka Robotics
+                - date: '2013-12-06'
+                  acquiree: Holomni
+                - date: '2013-12-07'
+                  acquiree: Bot & Dolly
+                - date: '2013-12-08'
+                  acquiree: Autofuss
+                - date: '2013-12-13'
+                  acquiree: Boston Dynamics
+                - date: '2014-01-01'
+                  acquiree: Gridcentric
+                - date: '2014-01-01'
+                  acquiree: Nest Labs
+                  price: 3200000000
+                - date: '2014-01-16'
+                  acquiree: Impermium
+                - date: '2014-01-26'
+                  acquiree: DeepMind
+                  price: 500000000
+                - date: '2014-02-16'
+                  acquiree: SlickLogin
+                - date: '2014-02-21'
+                  acquiree: Spider.io
+                - date: '2014-03-12'
+                  acquiree: Green Throttle Games
+                - date: '2014-04-14'
+                  acquiree: Titan Aerospace
+                - date: '2014-05-02'
+                  acquiree: Rangespan
+                - date: '2014-05-06'
+                  acquiree: Adometry By Google
+                - date: '2014-05-07'
+                  acquiree: Appetas
+                - date: '2014-05-07'
+                  acquiree: Stackdriver
+                - date: '2014-05-16'
+                  acquiree: Quest Visual
+                - date: '2014-05-20'
+                  acquiree: Divide
+                  price: 120000000
+                - date: '2014-06-10'
+                  acquiree: Terra Bella
+                  price: 500000000
+                - date: '2014-06-19'
+                  acquiree: Alpental Technologies
+                - date: '2014-06-19'
+                  acquiree: mDialog
+                - date: '2014-06-25'
+                  acquiree: Appurify
+                - date: '2014-07-02'
+                  acquiree: Songza
+                - date: '2014-07-14'
+                  acquiree: CiiNOW
+                - date: '2014-07-23'
+                  acquiree: drawElements
+                - date: '2014-08-01'
+                  acquiree: Directr
+                - date: '2014-08-06'
+                  acquiree: Emu Messenger
+                - date: '2014-08-15'
+                  acquiree: Jetpac
+                - date: '2014-08-22'
+                  acquiree: Gecko Design Inc.
+                - date: '2014-08-26'
+                  acquiree: Zync Render
+                - date: '2014-09-11'
+                  acquiree: Lift Labs
+                - date: '2014-09-11'
+                  acquiree: Polar
+                - date: '2014-09-11'
+                  acquiree: TaggPic (Acquired by Google)
+                - date: '2014-10-21'
+                  acquiree: Firebase
+                - date: '2014-10-23'
+                  acquiree: Dark Blue Labs
+                - date: '2014-10-23'
+                  acquiree: Vision Factory
+                - date: '2014-11-18'
+                  acquiree: RelativeWave
+                - date: '2015-01-23'
+                  acquiree: Granata Decision Systems
+                - date: '2015-02-03'
+                  acquiree: Launchpad Toys
+                - date: '2015-02-08'
+                  acquiree: Odysee
+                - date: '2015-02-24'
+                  acquiree: Toro
+                - date: '2015-03-01'
+                  acquiree: Apportable
+                - date: '2015-03-04'
+                  acquiree: Softcard
+                - date: '2015-04-16'
+                  acquiree: Skillman & Hackett
+                - date: '2015-04-16'
+                  acquiree: Thrive Audio
+                - date: '2015-05-04'
+                  acquiree: Timeful
+                - date: '2015-05-28'
+                  acquiree: Pulse.io
+                - date: '2015-06-18'
+                  acquiree: Agawi Inc
+                - date: '2015-07-21'
+                  acquiree: Pixate
+                - date: '2015-09-21'
+                  acquiree: Oyster
+                  price: 30000000
+                - date: '2015-09-30'
+                  acquiree: Jibe Mobile
+                - date: '2015-10-13'
+                  acquiree: Divshot
+                - date: '2015-10-17'
+                  acquiree: Digisfera
+                - date: '2015-11-06'
+                  acquiree: Fly Labs
+                - date: '2015-11-19'
+                  acquiree: Bebop
+                  price: 380200000
+                - date: '2016-02-18'
+                  acquiree: Pie
+                - date: '2016-05-01'
+                  acquiree: Synergyse
+                - date: '2016-06-22'
+                  acquiree: Webpass
+                - date: '2016-07-06'
+                  acquiree: Moodstocks
+                - date: '2016-07-07'
+                  acquiree: Anvato
+                - date: '2016-07-12'
+                  acquiree: Kifi
+                - date: '2016-07-27'
+                  acquiree: LaunchKit
+                - date: '2016-08-08'
+                  acquiree: Orbitera
+                - date: '2016-09-08'
+                  acquiree: Apigee
+                  price: 625000000
+                - date: '2016-09-15'
+                  acquiree: Urban Engines
+                - date: '2016-09-19'
+                  acquiree: Dialogflow
+                - date: '2016-10-01'
+                  acquiree: Undecidable Labs
+                - date: '2016-10-11'
+                  acquiree: FameBit
+                - date: '2016-10-24'
+                  acquiree: Eyefluence
+                - date: '2016-11-07'
+                  acquiree: LeapDroid
+                - date: '2016-11-21'
+                  acquiree: Qwiklabs
+                - date: '2016-12-12'
+                  acquiree: Cronologics Corporation
+                - date: '2017-01-06'
+                  acquiree: Limes Audio
+                - date: '2017-01-18'
+                  acquiree: Crashlytics
+                - date: '2017-01-18'
+                  acquiree: Fastlane
+                - date: '2017-03-07'
+                  acquiree: Kaggle
+                - date: '2017-03-09'
+                  acquiree: AppBridge
+                - date: '2017-05-10'
+                  acquiree: Owlchemy Labs
+                - date: '2017-07-12'
+                  acquiree: Halli Labs
+                - date: '2017-08-06'
+                  acquiree: Redux ST
+                - date: '2017-08-14'
+                  acquiree: Senosis Health
+                - date: '2017-08-16'
+                  acquiree: AIMatter
+                - date: '2017-09-21'
+                  acquiree: HTC - Pixel Phone Division
+                  price: 1100000000
+                - date: '2017-10-09'
+                  acquiree: Relay Media
+                - date: '2017-10-11'
+                  acquiree: 60dB
+                - date: '2018-02-15'
+                  acquiree: Xively
+                  price: 50000000
+                - date: '2018-03-27'
+                  acquiree: Tenor Inc
+                - date: '2018-05-09'
+                  acquiree: Velostrata
+                - date: '2018-05-15'
+                  acquiree: Cask
+                - date: '2018-08-06'
+                  acquiree: GraphicsFuzz
+                - date: '2018-10-02'
+                  acquiree: Onward
+                - date: '2018-11-28'
+                  acquiree: Workbench Platform
+                - date: '2018-12-10'
+                  acquiree: Where Is My Train
+                - date: '2018-12-20'
+                  acquiree: DevOps Research and Assessment
+                - date: '2019-02-19'
+                  acquiree: Alooma
+                - date: '2019-06-06'
+                  acquiree: Looker
+                  price: 2600000000
+                - date: '2019-07-09'
+                  acquiree: Elastifile
+                - date: '2019-08-17'
+                  acquiree: Socratic
+                - date: '2019-11-01'
+                  acquiree: Fitbit
+                  price: 2100000000
+                - date: '2019-12-12'
+                  acquiree: Typhoon Studios
+                - date: '2020-01-14'
+                  acquiree: Pointy
+                  price: 163000000
+                - date: '2020-01-15'
+                  acquiree: AppSheet
+                - date: '2020-06-29'
+                  acquiree: North
+                  price: 180000000
+                - date: '2020-12-15'
+                  acquiree: Neverware
+                - date: '2021-04-05'
+                  acquiree: Dysonics
+                - date: '2021-05-07'
+                  acquiree: Provino Technologies
+              parents:
+                - https://www.crunchbase.com/organization/alphabet
+              ticker: GOOG
+              funding: 36100000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Collaboration
+                - Enterprise Software
+                - Information Technology
+                - Search Engine
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Jsonnet
+                  value: 2434356
+                  color: '#0064bd'
+                - name: Python
+                  value: 1850582
+                  color: '#3572A5'
+                - name: Go
+                  value: 939544
+                  color: '#00ADD8'
+                - name: Shell
+                  value: 47453
+                  color: '#89e051'
+                - name: Makefile
+                  value: 15274
+                  color: '#427819'
+                - name: Dockerfile
+                  value: 9202
+                  color: '#384d54'
+              contributions: 5;5;11;11;6;4;8;8;7;4;2;14;7;3;10;7;13;10;8;8;11;11;7;4;6;4;11;9;4;4;3;1;7;1;5;6;2;5;4;1;0;3;1;1;1;3;0;0;4;12;8;1
+              firstWeek: 2020-10-25Z
+              stars: 1168
+              license: Apache License 2.0
+              description: Serverless Inferencing on Kubernetes
+              latest_commit_date: '2021-10-14T12:27:26Z'
+              latest_commit_link: /kserve/kserve/commit/fb239bde6395e107a9e884ff36671cdf23a0571d
+              release_date: '2021-10-10T18:17:22Z'
+              release_link: https://github.com/kserve/kserve/releases
+              contributors_count: 136
+              contributors_link: https://github.com/kserve/kserve/graphs/contributors
+            repos:
+              - url: https://github.com/kserve/kserve
+                stars: 1168
+            github_start_commit_data:
+              start_commit_link: /kserve/kserve/commit/1090e95705a31f082784a87019d57c4f533e242a
+              start_date: '2019-03-27T21:14:15Z'
+            yahoo_finance_data:
+              market_cap: 1648919838720
+              effective_ticker: GOOG
+            image_data:
+              fileName: k-serve.svg
+              hash: 7ae3WypzoCw+vUY/t0M5FcoOmy0VbWCFv4Dhi0tNblQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-21T06:37:35.000Z
+          - item:
             name: KFServing
             homepage_url: https://www.kubeflow.org/docs/components/kfserving
             repo_url: https://github.com/kubeflow/kfserving
@@ -32546,6 +33507,66 @@ landscape:
       - subcategory:
         name: Training
         items:
+          - item:
+            name: Substra
+            homepage_url: https://github.com/Substra/substra
+            repo_url: https://github.com/Substra/substra
+            project: incubating
+            logo: substra.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            crunchbase_data:
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
+            github_data:
+              languages:
+                - name: Python
+                  value: 328847
+                  color: '#3572A5'
+                - name: Makefile
+                  value: 465
+                  color: '#427819'
+              contributions: 5;2;3;1;3;1;0;4;2;1;3;12;3;2;8;2;0;0;0;4;0;2;1;2;0;4;0;0;0;1;2;1;0;1;1;0;0;0;0;2;2;0;2;2;0;3;0;0;0;0;0;0
+              firstWeek: 2020-06-28Z
+              stars: 117
+              license: Apache License 2.0
+              description: Substra is a framework for traceable ML orchestration on decentralized sensitive data.
+              latest_commit_date: '2021-05-06T16:17:07Z'
+              latest_commit_link: /Substra/substra/commit/f90c885689e45bc5282b7007443d5a12e0fa364c
+              release_date: '2021-04-21T08:21:07Z'
+              release_link: https://github.com/Substra/substra/releases
+              contributors_count: 19
+              contributors_link: https://github.com/Substra/substra/graphs/contributors
+            repos:
+              - url: https://github.com/Substra/substra
+                stars: 117
+            github_start_commit_data:
+              start_commit_link: /SubstraFoundation/substra/commit/18595e28ef7625a90a972a611e47edaabc046838
+              start_date: '2018-10-23T16:11:11Z'
+            image_data:
+              fileName: substra.svg
+              hash: CjF8ApipsuX2Oqrglylsf8A8IWJA0JQIkmCLPQ/sxPM=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T20:35:40.000Z
           - item:
             name: Embedded Learning Library
             homepage_url: https://microsoft.github.io/ELL/
@@ -34393,7 +35414,7 @@ landscape:
               latest_tweet_date: 2021-06-17T20:35:40.000Z
           - item:
             name: Machine Learning eXchange
-            homepage_url: https://github.com/machine-learning-exchange/mlx
+            homepage_url: https://ml-exchange.org/
             project: sandbox
             repo_url: https://github.com/machine-learning-exchange/mlx
             logo: mlx.svg
@@ -34945,6 +35966,90 @@ landscape:
       - subcategory:
         name: Workflow
         items:
+          - item:
+            name: BentoML
+            homepage_url: https://www.bentoml.ai/
+            repo_url: https://github.com/bentoml/BentoML
+            logo: bentoml.svg
+            twitter: https://twitter.com/bentomlai
+            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+            crunchbase_data:
+              name: Maiot
+              description: We commoditize production-ready Machine Learning
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://maiot.io/
+              city: Munich
+              region: Bayern
+              country: Germany
+              twitter: null
+              linkedin: https://www.linkedin.com/company/70406980/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries: []
+            github_data:
+              languages:
+                - name: Python
+                  value: 1669931
+                  color: '#3572A5'
+                - name: JavaScript
+                  value: 660073
+                  color: '#f1e05a'
+                - name: TypeScript
+                  value: 45326
+                  color: '#2b7489'
+                - name: Shell
+                  value: 34538
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 30333
+                  color: '#384d54'
+                - name: Jupyter Notebook
+                  value: 28518
+                  color: '#DA5B0B'
+                - name: Jinja
+                  value: 17059
+                - name: Makefile
+                  value: 3039
+                  color: '#427819'
+                - name: Batchfile
+                  value: 1814
+                  color: '#C1F12E'
+                - name: HTML
+                  value: 1683
+                  color: '#e34c26'
+                - name: CSS
+                  value: 603
+                  color: '#563d7c'
+                - name: Mako
+                  value: 494
+              contributions: 5;3;9;13;11;7;13;7;10;6;6;10;2;2;2;12;3;7;8;6;10;12;12;8;2;3;2;4;7;11;6;5;7;20;10;8;3;6;0;0;1;0;3;0;0;0;1;5;0;1;0;0
+              firstWeek: 2020-10-25Z
+              stars: 2916
+              license: Apache License 2.0
+              description: Model Serving Made Easy
+              latest_commit_date: '2021-10-01T12:08:53Z'
+              latest_commit_link: /bentoml/BentoML/commit/b19def038fe9ddd04602acf213ea56647deae67f
+              release_date: '2021-07-13T10:52:52Z'
+              release_link: https://github.com/bentoml/BentoML/releases
+              contributors_count: 88
+              contributors_link: https://github.com/bentoml/BentoML/graphs/contributors
+            repos:
+              - url: https://github.com/bentoml/BentoML
+                stars: 2916
+            github_start_commit_data:
+              start_commit_link: /bentoml/BentoML/commit/09f4bb198f55498a46461f89bba3293a70d69373
+              start_date: '2019-04-02T01:50:54Z'
+            image_data:
+              fileName: bento-ml.svg
+              hash: DrfgbKVNfg+BtuEIdZPt4aKEcgBrD+rm0RZmpVoV60c=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-04-25T13:52:27.000Z
           - item:
             name: Apache Airflow
             homepage_url: https://airflow.apache.org/
@@ -35824,26 +36929,27 @@ landscape:
             homepage_url: https://kedro.readthedocs.io/en/stable
             repo_url: https://github.com/quantumblacklabs/kedro
             logo: kedro.svg
-            crunchbase: https://www.crunchbase.com/organization/quantumblack
+            project: incubating
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             crunchbase_data:
-              name: QuantumBlack
-              description: QuantumBlack Visual Analytics Limited provides advanced data analytics services for critical decisions to various companies.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: http://www.quantumblack.com
-              city: London
-              region: England
-              country: United Kingdom
-              twitter: https://www.twitter.com/quantumblack
-              linkedin: https://www.linkedin.com/company/quantumblack
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
               acquisitions: []
-              parents: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
-              company_type: For Profit
+              company_type: Non Profit
               industries:
-                - Analytics
-                - Consulting
-                - Information Technology
+                - Artificial Intelligence
+                - Machine Learning
                 - Software
             github_data:
               languages:
@@ -35878,12 +36984,12 @@ landscape:
               start_date: '2019-05-16T13:10:52Z'
             image_data:
               fileName: kedro.svg
-              hash: znJ++BBGuH9dKKSOuayqI7AJhkb4iKTTLjdkO6NB0vQ=
+              hash: HzUf/oMXMvz0/qxTPfcFo0ZvRU2hcQSW7au08RcA5+g=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T10:56:26.000Z
+              latest_tweet_date: 2021-06-17T20:35:40.000Z
           - item:
             name: Luigi
             homepage_url: https://github.com/spotify/luigi
@@ -36289,6 +37395,592 @@ landscape:
       - subcategory:
         name: Tool
         items:
+          - item:
+            name: FLAML
+            homepage_url: https://github.com/microsoft/FLAML
+            repo_url: https://github.com/microsoft/FLAML
+            logo: flaml.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+            crunchbase_data:
+              name: Microsoft
+              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://www.microsoft.com
+              city: Redmond
+              region: Washington
+              country: United States
+              twitter: http://twitter.com/Microsoft
+              linkedin: https://www.linkedin.com/company/microsoft
+              acquisitions:
+                - date: '1987-07-30'
+                  acquiree: Forethought
+                  price: 14000000
+                - date: '1991-03-08'
+                  acquiree: Consumers Software
+                - date: '1992-03-25'
+                  acquiree: Fox Software
+                - date: '1994-02-15'
+                  acquiree: SoftImage
+                - date: '1994-09-27'
+                  acquiree: Altamira Software
+                - date: '1994-11-01'
+                  acquiree: NextBase
+                - date: '1994-11-16'
+                  acquiree: One Tree Software Ltd
+                - date: '1995-02-23'
+                  acquiree: RenderMorphics
+                - date: '1995-07-10'
+                  acquiree: Network Managers
+                - date: '1995-10-16'
+                  acquiree: Blue Ribbon SoundWorks
+                - date: '1995-11-06'
+                  acquiree: Netwise
+                - date: '1995-12-12'
+                  acquiree: Bruce Artwick Organization
+                - date: '1996-01-16'
+                  acquiree: Vermeer Technologies
+                - date: '1996-03-12'
+                  acquiree: Colusa Software
+                - date: '1996-04-15'
+                  acquiree: EXOS
+                - date: '1996-04-23'
+                  acquiree: Aspect Software Inc
+                - date: '1996-06-11'
+                  acquiree: eShop
+                - date: '1996-06-17'
+                  acquiree: Electric Gravity
+                - date: '1996-12-10'
+                  acquiree: NetCarta
+                - date: '1997-03-03'
+                  acquiree: Interse
+                - date: '1997-04-06'
+                  acquiree: WebTV Networks
+                - date: '1997-05-07'
+                  acquiree: Dimension X
+                - date: '1997-06-13'
+                  acquiree: Cooper & Peters
+                - date: '1997-06-30'
+                  acquiree: LinkAge Software
+                - date: '1997-08-05'
+                  acquiree: VXtreme
+                - date: '1997-12-31'
+                  acquiree: Hotmail
+                - date: '1997-12-31'
+                  acquiree: Windows Live Hotmail
+                - date: '1998-04-09'
+                  acquiree: Firefly Network
+                - date: '1998-04-28'
+                  acquiree: MESA Group
+                - date: '1998-06-23'
+                  acquiree: Merchant Planet
+                - date: '1998-08-25'
+                  acquiree: Valence Research
+                - date: '1998-08-25'
+                  acquiree: Valence Technology
+                - date: '1998-11-05'
+                  acquiree: linkexchange
+                - date: '1999-01-08'
+                  acquiree: FASA Interactive
+                - date: '1999-03-04'
+                  acquiree: CompareNet
+                - date: '1999-03-28'
+                  acquiree: Numinous Technologies
+                - date: '1999-04-26'
+                  acquiree: Jump Networks
+                - date: '1999-06-07'
+                  acquiree: ShadowFactor Software
+                - date: '1999-06-14'
+                  acquiree: OmniBrowse
+                - date: '1999-07-01'
+                  acquiree: Sendit
+                - date: '1999-07-07'
+                  acquiree: Zoomit
+                - date: '1999-07-21'
+                  acquiree: STNC
+                - date: '1999-07-28'
+                  acquiree: Intrinsa
+                  price: 58900000
+                - date: '1999-09-15'
+                  acquiree: Visio Corporation
+                - date: '1999-09-17'
+                  acquiree: Softway Systems
+                - date: '1999-10-29'
+                  acquiree: Entropic
+                - date: '1999-11-01'
+                  acquiree: Entropic Research Laboratories
+                - date: '2000-02-29'
+                  acquiree: Peach Networks
+                - date: '2000-06-19'
+                  acquiree: Bungie
+                - date: '2000-07-12'
+                  acquiree: NetGames
+                - date: '2000-09-13'
+                  acquiree: MongoMusic
+                  price: 65000000
+                - date: '2000-09-18'
+                  acquiree: Pacific Microsonics
+                - date: '2000-12-05'
+                  acquiree: Digital Anvil
+                - date: '2000-12-21'
+                  acquiree: Great Plains Software
+                - date: '2001-04-30'
+                  acquiree: NCompass Labs
+                - date: '2001-09-13'
+                  acquiree: XDegrees
+                - date: '2002-05-07'
+                  acquiree: Navision
+                  price: 1450000000
+                - date: '2002-09-24'
+                  acquiree: Rare
+                  price: 337000000
+                - date: '2002-10-22'
+                  acquiree: Vicinity Corporation
+                  price: 96000000
+                - date: '2003-02-19'
+                  acquiree: Connectix
+                - date: '2003-03-04'
+                  acquiree: Pelican Security
+                  price: 1000000
+                - date: '2003-04-30'
+                  acquiree: PlaceWare
+                - date: '2003-06-10'
+                  acquiree: RAV Antivirus
+                - date: '2004-04-26'
+                  acquiree: ActiveViews
+                - date: '2004-07-17'
+                  acquiree: Lookout Software
+                - date: '2004-12-16'
+                  acquiree: GIANT Company Software
+                - date: '2005-02-08'
+                  acquiree: Sybari
+                - date: '2005-03-10'
+                  acquiree: Groove Networks
+                - date: '2005-05-11'
+                  acquiree: MessageCast
+                - date: '2005-07-20'
+                  acquiree: Frontbridge Technologies
+                - date: '2005-08-30'
+                  acquiree: Teleo
+                - date: '2005-09-19'
+                  acquiree: Alacris
+                - date: '2005-10-06'
+                  acquiree: Unveil Technologies
+                - date: '2005-11-02'
+                  acquiree: Media-Streams.com
+                - date: '2005-11-03'
+                  acquiree: FolderShare
+                - date: '2005-11-17'
+                  acquiree: 5th Finger
+                - date: '2006-01-28'
+                  acquiree: SeaDragon Software
+                - date: '2006-02-13'
+                  acquiree: Motion Bridge
+                - date: '2006-03-07'
+                  acquiree: Apptimum
+                - date: '2006-03-07'
+                  acquiree: Onfolio
+                - date: '2006-04-03'
+                  acquiree: ProClarity
+                - date: '2006-04-06'
+                  acquiree: Lionhead Studios
+                - date: '2006-04-26'
+                  acquiree: AssetMetrix Corporation
+                - date: '2006-05-01'
+                  acquiree: Massive
+                  price: 200000000
+                - date: '2006-05-04'
+                  acquiree: DeepMetrix
+                - date: '2006-05-04'
+                  acquiree: Vexcel
+                - date: '2006-05-18'
+                  acquiree: Whale Communications
+                  price: 75000000
+                - date: '2006-06-27'
+                  acquiree: iView Multimedia
+                - date: '2006-07-17'
+                  acquiree: Softricity
+                - date: '2006-07-18'
+                  acquiree: Winternals
+                - date: '2006-07-26'
+                  acquiree: Azyxxi
+                - date: '2006-09-26'
+                  acquiree: Gteko
+                - date: '2006-10-02'
+                  acquiree: DesktopStandard
+                - date: '2006-10-12'
+                  acquiree: Colloquis
+                - date: '2007-02-26'
+                  acquiree: Medstory
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-14'
+                  acquiree: Tellme
+                  price: 800000000
+                - date: '2007-03-28'
+                  acquiree: devBiz Business Solutions
+                - date: '2007-05-03'
+                  acquiree: Screen Tonic
+                - date: '2007-05-18'
+                  acquiree: aQuantive
+                  price: 6400000000
+                - date: '2007-06-05'
+                  acquiree: Engyro
+                - date: '2007-06-07'
+                  acquiree: Stratature
+                - date: '2007-07-26'
+                  acquiree: AdECN
+                - date: '2007-08-29'
+                  acquiree: Parlano
+                - date: '2007-10-29'
+                  acquiree: Global Care Solutions
+                - date: '2007-11-15'
+                  acquiree: Musiwave
+                  price: 46000000
+                - date: '2007-11-30'
+                  acquiree: WebFives
+                - date: '2007-12-12'
+                  acquiree: MultiMap
+                - date: '2008-01-08'
+                  acquiree: Fast Search & Transfer
+                - date: '2008-01-21'
+                  acquiree: Calista Technologies
+                - date: '2008-02-07'
+                  acquiree: Caligari Corporation
+                - date: '2008-02-11'
+                  acquiree: Danger
+                  price: 500000000
+                - date: '2008-02-27'
+                  acquiree: YaData
+                - date: '2008-03-08'
+                  acquiree: Credentica
+                - date: '2008-03-12'
+                  acquiree: Kidaro
+                  price: 90000000
+                - date: '2008-03-14'
+                  acquiree: 90 Degree Software
+                - date: '2008-03-14'
+                  acquiree: Rapt
+                - date: '2008-03-20'
+                  acquiree: Komoku
+                - date: '2008-04-09'
+                  acquiree: Farecast
+                  price: 115000000
+                - date: '2008-06-18'
+                  acquiree: Navic Networks
+                - date: '2008-06-18'
+                  acquiree: Navic Systems
+                - date: '2008-06-26'
+                  acquiree: MobiComp
+                - date: '2008-07-01'
+                  acquiree: Powerset
+                  price: 100000000
+                - date: '2008-07-14'
+                  acquiree: Zoomix
+                - date: '2008-07-25'
+                  acquiree: DATAllegro
+                - date: '2008-08-29'
+                  acquiree: Greenfield Online
+                  price: 486000000
+                - date: '2008-08-31'
+                  acquiree: Ciao AG
+                - date: '2009-05-07'
+                  acquiree: BigPark
+                - date: '2009-06-01'
+                  acquiree: Rosetta Biosoftware
+                - date: '2009-06-28'
+                  acquiree: ClickStream Technologies
+                - date: '2009-09-22'
+                  acquiree: Interactive Supercomputing
+                - date: '2009-12-10'
+                  acquiree: Sentillion
+                - date: '2009-12-11'
+                  acquiree: Opalis Software
+                - date: '2010-10-06'
+                  acquiree: AVIcode
+                - date: '2010-10-29'
+                  acquiree: Canesta
+                - date: '2011-05-10'
+                  acquiree: Skype
+                - date: '2011-06-08'
+                  acquiree: Prodiance Corporation
+                - date: '2011-10-12'
+                  acquiree: Twisted Pixel Games
+                - date: '2011-11-23'
+                  acquiree: VideoSurf
+                  price: 100000000
+                - date: '2012-06-25'
+                  acquiree: Yammer
+                  price: 1200000000
+                - date: '2012-07-09'
+                  acquiree: Perceptive Pixel
+                - date: '2012-10-04'
+                  acquiree: PhoneFactor
+                - date: '2012-10-16'
+                  acquiree: StorSimple
+                - date: '2012-10-17'
+                  acquiree: MarketingPilot
+                - date: '2012-12-28'
+                  acquiree: R2 Studios
+                - date: '2013-01-02'
+                  acquiree: id8 Group R2 Studios
+                - date: '2013-02-04'
+                  acquiree: Pando Networks
+                - date: '2013-03-04'
+                  acquiree: MetricsHub
+                - date: '2013-03-19'
+                  acquiree: Netbreeze
+                - date: '2013-06-03'
+                  acquiree: InRelease
+                - date: '2013-09-03'
+                  acquiree: Nokia - Devices & Services Business
+                  price: 7166381241
+                - date: '2013-10-04'
+                  acquiree: Apiphany
+                - date: '2014-01-06'
+                  acquiree: Parature
+                  price: 100000000
+                - date: '2014-04-30'
+                  acquiree: GreenButton
+                - date: '2014-05-28'
+                  acquiree: Capptain
+                - date: '2014-07-03'
+                  acquiree: SyntaxTree
+                - date: '2014-07-11'
+                  acquiree: InMage Systems
+                - date: '2014-09-15'
+                  acquiree: Mojang Studios
+                  price: 2500000000
+                - date: '2014-10-08'
+                  acquiree: Equivio
+                  price: 200000000
+                - date: '2014-11-13'
+                  acquiree: Aorato
+                  price: 200000000
+                - date: '2014-12-01'
+                  acquiree: Acompli
+                  price: 200000000
+                - date: '2014-12-11'
+                  acquiree: Bit Stadium GmbH
+                - date: '2014-12-11'
+                  acquiree: HockeyApp
+                - date: '2015-01-23'
+                  acquiree: Revolution Analytics
+                - date: '2015-02-04'
+                  acquiree: Sunrise
+                  price: 100000000
+                - date: '2015-02-12'
+                  acquiree: N-Trig
+                - date: '2015-03-26'
+                  acquiree: LiveLoop
+                - date: '2015-04-14'
+                  acquiree: Datazen Software
+                - date: '2015-06-02'
+                  acquiree: Wunderlist
+                  price: 150000000
+                - date: '2015-06-10'
+                  acquiree: BlueStripe
+                - date: '2015-07-16'
+                  acquiree: FieldOne Systems
+                - date: '2015-07-19'
+                  acquiree: Adallom
+                  price: 320000000
+                - date: '2015-08-03'
+                  acquiree: FantasySalesTeam
+                - date: '2015-09-10'
+                  acquiree: Double Labs
+                - date: '2015-09-11'
+                  acquiree: VoloMetrix
+                  price: 250000000
+                - date: '2015-09-14'
+                  acquiree: Echo Locker
+                - date: '2015-09-30'
+                  acquiree: Adxstudio
+                - date: '2015-10-02'
+                  acquiree: Havok
+                - date: '2015-11-05'
+                  acquiree: Mobile Data Labs
+                - date: '2015-11-09'
+                  acquiree: Secure Islands Technologies
+                  price: 77500000
+                - date: '2015-12-18'
+                  acquiree: Metanautix
+                - date: '2015-12-21'
+                  acquiree: Talko
+                - date: '2016-01-13'
+                  acquiree: Event Zero
+                - date: '2016-01-19'
+                  acquiree: MinecraftEdu
+                - date: '2016-02-02'
+                  acquiree: SwiftKey
+                  price: 250000000
+                - date: '2016-02-09'
+                  acquiree: Groove (dba Zikera)
+                - date: '2016-02-24'
+                  acquiree: Xamarin
+                - date: '2016-05-03'
+                  acquiree: Solair
+                - date: '2016-06-13'
+                  acquiree: LinkedIn
+                  price: 26200000000
+                - date: '2016-06-16'
+                  acquiree: Wand Labs
+                - date: '2016-06-28'
+                  acquiree: Code Connect
+                - date: '2016-08-11'
+                  acquiree: Mixer
+                - date: '2016-08-22'
+                  acquiree: Genee
+                - date: '2017-01-13'
+                  acquiree: Maluuba
+                - date: '2017-01-17'
+                  acquiree: Donya Labs
+                - date: '2017-04-01'
+                  acquiree: Open Build Service
+                - date: '2017-04-10'
+                  acquiree: Deis.com
+                - date: '2017-04-18'
+                  acquiree: Intentional Software
+                - date: '2017-05-24'
+                  acquiree: Hexadite
+                  price: 100000000
+                - date: '2017-06-28'
+                  acquiree: Cloudyn
+                  price: 60000000
+                - date: '2017-08-15'
+                  acquiree: Cycle Computing
+                - date: '2017-10-04'
+                  acquiree: AltspaceVR
+                - date: '2017-11-07'
+                  acquiree: Swing Technologies
+                - date: '2018-01-03'
+                  acquiree: Avere Systems
+                - date: '2018-01-29'
+                  acquiree: PlayFab
+                - date: '2018-02-13'
+                  acquiree: Chalkup
+                - date: '2018-05-20'
+                  acquiree: Semantic Machines
+                - date: '2018-06-03'
+                  acquiree: GitHub
+                  price: 7500000000
+                - date: '2018-06-10'
+                  acquiree: Compulsion Games
+                - date: '2018-06-10'
+                  acquiree: Ninja Theory
+                - date: '2018-06-10'
+                  acquiree: Playground Games
+                - date: '2018-06-10'
+                  acquiree: Undead Labs
+                - date: '2018-06-18'
+                  acquiree: FlipGrid
+                - date: '2018-06-20'
+                  acquiree: Bonsai
+                - date: '2018-09-13'
+                  acquiree: Lobe
+                - date: '2018-11-10'
+                  acquiree: Obsidian Entertainment
+                - date: '2018-11-10'
+                  acquiree: inXile Entertainment
+                - date: '2018-11-14'
+                  acquiree: XOXCO
+                - date: '2018-11-19'
+                  acquiree: FSLogix
+                - date: '2019-01-24'
+                  acquiree: Citus Data
+                - date: '2019-02-04'
+                  acquiree: DataSense
+                - date: '2019-04-18'
+                  acquiree: Express Logic
+                - date: '2019-07-29'
+                  acquiree: BlueTalon
+                - date: '2019-08-05'
+                  acquiree: PromoteIQ
+                - date: '2019-08-19'
+                  acquiree: jClarity
+                - date: '2019-09-04'
+                  acquiree: Movere
+                - date: '2019-10-21'
+                  acquiree: Mover
+                - date: '2020-03-26'
+                  acquiree: Affirmed Networks
+                  price: 1350000000
+                - date: '2020-05-05'
+                  acquiree: CyberX
+                  price: 165000000
+                - date: '2020-05-14'
+                  acquiree: Metaswitch Networks
+                - date: '2020-05-19'
+                  acquiree: Softomotive
+                - date: '2020-06-18'
+                  acquiree: ADRM Software
+                - date: '2020-07-08'
+                  acquiree: Orions Systems
+                - date: '2020-09-21'
+                  acquiree: ZeniMax
+                  price: 7500000000
+                - date: '2020-12-02'
+                  acquiree: Smash.gg
+                - date: '2021-03-16'
+                  acquiree: The Marsden Group
+                - date: '2021-04-12'
+                  acquiree: Nuance Communications
+                  price: 19700000000
+                - date: '2021-04-29'
+                  acquiree: Kinvolk
+                - date: '2021-06-02'
+                  acquiree: ReFirm Labs
+              parents: []
+              ticker: MSFT
+              funding: 1000000
+              stockExchange: nasdaq
+              company_type: For Profit
+              industries:
+                - Developer Tools
+                - Enterprise Software
+                - Operating Systems
+                - Software
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Python
+                  value: 763093
+                  color: '#3572A5'
+                - name: Jupyter Notebook
+                  value: 733548
+                  color: '#DA5B0B'
+                - name: Dockerfile
+                  value: 1517
+                  color: '#384d54'
+              contributions: 0;0;0;0;0;0;1;4;1;1;0;0;0;0;0;17;7;1;1;2;4;4;1;2;3;5;3;2;2;1;3;2;7;4;8;2;2;1;2;2;4;0;2;3;2;5;6;2;3;0;5;11
+              firstWeek: 2020-10-25Z
+              stars: 1489
+              license: MIT License
+              description: A fast and lightweight AutoML library.
+              latest_commit_date: '2021-10-19T20:39:28Z'
+              latest_commit_link: /microsoft/FLAML/commit/94a81a95adf08436b7121cd173aa6c8c52a2b7d9
+              release_date: '2021-10-20T05:02:25Z'
+              release_link: https://github.com/microsoft/FLAML/releases
+              contributors_count: 18
+              contributors_link: https://github.com/microsoft/FLAML/graphs/contributors
+            repos:
+              - url: https://github.com/microsoft/FLAML
+                stars: 1489
+            github_start_commit_data:
+              start_commit_link: /microsoft/FLAML/commit/492990655d09a144d99e91de4dedda761a70302e
+              start_date: '2020-12-04T17:40:27Z'
+            yahoo_finance_data:
+              market_cap: 1953915207680
+              effective_ticker: MSFT
+            image_data:
+              fileName: flaml.svg
+              hash: HRlLSyznTQuLssMd+IxIZVOqmVW72+XLY+qcyVvhdDE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-19T16:00:04.000Z
           - item:
             name: AIMET
             homepage_url: https://github.com/quic/aimet
@@ -39743,6 +41435,79 @@ landscape:
         name: Programming
         items:
           - item:
+            name: Kompute
+            homepage_url: https://kompute.cc
+            project: sandbox
+            repo_url: https://github.com/KomputeProject/kompute
+            logo: kompute.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            crunchbase_data:
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
+            github_data:
+              languages:
+                - name: C++
+                  value: 543877
+                  color: '#f34b7d'
+                - name: Python
+                  value: 28246
+                  color: '#3572A5'
+                - name: CMake
+                  value: 12954
+                - name: Makefile
+                  value: 7664
+                  color: '#427819'
+                - name: Shell
+                  value: 6985
+                  color: '#89e051'
+                - name: Dockerfile
+                  value: 4554
+                  color: '#384d54'
+              contributions: 9;69;35;9;0;0;0;0;4;5;5;1;9;41;15;46;30;51;41;48;29;5;12;10;6;6;1;3;15;2;0;8;0;2;4;5;0;0;15;3;0;0;0;1;6;0;38;12;3;0;0;0
+              firstWeek: 2020-10-25Z
+              stars: 581
+              license: Apache License 2.0
+              description: >-
+                General purpose GPU compute framework for cross vendor graphics cards (AMD, Qualcomm, NVIDIA & friends). Blazing fast, mobile-enabled,
+                asynchronous and optimized for advanced GPU data processing usecases. Backed by the Linux Foundation.
+              latest_commit_date: '2021-09-29T17:11:29Z'
+              latest_commit_link: /KomputeProject/kompute/commit/304ed846d281349fb0b49704e3689c990b0b8b34
+              release_date: '2021-09-16T04:09:57Z'
+              release_link: https://github.com/KomputeProject/kompute/releases
+              contributors_count: 15
+              contributors_link: https://github.com/KomputeProject/kompute/graphs/contributors
+            repos:
+              - url: https://github.com/KomputeProject/kompute
+                stars: 581
+            github_start_commit_data:
+              start_commit_link: /KomputeProject/kompute/commit/2879d3d274967e87087d567bcc659804b1707d0a
+              start_date: '2020-07-29T06:54:43Z'
+            image_data:
+              fileName: kompute.svg
+              hash: T/kiZuhvAVvTyGcMFwTfs23EikOIQAYxDOhQc9slXX4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T20:35:40.000Z
+          - item:
             name: Dask
             homepage_url: https://docs.dask.org/en/latest/
             repo_url: https://github.com/dask/dask
@@ -42265,6 +44030,193 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+          - item:
+            name: GraphScope
+            description: A One-Stop Large-Scale Graph Computing System from Alibaba
+            homepage_url: https://graphscope.io
+            repo_url: https://github.com/alibaba/graphscope
+            logo: graphscope.svg
+            crunchbase: https://www.crunchbase.com/organization/alibaba
+            crunchbase_data:
+              name: Alibaba Group
+              description: Alibaba Group enables businesses to transform the way they market, sell, operate and improve their efficiencies.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://alibabagroup.com
+              city: Hangzhou
+              region: Zhejiang
+              country: China
+              twitter: https://twitter.com/alibabagroup
+              linkedin: https://www.linkedin.com/company/alibaba-group
+              acquisitions:
+                - date: '2013-04-26'
+                  acquiree: Umeng+
+                - date: '2013-06-04'
+                  acquiree: Xiami Music Network
+                - date: '2013-09-25'
+                  acquiree: Kanbox
+                - date: '2013-12-03'
+                  acquiree: TTPod
+                - date: '2014-04-13'
+                  acquiree: AutoNavi
+                - date: '2014-06-11'
+                  acquiree: UCWeb
+                  price: 4700000000
+                - date: '2015-01-06'
+                  acquiree: AdChina
+                - date: '2015-04-21'
+                  acquiree: 365 Translation
+                - date: '2015-05-01'
+                  acquiree: Zuodao.com
+                - date: '2015-10-16'
+                  acquiree: Youku
+                  price: 3500000000
+                - date: '2015-11-05'
+                  acquiree: Youku
+                  price: 4400000000
+                - date: '2015-12-11'
+                  acquiree: South China Morning Post
+                  price: 262000000
+                - date: '2016-03-06'
+                  acquiree: AGTech Holdings
+                  price: 307818685
+                - date: '2016-04-05'
+                  acquiree: SCMP Group
+                  price: 266000000
+                - date: '2016-07-05'
+                  acquiree: Wandoujia
+                  price: 200000000
+                - date: '2016-07-07'
+                  acquiree: Ali Jiankang Dayaofang
+                  price: 2514013
+                - date: '2017-03-21'
+                  acquiree: Damai.cn
+                - date: '2017-09-26'
+                  acquiree: Cainiao Logistics
+                - date: '2017-09-27'
+                  acquiree: Ejoy Technology
+                - date: '2017-09-28'
+                  acquiree: Ejoy Technology
+                - date: '2017-12-03'
+                  acquiree: Visualead
+                - date: '2018-02-26'
+                  acquiree: ELEME
+                  price: 9500000000
+                - date: '2018-04-20'
+                  acquiree: C-SKY Microsystems
+                - date: '2018-05-08'
+                  acquiree: Daraz.pk
+                - date: '2018-06-30'
+                  acquiree: Trendyol Group
+                  price: 728000000
+                - date: '2018-09-06'
+                  acquiree: OpenSky
+                - date: '2019-01-07'
+                  acquiree: Ververica
+                  price: 103305785
+                - date: '2019-03-24'
+                  acquiree: Infinity Augmented Reality
+                - date: '2019-03-28'
+                  acquiree: Teambition
+                - date: '2019-09-05'
+                  acquiree: Kaola
+                  price: 2000000000
+                - date: '2020-02-25'
+                  acquiree: Keruyun
+                - date: '2020-08-11'
+                  acquiree: Alog
+                - date: '2020-08-26'
+                  acquiree: Xiaoman Technology
+                - date: '2020-10-18'
+                  acquiree: Sun Art Retail Group
+                  price: 3600000000
+              parents: []
+              ticker: 9988.HK
+              funding: 8907000000
+              stockExchange: hkg
+              company_type: For Profit
+              industries:
+                - Association
+                - B2B
+                - E-Commerce
+                - Information Technology
+                - Infrastructure
+                - Internet
+                - Shopping
+              kind: market_cap
+            github_data:
+              languages:
+                - name: Rust
+                  value: 5950188
+                  color: '#dea584'
+                - name: Java
+                  value: 4604458
+                  color: '#b07219'
+                - name: C++
+                  value: 1734478
+                  color: '#f34b7d'
+                - name: Python
+                  value: 1690906
+                  color: '#3572A5'
+                - name: Jupyter Notebook
+                  value: 282724
+                  color: '#DA5B0B'
+                - name: Shell
+                  value: 145023
+                  color: '#89e051'
+                - name: CMake
+                  value: 49398
+                - name: Dockerfile
+                  value: 27473
+                  color: '#384d54'
+                - name: C
+                  value: 19243
+                  color: '#555555'
+                - name: Makefile
+                  value: 10136
+                  color: '#427819'
+                - name: TypeScript
+                  value: 7867
+                  color: '#2b7489'
+                - name: Smarty
+                  value: 7750
+                - name: JavaScript
+                  value: 4769
+                  color: '#f1e05a'
+                - name: CSS
+                  value: 147
+                  color: '#563d7c'
+                - name: Groovy
+                  value: 12
+                  color: '#e69f56'
+              contributions: 1;0;1;0;0;0;0;3;10;6;3;10;3;9;11;4;0;6;10;1;6;4;8;18;7;4;4;7;3;13;10;9;12;11;5;12;12;14;22;13;11;18;12;10;11;17;12;8;12;1;5;7
+              firstWeek: 2020-10-25Z
+              stars: 1067
+              license: Apache License 2.0
+              description: 'GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba'
+              latest_commit_date: '2021-10-20T11:05:40Z'
+              latest_commit_link: /alibaba/GraphScope/commit/8004e2245083a35e2b2391dacc33bccb1ade4a6f
+              release_date: '2021-09-08T12:42:03Z'
+              release_link: https://github.com/alibaba/graphscope/releases
+              contributors_count: 22
+              contributors_link: https://github.com/alibaba/graphscope/graphs/contributors
+            repos:
+              - url: https://github.com/alibaba/graphscope
+                stars: 1067
+            github_start_commit_data:
+              start_commit_link: /alibaba/GraphScope/commit/dbfd8e8b376be2c9ea9a104739054d9eee608a6a
+              start_date: '2020-10-28T03:19:35Z'
+            yahoo_finance_data:
+              market_cap: 572913286272
+              effective_ticker: 9988.HK
+            image_data:
+              fileName: graph-scope.svg
+              hash: L2C/J+Fh8YWeEYgoK+uFcrUxrPQxDJeh4cZoyhNzNJo=
+            best_practice_data:
+              badge: 4941
+              percentage: 85
+            twitter_data:
+              latest_tweet_date: 2021-10-21T07:35:06.000Z
           - item:
             name: Kubernetes
             description: Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications
@@ -48651,7 +50603,7 @@ landscape:
               start_date: '2018-01-10T00:15:30Z'
             image_data:
               fileName: streamlit.svg
-              hash: EwJWElsoe5D12zhN2oTQnkNKyDj735Zi/7/HOcgIhlo=
+              hash: KT2U6xszEO8RoXcvOKwPj+x6/1O1C7oKgzyNgY90J90=
             best_practice_data:
               badge: false
               percentage: null
@@ -50379,63 +52331,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Substra
-            homepage_url: https://www.substra.ai/
-            repo_url: https://github.com/Substra/substra
-            logo: substra.svg
-            twitter: https://twitter.com/substra_org
-            crunchbase: https://www.crunchbase.com/organization/substra-foundation
-            crunchbase_data:
-              name: Substra Foundation
-              description: Substra Foundation is an independent nonprofit organization dedicated to fostering the development of trustworthy data science ecosystems.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.substra.ai/
-              city: Nantes
-              region: Pays de la Loire
-              country: France
-              twitter: https://twitter.com/Substra_org
-              linkedin: https://www.linkedin.com/company/substra/
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Artificial Intelligence
-            github_data:
-              languages:
-                - name: Python
-                  value: 328847
-                  color: '#3572A5'
-                - name: Makefile
-                  value: 465
-                  color: '#427819'
-              contributions: 5;2;3;1;3;1;0;4;2;1;3;12;3;2;8;2;0;0;0;4;0;2;1;2;0;4;0;0;0;1;2;1;0;1;1;0;0;0;0;2;2;0;2;2;0;3;0;0;0;0;0;0
-              firstWeek: 2020-06-28Z
-              stars: 117
-              license: Apache License 2.0
-              description: Substra is a framework for traceable ML orchestration on decentralized sensitive data.
-              latest_commit_date: '2021-05-06T16:17:07Z'
-              latest_commit_link: /Substra/substra/commit/f90c885689e45bc5282b7007443d5a12e0fa364c
-              release_date: '2021-04-21T08:21:07Z'
-              release_link: https://github.com/Substra/substra/releases
-              contributors_count: 19
-              contributors_link: https://github.com/Substra/substra/graphs/contributors
-            repos:
-              - url: https://github.com/Substra/substra
-                stars: 117
-            github_start_commit_data:
-              start_commit_link: /SubstraFoundation/substra/commit/18595e28ef7625a90a972a611e47edaabc046838
-              start_date: '2018-10-23T16:11:11Z'
-            image_data:
-              fileName: substra.svg
-              hash: HhXdMN3dZEjy3W1oDG2uykBZL/wnHpw2fNJqKFnNMTg=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2021-06-14T09:32:59.000Z
-          - item:
             name: TensorFlow Privacy
             homepage_url: https://github.com/tensorflow/privacy
             repo_url: https://github.com/tensorflow/privacy
@@ -51781,8 +53676,9 @@ landscape:
             name: Baidu Online Network Technology (Beijing) Co., Ltd
             homepage_url: https://baidu.com/
             logo: baidu_online_network_technology_beijing_co_ltd.svg
-            twitter: https://twitter.com/BaiduResearch
+            twitter: https://twitter.com/Baidu_Inc
             crunchbase: https://www.crunchbase.com/organization/baidu
+            stock_ticker: null
             crunchbase_data:
               name: Baidu
               description: Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.
@@ -51837,15 +53733,15 @@ landscape:
               effective_ticker: BIDU
             image_data:
               fileName: baidu-online-network-technology-beijing-co-ltd.svg
-              hash: BFQOXO2QWQKOKdA5Mjgd8gEFFV2m+ZrcZYP+WrwXPlw=
+              hash: br7V0KeqeQOUoUqcsgfc+mxwraxZ7PMcgXCYtrteC0k=
             best_practice_data:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2021-06-18T20:00:00.000Z
+              latest_tweet_date: 2021-06-18T16:01:14.000Z
           - item:
             name: Ericsson
-            homepage_url: https://www.ericsson.com/en
+            homepage_url: https://ericsson.com/
             logo: ericsson.svg
             twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
@@ -51964,7 +53860,7 @@ landscape:
               effective_ticker: ERIC
             image_data:
               fileName: ericsson.svg
-              hash: HhjCc1eNOMDeLu0ftdKCe9SnwIinEmKKa4iqIsIQbWw=
+              hash: MyEKaCGH8/4XN65onAFhwB1VLdiJZBtejx79ncCF6t4=
             best_practice_data:
               badge: false
               percentage: null
@@ -51972,9 +53868,9 @@ landscape:
               latest_tweet_date: 2021-06-21T05:30:08.000Z
           - item:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
-            homepage_url: https://www.oppo.com/nl
+            homepage_url: https://oppo.com/
             logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
-            twitter: https://twitter.com/oppomobileindia
+            twitter: https://twitter.com/oppo
             crunchbase: https://www.crunchbase.com/organization/oppo
             crunchbase_data:
               name: Oppo
@@ -52001,9 +53897,11 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-21T05:00:00.000Z
           - item:
             name: Huawei Technologies Co., Ltd
-            homepage_url: https://www.huawei.com/en
+            homepage_url: https://huawei.com/
             logo: huawei_technologies_co_ltd.svg
             twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
@@ -52053,7 +53951,7 @@ landscape:
                 - Wireless
             image_data:
               fileName: huawei-technologies-co-ltd.svg
-              hash: 2EzPM0nxaY7FP8hejX13fWBbi99eQNy9bxeIONiwrWo=
+              hash: HW/hKGtx9MyoGe2QPi3NdjeH6d9Ec3HCFp65qq/heKM=
             best_practice_data:
               badge: false
               percentage: null
@@ -52061,7 +53959,7 @@ landscape:
               latest_tweet_date: 2021-06-21T06:25:14.000Z
           - item:
             name: International Business Machines Corporation
-            homepage_url: https://www.ibm.com/us-en
+            homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
             twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -52519,10 +54417,10 @@ landscape:
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
-            stock_ticker: NOK
             logo: nokia_corporation.svg
             twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
+            stock_ticker: NOK
             crunchbase_data:
               name: Nokia
               description: Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices and network infrastructure.
@@ -52679,7 +54577,7 @@ landscape:
               latest_tweet_date: 2021-06-20T10:30:13.000Z
           - item:
             name: SAS Institute Inc.
-            homepage_url: https://www.sas.com/en_us/home.geo.html
+            homepage_url: https://sas.com/
             logo: sas_institute_inc.svg
             twitter: https://twitter.com/SASInstitute
             crunchbase: https://www.crunchbase.com/organization/sas
@@ -52729,7 +54627,7 @@ landscape:
               latest_tweet_date: 2010-08-12T20:12:48.000Z
           - item:
             name: Tech Mahindra Limited
-            homepage_url: https://www.techmahindra.com/en-in
+            homepage_url: https://techmahindra.com/
             logo: tech_mahindra_limited.svg
             twitter: https://twitter.com/tech_mahindra
             crunchbase: https://www.crunchbase.com/organization/tech-mahindra
@@ -52926,7 +54824,7 @@ landscape:
               kind: funding
             image_data:
               fileName: zilliz.svg
-              hash: K0xisuYzgivShJeJ0N7L3NqY5IFnOmdDkq25s+mO6y0=
+              hash: aYVaAO2wuvTYUWqStlns2yTgj4uy2of8UyMjwSKjdzg=
             best_practice_data:
               badge: false
               percentage: null
@@ -52934,7 +54832,7 @@ landscape:
               latest_tweet_date: 2021-05-18T00:21:28.000Z
           - item:
             name: ZTE Corporation
-            homepage_url: https://www.zte.com.cn/global
+            homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
             twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
@@ -52975,10 +54873,10 @@ landscape:
           - item:
             name: Broadcom Corporation
             homepage_url: https://broadcom.com/
-            stock_ticker: null
             logo: broadcom_corporation.svg
             twitter: https://twitter.com/Broadcom
             crunchbase: https://www.crunchbase.com/organization/broadcom
+            stock_ticker: null
             crunchbase_data:
               name: Broadcom
               description: Broadcom is a designer, developer and global supplier of a broad range of analog and digital semiconductor connectivity solutions.
@@ -53258,6 +55156,42 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-20T19:28:00.000Z
           - item:
+            name: GRAVITI TECHNOLOGIES INC
+            homepage_url: https://graviti.com/
+            logo: graviti_technologies_inc.svg
+            twitter: https://twitter.com/graviti_ai
+            crunchbase: https://www.crunchbase.com/organization/graviti
+            crunchbase_data:
+              name: Graviti
+              description: Graviti builds data management platform tailored for machine learning applications.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.graviti.com/
+              city: New York
+              region: New York
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/graviti-ai/
+              acquisitions: []
+              parents: []
+              funding: 10000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - SaaS
+                - Software
+              kind: funding
+            image_data:
+              fileName: graviti-technologies-inc.svg
+              hash: U0/TM99cI9L5+CU6Cf8cUrSZBniu4nzWOmu+x15BFpQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-20T13:00:01.000Z
+          - item:
             name: GSI Technology
             homepage_url: https://gsitechnology.com/
             logo: gsi_technology.svg
@@ -53299,29 +55233,11 @@ landscape:
             name: Herron Tech
             homepage_url: https://herrontech.com/
             logo: herron_tech.svg
-            crunchbase: https://www.crunchbase.com/organization/herron-techology-llc
+            organization:
+              name: Herron Tech
             crunchbase_data:
               name: Herron Tech
-              description: The enterprise platform you need to build, deploy, and operate applications dramatically faster.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: http://www.herrontech.com
-              city: Boston
-              region: Massachusetts
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/herron-tech/
-              acquisitions: []
               parents: []
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Big Data
-                - Cloud Computing
-                - Developer APIs
-                - Enterprise Software
-                - PaaS
-                - SaaS
             image_data:
               fileName: herron-tech.svg
               hash: DzVPXDZnnt+BtdGDClcGHftiiMW12BXYQ5ERQNgPAjA=
@@ -53368,6 +55284,7 @@ landscape:
             logo: ing.svg
             twitter: https://twitter.com/ING_news
             crunchbase: https://www.crunchbase.com/organization/ing-group
+            stock_ticker: null
             crunchbase_data:
               name: ING Group
               description: ING is a global financial institution of Dutch origin offering banking, investments, life insurance, and retirement services.
@@ -53438,7 +55355,7 @@ landscape:
               latest_tweet_date: 2019-01-04T02:46:12.000Z
           - item:
             name: Orange SA
-            homepage_url: https://www.orange.com/en
+            homepage_url: https://orange.com/
             logo: orange_sa.svg
             twitter: https://twitter.com/orange
             crunchbase: https://www.crunchbase.com/organization/orange
@@ -53558,7 +55475,7 @@ landscape:
               latest_tweet_date: 2021-06-20T14:30:12.000Z
           - item:
             name: Red Hat, Inc.
-            homepage_url: https://www.redhat.com/en
+            homepage_url: https://redhat.com/
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
@@ -53961,7 +55878,7 @@ landscape:
               latest_tweet_date: 2021-06-16T15:56:12.000Z
           - item:
             name: Aivancity Achool for Technology, Business & Society Paris-Cachan
-            homepage_url: https://aivancity.ai/fr
+            homepage_url: https://aivancity.ai/
             logo: aivancity_achool_for_technology_business__society_paris-cachan.svg
             twitter: https://twitter.com/aivancityschool
             crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
@@ -54304,11 +56221,11 @@ landscape:
               percentage: null
           - item:
             name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
             twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: Where the UK’s Open communities meet and collaborate
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
@@ -54333,6 +56250,41 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-18T14:01:26.000Z
+          - item:
+            name: Penn State Great Valley - The Pennsylvania State University
+            homepage_url: https://greatvalley.psu.edu/
+            logo: penn_state_great_valley_-_the_pennsylvania_state_university.svg
+            twitter: https://twitter.com/penn_state
+            crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
+            crunchbase_data:
+              name: Penn State University
+              description: The Pennsylvania State University is a public, state-related research university with campuses and facilities throughout Pennsylvania.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.psu.edu/
+              city: University Park
+              region: Pennsylvania
+              country: United States
+              twitter: http://twitter.com/penn_state
+              linkedin: https://www.linkedin.com/edu/penn-state-university-19318
+              acquisitions: []
+              parents: []
+              funding: 13400000
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Training
+                - Universities
+              kind: funding
+            image_data:
+              fileName: penn-state-great-valley-the-pennsylvania-state-university.svg
+              hash: xtdKmzf47hzuRNJPo5zHNoUwhiojQh+8H+X7Uomnyig=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-21T11:01:15.000Z
           - item:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
@@ -54364,8 +56316,74 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-19T07:21:49.000Z
           - item:
+            name: QuantUniversity
+            homepage_url: https://quantuniversity.com/
+            logo: quantuniversity.svg
+            twitter: https://twitter.com/quantUniversity
+            crunchbase: https://www.crunchbase.com/organization/quantitative-insights
+            crunchbase_data:
+              name: Quantitative Insights
+              description: Quantitative Insights, Inc. (QI) was formed to realize the clinical and commercial value of QuantX, a Computer-Aided Diagnosis system
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.quantinsights.com/
+              city: Chicago
+              region: Illinois
+              country: United States
+              twitter: null
+              linkedin: null
+              acquisitions: []
+              parents: []
+              funding: 150000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Health Care
+                - Health Diagnostics
+                - Medical
+              kind: funding
+            image_data:
+              fileName: quant-university.svg
+              hash: zFfK76E3VyD7tSdrnuxPXN2AAyX9dBFHQLm+mv8ybnY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-25T14:37:52.000Z
+          - item:
+            name: Sahyadri College of Engineering & Management
+            homepage_url: https://sahyadri.edu.in/
+            logo: sahyadri_college_of_engineering__management.svg
+            twitter: https://twitter.com/sahyadri_campus
+            crunchbase: https://www.crunchbase.com/organization/sahyadri-college-of-engineering-and-management
+            crunchbase_data:
+              name: Sahyadri College of Engineering and Management
+              description: Sahyadri College of Engineering & Management, Mangalore is Established under the aegis of Bhandary Foundation at Sahyadri campus, Mangalore.
+              num_employees_min: 51
+              num_employees_max: 100
+              homepage: https://www.sahyadri.edu.in/
+              city: Mangalore
+              region: Karnataka
+              country: India
+              twitter: https://www.twitter.com/sahyadri_campus
+              linkedin: https://www.linkedin.com/school/sahyadri-college-of-engineering-and-management/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Education
+            image_data:
+              fileName: sahyadri-college-of-engineering-management.svg
+              hash: RoihD7k0iQ3+ooAEy+GmwFbv9hexn24DYjZE+GSq41s=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-20T17:19:58.000Z
+          - item:
             name: Shanghai OpenSource Information Technology Association
-            homepage_url: https://shanghaiopen.org.cn/en
+            homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
             crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
             crunchbase_data:
@@ -54423,8 +56441,38 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-19T09:00:10.000Z
           - item:
+            name: Université Libre de Tunis
+            homepage_url: https://ult-tunisie.com/
+            logo: universite_libre_de_tunis.svg
+            twitter: https://twitter.com/ULT_Tunisie
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+            crunchbase_data:
+              name: Université Libre de Tunis
+              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ult-tunisie.com/eng/index.php
+              city: Tunis
+              region: Tunis
+              country: Tunisia
+              twitter: null
+              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: universit-libre-de-tunis.svg
+              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-29T07:35:35.000Z
+          - item:
             name: University of Washington
-            homepage_url: https://www.washington.edu
+            homepage_url: https://uw.edu/
             logo: university_of_washington.svg
             twitter: https://twitter.com/UW
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
@@ -54462,36 +56510,6 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2021-06-21T00:00:06.000Z
-          - item:
-            name: Université Libre de Tunis
-            homepage_url: https://ult-tunisie.com/
-            logo: universite_libre_de_tunis.svg
-            twitter: https://twitter.com/ULT_Tunisie
-            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
-            crunchbase_data:
-              name: Université Libre de Tunis
-              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.ult-tunisie.com/eng/index.php
-              city: Tunis
-              region: Tunis
-              country: Tunisia
-              twitter: null
-              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: universit-libre-de-tunis.svg
-              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-29T07:35:35.000Z
           - item:
             name: XPRIZE
             homepage_url: https://xprize.org/
@@ -54533,6 +56551,193 @@ landscape:
       - subcategory:
         name: Hosting Companies
         items:
+          - item:
+            name: QuantumBlack Labs (hosting)
+            homepage_url: https://www.quantumblack.com/labs/
+            logo: QuantumBlack.svg
+            crunchbase: https://www.crunchbase.com/organization/quantumblack
+            crunchbase_data:
+              name: QuantumBlack
+              description: QuantumBlack Visual Analytics Limited provides advanced data analytics services for critical decisions to various companies.
+              num_employees_min: 251
+              num_employees_max: 500
+              homepage: http://www.quantumblack.com
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://www.twitter.com/quantumblack
+              linkedin: https://www.linkedin.com/company/quantumblack
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Consulting
+                - Information Technology
+                - Software
+            image_data:
+              fileName: quantum-black-labs-hosting.svg
+              hash: pRMPULiCdFLPad6tycdwDdOaBZCGPR0Zg4o5n2FzTdI=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-18T10:56:26.000Z
+          - item:
+            name: The Institute for Ethical AI & Machine Learning (hosting)
+            homepage_url: https://ethical.institute/
+            logo: the_institute_for_ethical_ai__machine_learning.svg
+            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
+            crunchbase_data:
+              name: The Institute for Ethical AI & Machine Learning
+              description: The IEML is a UK-based think-do-tank that builds frameworks and standards that ensure the ethical development of machine learning systems.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: http://ethical.institute
+              city: London
+              region: England
+              country: United Kingdom
+              twitter: https://twitter.com/EthicalML
+              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+            image_data:
+              fileName: the-institute-for-ethical-ai-machine-learning-hosting.svg
+              hash: GYMQHCKYROTKg4OGJGgchYt7gJmEleBA5FYwlDSBBxE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-19T09:00:10.000Z
+          - item:
+            name: LinkedIn (hosting)
+            homepage_url: https://www.linkedin.com/
+            logo: linkedin.svg
+            crunchbase: https://www.crunchbase.com/organization/linkedin
+            crunchbase_data:
+              name: LinkedIn
+              description: LinkedIn is a professional networking site that allows its members to create business connections, search jobs, and find potential clients.
+              num_employees_min: 10001
+              num_employees_max: 1000000
+              homepage: http://linkedin.com
+              city: Sunnyvale
+              region: California
+              country: United States
+              twitter: http://twitter.com/linkedin
+              linkedin: https://www.linkedin.com/company/linkedin
+              acquisitions:
+                - date: '2010-08-04'
+                  acquiree: mSpoke
+                - date: '2010-09-22'
+                  acquiree: ChoiceVendor
+                - date: '2011-01-26'
+                  acquiree: CardMunch
+                - date: '2011-10-05'
+                  acquiree: Connected
+                - date: '2011-10-11'
+                  acquiree: IndexTank
+                - date: '2012-02-07'
+                  acquiree: Rapportive
+                - date: '2012-05-03'
+                  acquiree: LinkedIn SlideShare
+                - date: '2013-04-13'
+                  acquiree: Pulse
+                  price: 50000000
+                - date: '2014-02-07'
+                  acquiree: Bright.com
+                  price: 120000000
+                - date: '2014-07-14'
+                  acquiree: Newsle
+                - date: '2014-07-22'
+                  acquiree: Bizo
+                  price: 175000000
+                - date: '2014-11-13'
+                  acquiree: We Created It
+                - date: '2015-03-16'
+                  acquiree: Careerify
+                - date: '2015-04-02'
+                  acquiree: Refresh.io
+                - date: '2015-04-09'
+                  acquiree: Lynda
+                  price: 1500000000
+                - date: '2015-08-27'
+                  acquiree: Fliptop
+                - date: '2016-02-04'
+                  acquiree: Connectifier
+                  price: 150000000
+                - date: '2016-05-05'
+                  acquiree: Run Hop
+                - date: '2016-07-26'
+                  acquiree: PointDrive
+                - date: '2017-06-02'
+                  acquiree: Heighten
+                - date: '2018-10-08'
+                  acquiree: Glint
+                - date: '2018-12-01'
+                  acquiree: Sendbloom
+                - date: '2019-05-28'
+                  acquiree: Drawbridge
+                - date: '2020-04-23'
+                  acquiree: UpCounsel
+              parents:
+                - https://www.crunchbase.com/organization/microsoft
+              ticker: MSFT
+              funding: 154800000
+              stockExchange: nyse
+              company_type: For Profit
+              industries:
+                - Professional Networking
+                - Recruiting
+                - Social Media
+                - Social Recruiting
+              kind: market_cap
+            yahoo_finance_data:
+              market_cap: 1953915207680
+              effective_ticker: MSFT
+            image_data:
+              fileName: linked-in-hosting.svg
+              hash: gYxQIRfSX0Ohz+kpZPGvVArzPsdrD8KYK8yr7Fhy6t4=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-06-17T16:00:00.000Z
+          - item:
+            name: Labelia Labs (hosting)
+            homepage_url: https://labelia.org/
+            logo: labelia.svg
+            twitter: https://twitter.com/LabeliaLabs
+            crunchbase: https://www.crunchbase.com/organization/labelia-labs
+            crunchbase_data:
+              name: Labelia Labs
+              description: Develop the positive impacts of Data Science by equipping and promoting collaborative, responsible and trustworthy approaches!
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.labelia.org
+              city: Paris
+              region: Ile-de-France
+              country: France
+              twitter: https://twitter.com/LabeliaLabs
+              linkedin: https://www.linkedin.com/company/labelialabs/
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries: []
+            image_data:
+              fileName: labelia-labs-hosting.svg
+              hash: BUj5WaO0u1H/MW39AJ8x42Z2iK/V3qzn0UBG4FmxGNY=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2021-10-19T12:49:41.000Z
           - item:
             name: Amazon (hosting)
             homepage_url: https://amazon.com/
@@ -56972,7 +59177,7 @@ landscape:
               kind: funding
             image_data:
               fileName: zilliz-hosting.svg
-              hash: K0xisuYzgivShJeJ0N7L3NqY5IFnOmdDkq25s+mO6y0=
+              hash: aYVaAO2wuvTYUWqStlns2yTgj4uy2of8UyMjwSKjdzg=
             best_practice_data:
               badge: false
               percentage: null
