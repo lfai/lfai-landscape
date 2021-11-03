@@ -538,6 +538,13 @@ landscape:
         name: Lineage
         items:
           - item:
+            name: OpenBytes
+            homepage_url: https://openbytes.io/
+            project: sandbox
+            repo_url: https://github.com/Project-OpenBytes/OpenBytes
+            logo: openbytes.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
             name: OpenLineage
             homepage_url: https://github.com/OpenLineage
             project: sandbox
@@ -1156,13 +1163,6 @@ landscape:
         name: Governance
         items:
           - item:
-            name: OpenBytes
-            homepage_url: https://openbytes.io/
-            project: sandbox
-            repo_url: https://github.com/Project-OpenBytes/OpenBytes
-            logo: openbytes.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Community Data License Agreement (CDLA)
             homepage_url: https://cdla.dev
             repo_url: https://github.com/lfai/CDLA
@@ -1621,7 +1621,7 @@ landscape:
             repo_url: https://github.com/bentoml/BentoML
             logo: bentoml.svg
             twitter: https://twitter.com/bentomlai
-            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+            crunchbase: https://www.crunchbase.com/organization/bentoml
           - item:
             name: Apache Airflow
             homepage_url: https://airflow.apache.org/
