@@ -12,13 +12,6 @@ landscape:
             logo: accord-net.svg
             crunchbase: https://www.crunchbase.com/organization/accord-net-framework-project
           - item:
-            name: FATE
-            homepage_url: https://www.fedai.org/
-            repo_url: https://github.com/FederatedAI/FATE
-            logo: fedai.svg
-            twitter:
-            crunchbase: https://www.crunchbase.com/organization/webank
-          - item:
             name: LightGBM
             homepage_url: https://github.com/Microsoft/LightGBM
             repo_url: https://github.com/Microsoft/LightGBM
@@ -442,12 +435,6 @@ landscape:
             logo: nnl.svg
             twitter:
             crunchbase: https://www.crunchbase.com/organization/sony
-          - item:
-            name: PySyft
-            homepage_url: https://github.com/OpenMined/PySyft
-            repo_url: https://github.com/OpenMined/PySyft
-            logo: pysyft.svg
-            crunchbase: https://www.crunchbase.com/organization/openmined
           - item:
             name: PyTorch Ignite
             homepage_url: https://pytorch.org/ignite/
@@ -1517,6 +1504,35 @@ landscape:
             logo: mlperf.svg
             twitter: https://twitter.com/mlperf1
             crunchbase: https://www.crunchbase.com/organization/ml-perf
+      - subcategory: 
+        name: Federated Learning 
+        items:
+          - item:
+            name: TensorFlow Federated 
+            homepage_url: https://www.tensorflow.org/federated
+            repo_url: https://github.com/tensorflow/federated 
+            logo: tf_federated.svg
+            crunchbase: https://www.crunchbase.com/organization/google  
+          - item:
+            name: PySyft
+            homepage_url: https://blog.openmined.org/tag/pysyft/
+            repo_url: https://github.com/OpenMined/PySyft
+            logo: pysyft.svg
+            twitter: https://twitter.com/openminedorg
+            crunchbase: https://www.crunchbase.com/organization/openmined 
+          - item:
+            name: FATE
+            homepage_url: https://www.fedai.org/
+            repo_url: https://github.com/FederatedAI/FATE
+            logo: fate.svg
+            crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: Substra
+            homepage_url: https://github.com/Substra/substra
+            repo_url: https://github.com/Substra/substra
+            project: incubating
+            logo: substra.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Training
         items:
@@ -1526,13 +1542,6 @@ landscape:
             repo_url: https://github.com/pytorch/torchrec
             logo: torchrec.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: Substra
-            homepage_url: https://github.com/Substra/substra
-            repo_url: https://github.com/Substra/substra
-            project: incubating
-            logo: substra.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Embedded Learning Library
             homepage_url: https://microsoft.github.io/ELL/
