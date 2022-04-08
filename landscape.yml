@@ -6,6 +6,12 @@ landscape:
         name: Framework
         items:
           - item:
+            name: ZenML
+            homepage_url: https://zenml.io/
+            repo_url: https://github.com/maiot-io/zenml
+            logo: zenml.svg
+            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
+          - item:
             name: Accord.NET
             homepage_url: http://accord-framework.net/
             repo_url: https://github.com/accord-net/framework
@@ -135,11 +141,17 @@ landscape:
             homepage_url: https://github.com/VowpalWabbit/vowpal_wabbit/wiki
             repo_url: https://github.com/VowpalWabbit/vowpal_wabbit
             logo: vowpal-wabbit.svg
-            twitter:
             crunchbase: https://www.crunchbase.com/organization/microsoft
       - subcategory:
         name: Library
         items:
+          - item:
+            name: 1chipML
+            homepage_url: https://github.com/1chipML
+            repo_url: https://github.com/1chipML/1chipML
+            logo: 1chipML.svg
+            project: sandbox
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: AutoGluon
             homepage_url: https://auto.gluon.ai/
@@ -241,16 +253,6 @@ landscape:
             repo_url: https://github.com/aksnzhy/xlearn
             logo: xlearn.svg
             crunchbase: https://www.crunchbase.com/organization/xlearn-open-source-projects
-      - subcategory:
-        name: MLOps
-        items:
-          - item:
-            name: ZenML
-            homepage_url: https://zenml.io/
-            repo_url: https://github.com/maiot-io/zenml
-            logo: zenml.svg
-            twitter:
-            crunchbase: https://www.crunchbase.com/organization/maiot-c7f4
   - category:
     name: Deep Learning
     subcategories:
