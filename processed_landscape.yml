@@ -16763,6 +16763,96 @@ landscape:
         name: Feature Engineering
         items:
           - item:
+            name: OpenMLDB
+            homepage_url: https://openmldb.ai/
+            repo_url: https://github.com/4paradigm/OpenMLDB
+            logo: openMLDB.svg
+            twitter: https://twitter.com/openmldb
+            crunchbase: https://www.crunchbase.com/organization/4paradigm
+            crunchbase_data:
+              name: 4Paradigm
+              description: 4Paradigm is an AI tech firm that helps enterprises improve work efficiency while reducing risk and achieving greater commercial value.
+              num_employees_min: 501
+              num_employees_max: 1000
+              homepage: https://www.4paradigm.com/
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: null
+              linkedin: https://www.linkedin.com/company/4paradigm/
+              acquisitions: []
+              parents: []
+              funding: 1075261565
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence
+                - Information Services
+                - Machine Learning
+                - Software
+              kind: funding
+            github_data:
+              languages:
+                - name: C++
+                  value: 8595080
+                  color: '#f34b7d'
+                - name: Java
+                  value: 1749586
+                  color: '#b07219'
+                - name: Scala
+                  value: 496700
+                  color: '#c22d40'
+                - name: Python
+                  value: 287383
+                  color: '#3572A5'
+                - name: Shell
+                  value: 81875
+                  color: '#89e051'
+                - name: CMake
+                  value: 72836
+                - name: SWIG
+                  value: 35771
+                - name: Makefile
+                  value: 10184
+                  color: '#427819'
+                - name: LLVM
+                  value: 8668
+                  color: '#185619'
+                - name: Dockerfile
+                  value: 2481
+                  color: '#384d54'
+                - name: Jsonnet
+                  value: 98
+                  color: '#0064bd'
+                - name: JavaScript
+                  value: 64
+                  color: '#f1e05a'
+              contributions: 15;8;13;6;5;3;6;3;9;5;13;14;8;38;8;13;15;27;47;40;45;19;63;4;45;65;49;31;16;49;80;79;62;57;80;45;58;45;26;17;6;21;31;40;53;17;24;14;13;21;13;25
+              firstWeek: 2021-04-25Z
+              stars: 1363
+              license: Apache License 2.0
+              description: OpenMLDB is an open-source machine learning database that provides a full-stack FeatureOps solution for production.
+              latest_commit_date: '2022-04-22T13:43:58Z'
+              latest_commit_link: /4paradigm/OpenMLDB/commit/80e00dfe1e1f0c0f325ceca228d4d4530d5ce0b4
+              release_date: '2022-04-01T13:19:18Z'
+              release_link: https://github.com/4paradigm/OpenMLDB/releases
+              contributors_count: 118
+              contributors_link: https://github.com/4paradigm/OpenMLDB/graphs/contributors
+            repos:
+              - url: https://github.com/4paradigm/OpenMLDB
+                stars: 1363
+            github_start_commit_data:
+              start_commit_link: /4paradigm/OpenMLDB/commit/802b0c5ac5eb37aca79a042f758b3fdde7b7193f
+              start_date: '2017-02-18T04:20:44Z'
+            image_data:
+              fileName: open-mldb.svg
+              hash: Y7VtOpTmiqkZ0LO7/REngCIwXhhJiGGGdlJyh5RW2GE=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-03-29T17:50:18.000Z
+          - item:
             name: Feast
             homepage_url: https://feast.dev/
             project: incubating
@@ -24051,10 +24141,10 @@ landscape:
                 - name: Clojure
                   value: 8562
                   color: '#db5855'
-                - name: Mustache
-                  value: 6215
                 - name: PLpgSQL
                   value: 5991
+                - name: Mustache
+                  value: 3193
                 - name: CSS
                   value: 2695
                   color: '#563d7c'
@@ -56353,7 +56443,6 @@ landscape:
             name: Ericsson
             homepage_url: https://www.ericsson.com/en
             logo: ericsson.svg
-            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
             crunchbase_data:
               name: Ericsson
@@ -56483,7 +56572,6 @@ landscape:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
             homepage_url: https://www.oppo.com/en
             logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
-            twitter: https://twitter.com/oppo
             crunchbase: https://www.crunchbase.com/organization/oppo
             crunchbase_data:
               name: Oppo
@@ -56516,7 +56604,6 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://www.huawei.com/en
             logo: huawei_technologies_co_ltd.svg
-            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
             crunchbase_data:
               name: Huawei Technologies
@@ -56572,7 +56659,6 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://www.ibm.com/us-en
             logo: international_business_machines_corporation.svg
-            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
             crunchbase_data:
               name: IBM
@@ -57050,7 +57136,6 @@ landscape:
             homepage_url: https://nokia.com/
             stock_ticker: NOK
             logo: nokia_corporation.svg
-            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
             crunchbase_data:
               name: Nokia
@@ -57210,7 +57295,6 @@ landscape:
             name: SAS Institute Inc.
             homepage_url: https://www.sas.com/en_us/home.geo.html
             logo: sas_institute_inc.svg
-            twitter: https://twitter.com/SASsoftware
             crunchbase: https://www.crunchbase.com/organization/sas
             crunchbase_data:
               name: SAS
@@ -57294,7 +57378,6 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://www.zte.com.cn/global
             logo: zte_corporation.svg
-            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
             crunchbase_data:
               name: ZTE
@@ -57334,7 +57417,6 @@ landscape:
             name: Broadcom Corporation
             homepage_url: https://broadcom.com/
             logo: broadcom_corporation.svg
-            twitter: https://twitter.com/Broadcom
             crunchbase: https://www.crunchbase.com/organization/broadcom
             crunchbase_data:
               name: Broadcom
@@ -57475,7 +57557,6 @@ landscape:
             name: Cloudera, Inc.
             homepage_url: https://cloudera.com/
             logo: cloudera_inc.svg
-            twitter: https://twitter.com/cloudera
             crunchbase: https://www.crunchbase.com/organization/cloudera
             crunchbase_data:
               name: Cloudera
@@ -57541,7 +57622,6 @@ landscape:
             name: Databricks Inc.
             homepage_url: https://databricks.com/
             logo: databricks_inc.svg
-            twitter: https://twitter.com/databricks
             crunchbase: https://www.crunchbase.com/organization/databricks
             crunchbase_data:
               name: Databricks
@@ -57582,7 +57662,6 @@ landscape:
             name: DiDi USA
             homepage_url: https://didiglobal.com/
             logo: didi_usa.svg
-            twitter: https://twitter.com/DidiGlobal
             crunchbase: https://www.crunchbase.com/organization/didi-dache
             crunchbase_data:
               name: Didi
@@ -57671,7 +57750,6 @@ landscape:
             name: GSI Technology
             homepage_url: https://gsitechnology.com/
             logo: gsi_technology.svg
-            twitter: https://twitter.com/gsitechnology
             crunchbase: https://www.crunchbase.com/organization/gsi
             crunchbase_data:
               name: GSI Technology
@@ -57940,7 +58018,6 @@ landscape:
             name: RStudio PBC
             homepage_url: https://rstudio.com/
             logo: rstudio_pbc.svg
-            twitter: https://twitter.com/rstudio
             crunchbase: https://www.crunchbase.com/organization/rstudio
             crunchbase_data:
               name: RStudio
@@ -57976,7 +58053,6 @@ landscape:
             name: Union.ai
             homepage_url: https://union.ai/
             logo: unionai.svg
-            twitter: https://twitter.com/union_ai
             crunchbase: https://www.crunchbase.com/organization/union-ai
             crunchbase_data:
               name: Union.ai
@@ -58009,7 +58085,6 @@ landscape:
             name: VMware, Inc.
             homepage_url: https://vmware.com/
             logo: vmware_inc.svg
-            twitter: https://twitter.com/VMware
             crunchbase: https://www.crunchbase.com/organization/vmware
             crunchbase_data:
               name: VMware
@@ -58159,7 +58234,6 @@ landscape:
             name: XenonStack Inc.
             homepage_url: https://xenonstack.com/
             logo: xenonstack_inc.svg
-            twitter: https://twitter.com/xenonstack
             crunchbase: https://www.crunchbase.com/organization/xenonstack
             crunchbase_data:
               name: XenonStack
@@ -58240,7 +58314,6 @@ landscape:
             name: AI for People
             homepage_url: https://aiforpeople.org/
             logo: ai_for_people.svg
-            twitter: https://twitter.com/AIforPeople
             crunchbase: https://www.crunchbase.com/organization/ai-for-people
             crunchbase_data:
               name: AI For People
@@ -58272,7 +58345,6 @@ landscape:
             name: Aivancity Achool for Technology, Business & Society Paris-Cachan
             homepage_url: https://aivancity.ai/
             logo: aivancity_achool_for_technology_business__society_paris-cachan.svg
-            twitter: https://twitter.com/aivancityschool
             crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
             crunchbase_data:
               name: aivancity school for Technology, Business & Society
@@ -58303,7 +58375,6 @@ landscape:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
             logo: ambianicai.svg
-            twitter: https://twitter.com/ambianicai
             crunchbase: https://www.crunchbase.com/organization/ambianic
             crunchbase_data:
               name: Ambianic
@@ -58333,7 +58404,6 @@ landscape:
             name: Banque de France
             homepage_url: https://banque-france.fr/
             logo: banque_de_france.svg
-            twitter: https://twitter.com/banquedefrance
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
             crunchbase_data:
               name: Banque de France
@@ -58396,7 +58466,6 @@ landscape:
             name: Galgotias University
             homepage_url: https://galgotiasuniversity.edu.in/
             logo: galgotias_university.svg
-            twitter: https://twitter.com/GalgotiasUni
             crunchbase: https://www.crunchbase.com/organization/galgotias-university
             crunchbase_data:
               name: Galgotias University
@@ -58519,7 +58588,6 @@ landscape:
             name: Montreal AI Ethics Institute
             homepage_url: https://montrealethics.ai/
             logo: montreal_ai_ethics_institute.svg
-            twitter: https://twitter.com/mtlaiethics
             crunchbase: https://www.crunchbase.com/organization/montreal-ai-ethics-institute
             crunchbase_data:
               name: Montreal AI Ethics Institute
@@ -58552,7 +58620,6 @@ landscape:
             name: New York University
             homepage_url: https://nyu.edu/
             logo: new_york_university.svg
-            twitter: https://twitter.com/nyuniversity
             crunchbase: https://www.crunchbase.com/organization/new-york-university
             crunchbase_data:
               name: New York University
@@ -58617,7 +58684,6 @@ landscape:
             description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
-            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
             crunchbase_data:
               name: OpenUK
@@ -58647,7 +58713,6 @@ landscape:
             name: Penn State Great Valley - The Pennsylvania State University
             homepage_url: https://greatvalley.psu.edu/
             logo: penn_state_great_valley_-_the_pennsylvania_state_university.svg
-            twitter: https://twitter.com/penn_state
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
             crunchbase_data:
               name: Penn State University
@@ -58682,7 +58747,6 @@ landscape:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
             logo: pranveer_singh_institute_of_technology.svg
-            twitter: https://twitter.com/PSITKanpur2004
             crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
             crunchbase_data:
               name: Pranveer Singh Institute Of Technology
@@ -58748,7 +58812,6 @@ landscape:
             name: Sahyadri College of Engineering & Management
             homepage_url: https://sahyadri.edu.in/
             logo: sahyadri_college_of_engineering__management.svg
-            twitter: https://twitter.com/sahyadri_campus
             crunchbase: https://www.crunchbase.com/organization/sahyadri-college-of-engineering-and-management
             crunchbase_data:
               name: Sahyadri College of Engineering and Management
@@ -58806,7 +58869,6 @@ landscape:
             name: The Institute for Ethical AI & Machine Learning
             homepage_url: https://ethical.institute/
             logo: the_institute_for_ethical_ai__machine_learning.svg
-            twitter: https://twitter.com/EthicalML
             crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
             crunchbase_data:
               name: The Institute for Ethical AI & Machine Learning
@@ -58838,7 +58900,6 @@ landscape:
             name: University of Washington
             homepage_url: https://www.washington.edu
             logo: university_of_washington.svg
-            twitter: https://twitter.com/UW
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
             crunchbase_data:
               name: University of Washington
@@ -58906,7 +58967,6 @@ landscape:
             name: XPRIZE
             homepage_url: https://xprize.org/
             logo: xprize.svg
-            twitter: https://twitter.com/xprize
             crunchbase: https://www.crunchbase.com/organization/x-prize-foundation
             crunchbase_data:
               name: XPRIZE
