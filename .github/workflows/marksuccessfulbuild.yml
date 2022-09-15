@@ -2,7 +2,7 @@ name: "Set Issue Label on successful build"
 on:
   workflow_dispatch:
   issue_comment:
-    types: [created]
+    types: [created, edited]
 
 jobs:
   test:
