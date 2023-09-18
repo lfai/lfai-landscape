@@ -126,10 +126,10 @@ big_picture:
     title: Linux Foundation AI & Data Landscape
     fullscreen_header: See the interactive landscape at l.lfaidata.foundation
     elements:
-      - type: HorizontalCategory
+       type: HorizontalCategory
         category: Machine Learning
         rows: 4
-        width: 525
+        width: 570
         height: 190
         top: 0
         left: 0
@@ -138,30 +138,31 @@ big_picture:
       - type: HorizontalCategory
         category: Deep Learning
         rows: 4
-        width: 505
+        width: 475
         height: 190
         top: 0
-        left: 545
+        left: 590
         color: rgb(7,136,62)
         fit_width: true
       - type: HorizontalCategory
         category: Reinforcement Learning
         rows: 4
-        width: 165
+        width: 160
         height: 190
         top: 0
-        left: 1070
+        left: 1085
         color: rgb(126,115,14)
         fit_width: true
       - type: HorizontalCategory
         category: Programming
         rows: 4
-        width: 295
+        width: 285
         height: 190
         top: 0
-        left: 1255
+        left: 1265
         color: rgb(87,43,10)
         fit_width: true
+      
       - type: HorizontalCategory
         category: Data
         rows: 4
