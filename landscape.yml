@@ -1593,6 +1593,14 @@ landscape:
         name: Inference
         items:
           - item:
+            name: Text Generation Inference
+            homepage_url: https://huggingface.co/text-generation-inference
+            repo_url: https://github.com/huggingface/text-generation-inference
+            logo: text-gen-inference.svg
+            license: Apache 2.0
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/hugging-face
+          - item:
             name: Adlik
             homepage_url: https://adlik.ai/
             project: incubating
@@ -1646,7 +1654,7 @@ landscape:
             name: vLLM
             homepage_url: https://vllm.ai/
             repo_url: https://github.com/vllm-project/vllm
-            license: Apache
+            license: Apache 2.0
             logo: vllm.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
