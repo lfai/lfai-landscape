@@ -1775,13 +1775,6 @@ landscape:
         name: Format & Interface
         items:
           - item:
-            name: Open Voice Interoperability
-            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
-            repo_url: https://github.com/open-voice-network/lib-interop
-            logo: interoperability.svg
-            project: incubating
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Neuropod
             homepage_url: https://neuropod.ai/docs/stable
             repo_url: https://github.com/uber/neuropod
@@ -2502,6 +2495,19 @@ landscape:
             repo_url: https://github.com/intersectional-fairness/isf
             logo: isf.svg
             twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+  - category:
+    name: Voice
+    subcategories:
+      - subcategory:
+        name: Voice
+        items:
+          - item:
+            name: Open Voice Interoperability
+            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
+            repo_url: https://github.com/open-voice-network/lib-interop
+            logo: interoperability.svg
+            project: incubating
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Notebook Environment

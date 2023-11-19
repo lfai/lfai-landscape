@@ -174,7 +174,7 @@ big_picture:
       - type: HorizontalCategory
         category: Model
         rows: 4
-        width: 1130
+        width: 1100
         height: 190
         top: 440
         left: 0
@@ -182,13 +182,22 @@ big_picture:
         fit_width: true
       - type: HorizontalCategory
         category: Trusted & Responsible AI
-        rows: 3
-        width: 400
+        rows: 4
+        width: 300
         height: 190
         top: 440
-        left: 1150
+        left: 1120
         color: rgb(111,12,52)
         fit_width: true
+      - type: HorizontalCategory
+        category: Voice
+        rows: 4
+        width: 130
+        height: 190
+        top: 660
+        left: 1440
+        color: rgb(179,60,133)
+        fit_width: true        
       - type: HorizontalCategory
         category: Distributed Computing
         rows: 4
