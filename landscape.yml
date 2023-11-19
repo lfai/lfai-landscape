@@ -2340,6 +2340,13 @@ landscape:
         name: Interface
         items:
           - item:
+            name: Open Voice Interoperability
+            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
+            repo_url: https://github.com/open-voice-network/lib-interop
+            logo: interoperability.svg
+            project: incubating
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation          
+          - item:
             name: Apache Toree
             homepage_url: https://toree.apache.org
             repo_url: https://github.com/apache/incubator-toree
@@ -2479,6 +2486,14 @@ landscape:
       - subcategory:
         name: Bias & Fairness
         items:
+          - item:
+            name: Open Voice TrustMark
+            homepage_url: https://openvoicenetwork.org/trustmark-initiative/
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
+            logo: trustmark.svg
+            project: incubating
+            license: Apache 2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Aequitas
             homepage_url: http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas
