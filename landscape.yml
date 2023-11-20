@@ -778,11 +778,20 @@ landscape:
           - item:
             name: Vald
             description: >-
-              Vald is an advanced, scalable vector search engine, tailored for AI and machine learning applications in the cloud-native ecosystem.
-              Specializing in high-dimensional vector data, it provides efficient and near real-time search capabilities, essential for handling vast datasets in AI research and development.
-              Designed for seamless integration and user-friendliness, Vald supports AI innovators with state-of-the-art search technology.
-            repo_url: https://github.com/vdaas/vald
+              Vald is an advanced, scalable vector search engine, tailored for AI and machine learning applications in the cloud-native ecosystem. Specializing
+              in high-dimensional vector data, it provides efficient and near real-time search capabilities, essential for handling vast datasets in AI research
+              and development. Designed for seamless integration and user-friendliness, Vald supports AI innovators with state-of-the-art search technology.
             homepage_url: https://vald.vdaas.org/
+            repo_url: https://github.com/vdaas/vald
+            additional_repos:
+              - repo_url: https://github.com/vdaas/vald-client-go
+              - repo_url: https://github.com/vdaas/vald-client-java
+              - repo_url: https://github.com/vdaas/vald-client-node
+              - repo_url: https://github.com/vdaas/vald-client-python
+              - repo_url: https://github.com/vdaas/vald-client-clj
+              - repo_url: https://github.com/vdaas/vald-tensorflow-ingress-filter
+              - repo_url: https://github.com/vdaas/vald-onnx-ingress-filter
+              - repo_url: https://github.com/vdaas/vald-demo
             logo: vald.svg
             twitter: https://twitter.com/vdaas_vald
             crunchbase: https://www.crunchbase.com/organization/ly-corporation
@@ -793,15 +802,6 @@ landscape:
               helm_chart_url: https://artifacthub.io/packages/chart/vald/vald
               operator_chart_url: https://artifacthub.io/packages/chart/vald/vald-helm-operator
               slack_url: https://join.slack.com/t/vald-community/shared_invite/zt-db2ky9o4-R_9p2sVp8xRwztVa8gfnPA
-            additional_repos:
-              - repo_url: https://github.com/vdaas/vald-client-go
-              - repo_url: https://github.com/vdaas/vald-client-java
-              - repo_url: https://github.com/vdaas/vald-client-node
-              - repo_url: https://github.com/vdaas/vald-client-python
-              - repo_url: https://github.com/vdaas/vald-client-clj
-              - repo_url: https://github.com/vdaas/vald-tensorflow-ingress-filter
-              - repo_url: https://github.com/vdaas/vald-onnx-ingress-filter
-              - repo_url: https://github.com/vdaas/vald-demo
           - item:
             name: VEARCH
             homepage_url: https://vearch.github.io/
@@ -2340,13 +2340,6 @@ landscape:
         name: Interface
         items:
           - item:
-            name: Open Voice Interoperability
-            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
-            repo_url: https://github.com/open-voice-network/lib-interop
-            logo: interoperability.svg
-            project: incubating
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation          
-          - item:
             name: Apache Toree
             homepage_url: https://toree.apache.org
             repo_url: https://github.com/apache/incubator-toree
@@ -2360,6 +2353,13 @@ landscape:
             logo: apache-livy.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/apache
+          - item:
+            name: Open Voice Interoperability
+            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
+            project: incubating
+            repo_url: https://github.com/open-voice-network/lib-interop
+            logo: interoperability.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: sparklyr
             homepage_url: https://sparklyr.ai
@@ -2487,14 +2487,6 @@ landscape:
         name: Bias & Fairness
         items:
           - item:
-            name: Open Voice TrustMark
-            homepage_url: https://openvoicenetwork.org/trustmark-initiative/
-            repo_url: https://github.com/Open-Voice-Trustmark/docs
-            logo: trustmark.svg
-            project: incubating
-            license: Apache 2.0
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Aequitas
             homepage_url: http://www.datasciencepublicpolicy.org/our-work/tools-guides/aequitas
             repo_url: https://github.com/dssg/aequitas
@@ -2537,6 +2529,14 @@ landscape:
             repo_url: https://github.com/intersectional-fairness/isf
             logo: isf.svg
             twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Open Voice TrustMark
+            homepage_url: https://openvoicenetwork.org/trustmark-initiative/
+            project: incubating
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
+            license: Apache 2.0
+            logo: trustmark.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Notebook Environment
