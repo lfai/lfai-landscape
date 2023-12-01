@@ -6,6 +6,13 @@ landscape:
         name: Framework
         items:
           - item:
+            name: AutoGen
+            homepage_url: https://github.com/microsoft/autogen
+            repo_url: https://github.com/microsoft/autogen
+            logo: autogen.svg
+            twitter: null 
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: Accord.NET
             homepage_url: http://accord-framework.net/
             repo_url: https://github.com/accord-net/framework
@@ -1815,6 +1822,13 @@ landscape:
             logo: onnx.svg
             twitter: https://twitter.com/onnxai
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Semantic Kernel
+            homepage_url: https://learn.microsoft.com/semantic-kernel/
+            repo_url: https://github.com/microsoft/semantic-kernel
+            logo: semantickernel.svg
+            twitter: null 
+            crunchbase: https://www.crunchbase.com/organization/microsoft
       - subcategory:
         name: Marketplace
         items:
