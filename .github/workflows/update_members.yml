@@ -14,6 +14,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           path: landscape
+          fetch-depth: 0
       - name: Checkout landscape-tools
         uses: actions/checkout@v2
         with:
