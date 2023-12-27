@@ -36,6 +36,10 @@ jobs:
         with:
           name: missing-members 
           path: ./landscape/missing.csv
+      - name: Keep the manual entry - ant group
+        working-directory: ./landscape
+        run: |
+          git cherry-pick 51dd51121c1113ee7f4947b4ac1a7c50d3e70278 --no-commit
       - name: Checkout landscapeapp
         uses: actions/checkout@v3
         with:
