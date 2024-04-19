@@ -215,11 +215,31 @@ big_picture:
         left: 330
         color: rgb(165,9,77)
         fit_width: true
+        is_large: false      
+      - type: HorizontalCategory
+        category: Natural Language Processing
+        rows: 4
+        width: 400
+        height: 190
+        top: 730
+        left: 675
+        color: rgb(29,119,164)
+        fit_width: true
+        is_large: false
+      - type: HorizontalCategory
+        category: Notebook Environment
+        rows: 4
+        width: 250
+        height: 190
+        top: 730
+        left: 1075
+        color: rgb(106,44,218)
+        fit_width: true
         is_large: false
      - type: LandscapeInfo
         width: 325
         height: 190
-        top: 730
+        top: 900
         left: 500
         children:
           - type: text
@@ -252,27 +272,7 @@ big_picture:
             width: 109
             right: 5
             top: 65
-            title: LF AI Logo        
-      - type: HorizontalCategory
-        category: Natural Language Processing
-        rows: 4
-        width: 400
-        height: 190
-        top: 730
-        left: 675
-        color: rgb(29,119,164)
-        fit_width: true
-        is_large: false
-      - type: HorizontalCategory
-        category: Notebook Environment
-        rows: 4
-        width: 250
-        height: 190
-        top: 730
-        left: 1075
-        color: rgb(106,44,218)
-        fit_width: true
-        is_large: false
+            title: LF AI Logo  
   third:
     tab_index: 1
     url: members
