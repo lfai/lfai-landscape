@@ -216,43 +216,6 @@ big_picture:
         color: rgb(165,9,77)
         fit_width: true
         is_large: false
-     - type: LandscapeInfo
-        width: 325
-        height: 190
-        top: 720
-        left: 435
-        children:
-          - type: text
-            text: |
-              The LF AI & Data landscape explores open source projects in Artificial Intelligence and Data and their respective sub-domains.
-            top: 25
-            left: 100
-            right: 120
-            font_size: 8
-          - type: image
-            image: qr.svg
-            top: 20
-            left: 5
-            width: 90
-            height: 90
-            title: QR Code
-          - type: title
-            title: l.lfaidata.foundation
-            top: 109
-            left: 9
-            font_size: 7 
-          - type: image
-            image: left-logo.svg
-            width: 110
-            right: 5
-            top: 25
-            title: Landscape Logo
-          - type: image
-            image: right-logo.svg
-            width: 109
-            right: 5
-            top: 65
-            title: LF AI Logo    
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
