@@ -52,7 +52,7 @@ landscape:
             repo_url: https://github.com/opea-project/GenAIExamples
             logo: opea-horizontal-color.svg
             twitter: https://twitter.com/opeadev
-            crunchbase: https://www.crunchbase.com/organization/intel            
+            crunchbase: https://www.crunchbase.com/organization/intel
           - item:
             name: Ray
             homepage_url: https://bair.berkeley.edu/blog/2018/01/09/ray/
@@ -69,6 +69,14 @@ landscape:
       - subcategory:
         name: Platform
         items:
+          - item:
+            name: Open Platform for Enterprise AI (OPEA)
+            homepage_url: https://opea.dev
+            repo_url: https://github.com/opea-project/GenAIExamples
+            logo: opea.svg
+            project: sandbox
+            twitter: https://twitter.com/opeadev
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Alink
             homepage_url: https://github.com/alibaba/Alink
@@ -2427,7 +2435,7 @@ landscape:
             repo_url: https://github.com/pytorch/captum
             logo: captum.svg
             twitter: null
-            crunchbase: https://www.crunchbase.com/organization/pytorch   
+            crunchbase: https://www.crunchbase.com/organization/pytorch
           - item:
             name: ALIBI
             homepage_url: https://docs.seldon.io/projects/alibi/en/stable
