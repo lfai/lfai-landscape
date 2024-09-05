@@ -147,23 +147,23 @@ big_picture:
         fit_width: true
         is_large: false
       - type: HorizontalCategory
-        category: Reinforcement Learning
-        rows: 5
-        width: 285
-        height: 250
-        top: 0
-        left: 1460
-        color: rgb(126,115,14)
-        fit_width: true
-        is_large: false
-      - type: HorizontalCategory
         category: Programming
         rows: 5
         width: 285
         height: 250
         top: 0
-        left: 1175
+        left: 1195
         color: rgb(87,43,10)
+        fit_width: true
+        is_large: false
+      - type: HorizontalCategory
+        category: Reinforcement Learning
+        rows: 5
+        width: 285
+        height: 250
+        top: 0
+        left: 1490
+        color: rgb(126,115,14)
         fit_width: true
         is_large: false
       - type: HorizontalCategory
@@ -184,16 +184,6 @@ big_picture:
         top: 500
         left: 0
         color: rgb(37,81,209)
-        fit_width: true
-        is_large: false
-      - type: HorizontalCategory
-        category: Trusted & Responsible AI
-        rows: 3
-        width: 410
-        height: 190
-        top: 730
-        left: 1340
-        color: rgb(111,12,52)
         fit_width: true
         is_large: false
       - type: HorizontalCategory
@@ -219,11 +209,21 @@ big_picture:
       - type: HorizontalCategory
         category: Natural Language Processing
         rows: 4
-        width: 700
+        width: 420
         height: 190
         top: 730
         left: 450
         color: rgb(29,119,164)
+        fit_width: true
+        is_large: false
+      - type: HorizontalCategory
+        category: Generative AI 
+        rows: 4
+        width: 190
+        height: 190
+        top: 730
+        left: 880
+        color: rgb(7,136,62)
         fit_width: true
         is_large: false
       - type: HorizontalCategory
@@ -232,8 +232,18 @@ big_picture:
         width: 250
         height: 190
         top: 730
-        left: 1075
+        left: 1080
         color: rgb(106,44,218)
+        fit_width: true
+        is_large: false
+      - type: HorizontalCategory
+        category: Trusted & Responsible AI
+        rows: 3
+        width: 410
+        height: 190
+        top: 730
+        left: 1340
+        color: rgb(111,12,52)
         fit_width: true
         is_large: false
   third:
