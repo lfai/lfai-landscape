@@ -7,13 +7,11 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - name: Harden Runner
-        uses: step-security/harden-runner@5c7944e73c4c2a096b17a9cb74d65b6c2bbafbde # v2.9.1
+      - uses: jmertic/lfx-landscape-tools@main
         with:
-          egress-policy: audit
-      - uses: jmertic/lfx-landscape-tools@5599db2b9fde244ec33c3e470602b4ef65de7400 # main
+          project_processing: skip
         env:
           token: ${{ secrets.PAT }}
           repository: ${{ github.repository }}
