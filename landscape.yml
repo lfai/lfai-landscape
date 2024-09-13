@@ -1482,8 +1482,23 @@ landscape:
     name: Generative AI 
     subcategories:
       - subcategory:
-        name: Tracing
+        name: Generative AI 
         items:
+          - item:
+            name: RWKV
+            homepage_url: https://www.rwkv.com
+            project: incubating
+            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
+            logo: rwkv.svg
+            twitter: https://twitter.com/RWKV_AI
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: TruLens
+            homepage_url: https://github.com/truera/trulens
+            repo_url: https://github.com/truera/trulens
+            logo: trulens.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/truera
           - item:
             name: Monocole 
             homepage_url: http://monocle2ai.org/
@@ -2159,17 +2174,6 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/apple
-      - subcategory:
-        name: Data
-        items:
-          - item:
-            name: RWKV
-            homepage_url: https://www.rwkv.com
-            project: incubating
-            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
-            logo: rwkv.svg
-            twitter: https://twitter.com/RWKV_AI
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Programming
     subcategories:
@@ -2515,13 +2519,6 @@ landscape:
             logo: treeinterpreter.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/mtakso
-          - item:
-            name: TruLens
-            homepage_url: https://github.com/truera/trulens
-            repo_url: https://github.com/truera/trulens
-            logo: trulens.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/truera
       - subcategory:
         name: Adversarial
         items:
