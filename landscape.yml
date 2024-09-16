@@ -1479,6 +1479,35 @@ landscape:
             logo: stable-baselines.svg
             crunchbase: https://www.crunchbase.com/organization/stable-baselines-open-source-project
   - category:
+    name: Generative AI
+    subcategories:
+      - subcategory:
+        name: Generative AI
+        items:
+          - item:
+            name: RWKV
+            homepage_url: https://www.rwkv.com
+            project: incubating
+            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
+            logo: rwkv.svg
+            twitter: https://twitter.com/RWKV_AI
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: TruLens
+            homepage_url: https://github.com/truera/trulens
+            repo_url: https://github.com/truera/trulens
+            logo: trulens.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/truera
+          - item:
+            name: Monocole
+            homepage_url: http://monocle2ai.org/
+            repo_url: https://github.com/monocle2ai/monocle
+            logo: monocle.svg
+            project: sandbox
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+  - category:
     name: Natural Language Processing
     subcategories:
       - subcategory:
@@ -2145,17 +2174,6 @@ landscape:
             logo: turi.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/apple
-      - subcategory:
-        name: Data
-        items:
-          - item:
-            name: RWKV
-            homepage_url: https://www.rwkv.com
-            project: incubating
-            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
-            logo: rwkv.svg
-            twitter: https://twitter.com/RWKV_AI
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Programming
     subcategories:
@@ -2501,13 +2519,6 @@ landscape:
             logo: treeinterpreter.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/mtakso
-          - item:
-            name: TruLens
-            homepage_url: https://github.com/truera/trulens
-            repo_url: https://github.com/truera/trulens
-            logo: trulens.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/truera
       - subcategory:
         name: Adversarial
         items:
@@ -3190,6 +3201,18 @@ landscape:
         name: Hosting Companies
         items:
           - item:
+            name: Okahu (hosting)
+            homepage_url: https://www.okahu.ai/
+            logo: okahu.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/okahu
+          - item:
+            name: Databricks Inc. (hosting)
+            homepage_url: https://databricks.com/
+            logo: databricks_inc.svg
+            twitter: https://twitter.com/databricks
+            crunchbase: https://www.crunchbase.com/organization/databricks
+          - item:
             name: Amazon (hosting)
             homepage_url: https://amazon.com/
             logo: amazon.svg
@@ -3225,11 +3248,6 @@ landscape:
             homepage_url: https://data.world/
             logo: dataworld.svg
             crunchbase: https://www.crunchbase.com/organization/data-world
-          - item:
-            name: Databricks Inc. (hosting)
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: Datakin (hosting)
             homepage_url: https://datakin.com/
