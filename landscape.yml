@@ -62,14 +62,6 @@ landscape:
         name: Platform
         items:
           - item:
-            name: Open Platform for Enterprise AI (OPEA)
-            homepage_url: https://opea.dev
-            repo_url: https://github.com/opea-project/GenAIExamples
-            logo: opea.svg
-            project: sandbox
-            twitter: https://twitter.com/opeadev
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Alink
             homepage_url: https://github.com/alibaba/Alink
             repo_url: https://github.com/alibaba/Alink
@@ -138,6 +130,14 @@ landscape:
             logo: mlflow.svg
             twitter: https://twitter.com/MLflow
             crunchbase: https://www.crunchbase.com/organization/databricks
+          - item:
+            name: Open Platform for Enterprise AI (OPEA)
+            homepage_url: https://opea.dev
+            project: sandbox
+            repo_url: https://github.com/opea-project/GenAIExamples
+            logo: opea.svg
+            twitter: https://twitter.com/opeadev
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: PredictionIO
             homepage_url: https://predictionio.apache.org/
@@ -305,14 +305,6 @@ landscape:
         name: Framework
         items:
           - item:
-            name: Ryoma
-            homepage_url: https://github.com/project-ryoma/ryoma
-            repo_url: https://github.com/project-ryoma/ryoma
-            logo: ryoma.svg
-            twitter: null
-            project: sandbox
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Apache SINGA
             homepage_url: https://singa.apache.org/en/index.html
             repo_url: https://github.com/apache/singa
@@ -397,6 +389,14 @@ landscape:
             logo: py-torch.svg
             twitter: https://twitter.com/PyTorch
             crunchbase: https://www.crunchbase.com/organization/pytorch
+          - item:
+            name: Ryoma
+            homepage_url: https://github.com/project-ryoma/ryoma
+            project: sandbox
+            repo_url: https://github.com/project-ryoma/ryoma
+            logo: ryoma.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ShaderNN
             homepage_url: https://github.com/inferenceengine/shadernn
@@ -653,13 +653,6 @@ landscape:
         name: Store & Format
         items:
           - item:
-            name: Dragonfly
-            homepage_url: https://d7y.io/
-            repo_url: https://github.com/dragonflyoss/Dragonfly2
-            logo: dragonfly.svg
-            twitter: https://twitter.com/dragonfly_oss
-            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
             name: Alluxio
             homepage_url: https://www.alluxio.io/
             repo_url: https://github.com/alluxio/alluxio
@@ -711,10 +704,10 @@ landscape:
           - item:
             name: Delta Lake
             homepage_url: https://delta.io/
+            project: incubating
             repo_url: https://github.com/delta-io/delta
             logo: deltalake.svg
             twitter: https://twitter.com/DeltaLakeOSS
-            project: incubating
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Docarray
@@ -724,6 +717,13 @@ landscape:
             license: Apache 2.0
             logo: docarray.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Dragonfly
+            homepage_url: https://d7y.io/
+            repo_url: https://github.com/dragonflyoss/Dragonfly2
+            logo: dragonfly.svg
+            twitter: https://twitter.com/dragonfly_oss
+            crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
           - item:
             name: Druid
             homepage_url: https://druid.apache.org/
@@ -1343,14 +1343,6 @@ landscape:
         name: Governance
         items:
           - item:
-            name: Unity Catalog
-            homepage_url: https://www.unitycatalog.io/
-            project: sandbox
-            repo_url: https://github.com/unitycatalog/unitycatalog
-            license: Apache 2.0
-            logo: unity-catalog.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Bitol
             homepage_url: https://cdla.dev
             project: sandbox
@@ -1401,6 +1393,14 @@ landscape:
               - repo_url: https://github.com/odpi/data-governance
               - repo_url: https://github.com/odpi/happi-graph
             logo: egeria.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Unity Catalog
+            homepage_url: https://www.unitycatalog.io/
+            project: sandbox
+            repo_url: https://github.com/unitycatalog/unitycatalog
+            license: Apache 2.0
+            logo: unity-catalog.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Reinforcement Learning
@@ -1479,10 +1479,10 @@ landscape:
             logo: stable-baselines.svg
             crunchbase: https://www.crunchbase.com/organization/stable-baselines-open-source-project
   - category:
-    name: Generative AI 
+    name: Generative AI
     subcategories:
       - subcategory:
-        name: Generative AI 
+        name: Generative AI
         items:
           - item:
             name: RWKV
@@ -1500,7 +1500,7 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/truera
           - item:
-            name: Monocole 
+            name: Monocole
             homepage_url: http://monocle2ai.org/
             repo_url: https://github.com/monocle2ai/monocle
             logo: monocle.svg
@@ -2457,19 +2457,19 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
-            name: Captum
-            homepage_url: https://captum.ai/
-            repo_url: https://github.com/pytorch/captum
-            logo: captum.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/pytorch
-          - item:
             name: ALIBI
             homepage_url: https://docs.seldon.io/projects/alibi/en/stable
             repo_url: https://github.com/SeldonIO/alibi
             logo: alibi.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/seldon
+          - item:
+            name: Captum
+            homepage_url: https://captum.ai/
+            repo_url: https://github.com/pytorch/captum
+            logo: captum.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/pytorch
           - item:
             name: ELI5
             homepage_url: https://eli5.readthedocs.io/en/latest
@@ -2747,23 +2747,21 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Databricks Inc.
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            crunchbase: https://www.crunchbase.com/organization/databricks
-          - item:
             name: Amazon Web Services, Inc.
             homepage_url: https://amazon.com/
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
-            joined: '2017-08-01'
+          - item:
+            name: Databricks Inc.
+            homepage_url: https://databricks.com/
+            logo: databricks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
             crunchbase: https://www.crunchbase.com/organization/ericsson
-            joined: '2018-12-01'
           - item:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
             homepage_url: https://oppo.com/
@@ -2772,7 +2770,7 @@ landscape:
           - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
-            logo: huawei_technologies_co_ltd.svg
+            logo: huawei_technologies_co.svg
             crunchbase: https://www.crunchbase.com/organization/huawei
           - item:
             name: Intel Corporation
@@ -2785,17 +2783,23 @@ landscape:
             logo: international_business_machines_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
-            name: Neural Magic
-            homepage_url: https://neuralmagic.com/
-            logo: Neural_Magic_Primary_Logo.svg
-            twitter: https://twitter.com/neuralmagic
-            crunchbase: https://www.crunchbase.com/organization/neuralmagic
-          - item:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
-            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Neural Magic
+            homepage_url: https://neuralmagic.com/
+            logo: neural_magic.svg
+            organization:
+              name: Neural Magic
+              linkedin: https://www.linkedin.com/company/neural-magic
+          - item:
+            name: NVIDIA Corporation
+            homepage_url: https://nvidia.com/
+            logo: nvidia_corporation.svg
+            twitter: https://twitter.com/nvidia
+            crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: SAS Institute Inc.
             homepage_url: https://sas.com/
@@ -2804,7 +2808,7 @@ landscape:
           - item:
             name: The 4th Paradigm Technology Co., Ltd
             homepage_url: https://4paradigm.com/
-            logo: the_4th_paradigm_technology_co_ltd.svg
+            logo: the_4th_paradigm_technology_co.svg
             crunchbase: https://www.crunchbase.com/organization/paradigm4
           - item:
             name: ZTE Corporation
@@ -2815,16 +2819,11 @@ landscape:
         name: General
         items:
           - item:
-            name: AMD
-            homepage_url: https://www.amd.com/en.html/
-            logo: amd.svg
+            name: Advanced Micro Devices (AMD)
+            homepage_url: https://amd.com/
+            logo: advanced_micro_devices_amd.svg
+            twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
-            joined: '2024-06-01'
-          - item:
-            name: Ant Group
-            homepage_url: https://www.antgroup.com/
-            logo: antgroup.svg
-            crunchbase: https://www.crunchbase.com/organization/ant-group
           - item:
             name: Alibaba Cloud (Singapore) Private LTD
             homepage_url: https://alibaba-inc.com/
@@ -2832,19 +2831,19 @@ landscape:
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
           - item:
+            name: Alipay (Hangzhou) Information Technology Co., Ltd.
+            homepage_url: https://global.alipay.com/
+            logo: alipay_hangzhou_information_technology_co_ltd.svg
+            organization:
+              name: Alipay (Hangzhou) Information Technology Co., Ltd.
+          - item:
             name: Astronomer
             homepage_url: https://astronomer.io/
             logo: astronomer.svg
             crunchbase: https://www.crunchbase.com/organization/astronomer
           - item:
-            name: ByteDance
-            homepage_url: https://www.bytedance.com/
-            logo: tiktok.svg
-            crunchbase: https://www.crunchbase.com/organization/bytedance
-          - item:
             name: Cloudera, Inc.
             homepage_url: https://cloudera.com/
-            stock_ticker: null
             logo: cloudera_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cloudera
           - item:
@@ -2852,12 +2851,6 @@ landscape:
             homepage_url: https://cloudgeometry.io/
             logo: cloudgeometry_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cloudgeometry
-            joined: '2023-05-01'
-          - item:
-            name: CSDN (Beijing) Network Technology Co. Ltd
-            homepage_url: https://csdn.net/
-            logo: csdn.svg
-            crunchbase: https://www.crunchbase.com/organization/csdn
           - item:
             name: DaoCloud Network Technology Co., Ltd.
             homepage_url: https://daocloud.io/
@@ -2877,49 +2870,53 @@ landscape:
             organization:
               name: DMetaSoul
           - item:
+            name: Douyin Vision Co., Ltd.
+            homepage_url: https://bytedance.com/
+            logo: douyin_vision_co_ltd.svg
+            twitter: https://twitter.com/BytedanceTalk
+            crunchbase: https://www.crunchbase.com/organization/bytedance
+          - item:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
-            stock_ticker: null
             logo: fujitsu_limited.svg
             crunchbase: https://www.crunchbase.com/organization/fujitsu
-            joined: '2016-01-01'
           - item:
             name: FuriosaAI, Inc.
             homepage_url: https://furiosa.ai/
             logo: furiosaai_inc.svg
             organization:
               name: FuriosaAI, Inc.
+              linkedin: https://www.linkedin.com/company/furiosaai
           - item:
             name: Futurewei Technologies, Inc.
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
-            joined: '2020-04-01'
+          - item:
+            name: GitCode
+            homepage_url: https://gitcode.csdn.net/
+            logo: gitcode.svg
+            crunchbase: https://www.crunchbase.com/organization/csdn
           - item:
             name: New Relic, Inc.
             homepage_url: https://newrelic.com/
             logo: new_relic_inc.svg
             crunchbase: https://www.crunchbase.com/organization/new-relic
-            joined: '2018-10-01'
           - item:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
-            stock_ticker: NOK
             logo: nokia_corporation.svg
             crunchbase: https://www.crunchbase.com/organization/nokia
-            joined: '2018-03-12'
           - item:
-            name: Okahu
-            homepage_url: https://www.okahu.ai/
-            logo: okahu.svg
-            organization:
-              name: Okahu AI, Inc.
+            name: Okahu Inc
+            homepage_url: https://okahu.ai/
+            logo: okahu_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/okahu
           - item:
             name: Posit
             homepage_url: https://posit.co/
             logo: posit.svg
             crunchbase: https://www.crunchbase.com/organization/posit
-            joined: '2019-10-01'
           - item:
             name: Precisely Holdings, LLC
             homepage_url: https://precisely.com/
@@ -2931,18 +2928,11 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
-            joined: '2016-01-01'
           - item:
             name: Union.ai
             homepage_url: https://union.ai/
-            logo: unionai.svg
+            logo: union.svg
             crunchbase: https://www.crunchbase.com/organization/union-ai
-            joined: '2022-08-01'
-          - item:
-            name: Wegmans
-            homepage_url: https://www.wegmans.com/
-            logo: wegmans.svg
-            crunchbase: https://www.crunchbase.com/organization/wegmans
           - item:
             name: Zilliz
             homepage_url: https://zilliz.com/
@@ -2955,23 +2945,30 @@ landscape:
             name: AI for People
             homepage_url: https://aiforpeople.org/
             logo: ai_for_people.svg
-            crunchbase: https://www.crunchbase.com/organization/ai-for-people
+            organization:
+              name: AI for People
+              linkedin: https://www.linkedin.com/company/ai-for-people
           - item:
             name: AIDAUG
             homepage_url: https://aidaug.org/
             logo: aidaug.svg
             organization:
               name: AIDAUG
+              linkedin: https://www.linkedin.com/company/aidaug
           - item:
-            name: Aivancity School for Technology, Business & Society Paris-Cachan
+            name: aivancity School for Technology Business & Society
             homepage_url: https://aivancity.ai/
-            logo: aivancity_school_for_technology_business__society_paris-cachan.svg
-            crunchbase: https://www.crunchbase.com/organization/aivancity-school-for-technology-business-society
+            logo: aivancity_school_for_technology_business_society.svg
+            twitter: https://twitter.com/aivancityschool
+            organization:
+              name: aivancity School for Technology Business & Society
           - item:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
-            logo: ambianicai.svg
-            crunchbase: https://www.crunchbase.com/organization/ambianic
+            logo: ambianic.svg
+            organization:
+              name: Ambianic.ai
+              linkedin: https://www.linkedin.com/company/ambianicai
           - item:
             name: baai
             homepage_url: https://baai.ac.cn/
@@ -2995,8 +2992,8 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
           - item:
             name: Columbia University
-            homepage_url: https://www.columbia.edu
-            logo: columbiauniversity.svg
+            homepage_url: https://columbia.edu/
+            logo: columbia_university.svg
             twitter: https://twitter.com/Columbia
             crunchbase: https://www.crunchbase.com/organization/columbia-university
           - item:
@@ -3008,7 +3005,9 @@ landscape:
             name: EleutherAI
             homepage_url: https://eleuther.ai/
             logo: eleutherai.svg
-            crunchbase: https://www.crunchbase.com/organization/eleutherai
+            organization:
+              name: EleutherAI
+              linkedin: https://www.linkedin.com/company/eleutherai
           - item:
             name: Ersilia Open Source Initiative
             homepage_url: https://ersilia.io/
@@ -3016,10 +3015,11 @@ landscape:
             twitter: https://twitter.com/ersiliaio
             organization:
               name: Ersilia Open Source Initiative
+              linkedin: https://www.linkedin.com/company/ersiliaio
           - item:
             name: Ewha Institute for Biomedical Law & Ethics
             homepage_url: https://my.ewha.ac.kr/
-            logo: ewha_institute_for_biomedical_law__ethics.svg
+            logo: ewha_institute_for_biomedical_law_ethics.svg
             crunchbase: https://www.crunchbase.com/organization/ewha-womans-university
           - item:
             name: Galgotias University
@@ -3034,15 +3034,18 @@ landscape:
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
           - item:
-            name: Institute for Ethical AI & Machine Learning
-            homepage_url: https://ethical.institute/
-            logo: the_institute_for_ethical_ai__machine_learning.svg
-            crunchbase: https://www.crunchbase.com/organization/the-institute-for-ethical-ai-machine-learning
+            name: Human Feedback Foundation
+            homepage_url: https://humanfeedback.io/
+            logo: human_feedback_foundation.svg
+            organization:
+              name: Human Feedback Foundation
+              linkedin: https://www.linkedin.com/company/human-feedback-foundation
           - item:
             name: InternLM
-            homepage_url: https://www.shlab.org.cn/
-            logo: internlm-3.svg
-            crunchbase: https://www.crunchbase.com/organization/shanghai-ai-innovation
+            homepage_url: https://internlm.org/
+            logo: internlm.svg
+            organization:
+              name: InternLM
           - item:
             name: ISSIP
             homepage_url: https://issip.org/
@@ -3059,7 +3062,9 @@ landscape:
             name: Montreal AI Ethics Institute
             homepage_url: https://montrealethics.ai/
             logo: montreal_ai_ethics_institute.svg
-            crunchbase: https://www.crunchbase.com/organization/montreal-ai-ethics-institute
+            organization:
+              name: Montreal AI Ethics Institute
+              linkedin: https://www.linkedin.com/company/mtlaiethics
           - item:
             name: New York University
             homepage_url: https://nyu.edu/
@@ -3076,6 +3081,7 @@ landscape:
             logo: odiseia.svg
             organization:
               name: OdiseIA
+              linkedin: https://www.linkedin.com/company/odiseia
           - item:
             name: One Fact Foundation
             homepage_url: https://onefact.org/
@@ -3083,27 +3089,29 @@ landscape:
             twitter: https://twitter.com/onefact_org
             organization:
               name: One Fact Foundation
+              linkedin: https://www.linkedin.com/company/onefact
           - item:
             name: OpenI
-            homepage_url: https://pcl.ac.cn/
+            homepage_url: https://openi.pcl.ac.cn/
             logo: openi.svg
             crunchbase: https://www.crunchbase.com/organization/openi
           - item:
             name: OpenUK
-            description: Where the UK’s Open communities meet and collaborate
             homepage_url: https://openuk.uk/
             logo: openuk.svg
             crunchbase: https://www.crunchbase.com/organization/openuk
           - item:
             name: Penn State Great Valley - The Pennsylvania State University
             homepage_url: https://greatvalley.psu.edu/
-            logo: penn_state_great_valley_-_the_pennsylvania_state_university.svg
+            logo: penn_state_great_valley_the_pennsylvania_state_university.svg
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
           - item:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
             logo: pranveer_singh_institute_of_technology.svg
-            crunchbase: https://www.crunchbase.com/organization/pranveer-singh-institute-of-technology
+            organization:
+              name: Pranveer Singh Institute Of Technology
+              linkedin: https://www.linkedin.com/company/psit-kanpur-pranveer-singh-institute-of-technology-
           - item:
             name: QuantUniversity
             homepage_url: https://quantuniversity.com/
@@ -3113,24 +3121,42 @@ landscape:
           - item:
             name: Sahyadri College of Engineering & Management
             homepage_url: https://sahyadri.edu.in/
-            logo: sahyadri_college_of_engineering__management.svg
+            logo: sahyadri_college_of_engineering_management.svg
             crunchbase: https://www.crunchbase.com/organization/sahyadri-college-of-engineering-and-management
           - item:
             name: Shanghai OpenSource Information Technology Association
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
-            crunchbase: https://www.crunchbase.com/organization/shanghai-opensource-information-technology-association
+            organization:
+              name: Shanghai OpenSource Information Technology Association
+          - item:
+            name: The Institute for Ethical AI & Machine Learning
+            homepage_url: https://ethical.institute/
+            logo: the_institute_for_ethical_ai_machine_learning.svg
+            twitter: https://twitter.com/EthicalML
+            organization:
+              name: The Institute for Ethical AI & Machine Learning
+              linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
           - item:
             name: Thinkerland
-            homepage_url: https://thinkerland.org
+            homepage_url: https://thinkerland.org/
             logo: thinkerland.svg
-            crunchbase: https://www.crunchbase.com/organization/thinkerland
+            organization:
+              name: Thinkerland
+              linkedin: https://www.linkedin.com/company/thinkerland
+          - item:
+            name: Transport for NSW
+            homepage_url: https://transport.nsw.gov.au/
+            logo: transport_for_nsw.svg
+            twitter: https://twitter.com/TransportforNSW
+            organization:
+              name: Transport for NSW
+              linkedin: https://www.linkedin.com/company/transport-for-nsw
           - item:
             name: University of Michigan
             homepage_url: https://ai.engin.umich.edu/
             logo: university_of_michigan.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
-            joined: '2022-02-01'
           - item:
             name: University of Washington
             homepage_url: https://uw.edu/
@@ -3142,6 +3168,13 @@ landscape:
             logo: universite_libre_de_tunis.svg
             twitter: https://twitter.com/ULT_Tunisie
             crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+          - item:
+            name: velammal college of engineering and technology
+            homepage_url: https://vcet.ac.in/
+            logo: velammal_college_of_engineering_and_technology.svg
+            organization:
+              name: velammal college of engineering and technology
+              linkedin: https://www.linkedin.com/company/velammal-college-of-engineering-and-technology
           - item:
             name: Wikimedia Deutschland e. V.
             homepage_url: https://wikimedia.de/
@@ -3155,11 +3188,7 @@ landscape:
             twitter: https://twitter.com/WEDF_foundation
             organization:
               name: World Ethical Data Foundation
-          - item:
-            name: Human Feedback Foundation
-            homepage_url: https://humanfeedback.io/
-            logo: HFF.svg
-            crunchbase: https://www.crunchbase.com/organization/human-feedback-foundation
+              linkedin: https://www.linkedin.com/company/world-ethical-data-forum
           - item:
             name: XPRIZE
             homepage_url: https://xprize.org/
@@ -3175,7 +3204,7 @@ landscape:
             name: Okahu (hosting)
             homepage_url: https://www.okahu.ai/
             logo: okahu.svg
-            twitter: null 
+            twitter: null
             crunchbase: https://www.crunchbase.com/organization/okahu
           - item:
             name: Databricks Inc. (hosting)
@@ -3357,6 +3386,11 @@ landscape:
             logo: uber.svg
             crunchbase: https://www.crunchbase.com/organization/uber
           - item:
+            name: University of California Berkeley (hosting)
+            homepage_url: https://www.berkeley.edu/
+            logo: ucb.svg
+            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
+          - item:
             name: WeWork (hosting)
             homepage_url: https://wework.com/
             logo: wework.svg
@@ -3372,9 +3406,3 @@ landscape:
             logo: zte.svg
             twitter: https://twitter.com/ztepress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
-          - item:
-            name: University of California Berkeley (hosting)
-            homepage_url: https://www.berkeley.edu/
-            logo: ucb.svg
-            twitter: https://twitter.com/UCBerkeley
-            crunchbase: https://www.crunchbase.com/organization/university-of-california-berkeley
