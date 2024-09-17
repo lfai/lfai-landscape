@@ -1485,6 +1485,14 @@ landscape:
         name: Generative AI
         items:
           - item:
+            name: Monocole
+            homepage_url: http://monocle2ai.org/
+            project: sandbox
+            repo_url: https://github.com/monocle2ai/monocle
+            logo: monocle.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
             name: RWKV
             homepage_url: https://www.rwkv.com
             project: incubating
@@ -1499,14 +1507,6 @@ landscape:
             logo: trulens.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/truera
-          - item:
-            name: Monocole
-            homepage_url: http://monocle2ai.org/
-            repo_url: https://github.com/monocle2ai/monocle
-            logo: monocle.svg
-            project: sandbox
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Natural Language Processing
     subcategories:
@@ -2798,7 +2798,6 @@ landscape:
             name: NVIDIA Corporation
             homepage_url: https://nvidia.com/
             logo: nvidia_corporation.svg
-            twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
           - item:
             name: SAS Institute Inc.
@@ -2945,6 +2944,7 @@ landscape:
             name: AI for People
             homepage_url: https://aiforpeople.org/
             logo: ai_for_people.svg
+            twitter: https://twitter.com/AIforPeople
             organization:
               name: AI for People
               linkedin: https://www.linkedin.com/company/ai-for-people
@@ -2966,6 +2966,7 @@ landscape:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
             logo: ambianic.svg
+            twitter: https://twitter.com/ambianicai
             organization:
               name: Ambianic.ai
               linkedin: https://www.linkedin.com/company/ambianicai
@@ -3062,6 +3063,7 @@ landscape:
             name: Montreal AI Ethics Institute
             homepage_url: https://montrealethics.ai/
             logo: montreal_ai_ethics_institute.svg
+            twitter: https://twitter.com/mtlaiethics
             organization:
               name: Montreal AI Ethics Institute
               linkedin: https://www.linkedin.com/company/mtlaiethics
@@ -3109,6 +3111,7 @@ landscape:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
             logo: pranveer_singh_institute_of_technology.svg
+            twitter: https://twitter.com/PSITKanpur2004
             organization:
               name: Pranveer Singh Institute Of Technology
               linkedin: https://www.linkedin.com/company/psit-kanpur-pranveer-singh-institute-of-technology-
@@ -3201,18 +3204,6 @@ landscape:
         name: Hosting Companies
         items:
           - item:
-            name: Okahu (hosting)
-            homepage_url: https://www.okahu.ai/
-            logo: okahu.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/okahu
-          - item:
-            name: Databricks Inc. (hosting)
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            twitter: https://twitter.com/databricks
-            crunchbase: https://www.crunchbase.com/organization/databricks
-          - item:
             name: Amazon (hosting)
             homepage_url: https://amazon.com/
             logo: amazon.svg
@@ -3248,6 +3239,11 @@ landscape:
             homepage_url: https://data.world/
             logo: dataworld.svg
             crunchbase: https://www.crunchbase.com/organization/data-world
+          - item:
+            name: Databricks Inc. (hosting)
+            homepage_url: https://databricks.com/
+            logo: databricks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
             name: Datakin (hosting)
             homepage_url: https://datakin.com/
@@ -3337,6 +3333,11 @@ landscape:
             homepage_url: https://www.microsoft.com/en-us
             logo: microsoft.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: Okahu (hosting)
+            homepage_url: https://www.okahu.ai/
+            logo: okahu.svg
+            crunchbase: https://www.crunchbase.com/organization/okahu
           - item:
             name: oojek (hosting)
             homepage_url: https://www.gojek.com/en-id
