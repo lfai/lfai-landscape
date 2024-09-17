@@ -1482,7 +1482,18 @@ landscape:
     name: Generative AI
     subcategories:
       - subcategory:
-        name: Generative AI
+        name: Models
+        items:
+          - item:
+            name: RWKV
+            homepage_url: https://www.rwkv.com
+            project: incubating
+            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
+            logo: rwkv.svg
+            twitter: https://twitter.com/RWKV_AI
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+      - subcategory:
+        name: Tools
         items:
           - item:
             name: Monocole
@@ -1491,14 +1502,6 @@ landscape:
             repo_url: https://github.com/monocle2ai/monocle
             logo: monocle.svg
             twitter: null
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: RWKV
-            homepage_url: https://www.rwkv.com
-            project: incubating
-            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
-            logo: rwkv.svg
-            twitter: https://twitter.com/RWKV_AI
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: TruLens
