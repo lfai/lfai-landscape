@@ -1496,13 +1496,6 @@ landscape:
         name: Tools
         items:
           - item:
-            name: vLLM
-            homepage_url: https://vllm.ai/
-            repo_url: https://github.com/vllm-project/vllm
-            logo: vllm.svg
-            project: incubating
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Langchain
             homepage_url: https://www.langchain.com/
             repo_url: https://github.com/langchain-ai/langchain
@@ -1523,6 +1516,13 @@ landscape:
             logo: trulens.svg
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/truera
+          - item:
+            name: vLLM
+            homepage_url: https://vllm.ai/
+            project: incubating
+            repo_url: https://github.com/vllm-project/vllm
+            logo: vllm.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Natural Language Processing
     subcategories:
