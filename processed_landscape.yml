@@ -26501,7 +26501,7 @@ landscape:
           - item:
             name: Bitol
             homepage_url: https://cdla.dev
-            project: sandbox
+            project: incubating
             repo_url: https://github.com/bitol-io/open-data-contract-standard
             license: Apache 2.0
             logo: bitol.svg
@@ -26639,13 +26639,13 @@ landscape:
             github_data:
               languages:
                 - name: Java
-                  value: 83697635
+                  value: 85506863
                   color: '#b07219'
                 - name: Python
-                  value: 2248868
+                  value: 2611375
                   color: '#3572A5'
                 - name: Jupyter Notebook
-                  value: 1770710
+                  value: 1808627
                   color: '#DA5B0B'
                 - name: JavaScript
                   value: 1419252
@@ -26657,7 +26657,7 @@ landscape:
                   value: 85413
                   color: '#e69f56'
                 - name: Shell
-                  value: 80101
+                  value: 80086
                   color: '#89e051'
                 - name: SCSS
                   value: 63606
@@ -26668,7 +26668,7 @@ landscape:
                   value: 43008
                   color: '#00ADD8'
                 - name: Dockerfile
-                  value: 28362
+                  value: 28364
                   color: '#384d54'
                 - name: CSS
                   value: 25351
@@ -26688,32 +26688,32 @@ landscape:
                 - name: Jinja
                   value: 1302
               contributions: >-
-                17;9;28;12;7;3;0;12;16;58;1;23;19;12;11;10;10;16;20;119;22;15;30;12;28;27;33;41;5;24;22;45;29;0;0;18;9;30;99;33;23;21;17;18;28;15;14;5;6;24;23;32
-              firstWeek: 2023-09-24Z
-              stars: 1250
+                10;11;11;8;19;17;119;27;14;31;7;34;21;33;41;5;27;27;38;28;0;0;21;6;45;84;33;24;21;21;22;20;20;11;8;4;30;23;23;11;28;34;55;66;26;0;21;27;11;28;17;58
+              firstWeek: 2023-12-24Z
+              stars: 1277
               license: Apache 2.0
               description: Egeria core
-              latest_commit_date: '2024-09-15T19:00:34Z'
-              latest_commit_link: /odpi/egeria/commit/b7d5f168086dbd093717f75591ca9dcb745c4f42
-              release_date: '2024-07-04T09:24:32Z'
+              latest_commit_date: '2024-12-15T23:27:03Z'
+              latest_commit_link: /odpi/egeria/commit/f416132de2414b3ab6db3d9f7f095c57956d969b
+              release_date: '2024-10-02T16:32:58Z'
               release_link: https://github.com/odpi/egeria/releases
               contributors_count: 92
               contributors_link: https://github.com/odpi/egeria/graphs/contributors
             repos:
               - url: https://github.com/odpi/egeria
-                stars: 796
+                stars: 814
               - url: https://github.com/odpi/data-governance
                 stars: 101
               - url: https://github.com/odpi/egeria-ui
-                stars: 35
+                stars: 36
               - url: https://github.com/odpi/egeria-connector-ibm-information-server
-                stars: 26
+                stars: 27
               - url: https://github.com/odpi/egeria-docs
-                stars: 22
+                stars: 23
               - url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
-                stars: 20
+                stars: 21
               - url: https://github.com/odpi/egeria-connector-sas-viya
-                stars: 16
+                stars: 17
               - url: https://github.com/odpi/egeria-ui-components
                 stars: 16
               - url: https://github.com/odpi/egeria-database-connectors
@@ -26722,17 +26722,17 @@ landscape:
                 stars: 15
               - url: https://github.com/odpi/egeria-js-commons
                 stars: 15
+              - url: https://github.com/odpi/egeria-react-ui
+                stars: 14
               - url: https://github.com/odpi/egeria-charts
                 stars: 13
-              - url: https://github.com/odpi/egeria-react-ui
-                stars: 13
               - url: https://github.com/odpi/egeria-samples
+                stars: 13
+              - url: https://github.com/odpi/egeria-samples-api
                 stars: 12
               - url: https://github.com/odpi/egeria-api-mocks
                 stars: 12
               - url: https://github.com/odpi/egeria-ui-core
-                stars: 11
-              - url: https://github.com/odpi/egeria-samples-api
                 stars: 11
               - url: https://github.com/odpi/happi-graph
                 stars: 11
@@ -26747,7 +26747,7 @@ landscape:
               - url: https://github.com/odpi/egeria-jupyter-notebooks
                 stars: 9
               - url: https://github.com/odpi/egeria-palisade
-                stars: 8
+                stars: 9
               - url: https://github.com/odpi/egeria-connector-integration-event-schema
                 stars: 7
               - url: https://github.com/odpi/egeria-connector-repository-file-sample
@@ -30254,8 +30254,60 @@ landscape:
     name: Generative AI
     subcategories:
       - subcategory:
-        name: Generative AI
+        name: Models
         items:
+          - item:
+            name: Open Model Initiative
+            homepage_url: https://github.com/orgs/Open-Model-Initiative/
+            project: sandbox
+            repo_url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
+            logo: omi.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            crunchbase_data:
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
+            github_data:
+              languages: []
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;0;2;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+              firstWeek: 2023-12-24Z
+              stars: 3
+              license: Apache License 2.0
+              description: A repository for establishing and maintaining standardized model formats across the open-source media ecosystem.
+              latest_commit_date: '2024-09-07T12:04:12Z'
+              latest_commit_link: /Open-Model-Initiative/OMI-Model-Standards/commit/ce7ddab00957c626947409255dc8816ad47dca4f
+              contributors_count: 2
+              contributors_link: https://github.com/Open-Model-Initiative/OMI-Model-Standards/graphs/contributors
+            repos:
+              - url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
+                stars: 3
+            github_start_commit_data:
+              start_commit_link: /Open-Model-Initiative/OMI-Model-Standards/commit/a2fb2f47688bf5584909c41010a1e8d882f01415
+              start_date: '2024-08-26T19:41:53Z'
+            image_data:
+              fileName: open-model-initiative.svg
+              hash: s5uLWOpgr9DWk6d21EGZhtfDI8h12miGxgVZVE5NIrw=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-30T15:54:55.000Z
           - item:
             name: RWKV
             homepage_url: https://www.rwkv.com
@@ -30327,6 +30379,148 @@ landscape:
             best_practice_data:
               badge: false
               percentage: null
+      - subcategory:
+        name: Tools
+        items:
+          - item:
+            name: Langchain
+            homepage_url: https://www.langchain.com/
+            repo_url: https://github.com/langchain-ai/langchain
+            logo: langchain.svg
+            crunchbase: https://www.crunchbase.com/organization/langchain
+            crunchbase_data:
+              name: LangChain
+              description: LangChain enables developers to accelerate their LLM application workflows by overseeing the entire project lifecycle.
+              num_employees_min: 11
+              num_employees_max: 50
+              homepage: https://www.langchain.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LangChainAI
+              linkedin: https://www.linkedin.com/company/langchain
+              acquisitions: []
+              parents: []
+              funding: 35000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Artificial Intelligence (AI)
+                - Database
+                - Developer APIs
+                - Generative AI
+              kind: funding
+            github_data:
+              languages:
+                - name: Jupyter Notebook
+                  value: 31945288
+                  color: '#DA5B0B'
+                - name: Python
+                  value: 19344676
+                  color: '#3572A5'
+                - name: MDX
+                  value: 56545
+                - name: Makefile
+                  value: 54620
+                  color: '#427819'
+                - name: Shell
+                  value: 19562
+                  color: '#89e051'
+                - name: XSLT
+                  value: 19446
+                  color: '#EB8CEB'
+                - name: HTML
+                  value: 9026
+                  color: '#e34c26'
+                - name: TeX
+                  value: 2242
+                  color: '#3D6117'
+                - name: Dockerfile
+                  value: 1311
+                  color: '#384d54'
+                - name: JavaScript
+                  value: 471
+                  color: '#f1e05a'
+              contributions: >-
+                106;92;145;116;141;148;95;139;137;144;156;190;109;123;230;90;128;127;153;156;106;153;122;73;144;120;141;121;95;123;129;126;136;111;101;126;103;51;77;95;79;53;33;51;51;96;52;69;66;45;103;103
+              firstWeek: 2023-12-24Z
+              stars: 96316
+              license: MIT License
+              description: 🦜🔗 Build context-aware reasoning applications
+              latest_commit_date: '2024-12-17T19:31:14Z'
+              latest_commit_link: /langchain-ai/langchain/commit/be738aa7de4081a5a387f740b6d3019aa4dc7c92
+              release_date: '2024-12-14T20:10:04Z'
+              release_link: https://github.com/langchain-ai/langchain/releases
+              contributors_count: 3047
+              contributors_link: https://github.com/langchain-ai/langchain/graphs/contributors
+            repos:
+              - url: https://github.com/langchain-ai/langchain
+                stars: 96316
+            github_start_commit_data:
+              start_commit_link: /langchain-ai/langchain/commit/18aeb720126a68201c7e3b5a617139c27c779496
+              start_date: '2022-10-24T21:51:15Z'
+            image_data:
+              fileName: langchain.svg
+              hash: qPaQT+YKvN1uS38mRMsYcYkuWS3Jf+m2q4dsYDLQmcI=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
+            name: Monocole
+            homepage_url: http://monocle2ai.org/
+            project: sandbox
+            repo_url: https://github.com/monocle2ai/monocle
+            logo: monocle.svg
+            twitter: null
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            crunchbase_data:
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
+            github_data:
+              languages:
+                - name: Python
+                  value: 116368
+                  color: '#3572A5'
+              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;1;1;9;5;3;4;8;12;1;11;0;1
+              firstWeek: 2023-09-24Z
+              stars: 10
+              license: Apache License 2.0
+              description: genAI observability
+              latest_commit_date: '2024-09-09T13:54:41Z'
+              latest_commit_link: /monocle2ai/monocle/commit/212df7018658063e34992d89a23ce8bc197a69e4
+              release_date: '2024-08-28T17:49:20Z'
+              release_link: https://github.com/monocle2ai/monocle/releases
+              contributors_count: 4
+              contributors_link: https://github.com/monocle2ai/monocle/graphs/contributors
+            repos:
+              - url: https://github.com/monocle2ai/monocle
+                stars: 10
+            github_start_commit_data:
+              start_commit_link: /monocle2ai/monocle/commit/03041b7a45fb320c10bd2b7f2d5250abf1fe4873
+              start_date: '2024-06-15T19:46:08Z'
+            image_data:
+              fileName: monocole.svg
+              hash: hKIrAil7HsaM/eyHiPQrzruZRjk5D0FRt7dkEBEfsas=
+            best_practice_data:
+              badge: 9176
+              percentage: 16
           - item:
             name: TruLens
             homepage_url: https://github.com/truera/trulens
@@ -30408,12 +30602,11 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: Monocole
-            homepage_url: http://monocle2ai.org/
-            repo_url: https://github.com/monocle2ai/monocle
-            logo: monocle.svg
-            project: sandbox
-            twitter: null
+            name: vLLM
+            homepage_url: https://vllm.ai/
+            project: incubating
+            repo_url: https://github.com/vllm-project/vllm
+            logo: vllm.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             crunchbase_data:
               name: LF AI & Data Foundation
@@ -30438,31 +30631,51 @@ landscape:
             github_data:
               languages:
                 - name: Python
-                  value: 116368
+                  value: 9494386
                   color: '#3572A5'
-              contributions: 0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2;3;1;1;9;5;3;4;8;12;1;11;0;1
-              firstWeek: 2023-09-24Z
-              stars: 10
+                - name: Cuda
+                  value: 1250277
+                  color: '#3A4E3A'
+                - name: C++
+                  value: 374292
+                  color: '#f34b7d'
+                - name: C
+                  value: 92141
+                  color: '#555555'
+                - name: Shell
+                  value: 81299
+                  color: '#89e051'
+                - name: CMake
+                  value: 41736
+                - name: Dockerfile
+                  value: 10462
+                  color: '#384d54'
+              contributions: >-
+                9;6;14;19;24;23;29;10;27;25;40;29;50;50;57;44;56;44;59;66;52;47;31;56;70;92;64;95;55;91;82;98;97;80;87;84;69;58;85;84;88;69;76;79;85;98;128;97;106;67;75;101
+              firstWeek: 2023-12-24Z
+              stars: 32041
               license: Apache License 2.0
-              description: genAI observability
-              latest_commit_date: '2024-09-09T13:54:41Z'
-              latest_commit_link: /monocle2ai/monocle/commit/212df7018658063e34992d89a23ce8bc197a69e4
-              release_date: '2024-08-28T17:49:20Z'
-              release_link: https://github.com/monocle2ai/monocle/releases
-              contributors_count: 4
-              contributors_link: https://github.com/monocle2ai/monocle/graphs/contributors
+              description: A high-throughput and memory-efficient inference and serving engine for LLMs
+              latest_commit_date: '2024-12-17T08:37:04Z'
+              latest_commit_link: /vllm-project/vllm/commit/f9ecbb18bf03338a4272c933a49a87021363b048
+              release_date: '2024-11-15T17:50:06Z'
+              release_link: https://github.com/vllm-project/vllm/releases
+              contributors_count: 681
+              contributors_link: https://github.com/vllm-project/vllm/graphs/contributors
             repos:
-              - url: https://github.com/monocle2ai/monocle
-                stars: 10
+              - url: https://github.com/vllm-project/vllm
+                stars: 32041
             github_start_commit_data:
-              start_commit_link: /monocle2ai/monocle/commit/03041b7a45fb320c10bd2b7f2d5250abf1fe4873
-              start_date: '2024-06-15T19:46:08Z'
+              start_commit_link: /vllm-project/vllm/commit/e7d9d9c08c79b386f6d0477e87b77a572390317d
+              start_date: '2023-02-09T11:24:15Z'
             image_data:
-              fileName: monocole.svg
-              hash: hKIrAil7HsaM/eyHiPQrzruZRjk5D0FRt7dkEBEfsas=
+              fileName: v-llm.svg
+              hash: 3nyZ+fPYqkKQ1xGanJRQvn4dRlNTmdjOHUsqS7Ua8SM=
             best_practice_data:
-              badge: 9176
-              percentage: 16
+              badge: 9249
+              percentage: 100
+            twitter_data:
+              latest_tweet_date: 2022-09-30T15:54:55.000Z
   - category:
     name: Natural Language Processing
     subcategories:
@@ -37267,581 +37480,31 @@ landscape:
           - item:
             name: DeepSpeed
             homepage_url: https://www.deepspeed.ai/
+            project: incubating
             repo_url: https://github.com/microsoft/DeepSpeed
             license: Apache 2.0
             logo: deepspeed.svg
-            crunchbase: https://www.crunchbase.com/organization/microsoft
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             crunchbase_data:
-              name: Microsoft
-              description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: http://www.microsoft.com
-              city: Redmond
-              region: Washington
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
               country: United States
-              twitter: http://twitter.com/Microsoft
-              linkedin: https://www.linkedin.com/company/microsoft
-              acquisitions:
-                - date: '1987-07-30'
-                  acquiree: Forethought
-                  price: 14000000
-                - date: '1991-03-08'
-                  acquiree: Consumers Software
-                - date: '1992-03-25'
-                  acquiree: Fox Software
-                - date: '1994-02-15'
-                  acquiree: SoftImage
-                - date: '1994-09-27'
-                  acquiree: Altamira Software
-                - date: '1994-11-01'
-                  acquiree: NextBase
-                - date: '1994-11-16'
-                  acquiree: One Tree Software Ltd
-                - date: '1995-02-23'
-                  acquiree: RenderMorphics
-                - date: '1995-07-10'
-                  acquiree: Network Managers
-                - date: '1995-10-16'
-                  acquiree: Blue Ribbon SoundWorks
-                - date: '1995-11-06'
-                  acquiree: Netwise
-                - date: '1995-12-12'
-                  acquiree: Bruce Artwick Organization
-                - date: '1996-01-16'
-                  acquiree: Vermeer Technologies
-                - date: '1996-03-12'
-                  acquiree: Colusa Software
-                - date: '1996-04-15'
-                  acquiree: EXOS
-                - date: '1996-04-23'
-                  acquiree: Aspect Software Inc
-                - date: '1996-06-11'
-                  acquiree: eShop
-                - date: '1996-06-17'
-                  acquiree: Electric Gravity
-                - date: '1996-12-10'
-                  acquiree: NetCarta
-                - date: '1997-03-03'
-                  acquiree: Interse
-                - date: '1997-04-06'
-                  acquiree: WebTV Networks
-                - date: '1997-05-07'
-                  acquiree: Dimension X
-                - date: '1997-06-13'
-                  acquiree: Cooper & Peters
-                - date: '1997-06-30'
-                  acquiree: LinkAge Software
-                - date: '1997-08-05'
-                  acquiree: VXtreme
-                - date: '1997-12-31'
-                  acquiree: Hotmail
-                - date: '1997-12-31'
-                  acquiree: Windows Live Hotmail
-                - date: '1998-04-09'
-                  acquiree: Firefly Network
-                - date: '1998-04-28'
-                  acquiree: MESA Group
-                - date: '1998-06-23'
-                  acquiree: Merchant Planet
-                - date: '1998-08-25'
-                  acquiree: Valence Research
-                - date: '1998-08-25'
-                  acquiree: Valence Technology
-                - date: '1998-11-05'
-                  acquiree: linkexchange
-                - date: '1999-01-08'
-                  acquiree: FASA Interactive
-                - date: '1999-03-04'
-                  acquiree: CompareNet
-                - date: '1999-03-28'
-                  acquiree: Numinous Technologies
-                - date: '1999-04-26'
-                  acquiree: Jump Networks
-                - date: '1999-06-07'
-                  acquiree: ShadowFactor Software
-                - date: '1999-06-14'
-                  acquiree: OmniBrowse
-                - date: '1999-07-01'
-                  acquiree: Sendit
-                - date: '1999-07-07'
-                  acquiree: Zoomit
-                - date: '1999-07-21'
-                  acquiree: STNC
-                - date: '1999-07-28'
-                  acquiree: Intrinsa
-                  price: 58900000
-                - date: '1999-09-15'
-                  acquiree: Visio Corporation
-                - date: '1999-09-17'
-                  acquiree: Softway Systems
-                - date: '1999-10-29'
-                  acquiree: Entropic
-                - date: '1999-11-01'
-                  acquiree: Entropic Research Laboratories
-                - date: '2000-02-29'
-                  acquiree: Peach Networks
-                - date: '2000-06-19'
-                  acquiree: Bungie
-                - date: '2000-07-12'
-                  acquiree: NetGames
-                - date: '2000-09-13'
-                  acquiree: MongoMusic
-                  price: 65000000
-                - date: '2000-09-18'
-                  acquiree: Pacific Microsonics
-                - date: '2000-12-05'
-                  acquiree: Digital Anvil
-                - date: '2000-12-21'
-                  acquiree: Great Plains Software
-                - date: '2001-04-30'
-                  acquiree: NCompass Labs
-                - date: '2001-09-13'
-                  acquiree: XDegrees
-                - date: '2002-05-07'
-                  acquiree: Navision
-                  price: 1450000000
-                - date: '2002-09-24'
-                  acquiree: Rare
-                  price: 337000000
-                - date: '2002-10-22'
-                  acquiree: Vicinity Corporation
-                  price: 96000000
-                - date: '2003-02-19'
-                  acquiree: Connectix
-                - date: '2003-03-04'
-                  acquiree: Pelican Security
-                  price: 1000000
-                - date: '2003-04-30'
-                  acquiree: PlaceWare
-                - date: '2003-06-10'
-                  acquiree: RAV Antivirus
-                - date: '2004-04-26'
-                  acquiree: ActiveViews
-                - date: '2004-07-17'
-                  acquiree: Lookout Software
-                - date: '2004-12-16'
-                  acquiree: GIANT Company Software
-                - date: '2005-02-08'
-                  acquiree: Sybari
-                - date: '2005-03-10'
-                  acquiree: Groove Networks
-                - date: '2005-05-11'
-                  acquiree: MessageCast
-                - date: '2005-07-20'
-                  acquiree: Frontbridge Technologies
-                - date: '2005-08-30'
-                  acquiree: Teleo
-                - date: '2005-09-19'
-                  acquiree: Alacris
-                - date: '2005-10-06'
-                  acquiree: Unveil Technologies
-                - date: '2005-11-02'
-                  acquiree: Media-Streams.com
-                - date: '2005-11-03'
-                  acquiree: FolderShare
-                - date: '2005-11-17'
-                  acquiree: 5th Finger
-                - date: '2006-01-28'
-                  acquiree: SeaDragon Software
-                - date: '2006-02-13'
-                  acquiree: Motion Bridge
-                - date: '2006-03-07'
-                  acquiree: Apptimum
-                - date: '2006-03-07'
-                  acquiree: Onfolio
-                - date: '2006-04-03'
-                  acquiree: ProClarity
-                - date: '2006-04-06'
-                  acquiree: Lionhead Studios
-                - date: '2006-04-26'
-                  acquiree: AssetMetrix Corporation
-                - date: '2006-05-01'
-                  acquiree: Massive
-                  price: 200000000
-                - date: '2006-05-04'
-                  acquiree: DeepMetrix
-                - date: '2006-05-04'
-                  acquiree: Vexcel
-                - date: '2006-05-18'
-                  acquiree: Whale Communications
-                  price: 75000000
-                - date: '2006-06-27'
-                  acquiree: iView Multimedia
-                - date: '2006-07-17'
-                  acquiree: Softricity
-                - date: '2006-07-18'
-                  acquiree: Winternals
-                - date: '2006-07-26'
-                  acquiree: Azyxxi
-                - date: '2006-09-26'
-                  acquiree: Gteko
-                - date: '2006-10-02'
-                  acquiree: DesktopStandard
-                - date: '2006-10-12'
-                  acquiree: Colloquis
-                - date: '2007-02-26'
-                  acquiree: Medstory
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-14'
-                  acquiree: Tellme
-                  price: 800000000
-                - date: '2007-03-28'
-                  acquiree: devBiz Business Solutions
-                - date: '2007-05-03'
-                  acquiree: Screen Tonic
-                - date: '2007-05-18'
-                  acquiree: aQuantive
-                  price: 6400000000
-                - date: '2007-06-05'
-                  acquiree: Engyro
-                - date: '2007-06-07'
-                  acquiree: Stratature
-                - date: '2007-07-26'
-                  acquiree: AdECN
-                - date: '2007-08-29'
-                  acquiree: Parlano
-                - date: '2007-10-29'
-                  acquiree: Global Care Solutions
-                - date: '2007-11-15'
-                  acquiree: Musiwave
-                  price: 46000000
-                - date: '2007-11-30'
-                  acquiree: WebFives
-                - date: '2007-12-12'
-                  acquiree: MultiMap
-                - date: '2008-01-08'
-                  acquiree: Fast Search & Transfer
-                - date: '2008-01-21'
-                  acquiree: Calista Technologies
-                - date: '2008-02-07'
-                  acquiree: Caligari Corporation
-                - date: '2008-02-11'
-                  acquiree: Danger
-                  price: 500000000
-                - date: '2008-02-27'
-                  acquiree: YaData
-                - date: '2008-03-08'
-                  acquiree: Credentica
-                - date: '2008-03-12'
-                  acquiree: Kidaro
-                  price: 90000000
-                - date: '2008-03-14'
-                  acquiree: 90 Degree Software
-                - date: '2008-03-14'
-                  acquiree: Rapt
-                - date: '2008-03-20'
-                  acquiree: Komoku
-                - date: '2008-04-09'
-                  acquiree: Farecast
-                  price: 115000000
-                - date: '2008-06-18'
-                  acquiree: Navic Networks
-                - date: '2008-06-18'
-                  acquiree: Navic Systems
-                - date: '2008-06-26'
-                  acquiree: MobiComp
-                - date: '2008-07-01'
-                  acquiree: Powerset
-                  price: 100000000
-                - date: '2008-07-14'
-                  acquiree: Zoomix
-                - date: '2008-07-25'
-                  acquiree: DATAllegro
-                - date: '2008-08-29'
-                  acquiree: Greenfield Online
-                  price: 486000000
-                - date: '2008-08-31'
-                  acquiree: Ciao
-                - date: '2009-05-07'
-                  acquiree: BigPark
-                - date: '2009-06-01'
-                  acquiree: Rosetta Biosoftware
-                - date: '2009-06-28'
-                  acquiree: ClickStream Technologies
-                - date: '2009-09-22'
-                  acquiree: Interactive Supercomputing
-                - date: '2009-12-10'
-                  acquiree: Sentillion
-                - date: '2009-12-11'
-                  acquiree: Opalis Software
-                - date: '2010-10-06'
-                  acquiree: AVIcode
-                - date: '2010-10-29'
-                  acquiree: Canesta
-                - date: '2011-05-10'
-                  acquiree: Skype
-                - date: '2011-06-08'
-                  acquiree: Prodiance Corporation
-                - date: '2011-10-12'
-                  acquiree: Twisted Pixel Games
-                - date: '2011-11-23'
-                  acquiree: VideoSurf
-                  price: 100000000
-                - date: '2012-06-25'
-                  acquiree: Yammer
-                  price: 1200000000
-                - date: '2012-07-09'
-                  acquiree: Perceptive Pixel
-                - date: '2012-10-04'
-                  acquiree: PhoneFactor
-                - date: '2012-10-16'
-                  acquiree: StorSimple
-                - date: '2012-10-17'
-                  acquiree: MarketingPilot
-                - date: '2012-12-28'
-                  acquiree: R2 Studios
-                - date: '2013-01-02'
-                  acquiree: id8 Group R2 Studios
-                - date: '2013-02-04'
-                  acquiree: Pando Networks
-                - date: '2013-03-04'
-                  acquiree: MetricsHub
-                - date: '2013-03-19'
-                  acquiree: Netbreeze
-                - date: '2013-06-03'
-                  acquiree: InRelease
-                - date: '2013-09-03'
-                  acquiree: Nokia - Devices & Services Business
-                  price: 7166381241
-                - date: '2013-10-04'
-                  acquiree: Apiphany
-                - date: '2014-01-06'
-                  acquiree: Parature
-                  price: 100000000
-                - date: '2014-04-30'
-                  acquiree: GreenButton
-                - date: '2014-05-28'
-                  acquiree: Capptain
-                - date: '2014-07-03'
-                  acquiree: SyntaxTree
-                - date: '2014-07-11'
-                  acquiree: InMage Systems
-                - date: '2014-09-15'
-                  acquiree: Mojang Studios
-                  price: 2500000000
-                - date: '2014-10-08'
-                  acquiree: Equivio
-                  price: 200000000
-                - date: '2014-11-13'
-                  acquiree: Aorato
-                  price: 200000000
-                - date: '2014-12-01'
-                  acquiree: Acompli
-                  price: 200000000
-                - date: '2014-12-11'
-                  acquiree: Bit Stadium GmbH
-                - date: '2014-12-11'
-                  acquiree: HockeyApp
-                - date: '2015-01-23'
-                  acquiree: Revolution Analytics
-                - date: '2015-02-04'
-                  acquiree: Sunrise
-                  price: 100000000
-                - date: '2015-02-12'
-                  acquiree: N-Trig
-                - date: '2015-03-26'
-                  acquiree: LiveLoop
-                - date: '2015-04-14'
-                  acquiree: Datazen Software
-                - date: '2015-06-02'
-                  acquiree: Wunderlist
-                  price: 150000000
-                - date: '2015-06-10'
-                  acquiree: BlueStripe
-                - date: '2015-07-16'
-                  acquiree: FieldOne Systems
-                - date: '2015-07-19'
-                  acquiree: Adallom
-                  price: 320000000
-                - date: '2015-08-03'
-                  acquiree: FantasySalesTeam
-                - date: '2015-09-10'
-                  acquiree: Double Labs
-                - date: '2015-09-11'
-                  acquiree: VoloMetrix
-                  price: 250000000
-                - date: '2015-09-14'
-                  acquiree: Echo Locker
-                - date: '2015-09-30'
-                  acquiree: Adxstudio
-                - date: '2015-10-02'
-                  acquiree: Havok
-                - date: '2015-11-05'
-                  acquiree: Mobile Data Labs
-                - date: '2015-11-09'
-                  acquiree: Secure Islands Technologies
-                  price: 77500000
-                - date: '2015-12-18'
-                  acquiree: Metanautix
-                - date: '2015-12-21'
-                  acquiree: Talko
-                - date: '2016-01-13'
-                  acquiree: Event Zero
-                - date: '2016-01-19'
-                  acquiree: MinecraftEdu
-                - date: '2016-02-02'
-                  acquiree: SwiftKey
-                  price: 250000000
-                - date: '2016-02-09'
-                  acquiree: Groove (dba Zikera)
-                - date: '2016-02-24'
-                  acquiree: Xamarin
-                - date: '2016-05-03'
-                  acquiree: Solair
-                - date: '2016-06-13'
-                  acquiree: LinkedIn
-                  price: 26200000000
-                - date: '2016-06-16'
-                  acquiree: Wand Labs
-                - date: '2016-06-28'
-                  acquiree: Code Connect
-                - date: '2016-08-11'
-                  acquiree: Mixer
-                - date: '2016-08-22'
-                  acquiree: Genee
-                - date: '2017-01-13'
-                  acquiree: Maluuba
-                - date: '2017-01-17'
-                  acquiree: Donya Labs
-                - date: '2017-04-01'
-                  acquiree: Open Build Service
-                - date: '2017-04-10'
-                  acquiree: Deis.com
-                - date: '2017-04-18'
-                  acquiree: Intentional Software
-                - date: '2017-05-24'
-                  acquiree: Hexadite
-                  price: 100000000
-                - date: '2017-06-28'
-                  acquiree: Cloudyn
-                  price: 60000000
-                - date: '2017-08-15'
-                  acquiree: Cycle Computing
-                - date: '2017-10-04'
-                  acquiree: AltspaceVR
-                - date: '2017-11-07'
-                  acquiree: Swing Technologies
-                - date: '2018-01-03'
-                  acquiree: Avere Systems
-                - date: '2018-01-29'
-                  acquiree: PlayFab
-                - date: '2018-02-13'
-                  acquiree: Chalkup
-                - date: '2018-05-20'
-                  acquiree: Semantic Machines
-                - date: '2018-06-03'
-                  acquiree: GitHub
-                  price: 7500000000
-                - date: '2018-06-10'
-                  acquiree: Compulsion Games
-                - date: '2018-06-10'
-                  acquiree: Ninja Theory
-                - date: '2018-06-10'
-                  acquiree: Playground Games
-                - date: '2018-06-10'
-                  acquiree: Undead Labs
-                - date: '2018-06-18'
-                  acquiree: FlipGrid
-                - date: '2018-06-20'
-                  acquiree: Bonsai
-                - date: '2018-09-13'
-                  acquiree: Lobe
-                - date: '2018-11-10'
-                  acquiree: Obsidian Entertainment
-                - date: '2018-11-10'
-                  acquiree: inXile Entertainment
-                - date: '2018-11-14'
-                  acquiree: XOXCO
-                - date: '2018-11-19'
-                  acquiree: FSLogix
-                - date: '2019-01-24'
-                  acquiree: Citus Data
-                - date: '2019-02-04'
-                  acquiree: DataSense
-                - date: '2019-04-18'
-                  acquiree: Express Logic
-                - date: '2019-07-29'
-                  acquiree: BlueTalon
-                - date: '2019-08-05'
-                  acquiree: PromoteIQ
-                - date: '2019-08-19'
-                  acquiree: jClarity
-                - date: '2019-09-04'
-                  acquiree: Movere
-                - date: '2019-10-21'
-                  acquiree: Mover
-                - date: '2020-03-26'
-                  acquiree: Affirmed Networks
-                  price: 1350000000
-                - date: '2020-05-05'
-                  acquiree: CyberX
-                  price: 165000000
-                - date: '2020-05-14'
-                  acquiree: Metaswitch Networks
-                - date: '2020-05-19'
-                  acquiree: Softomotive
-                - date: '2020-06-18'
-                  acquiree: ADRM Software
-                - date: '2020-07-08'
-                  acquiree: Orions Systems
-                - date: '2020-09-21'
-                  acquiree: ZeniMax
-                  price: 7500000000
-                - date: '2020-12-02'
-                  acquiree: Smash.gg
-                - date: '2021-03-16'
-                  acquiree: The Marsden Group
-                - date: '2021-04-12'
-                  acquiree: Nuance Communications
-                  price: 19700000000
-                - date: '2021-04-29'
-                  acquiree: Kinvolk
-                - date: '2021-06-02'
-                  acquiree: ReFirm Labs
-                - date: '2021-07-11'
-                  acquiree: RiskIQ
-                  price: 500000000
-                - date: '2021-07-21'
-                  acquiree: CloudKnox Security
-                - date: '2021-07-28'
-                  acquiree: Suplari
-                - date: '2021-08-10'
-                  acquiree: Peer5
-                - date: '2021-09-07'
-                  acquiree: Clipchamp
-                - date: '2021-09-10'
-                  acquiree: TakeLessons
-                - date: '2021-10-07'
-                  acquiree: Ally.io
-                  price: 76000000
-                - date: '2021-10-22'
-                  acquiree: Clear Software
-                - date: '2021-10-29'
-                  acquiree: Two Hat Security
-                - date: '2021-12-21'
-                  acquiree: Xandr
-                - date: '2022-03-31'
-                  acquiree: Minit
-                - date: '2022-04-28'
-                  acquiree: Activision Blizzard
-                  price: 68700000000
-                - date: '2022-06-14'
-                  acquiree: Miburo
-              parents: []
-              ticker: MSFT
-              funding: 1000000
-              stockExchange: nasdaq
-              company_type: For Profit
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
+              parents:
+                - https://www.crunchbase.com/organization/linux-foundation
+              stockExchange: null
+              company_type: Non Profit
               industries:
                 - Artificial Intelligence
-                - Developer Tools
-                - Enterprise Software
-                - Operating Systems
+                - Machine Learning
                 - Software
-              kind: market_cap
             github_data:
               languages:
                 - name: Python
@@ -37882,9 +37545,6 @@ landscape:
             github_start_commit_data:
               start_commit_link: /microsoft/DeepSpeed/commit/461495eae16169fe4505fa796c8c101276f6ed3c
               start_date: '2020-01-23T18:35:20Z'
-            yahoo_finance_data:
-              market_cap: 1736942551040
-              effective_ticker: MSFT
             image_data:
               fileName: deep-speed.svg
               hash: Itszka4YoEzFlAx6MP/PHgBqGSvJ5/uIBm9w5f1GtrM=
@@ -37892,51 +37552,35 @@ landscape:
               badge: false
               percentage: null
             twitter_data:
-              latest_tweet_date: 2022-09-30T18:30:19.000Z
+              latest_tweet_date: 2022-09-30T15:54:55.000Z
           - item:
             name: DLRover
             homepage_url: https://github.com/intelligent-machine-learning/dlrover
+            project: sandbox
             repo_url: https://github.com/intelligent-machine-learning/dlrover
             license: Apache 2.0
             logo: dlrover.svg
-            crunchbase: https://www.crunchbase.com/organization/ant-group
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
             crunchbase_data:
-              name: Ant Group
-              description: Ant Group strives to enable all consumers and small businesses to have equal access to financial and other services through technology.
-              num_employees_min: 10001
-              num_employees_max: 1000000
-              homepage: https://www.antgroup.com
-              city: Hangzhou
-              region: Zhejiang
-              country: China
-              twitter: https://twitter.com/antgroup
-              linkedin: https://www.linkedin.com/company/antgroup
-              acquisitions:
-                - date: '2015-04-24'
-                  acquiree: Mayijijin
-                - date: '2016-09-13'
-                  acquiree: EyeVerify
-                - date: '2017-04-19'
-                  acquiree: helloPay
-                - date: '2018-04-25'
-                  acquiree: riskstorm
-                - date: '2019-02-14'
-                  acquiree: WorldFirst
-                - date: '2022-04-18'
-                  acquiree: 2C2P
-                - date: '2024-07-02'
-                  acquiree: MultiSafepay
+              name: LF AI & Data Foundation
+              description: LF AI & Data Foundation supports open source innovation in artificial intelligence and data.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://lfaidata.foundation/
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: https://twitter.com/LFAIDataFdn
+              linkedin: https://www.linkedin.com/company/lfai
+              acquisitions: []
               parents:
-                - https://www.crunchbase.com/organization/alibaba
-              ticker: 9988.HK
-              funding: 28500000000
+                - https://www.crunchbase.com/organization/linux-foundation
               stockExchange: null
-              company_type: For Profit
+              company_type: Non Profit
               industries:
-                - Banking
-                - FinTech
-                - Financial Services
-                - Payments
+                - Artificial Intelligence
+                - Machine Learning
+                - Software
             github_data:
               languages:
                 - name: Python
@@ -37988,14 +37632,14 @@ landscape:
             github_start_commit_data:
               start_commit_link: /intelligent-machine-learning/dlrover/commit/4297040c9a87e99ad7466fe73ae434a4155267a3
               start_date: '2022-06-24T09:31:08Z'
-            yahoo_finance_data:
-              effective_ticker: 9988.HK
             image_data:
               fileName: dl-rover.svg
               hash: 9YSmK54RFCPQAnUEJ43uSvCRGFOLKQfKvkNBVAHTswc=
             best_practice_data:
               badge: false
               percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-09-30T15:54:55.000Z
           - item:
             name: Embedded Learning Library
             homepage_url: https://microsoft.github.io/ELL/
@@ -42477,7 +42121,7 @@ landscape:
           - item:
             name: Kedro
             homepage_url: https://kedro.org/
-            project: incubating
+            project: graduated
             repo_url: https://github.com/kedro-org/kedro
             logo: kedro.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
@@ -60417,6 +60061,12 @@ landscape:
             logo: amazon_web_services_inc.svg
             twitter: https://twitter.com/amazon
             crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+            description: >-
+              Amazon.com, Inc. is an online retailer, offering new, refurbished and used products including books, DVDs, CDs, MP3 downloads, software, video
+              games, electronics, furniture, apparel, jewelry, and toys. The company also manufactures consumer electronics (notably the Amazon Kindle and the
+              Kindle Fire) and provides cloud computing services. Amazon is a publicly owned company and is based out of Seattle, WA.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amazon
             crunchbase_data:
               name: Amazon Web Services
               description: Amazon Web Services provides information technology infrastructure services to businesses in the form of web services.
@@ -60474,7 +60124,13 @@ landscape:
             name: Databricks Inc.
             homepage_url: https://databricks.com/
             logo: databricks_inc.svg
+            twitter: https://twitter.com/databricks
             crunchbase: https://www.crunchbase.com/organization/databricks
+            description: >-
+              Founded in 2013 and headquartered in an Francisco, California, Databricks offers a unified platform for massive-scale data engineering,
+              collaborative data science, full-lifecycle machine learning and business analytics.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/databricks
             crunchbase_data:
               name: Databricks
               description: Databricks is a data and AI company that interacts with corporate information stored in the public cloud.
@@ -60506,7 +60162,7 @@ landscape:
               kind: funding
             image_data:
               fileName: databricks-inc.svg
-              hash: CWv5zzm+SaX9L4RNPAOZzyuEXNTkyV8gKO1dDnoyx98=
+              hash: cYlCrz/w/mmfzzLzIuzFilFAmSy6vg/5xR/uX8KH2Yc=
             best_practice_data:
               badge: false
               percentage: null
@@ -60516,7 +60172,15 @@ landscape:
             name: Ericsson
             homepage_url: https://ericsson.com/
             logo: ericsson.svg
+            twitter: https://twitter.com/ericsson
             crunchbase: https://www.crunchbase.com/organization/ericsson
+            description: >-
+              Founded in 1876, Ericsson is a Swedish communication technology and services provider. The company offers software, services, and infrastructure
+              for information and communications technology used by telecommunications operators, including traditional telecommunications, Internet Protocol
+              networking equipment, mobile and fixed broadband, cable TV, IPTV, video systems, and business support solutions. Ericsson is headquartered in
+              Stockholm, Sweden.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ericsson
             crunchbase_data:
               name: Ericsson
               description: Ericsson is a technology company that provides and operates telecommunications networks, television and video systems, and related services.
@@ -60646,7 +60310,13 @@ landscape:
             name: Guangdong OPPO Mobile Telecommunications Corp., Ltd.
             homepage_url: https://oppo.com/
             logo: guangdong_oppo_mobile_telecommunications_corp_ltd.svg
+            twitter: https://twitter.com/oppo
             crunchbase: https://www.crunchbase.com/organization/oppo
+            description: >-
+              Guangdong OPPO Mobile Telecommunications Corp., Ltd, commonly referred to as OPPO, is a Chinese consumer electronics and mobile communications
+              company headquartered in Dongguan, Guangdong, in China, and known for its smartphones, Blu-ray players and ot...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/oppo
             crunchbase_data:
               name: Oppo
               description: OPPO Electronics Corporation is an electronics manufacturer based in Dongguan, Guangdong, China.
@@ -60678,7 +60348,13 @@ landscape:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
+            twitter: https://twitter.com/Huawei
             crunchbase: https://www.crunchbase.com/organization/huawei
+            description: >-
+              Huawei is a global provider of information and communications technology (ICT) infrastructure and smart devices. Huawei is headquartered in
+              Shenzhen, China.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/huawei
             crunchbase_data:
               name: Huawei Technologies
               description: Huawei Technologies provides infrastructure application software and devices with wireline, wireless, and IP technologies.
@@ -60734,7 +60410,17 @@ landscape:
             name: Intel Corporation
             homepage_url: https://intel.com/
             logo: intel_corporation.svg
+            twitter: https://twitter.com/intel
             crunchbase: https://www.crunchbase.com/organization/intel
+            description: >-
+              Intel Corporation designs, manufactures, and sells computer, networking, and communications platforms worldwide. The company offers
+              microprocessors, chipsets, and input, display, and storage devices, such as keyboard, mouse, monitor, hard drive or solid-state drive, and optical
+              disc drives; and system-on-chip and multichip packaging products. In addition, the company develops computer vision and machine learning-based
+              sensing products, mapping and driving policy technology solutions for advanced driver assistance systems, and autonomous driving technologies. It
+              serves original equipment manufacturers, original design manufacturers, cloud and communications service providers, and industrial,
+              communications, and automotive equipment manufacturers. The company was founded in 1968 and is based in Santa Clara, California.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/intel-corporation
             crunchbase_data:
               name: Intel
               description: Intel designs, manufactures, and sells integrated digital technology platforms worldwide.
@@ -61025,7 +60711,20 @@ landscape:
             name: International Business Machines Corporation
             homepage_url: https://ibm.com/
             logo: international_business_machines_corporation.svg
+            twitter: https://twitter.com/IBM
             crunchbase: https://www.crunchbase.com/organization/ibm
+            description: >-
+              Founded in 1911, International Business Machines (IBM) is a multinational computer, technology, and IT consulting corporation that manufactures
+              and sells computer hardware and software, and offers infrastructure services, hosting services, and consulting services. They are headquartered in
+              Armonk, New York.
+
+
+              --- Merged Data:
+
+
+              IBM is an IT technology and consulting firm providing computer hardware, software, and infrastructure and hosting services.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ibm
             crunchbase_data:
               name: IBM
               description: IBM is an IT technology and consulting firm providing computer hardware, software, infrastructure, and hosting services.
@@ -61509,7 +61208,14 @@ landscape:
             name: Microsoft Corporation
             homepage_url: https://microsoft.com/
             logo: microsoft_corporation.svg
+            twitter: https://twitter.com/Microsoft
             crunchbase: https://www.crunchbase.com/organization/microsoft
+            description: >-
+              The Microsoft Corporation is a publicly owned American software corporation headquartered in Redmond, Washington. Founded in 1975, the company
+              develops, manufactures, licenses and supports a variety of computing products used by consumers and businesses. Some of their popular products
+              include Windows, Xbox, Microsoft HoloLens, Microsoft Lumia, Outlook, Skype, OneDrive and Microsoft Band.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/microsoft
             crunchbase_data:
               name: Microsoft
               description: Microsoft is a software corporation that develops, manufactures, licenses, supports, and sells a range of software products and services.
@@ -62096,9 +61802,14 @@ landscape:
             name: Neural Magic
             homepage_url: https://neuralmagic.com/
             logo: neural_magic.svg
+            description: >-
+              Neural Magic develops cutting-edge sparsification tools for NLP and computer vision models, enabling the fastest AI deployment on CPUs with
+              unrivaled efficiency and performance.
             organization:
               name: Neural Magic
               linkedin: https://www.linkedin.com/company/neural-magic
+            extra:
+              linkedin_url: https://www.linkedin.com/company/neural-magic
             crunchbase_data:
               name: Neural Magic
               linkedin: https://www.linkedin.com/company/neural-magic
@@ -62115,6 +61826,9 @@ landscape:
             logo: nvidia_corporation.svg
             twitter: https://twitter.com/nvidia
             crunchbase: https://www.crunchbase.com/organization/nvidia
+            description: Founded in 1993, NVIDIA is an AI computing company. The company is headquartered in Santa Clara, California.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nvidia
             crunchbase_data:
               name: NVIDIA
               description: NVIDIA is a computing platform company operating at the intersection of graphics, HPC, and AI.
@@ -62199,7 +61913,13 @@ landscape:
             name: SAS Institute Inc.
             homepage_url: https://sas.com/
             logo: sas_institute_inc.svg
+            twitter: https://twitter.com/SASsoftware
             crunchbase: https://www.crunchbase.com/organization/sas
+            description: >-
+              Founded in 1976 and headquartered in Cary, North Carolina, SAS develops and markets a suite of analytics software, which helps access, manage,
+              analyze and report on data to aid in decision-making.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sas
             crunchbase_data:
               name: SAS
               description: SAS provides advanced business analytics and business intelligent software and services to enable companies to optimize their operations.
@@ -62253,6 +61973,11 @@ landscape:
             homepage_url: https://4paradigm.com/
             logo: the_4th_paradigm_technology_co.svg
             crunchbase: https://www.crunchbase.com/organization/paradigm4
+            description: >-
+              4paradigm is an artificial intelligence technology company that provides AI-enabled solutions to industries across the globe. They offer a suite
+              of products including AI modeling and development tools, AI-enabled retail solutions, advanced analytics, a...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/4paradigm
             crunchbase_data:
               name: Paradigm4, inc.
               description: Paradigm4’s SciDB is a scalable scientific DBMS for managing & analyzing highly dimensional, diverse data.
@@ -62287,7 +62012,11 @@ landscape:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
             logo: zte_corporation.svg
+            twitter: https://twitter.com/ZTEPress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
+            description: ZTE Corporation is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong, China.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zte
             crunchbase_data:
               name: ZTE
               description: ZTE provides telecommunications equipment and network solutions.
@@ -62328,6 +62057,13 @@ landscape:
             logo: advanced_micro_devices_amd.svg
             twitter: https://twitter.com/AMD
             crunchbase: https://www.crunchbase.com/organization/amd
+            description: >-
+              For more than 45 years AMD has driven innovation in high-performance computing, graphics, and visualization technologies; the building blocks for
+              gaming, immersive platforms, and the data center. Hundreds of millions of consumers, leading Fortune 500 businesses, and cutting-edge scientific
+              research facilities around the world rely on AMD technology daily to improve how they live, work, and play. AMD employees around the world are
+              focused on building great products that push the boundaries of what is possible.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/amd
             crunchbase_data:
               name: AMD
               description: Advanced Micro Devices is a semiconductor company that designs and develops graphics units, processors, and media solutions.
@@ -62388,6 +62124,13 @@ landscape:
             logo: alibaba_cloud_singapore_private_ltd.svg
             twitter: https://twitter.com/AlibabaB2B
             crunchbase: https://www.crunchbase.com/organization/alibaba-cloud
+            description: >-
+              Alibaba Group, founded in 1999, is a company that helps connect businesses to other businesses through cloud computing, logistics, core commerce,
+              local services sectors, and mobile media and entertainment. Alibaba Group is headquartered in Xixi District of Hangzhou, China and maintains
+              offices in China, France, Germany, Hong Kong, India, Italy, Korea, Taiwan, Turkey, Russia, Singapore, the United Arab Emirates, the United Kingdom
+              and the United States.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/alibaba-group
             crunchbase_data:
               name: Alibaba Cloud
               description: Alibaba Cloud develops highly scalable cloud computing and data management services.
@@ -62437,15 +62180,23 @@ landscape:
               parents: []
             image_data:
               fileName: alipay-hangzhou-information-technology-co-ltd.svg
-              hash: mCFijx2zXsETWEhTx2sugjrMh/V4Jgup4B0hHf/5/1g=
+              hash: ZWh/H9gluLu/nFBQqCq+0eApH8tKoyi6Mm81T3RQFxw=
             best_practice_data:
               badge: false
               percentage: null
           - item:
-            name: Astronomer
+            name: Astronomer, Inc.
             homepage_url: https://astronomer.io/
-            logo: astronomer.svg
+            logo: astronomer_inc.svg
+            twitter: https://twitter.com/astronomerio
             crunchbase: https://www.crunchbase.com/organization/astronomer
+            description: >-
+              Astronomer is a modern platform for data engineering. From small businesses to large enterprises, Astronomer allows innovative organizations to
+              have access to all of their data in near real-time. Connecting to virtually any data source, Astronomer's platform makes it quick and easy to
+              securely capture and transport data to any destination. Astronomer also provides data science and analytical support to provide a turn-key
+              solution for organizations looking to modernize their operations and business intelligence.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/astronomer
             crunchbase_data:
               name: Astronomer
               description: Astronomer develops a data orchestration platform that helps with the deployment, management, and scaling of distributed airflow services.
@@ -62475,7 +62226,7 @@ landscape:
                 - Software
               kind: funding
             image_data:
-              fileName: astronomer.svg
+              fileName: astronomer-inc.svg
               hash: 9QOjiOIJt+sac8QOo6ZjxCfcMx+HRp9B4/UMYH2XO1A=
             best_practice_data:
               badge: false
@@ -62484,7 +62235,13 @@ landscape:
             name: Cloudera, Inc.
             homepage_url: https://cloudera.com/
             logo: cloudera_inc.svg
+            twitter: https://twitter.com/cloudera
             crunchbase: https://www.crunchbase.com/organization/cloudera
+            description: >-
+              Founded in 2008 and headquartered in Palo Alto, California, Cloudera is an enterprise data cloud company. The company provides an enterprise data
+              cloud platform that delivers self-service analytics across hybrid and multi-cloud environments, along with security and governance policies.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudera
             crunchbase_data:
               name: Cloudera
               description: Cloudera delivers an Enterprise Data Cloud for any data, anywhere, from the Edge to AI.
@@ -62548,6 +62305,11 @@ landscape:
             homepage_url: https://cloudgeometry.io/
             logo: cloudgeometry_inc.svg
             crunchbase: https://www.crunchbase.com/organization/cloudgeometry
+            description: >-
+              CloudGeometry. Because cloud arithmetic is not enough.We build, launch & optimize the software that drives your SaaS business success. Recognized
+              by AWS as a SaaS Competency & Advanced Consulting Partner for our deep specialization and expertise in des...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/cloudgeometry
             crunchbase_data:
               name: CloudGeometry
               description: CloudGeometry is a cloud native systems integrator.
@@ -62575,44 +62337,6 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: DaoCloud Network Technology Co., Ltd.
-            homepage_url: https://daocloud.io/
-            logo: daocloud_network_technology_co_ltd.svg
-            twitter: https://twitter.com/DaoCloudIO
-            crunchbase: https://www.crunchbase.com/organization/daocloud
-            crunchbase_data:
-              name: DaoCloud
-              description: DaoCloud is an innovation leader in the cloud-native field.
-              num_employees_min: 251
-              num_employees_max: 500
-              homepage: https://www.daocloud.io
-              city: Shanghai
-              region: Shanghai
-              country: China
-              twitter: https://twitter.com/daocloud_io
-              linkedin: https://www.linkedin.com/company/daocloud-network-technology-co-ltd-
-              acquisitions: []
-              parents: []
-              funding: 27538098
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Cloud Computing
-                - Cloud Infrastructure
-                - Cloud Management
-                - Cloud Security
-                - Cloud Storage
-                - Enterprise Software
-                - Private Cloud
-                - Software
-              kind: funding
-            image_data:
-              fileName: dao-cloud-network-technology-co-ltd.svg
-              hash: 80rYjXE4jIv6qWUuT3L/G/LdPmbAzPyvHOhbmBfvQE0=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: Datastrato
             homepage_url: https://datastrato.com/
             logo: datastrato.svg
@@ -62631,6 +62355,7 @@ landscape:
             name: DMetaSoul
             homepage_url: https://dmetasoul.com/
             logo: dmetasoul.svg
+            description: 数元灵科技是一家专注于一站式湖仓智能平台新基建的SaaS公司，提供云原生湖仓一体框架、分布式训练引擎和算法框架、高性能数据、模型在线服务，以及云原生一站式AI开发生产平台。
             organization:
               name: DMetaSoul
             crunchbase_data:
@@ -62648,6 +62373,18 @@ landscape:
             logo: douyin_vision_co_ltd.svg
             twitter: https://twitter.com/BytedanceTalk
             crunchbase: https://www.crunchbase.com/organization/bytedance
+            description: >-
+              ByteDance develops an application that enables users to create short video stories by sequencing photos, videos, and music on their phones. Its
+              application is available for iPhone, Android, or Windows mobile devices. The company is based in Beijing, China.
+
+
+              --- Merged Data:
+
+
+              ByteDance is a technology company operating a range of content platforms that inform, educate, entertain, and inspire people across languages,
+              cultures, and geographies. Dedicated to building global platforms of creation and interaction, ByteDance now ...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bytedance
             crunchbase_data:
               name: ByteDance
               description: ByteDance is an internet technology company that operates creative content platforms.
@@ -62712,7 +62449,17 @@ landscape:
             name: Fujitsu Limited
             homepage_url: https://fujitsu.com/
             logo: fujitsu_limited.svg
+            twitter: https://twitter.com/Fujitsu_Global
             crunchbase: https://www.crunchbase.com/organization/fujitsu
+            description: >-
+              Fujitsu is the leading Japanese information and communication technology (ICT) company offering a full range of technology products, solutions and
+              services. Approximately 162, 000 Fujitsu people support customers in more than 100 countries. The company uses its experience and the power of ICT
+              to shape the future of society with its customers. Fujitsu Limited reported consolidated revenues of 4.8 trillion yen (US$46 billion) for the
+              fiscal year ended March 31, 2014. Fujitsu is the world's fourth largest IT services provider and No.1 in Japan. Fujitsu is among the world's top
+              five providers of servers. FORTUNE named Fujitsu as one of 'the World's Most Admired Companies' in 2013. Fujitsu Group holds about 97, 000 patents
+              worldwide. Fujitsu is part of the Dow Jones Sustainability Indexes (World), FTSE4Good Index Series, and Oekom research.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/fujitsu-uk-and-ireland
             crunchbase_data:
               name: Fujitsu
               description: Fujitsu is a information & communications technology equipment and services firm providing IT & IT infrastructure and other services.
@@ -62798,9 +62545,14 @@ landscape:
             name: FuriosaAI, Inc.
             homepage_url: https://furiosa.ai/
             logo: furiosaai_inc.svg
+            description: >-
+              FuriosaAI is a next generation semiconductor company that builds AI inference computing solutions with industry defining new chip architecture and
+              software stack, with a focus on hyperscale data centers and enterprise servers that will run massive scal...
             organization:
               name: FuriosaAI, Inc.
               linkedin: https://www.linkedin.com/company/furiosaai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/furiosaai
             crunchbase_data:
               name: FuriosaAI, Inc.
               linkedin: https://www.linkedin.com/company/furiosaai
@@ -62816,6 +62568,13 @@ landscape:
             homepage_url: https://futurewei.com/
             logo: futurewei_technologies_inc.svg
             crunchbase: https://www.crunchbase.com/organization/futurewei-technologies
+            description: >-
+              FutureWei, based in Plano, Texas, is the North American subsidiary of Huawei Technologies Co. Ltd., a leading global vendor of telecommunications
+              systems and network solutions based in Shenzhen, China. Huawei posted US$5.58 billion in sales in 2004 and has products deployed in over 90
+              countries. With a strong focus on network infrastructure, FutureWei Technologies, Inc. designs, markets and supports a wide range of advanced
+              telecommunication products for service providers and enterprise network solutions.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/futureweitechnologiesinc
             crunchbase_data:
               name: Futurewei Technologies
               description: Futurewei develops innovations to benefit an intelligent & digital society via standardization, open source, & collaboration with ecosystem.
@@ -62847,6 +62606,9 @@ landscape:
             homepage_url: https://gitcode.csdn.net/
             logo: gitcode.svg
             crunchbase: https://www.crunchbase.com/organization/csdn
+            description: The "Chinese Software Developer Network" or "China Software Developer Network",, operated by Bailian Midami Digital Technology Co.,
+            extra:
+              linkedin_url: https://www.linkedin.com/company/csdn
             crunchbase_data:
               name: CSDN
               description: CSDN is a platform focused on providing software developers and IT workers with services such as knowledge, software development, and more.
@@ -62883,7 +62645,13 @@ landscape:
             name: New Relic, Inc.
             homepage_url: https://newrelic.com/
             logo: new_relic_inc.svg
+            twitter: https://twitter.com/newrelic
             crunchbase: https://www.crunchbase.com/organization/new-relic
+            description: >-
+              New Relic is a San Francisco, California-based technology company which develops cloud-based software to help website and application owners track
+              the performances of their services.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/new-relic-inc-
             crunchbase_data:
               name: New Relic
               description: New Relic is a digital intelligence company that delivers full-stack visibility and analytics to enterprises.
@@ -62937,7 +62705,17 @@ landscape:
             name: Nokia Corporation
             homepage_url: https://nokia.com/
             logo: nokia_corporation.svg
+            twitter: https://twitter.com/nokia
             crunchbase: https://www.crunchbase.com/organization/nokia
+            description: >-
+              Nokia Corporation is a Finland-based company that invests in technologies. The company operates through three business segments: Nokia Networks,
+              HERE and Nokia Technologies. Nokia Networks offers network infrastructure software, hardware, and services. Nokia Networks has two segments:
+              Mobile Broadband and Global Services. HERE offers maps, a location platform, and location experiences across different screens and operating
+              systems. HERE offer maps for around 190 countries, voice guided navigation for 99 countries in around 50 languages and live traffic information
+              for around 44 countries. Nokia Technologies develops and licenses technologies. Nokia Technologies manages an Intellectual Property (IP) portfolio
+              of approximately 10,000 patent families consisted of approximately 30,000 individual patents and patent applications.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/nokianet
             crunchbase_data:
               name: Nokia
               description: Nokia is a Finnish multinational communications corporation engaged in the manufacturing of mobile devices and network infrastructure.
@@ -63097,6 +62875,9 @@ landscape:
             homepage_url: https://okahu.ai/
             logo: okahu_inc.svg
             crunchbase: https://www.crunchbase.com/organization/okahu
+            description: >-
+              Okahu provides AI Observability as a Service built on open source Monocle to help enterprises building LLM-based apps in the cloud move to
+              production quickly, easily & safely without having to deal with DIY observability stack.
             crunchbase_data:
               name: Okahu
               description: AI Observability as a service for LLM based apps in the cloud.
@@ -63126,7 +62907,11 @@ landscape:
             name: Posit
             homepage_url: https://posit.co/
             logo: posit.svg
+            twitter: https://twitter.com/posit_pbc
             crunchbase: https://www.crunchbase.com/organization/posit
+            description: Posit is an integrated development environment for R, a programming language for statistical computing and graphics.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rstudio-pbc
             crunchbase_data:
               name: Posit
               description: Posit is an open-source data science company the individual, team and enterprise.
@@ -63155,7 +62940,32 @@ landscape:
             name: Precisely Holdings, LLC
             homepage_url: https://precisely.com/
             logo: precisely_holdings_llc.svg
+            twitter: https://twitter.com/PreciselyData
             crunchbase: https://www.crunchbase.com/organization/precisely-write
+            description: >-
+              Precisely's data integration, data quality, location intelligence, and data enrichment products power better business decisions to create better
+              outcomes.
+
+
+              Was: ( renamed to Precisely on 5/13/2020 )
+
+
+              Syncsort Incorporated provides software spanning Hadoop solutions to mainframe applications. The company offers DMX-h, a solution that collects,
+              prepares, blends, transforms, and distributes data into Hadoop; DMX, a data integration software that helps organizations to extract, transform,
+              and load data; and MFX, a sort technology that allows the mainframe sort, copy, and join technology, as well as offload CPU cycles to zIIP
+              engines. It also provides Ironstream, a solution that helps organizations to get visibility and intelligence with search and analysis; and DL/2
+              that provides access to locked data. The company serves financial services, information services, life sciences, public, telco and media services,
+              manufacturing and other services, and retail sectors; and Fortune 100 companies. It offers solutions through an international network of partners,
+              resellers, and distributors.
+
+
+              --- Merged Data:
+
+
+              Precisely, rebranded from Syncsort Incorporated in May 2020, is a global software company specializing in Big Data, high speed sorting products,
+              data integration data quality, data enrichment, and location intelligence offerings, for IBM Power Systems,...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/syncsort
             crunchbase_data:
               name: Precisely
               description: Precisely is a data integrity company that specializes in data integration, data quality, and location intelligence.
@@ -63206,6 +63016,13 @@ landscape:
             logo: red_hat_inc.svg
             twitter: https://twitter.com/RedHat
             crunchbase: https://www.crunchbase.com/organization/red-hat
+            description: >-
+              Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using
+              a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat
+              also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source
+              communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/red-hat
             crunchbase_data:
               name: Red Hat
               description: Red Hat is a multinational software company engaged in providing open-source software products to the enterprise community.
@@ -63303,7 +63120,11 @@ landscape:
             name: Union.ai
             homepage_url: https://union.ai/
             logo: union.svg
+            twitter: https://twitter.com/union_ai
             crunchbase: https://www.crunchbase.com/organization/union-ai
+            description: We believe that orchestration is the foundational technology that will power data and machine learning.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/union-ai
             crunchbase_data:
               name: Union.ai
               description: Union.ai provides software users with the tools they need to move their ideas from concept to high-quality production.
@@ -63336,7 +63157,11 @@ landscape:
             name: Zilliz
             homepage_url: https://zilliz.com/
             logo: zilliz.svg
+            twitter: https://twitter.com/zilliz_universe
             crunchbase: https://www.crunchbase.com/organization/zilliz
+            description: Zilliz was founded in 2017 and operates as a distributed team with offices in both the U.S. and China.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/zilliz
             crunchbase_data:
               name: Zilliz
               description: Vector Database for Production-ready AI
@@ -63373,29 +63198,17 @@ landscape:
         name: Associate
         items:
           - item:
-            name: AI for People
-            homepage_url: https://aiforpeople.org/
-            logo: ai_for_people.svg
-            organization:
-              name: AI for People
-              linkedin: https://www.linkedin.com/company/ai-for-people
-            crunchbase_data:
-              name: AI for People
-              linkedin: https://www.linkedin.com/company/ai-for-people
-              parents: []
-            image_data:
-              fileName: ai-for-people.svg
-              hash: H70TnDu7RwKMxxVe3o2mOgmHW6aV/TRtWP3eMVhM6Dc=
-            best_practice_data:
-              badge: false
-              percentage: null
-          - item:
             name: AIDAUG
             homepage_url: https://aidaug.org/
             logo: aidaug.svg
+            description: >-
+              AIDA User Group is a community that supports AI, data, and analytics enthusiasts. They highly support IBM tools and technologies such as IBM
+              Cognos, IBM Watson, and IBM Cloud Pack for Data (CP4D). Members enjoy benefits such as discounts for events, tr...
             organization:
               name: AIDAUG
               linkedin: https://www.linkedin.com/company/aidaug
+            extra:
+              linkedin_url: https://www.linkedin.com/company/aidaug
             crunchbase_data:
               name: AIDAUG
               linkedin: https://www.linkedin.com/company/aidaug
@@ -63407,10 +63220,36 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: AI for People
+            homepage_url: https://aiforpeople.org/
+            logo: ai_for_people.svg
+            twitter: https://twitter.com/AIforPeople
+            description: >-
+              We learn, pose questions and take initiative on how AI technology can be used for the social good, through and for the public. Ass. Members of
+              @LFAI_Foundation
+            organization:
+              name: AI for People
+              linkedin: https://www.linkedin.com/company/ai-for-people
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ai-for-people
+            crunchbase_data:
+              name: AI for People
+              linkedin: https://www.linkedin.com/company/ai-for-people
+              parents: []
+            image_data:
+              fileName: ai-for-people.svg
+              hash: H70TnDu7RwKMxxVe3o2mOgmHW6aV/TRtWP3eMVhM6Dc=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: aivancity School for Technology Business & Society
             homepage_url: https://aivancity.ai/
             logo: aivancity_school_for_technology_business_society.svg
             twitter: https://twitter.com/aivancityschool
+            description: >-
+              Unique en son genre et dans son positionnement, l’ambition d’aivancity Paris-Cachan est de devenir l’école de référence en Intelligence
+              Artificielle et Data Science en France et en Europe.
             organization:
               name: aivancity School for Technology Business & Society
             crunchbase_data:
@@ -63428,9 +63267,13 @@ landscape:
             name: Ambianic.ai
             homepage_url: https://ambianic.ai/
             logo: ambianic.svg
+            twitter: https://twitter.com/ambianicai
+            description: Helpful AI for home and business automation. An Open Source Ambient Intelligence project.
             organization:
               name: Ambianic.ai
               linkedin: https://www.linkedin.com/company/ambianicai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ambianicai
             crunchbase_data:
               name: Ambianic.ai
               linkedin: https://www.linkedin.com/company/ambianicai
@@ -63442,40 +63285,14 @@ landscape:
               badge: false
               percentage: null
           - item:
-            name: baai
-            homepage_url: https://baai.ac.cn/
-            logo: baai.svg
-            crunchbase: https://www.crunchbase.com/organization/baai
-            crunchbase_data:
-              name: BAAI
-              description: Beijing Academy of Artificial Intelligence is a non-profit research institute
-              num_employees_min: null
-              num_employees_max: null
-              homepage: https://www-pre.baai.ac.cn/en
-              city: Beijing
-              region: Beijing
-              country: China
-              twitter: https://twitter.com/BAAIBeijing
-              linkedin: https://www.linkedin.com/company/baaibeijing
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: Non Profit
-              industries:
-                - Artificial Intelligence
-            image_data:
-              fileName: baai.svg
-              hash: X734LEoEyIO+38zyRNa03y1IJv5HQTi9kTCnIszw+jQ=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-08-01T10:02:29.000Z
-          - item:
             name: Banque de France
             homepage_url: https://banque-france.fr/
             logo: banque_de_france.svg
+            twitter: https://twitter.com/banquedefrance
             crunchbase: https://www.crunchbase.com/organization/banque-de-france
+            description: The Bank of France, headquartered in Paris, is the central bank of France.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/banque-de-france
             crunchbase_data:
               name: Banque de France
               description: Banque de France is a powerful central bank main charge is to implement the interest rate policy.
@@ -63504,11 +63321,49 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-03T12:21:35.000Z
           - item:
+            name: Beijing Academy of Artificial Intelligence aka Zhiyuan Institute
+            homepage_url: https://baai.ac.cn/
+            logo: beijing_academy_of_artificial_intelligence_aka_zhiyuan_institute.svg
+            crunchbase: https://www.crunchbase.com/organization/baai
+            description: >-
+              Established in November 2018 in Beijing, China, the Beijing Academy of Artificial Intelligence (BAAI) is a non-profit research institute dedicated
+              to promoting collaboration among academia and industries, as well as fostering top talents and a focus on lo
+            extra:
+              linkedin_url: https://www.linkedin.com/company/baaibeijing
+            crunchbase_data:
+              name: BAAI
+              description: Beijing Academy of Artificial Intelligence is a non-profit research institute
+              num_employees_min: null
+              num_employees_max: null
+              homepage: https://www-pre.baai.ac.cn/en
+              city: Beijing
+              region: Beijing
+              country: China
+              twitter: https://twitter.com/BAAIBeijing
+              linkedin: https://www.linkedin.com/company/baaibeijing
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: Non Profit
+              industries:
+                - Artificial Intelligence
+            image_data:
+              fileName: beijing-academy-of-artificial-intelligence-aka-zhiyuan-institute.svg
+              hash: X734LEoEyIO+38zyRNa03y1IJv5HQTi9kTCnIszw+jQ=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-08-01T10:02:29.000Z
+          - item:
             name: Chaitanya Bharathi Institute Of Technology
             homepage_url: https://cbit.ac.in/
             logo: chaitanya_bharathi_institute_of_technology.svg
             twitter: https://twitter.com/CBIThyd
             crunchbase: https://www.crunchbase.com/organization/chaitanya-bharathi-institute-of-technology
+            description: Chaitanya Bharathi Institute of Technology is one of the premier self financed Engineering Colleges in India.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/chaitanya-bharathi-institute-of-technology
             crunchbase_data:
               name: Chaitanya Bharathi Institute of Technology
               description: Chaitanya Bharathi Institute of Technology is a school.
@@ -63538,6 +63393,46 @@ landscape:
             homepage_url: https://caict.ac.cn/
             logo: china_academy_of_information_and_communications_technology_caict.svg
             crunchbase: https://www.crunchbase.com/organization/china-academy-of-information-and-communication-technology
+            description: >-
+              Founded in 1957, the China Academy of Information and Communications Technology (hereinafter referred to as “CAICT”) is a scientific research
+              institute directly under the Ministry of Industry and Information Technology (MIIT) of China. While sticking to the positioning of “a specialized
+              think-tank for the government, and an innovation and development platform for the industry” and cherishing the cultural philosophy of “boosting
+              prosperity with virtues and expertise” for years, CAICT provides strong support for the industry’s major strategies,...
+
+
+              · Decision-Making Support
+
+              · Test beds
+
+              · Test and Certification
+
+              · Consultancy
+
+              · Regulation services
+
+
+              Business Departments
+
+
+              Policy and Economics Research Institute
+
+              Technology and Standards Research Institute
+
+              Industry and Planning Research Institute
+
+              Cloud Computing & Big Data Research Institute
+
+              Informatization and Industrialization Integration Research Institute
+
+              Security Research Institute
+
+              CTTL System Laboratory
+
+              CTTL Terminal labs
+
+              TL Certification Institute
+
+              ICT Project Quota & Quality Supervision Center
             crunchbase_data:
               name: China Academy of Information and Communication Technology
               description: CAICT is proactively responds to challenges presented by new technologies and new business.
@@ -63567,6 +63462,11 @@ landscape:
             logo: columbia_university.svg
             twitter: https://twitter.com/Columbia
             crunchbase: https://www.crunchbase.com/organization/columbia-university
+            description: >-
+              Columbia University in the City of New York is a private university in the United States and a member of the Ivy League. The University has 25,000
+              students.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/columbia-university
             crunchbase_data:
               name: Columbia University
               description: Columbia University is one of the leading centers of research and a distinctive and distinguished learning environment.
@@ -63601,6 +63501,11 @@ landscape:
             homepage_url: https://commoncrawl.org/
             logo: common_crawl_foundation.svg
             crunchbase: https://www.crunchbase.com/organization/common-crawl
+            description: >-
+              Common Crawl is a non-profit foundation that aims to democratize access to web information by producing and maintaining an open repository of web
+              crawl data.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/common-crawl
             crunchbase_data:
               name: Common Crawl
               description: Common Crawl Foundation is a California 501(c)3 non-profit founded by Gil Elbaz in 2008 with the mission of producing and maintaining an
@@ -63629,9 +63534,14 @@ landscape:
             name: EleutherAI
             homepage_url: https://eleuther.ai/
             logo: eleutherai.svg
+            description: >-
+              EleutherAI is a non-profit research lab specializing in AI interpretability, alignment, and ethics. They create advanced AI models and ensure
+              their reliability through innovative methods like ELK.
             organization:
               name: EleutherAI
               linkedin: https://www.linkedin.com/company/eleutherai
+            extra:
+              linkedin_url: https://www.linkedin.com/company/eleutherai
             crunchbase_data:
               name: EleutherAI
               linkedin: https://www.linkedin.com/company/eleutherai
@@ -63647,9 +63557,14 @@ landscape:
             homepage_url: https://ersilia.io/
             logo: ersilia_open_source_initiative.svg
             twitter: https://twitter.com/ersiliaio
+            description: >-
+              Ersilia is a tech nonprofit organisation. We equip universities, hospitals, and laboratories in low-resourced countries with data science tools
+              for infectious and neglected disease research.
             organization:
               name: Ersilia Open Source Initiative
               linkedin: https://www.linkedin.com/company/ersiliaio
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ersiliaio
             crunchbase_data:
               name: Ersilia Open Source Initiative
               linkedin: https://www.linkedin.com/company/ersiliaio
@@ -63665,6 +63580,9 @@ landscape:
             homepage_url: https://my.ewha.ac.kr/
             logo: ewha_institute_for_biomedical_law_ethics.svg
             crunchbase: https://www.crunchbase.com/organization/ewha-womans-university
+            description: Ewha Womans University is a private women's university in Seoul founded in 1886 by Mary F.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/ewha-womans-university
             crunchbase_data:
               name: Ewha Womans University
               description: Ewha Inc is a Real estate company located in 520 Bayside Rd, Bellingham, Washington, United States.
@@ -63693,6 +63611,9 @@ landscape:
             logo: galgotias_university.svg
             twitter: https://twitter.com/iicgalgotiasuni
             crunchbase: https://www.crunchbase.com/organization/galgotias-university
+            description: Galgotias University
+            extra:
+              linkedin_url: https://www.linkedin.com/company/galgotiasuniversity
             crunchbase_data:
               name: Galgotias University
               description: Galgotias University is located in Greater Noida. It is committed towards delivering quality education to students.
@@ -63724,6 +63645,35 @@ landscape:
             logo: high_school_technology_services.svg
             twitter: https://twitter.com/MyHSTS
             crunchbase: https://www.crunchbase.com/organization/high-school-technical-services
+            description: >-
+              OUR MISSION AND VALUES
+
+              Our future lies in the hands of students and teenagers. Educating a teenager is equivalent to educating a family and that in turn is equivalent to
+              educating the whole society. We strive to provide the highest quality information technology services to high schools, teenagers, and adults. From
+              creating websites to building computer labs, from offering counseling sessions to designing preparation programs, we aim to provide an assortment
+              of services to support the dreams of these teenagers, their parents and the schools.
+
+
+              our Mission
+
+              Our mission is to provide high schools with resources and facilities to foster student-teacher interactions and parent-teacher relationships to
+              improve student performance and high school efficiency.
+
+
+              our Values
+
+              Tangible Impacts: We believe in sincere and selfless contributions to improve the quality of education and youth life.
+
+              Simplicity: We agree with what Leonardo De Vinci says "Simplicity is the ultimate sophistication."
+
+              Honesty: We hold honesty in high regard because only true work can have a real impact.
+
+              Kindness: We sincerely believe in the power of goodness and kindness as Mark Twain put it "Kindness is a language that the deaf can hear and the
+              blind can see."
+
+              Genuine Friendship: We are genuinely committed to educating all students regardless of their age, nationality, gender, race, and background.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/techsavvy-coders
             crunchbase_data:
               name: High School Technical Services
               description: We offer coding and technology training in topics such as DevOps, blockchain, Python, machine learning, data science, and more.
@@ -63753,9 +63703,12 @@ landscape:
             name: Human Feedback Foundation
             homepage_url: https://humanfeedback.io/
             logo: human_feedback_foundation.svg
+            description: The future of AI is human-centred. We advocate for building human input directly into AI systems. Learn More
             organization:
               name: Human Feedback Foundation
               linkedin: https://www.linkedin.com/company/human-feedback-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/human-feedback-foundation
             crunchbase_data:
               name: Human Feedback Foundation
               linkedin: https://www.linkedin.com/company/human-feedback-foundation
@@ -63787,6 +63740,11 @@ landscape:
             logo: issip.svg
             twitter: https://twitter.com/The_ISSIP
             crunchbase: https://www.crunchbase.com/organization/international-society-of-service-innovation-professionals
+            description: >-
+              The service sector is by far the most dominant part of the economy in the developed and developing world, yet service science as a discrete
+              discipline is still at its infancy. The purpose of International Society of Service Innovation Professionals is ...
+            extra:
+              linkedin_url: https://www.linkedin.com/company/international-society-of-service-innovation-professionals-issip-
             crunchbase_data:
               name: International Society of Service Innovation Professionals
               description: ISSIP is a professional association co-founded by IBM, Cisco, HP and several Universities.
@@ -63818,6 +63776,9 @@ landscape:
             logo: ken_kennedy_institute.svg
             twitter: https://twitter.com/RiceUniversity
             crunchbase: https://www.crunchbase.com/organization/ken-kennedy-institute
+            description: William Marsh Rice University, commonly known as Rice University, is a private research university in Houston, Texas.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rice-university
             crunchbase_data:
               name: Ken Kennedy Institute
               description: Ken Kennedy Institute solves global challenges by fostering innovations in computing.
@@ -63846,9 +63807,13 @@ landscape:
             name: Montreal AI Ethics Institute
             homepage_url: https://montrealethics.ai/
             logo: montreal_ai_ethics_institute.svg
+            twitter: https://twitter.com/mtlaiethics
+            description: Defining humanity’s place in a world of algorithms on Montreal AI Ethics Institute…
             organization:
               name: Montreal AI Ethics Institute
               linkedin: https://www.linkedin.com/company/mtlaiethics
+            extra:
+              linkedin_url: https://www.linkedin.com/company/mtlaiethics
             crunchbase_data:
               name: Montreal AI Ethics Institute
               linkedin: https://www.linkedin.com/company/mtlaiethics
@@ -63863,7 +63828,11 @@ landscape:
             name: New York University
             homepage_url: https://nyu.edu/
             logo: new_york_university.svg
+            twitter: https://twitter.com/nyuniversity
             crunchbase: https://www.crunchbase.com/organization/new-york-university
+            description: 99500 New York University is a private research university based in New York City.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/new-york-university
             crunchbase_data:
               name: New York University
               description: New York University is a private research university that provides education in the arts and sciences, law, medicine, business, and others.
@@ -63898,7 +63867,9 @@ landscape:
             name: NIPA
             homepage_url: https://nipa.kr/
             logo: nipa.svg
+            twitter: https://twitter.com/NIPAkr
             crunchbase: https://www.crunchbase.com/organization/national-it-industry-promotion-agency
+            description: ICT산업 경쟁력 제고와 성장동력 육성으로 경제발전과 국민 삶의 질 향상에 기여하는 ICT 산업혁신 전문기관
             crunchbase_data:
               name: National IT Industry Promotion Agency
               description: NIPA improves the technical competitiveness of small-to-medium-sized businesses.
@@ -63929,9 +63900,14 @@ landscape:
             name: OdiseIA
             homepage_url: https://odiseia.org/
             logo: odiseia.svg
+            description: >-
+              OdiseIA is a non-profit association that promotes concrete and influential actions to promote responsible use of artificial intelligence in all
+              areas.
             organization:
               name: OdiseIA
               linkedin: https://www.linkedin.com/company/odiseia
+            extra:
+              linkedin_url: https://www.linkedin.com/company/odiseia
             crunchbase_data:
               name: OdiseIA
               linkedin: https://www.linkedin.com/company/odiseia
@@ -63947,9 +63923,12 @@ landscape:
             homepage_url: https://onefact.org/
             logo: one_fact_foundation.svg
             twitter: https://twitter.com/onefact_org
+            description: We build transparent data and technology to better the choices people and policymakers can make to improve health.
             organization:
               name: One Fact Foundation
               linkedin: https://www.linkedin.com/company/onefact
+            extra:
+              linkedin_url: https://www.linkedin.com/company/onefact
             crunchbase_data:
               name: One Fact Foundation
               linkedin: https://www.linkedin.com/company/onefact
@@ -63965,6 +63944,9 @@ landscape:
             homepage_url: https://openi.pcl.ac.cn/
             logo: openi.svg
             crunchbase: https://www.crunchbase.com/organization/openi
+            description: OpenI is an open-source platform focusing on AI industry
+            extra:
+              linkedin_url: https://www.linkedin.com/company/peng-cheng-laboratory
             crunchbase_data:
               name: OpenI
               description: Open Intelligence -
@@ -63992,7 +63974,11 @@ landscape:
             name: OpenUK
             homepage_url: https://openuk.uk/
             logo: openuk.svg
+            twitter: https://twitter.com/openuk_uk
             crunchbase: https://www.crunchbase.com/organization/openuk
+            description: OpenUK Open Source Kids Competition Imogen heap
+            extra:
+              linkedin_url: https://www.linkedin.com/company/openuk
             crunchbase_data:
               name: OpenUK
               description: We are the UK not for profit organisation committed to develop and sustain UK leadership in Open Technology
@@ -64021,7 +64007,9 @@ landscape:
             name: Penn State Great Valley - The Pennsylvania State University
             homepage_url: https://greatvalley.psu.edu/
             logo: penn_state_great_valley_the_pennsylvania_state_university.svg
+            twitter: https://twitter.com/penn_state
             crunchbase: https://www.crunchbase.com/organization/pennsylvania-state-university
+            description: The Pennsylvania State University is a public, land-grant, research university with campuses and facilities throughout Pennsylvania.
             crunchbase_data:
               name: Penn State University
               description: The Pennsylvania State University is a public, state-related research university with campuses and facilities throughout Pennsylvania.
@@ -64055,9 +64043,13 @@ landscape:
             name: Pranveer Singh Institute Of Technology
             homepage_url: https://psit.ac.in/
             logo: pranveer_singh_institute_of_technology.svg
+            twitter: https://twitter.com/PSITKanpur2004
+            description: Welcome to PSIT | Best engineering college in UP | Top engineering college in UP
             organization:
               name: Pranveer Singh Institute Of Technology
               linkedin: https://www.linkedin.com/company/psit-kanpur-pranveer-singh-institute-of-technology-
+            extra:
+              linkedin_url: https://www.linkedin.com/company/psit-kanpur-pranveer-singh-institute-of-technology-
             crunchbase_data:
               name: Pranveer Singh Institute Of Technology
               linkedin: https://www.linkedin.com/company/psit-kanpur-pranveer-singh-institute-of-technology-
@@ -64074,6 +64066,9 @@ landscape:
             logo: quantuniversity.svg
             twitter: https://twitter.com/quantUniversity
             crunchbase: https://www.crunchbase.com/organization/quantitative-insights
+            description: QuantUniversity
+            extra:
+              linkedin_url: https://www.linkedin.com/company/quantuniversity
             crunchbase_data:
               name: Quantitative Insights
               description: Quantitative Insights, Inc. (QI) was formed to realize the clinical and commercial value of QuantX, a Computer-Aided Diagnosis system
@@ -64104,10 +64099,52 @@ landscape:
             twitter_data:
               latest_tweet_date: 2021-06-25T14:37:52.000Z
           - item:
+            name: Rensselaer Polytechnic Institute
+            homepage_url: https://rpi.edu/
+            logo: rensselaer_polytechnic_institute.svg
+            twitter: https://twitter.com/rpi
+            crunchbase: https://www.crunchbase.com/organization/rensselaer-polytechnic-institute
+            description: >-
+              Rensselaer Polytechnic Institute is a private research university located in Troy, New York. The university is one among a small group of
+              polytechnic universities in the United States which tend to be primarily devoted to the instruction of technical arts and applied sciences.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/rensselaer-polytechnic-institute
+            crunchbase_data:
+              name: Rensselaer Polytechnic Institute
+              description: Rensselaer Polytechnic Institute is a technological research university that offers bachelor's, master's, and doctoral degrees.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: http://www.rpi.edu/
+              city: Troy
+              region: New York
+              country: United States
+              twitter: https://twitter.com/RPInews
+              linkedin: https://www.linkedin.com/edu/school?id=19005&trk=edu-up-nav-menu-home
+              acquisitions: []
+              parents: []
+              funding: 49303
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Education
+                - Knowledge Management
+                - Universities
+              kind: funding
+            image_data:
+              fileName: rensselaer-polytechnic-institute.svg
+              hash: uKr+wGCFEdRWFhpOqvExwq8/C9xws3Wz+OAUgMo5w20=
+            best_practice_data:
+              badge: false
+              percentage: null
+          - item:
             name: Sahyadri College of Engineering & Management
             homepage_url: https://sahyadri.edu.in/
             logo: sahyadri_college_of_engineering_management.svg
+            twitter: https://twitter.com/sahyadri_campus
             crunchbase: https://www.crunchbase.com/organization/sahyadri-college-of-engineering-and-management
+            description: Sahyadri College of Engineering & Management
+            extra:
+              linkedin_url: https://www.linkedin.com/company/sahyadri-college-of-engineering-and-management
             crunchbase_data:
               name: Sahyadri College of Engineering and Management
               description: Sahyadri College of Engineering & Management, Mangalore is Established under the aegis of Bhandary Foundation at Sahyadri campus, Mangalore.
@@ -64137,6 +64174,12 @@ landscape:
             name: Shanghai OpenSource Information Technology Association
             homepage_url: https://shanghaiopen.org.cn/
             logo: shanghai_opensource_information_technology_association.svg
+            description: >-
+              The association is voluntarily formed by enterprises, universities, scientific research institutes, social organizations and professionals
+              dedicated to open source information technology innovation and industrial development. Based on the concept of open source, openness and sharing,
+              effectively integrate the innovation resources of universities, research institutes, and enterprises, carry out open source information technology
+              innovation and application research, based in Shanghai, serve the whole country, and promote the development of China's open source information
+              technology industry.
             organization:
               name: Shanghai OpenSource Information Technology Association
             crunchbase_data:
@@ -64153,16 +64196,21 @@ landscape:
             homepage_url: https://ethical.institute/
             logo: the_institute_for_ethical_ai_machine_learning.svg
             twitter: https://twitter.com/EthicalML
+            description: >-
+              The Institute for Ethical AI & Machine Learning is a UK based thinktank that brings togethers technologists, academics and policy-makers to
+              develop industry frameworks around data governance and machine learning.
             organization:
               name: The Institute for Ethical AI & Machine Learning
               linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
+            extra:
+              linkedin_url: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
             crunchbase_data:
               name: The Institute for Ethical AI & Machine Learning
               linkedin: https://www.linkedin.com/company/the-institute-for-ethical-machine-learning
               parents: []
             image_data:
               fileName: the-institute-for-ethical-ai-machine-learning.svg
-              hash: kZNSBSlo2Y5nRAGGpSrGKk5Clv7Efn0jlIl1Jbfyjvk=
+              hash: qmzo/ty2i/QDL+JuV4KdSohMpCYe4/nz0iiWFg8p70k=
             best_practice_data:
               badge: false
               percentage: null
@@ -64172,9 +64220,14 @@ landscape:
             name: Thinkerland
             homepage_url: https://thinkerland.org/
             logo: thinkerland.svg
+            description: >-
+              ThinkerLand provides cutting-edge knowledge on Gen AI, Digital, and Entrepreneurial transformation. They offer tools, strategies, and processes to
+              help businesses become more agile and disruptive. By emphasizing the importance of understanding disrupti...
             organization:
               name: Thinkerland
               linkedin: https://www.linkedin.com/company/thinkerland
+            extra:
+              linkedin_url: https://www.linkedin.com/company/thinkerland
             crunchbase_data:
               name: Thinkerland
               linkedin: https://www.linkedin.com/company/thinkerland
@@ -64190,9 +64243,12 @@ landscape:
             homepage_url: https://transport.nsw.gov.au/
             logo: transport_for_nsw.svg
             twitter: https://twitter.com/TransportforNSW
+            description: Transport for NSW
             organization:
               name: Transport for NSW
               linkedin: https://www.linkedin.com/company/transport-for-nsw
+            extra:
+              linkedin_url: https://www.linkedin.com/company/transport-for-nsw
             crunchbase_data:
               name: Transport for NSW
               linkedin: https://www.linkedin.com/company/transport-for-nsw
@@ -64204,10 +64260,49 @@ landscape:
               badge: false
               percentage: null
           - item:
+            name: Université Libre de Tunis
+            homepage_url: https://ult-tunisie.com/
+            logo: universite_libre_de_tunis.svg
+            twitter: https://twitter.com/ULT_Tunisie
+            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
+            description: >-
+              L'Université Libre de Tunis, université privée de haut niveau reconnue par l'Etat tunisien et leader de l’enseignement supérieur et des Etudes
+              Universitaires en Tunisie
+            extra:
+              linkedin_url: https://www.linkedin.com/company/universit%c3%a9libredetunis
+            crunchbase_data:
+              name: Université Libre de Tunis
+              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
+              num_employees_min: null
+              num_employees_max: null
+              homepage: http://www.ult-tunisie.com/eng/index.php
+              city: Tunis
+              region: Tunis
+              country: Tunisia
+              twitter: null
+              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries: []
+            image_data:
+              fileName: universit-libre-de-tunis.svg
+              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2020-07-29T07:35:35.000Z
+          - item:
             name: University of Michigan
             homepage_url: https://ai.engin.umich.edu/
             logo: university_of_michigan.svg
+            twitter: https://twitter.com/UMich
             crunchbase: https://www.crunchbase.com/organization/university-of-michigan-ann-arbor
+            description: The Regents of the University of Michigan, for its Advanced Research Computing Department
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-michigan
             crunchbase_data:
               name: University of Michigan
               description: The University of Michigan is a public research university that offers undergraduate, graduate, and professional degree programs.
@@ -64240,7 +64335,15 @@ landscape:
             name: University of Washington
             homepage_url: https://uw.edu/
             logo: university_of_washington.svg
+            twitter: https://twitter.com/UW
             crunchbase: https://www.crunchbase.com/organization/university-of-washington
+            description: >-
+              The University of Washington is a public research university in Seattle, Washington. UW is the largest university in the northwestern United
+              States, one of the oldest universities on the west coast and one of the preeminent research universities in the world. The university has three
+              campuses, with its largest campus in Seattle's University District and two other campuses Tacoma and Bothell. The UW occupies over 500 buildings,
+              with over 20 million gross square footage of space.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/university-of-washington
             crunchbase_data:
               name: University of Washington
               description: University of Washington is an educational institution that provides undergraduate, graduate, and research programs.
@@ -64274,42 +64377,17 @@ landscape:
             twitter_data:
               latest_tweet_date: 2022-10-03T01:01:02.000Z
           - item:
-            name: Université Libre de Tunis
-            homepage_url: https://ult-tunisie.com/
-            logo: universite_libre_de_tunis.svg
-            twitter: https://twitter.com/ULT_Tunisie
-            crunchbase: https://www.crunchbase.com/organization/universit%C3%A9-libre-de-tunis
-            crunchbase_data:
-              name: Université Libre de Tunis
-              description: The Tunisia Private University (ULT) is a university in Tunis, Tunisia. It was founded in 1973 and is organized in six faculties.
-              num_employees_min: null
-              num_employees_max: null
-              homepage: http://www.ult-tunisie.com/eng/index.php
-              city: Tunis
-              region: Tunis
-              country: Tunisia
-              twitter: null
-              linkedin: https://www.linkedin.com/school/universit%C3%A9libredetunis
-              acquisitions: []
-              parents: []
-              stockExchange: null
-              company_type: ''
-              industries: []
-            image_data:
-              fileName: universit-libre-de-tunis.svg
-              hash: Cg+tDiTnm5XrB4//r9mbk/sMUR5MdVSseG24jWiG1Ro=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2020-07-29T07:35:35.000Z
-          - item:
             name: velammal college of engineering and technology
             homepage_url: https://vcet.ac.in/
             logo: velammal_college_of_engineering_and_technology.svg
+            description: >-
+              Velammal College of Engineering and Technology is an educational institution located in Madurai, India. It offers undergraduate and postgraduate
+              programs in various fields of engineering and technology. The college has a highly qualified faculty with m...
             organization:
               name: velammal college of engineering and technology
               linkedin: https://www.linkedin.com/company/velammal-college-of-engineering-and-technology
+            extra:
+              linkedin_url: https://www.linkedin.com/company/velammal-college-of-engineering-and-technology
             crunchbase_data:
               name: velammal college of engineering and technology
               linkedin: https://www.linkedin.com/company/velammal-college-of-engineering-and-technology
@@ -64326,6 +64404,11 @@ landscape:
             logo: wikimedia_deutschland_e_v.svg
             twitter: https://twitter.com/WikimediaDE
             crunchbase: https://www.crunchbase.com/organization/wikimedia-deutschland-e-v
+            description: >-
+              Wir befreien Wissen Wikimedia Deutschland ist Teil einer weltweiten Bewegung, die sich für Freies Wissen einsetzt. Als gemeinnützige Organisation
+              unterstützen …
+            extra:
+              linkedin_url: https://www.linkedin.com/company/wikimedia-deutschland-e-v-
             crunchbase_data:
               name: Wikimedia Deutschland e.V.
               description: Wikimedia Deutschland is the German Wikimedia chapter, a non-profit organization founded to promote free knowledge.
@@ -64355,9 +64438,14 @@ landscape:
             homepage_url: https://worldethicaldata.org/
             logo: world_ethical_data_foundation.svg
             twitter: https://twitter.com/WEDF_foundation
+            description: >-
+              World Ethical Data Foundation is a non-profit organization that examines the opportunities and problems arising from the development of
+              technologies that are opening unprecedented possibilities for knowledge and influence.
             organization:
               name: World Ethical Data Foundation
               linkedin: https://www.linkedin.com/company/world-ethical-data-forum
+            extra:
+              linkedin_url: https://www.linkedin.com/company/world-ethical-data-forum
             crunchbase_data:
               name: World Ethical Data Foundation
               linkedin: https://www.linkedin.com/company/world-ethical-data-forum
@@ -64372,7 +64460,13 @@ landscape:
             name: XPRIZE
             homepage_url: https://xprize.org/
             logo: xprize.svg
+            twitter: https://twitter.com/xprize
             crunchbase: https://www.crunchbase.com/organization/x-prize-foundation
+            description: >-
+              XPRIZE is a non-profit organization that designs and hosts public competitions intended to encourage technological development to benefit
+              humanity.
+            extra:
+              linkedin_url: https://www.linkedin.com/company/x-prize-foundation
             crunchbase_data:
               name: XPRIZE
               description: XPRIZE designs and manages public competitions intended to encourage technological development that could benefit mankind.
@@ -64409,79 +64503,20 @@ landscape:
         name: Hosting Companies
         items:
           - item:
-            name: Okahu (hosting)
-            homepage_url: https://www.okahu.ai/
-            logo: okahu.svg
-            twitter: null
-            crunchbase: https://www.crunchbase.com/organization/okahu
+            name: Alipay (Hangzhou) Information Technology Co., Ltd. (hosting)
+            homepage_url: https://global.alipay.com/
+            logo: ant-group.svg
+            organization:
+              name: Alipay (Hangzhou) Information Technology Co., Ltd.
             crunchbase_data:
-              name: Okahu
-              description: AI Observability as a service for LLM based apps in the cloud.
-              num_employees_min: 1
-              num_employees_max: 10
-              homepage: https://www.okahu.ai
-              city: Redwood City
-              region: California
-              country: United States
-              twitter: null
-              linkedin: https://www.linkedin.com/company/okahu
-              acquisitions: []
+              name: Alipay (Hangzhou) Information Technology Co., Ltd.
               parents: []
-              stockExchange: null
-              company_type: ''
-              industries:
-                - Cloud Management
-                - Developer Tools
-                - Generative AI
             image_data:
-              fileName: okahu-hosting.svg
-              hash: 7TK1vbSKmsrLEPs7o57jJfycEi2XpP0AuHLkkMxtDkU=
+              fileName: alipay-hangzhou-information-technology-co-ltd-hosting.svg
+              hash: j7ecryEE9NdlX9C8mUlCVYJrDN+egqSotGubf95lAF8=
             best_practice_data:
               badge: false
               percentage: null
-          - item:
-            name: Databricks Inc. (hosting)
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            twitter: https://twitter.com/databricks
-            crunchbase: https://www.crunchbase.com/organization/databricks
-            crunchbase_data:
-              name: Databricks
-              description: Databricks is a data and AI company that interacts with corporate information stored in the public cloud.
-              num_employees_min: 1001
-              num_employees_max: 5000
-              homepage: https://databricks.com
-              city: San Francisco
-              region: California
-              country: United States
-              twitter: http://twitter.com/databricks
-              linkedin: https://www.linkedin.com/company/databricks
-              acquisitions:
-                - date: '2020-06-24'
-                  acquiree: Redash
-                - date: '2021-10-06'
-                  acquiree: 8080 Labs
-                - date: '2022-04-25'
-                  acquiree: Cortex Labs
-              parents: []
-              funding: 3522000000
-              stockExchange: null
-              company_type: For Profit
-              industries:
-                - Analytics
-                - Artificial Intelligence
-                - Information Technology
-                - Machine Learning
-                - Software
-              kind: funding
-            image_data:
-              fileName: databricks-inc-hosting.svg
-              hash: CWv5zzm+SaX9L4RNPAOZzyuEXNTkyV8gKO1dDnoyx98=
-            best_practice_data:
-              badge: false
-              percentage: null
-            twitter_data:
-              latest_tweet_date: 2022-10-03T10:01:00.000Z
           - item:
             name: Amazon (hosting)
             homepage_url: https://amazon.com/
@@ -65084,6 +65119,48 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-09-29T14:50:11.000Z
+          - item:
+            name: Databricks Inc. (hosting)
+            homepage_url: https://databricks.com/
+            logo: databricks_inc.svg
+            crunchbase: https://www.crunchbase.com/organization/databricks
+            crunchbase_data:
+              name: Databricks
+              description: Databricks is a data and AI company that interacts with corporate information stored in the public cloud.
+              num_employees_min: 1001
+              num_employees_max: 5000
+              homepage: https://databricks.com
+              city: San Francisco
+              region: California
+              country: United States
+              twitter: http://twitter.com/databricks
+              linkedin: https://www.linkedin.com/company/databricks
+              acquisitions:
+                - date: '2020-06-24'
+                  acquiree: Redash
+                - date: '2021-10-06'
+                  acquiree: 8080 Labs
+                - date: '2022-04-25'
+                  acquiree: Cortex Labs
+              parents: []
+              funding: 3522000000
+              stockExchange: null
+              company_type: For Profit
+              industries:
+                - Analytics
+                - Artificial Intelligence
+                - Information Technology
+                - Machine Learning
+                - Software
+              kind: funding
+            image_data:
+              fileName: databricks-inc-hosting.svg
+              hash: cYlCrz/w/mmfzzLzIuzFilFAmSy6vg/5xR/uX8KH2Yc=
+            best_practice_data:
+              badge: false
+              percentage: null
+            twitter_data:
+              latest_tweet_date: 2022-10-03T10:01:00.000Z
           - item:
             name: Datakin (hosting)
             homepage_url: https://datakin.com/
@@ -67372,6 +67449,36 @@ landscape:
               percentage: null
             twitter_data:
               latest_tweet_date: 2022-09-30T18:30:19.000Z
+          - item:
+            name: Okahu (hosting)
+            homepage_url: https://www.okahu.ai/
+            logo: okahu.svg
+            crunchbase: https://www.crunchbase.com/organization/okahu
+            crunchbase_data:
+              name: Okahu
+              description: AI Observability as a service for LLM based apps in the cloud.
+              num_employees_min: 1
+              num_employees_max: 10
+              homepage: https://www.okahu.ai
+              city: Redwood City
+              region: California
+              country: United States
+              twitter: null
+              linkedin: https://www.linkedin.com/company/okahu
+              acquisitions: []
+              parents: []
+              stockExchange: null
+              company_type: ''
+              industries:
+                - Cloud Management
+                - Developer Tools
+                - Generative AI
+            image_data:
+              fileName: okahu-hosting.svg
+              hash: 7TK1vbSKmsrLEPs7o57jJfycEi2XpP0AuHLkkMxtDkU=
+            best_practice_data:
+              badge: false
+              percentage: null
           - item:
             name: oojek (hosting)
             homepage_url: https://www.gojek.com/en-id
