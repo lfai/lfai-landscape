@@ -19,13 +19,6 @@ landscape:
             twitter: null
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
-            name: BeeAI
-            homepage_url: https://www.ibm.com/think/news/beeai-open-source-multiagent
-            project: incubation
-            repo_url: https://github.com/i-am-bee/beeai-framework
-            logo: beeai.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
             name: Candle
             homepage_url: https://github.com/huggingface/candle
             repo_url: https://github.com/huggingface/candle
@@ -34,7 +27,7 @@ landscape:
           - item:
             name: Data Prep Kit
             homepage_url: https://developer.ibm.com/components/data-prep-kit/
-            project: incubation
+            project: incubating
             repo_url: https://github.com/data-prep-kit/data-prep-kit
             logo: dataprepkit.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -719,7 +712,7 @@ landscape:
           - item:
             name: Docling
             homepage_url: https://research.ibm.com/blog/docling-generative-AI
-            project: incubation
+            project: incubating
             repo_url: https://github.com/docling-project/docling
             logo: docling.svg
             crunchbase: https://www.crunchbase.com/organization/ibm
@@ -1524,6 +1517,13 @@ landscape:
       - subcategory:
         name: Tools
         items:
+          - item:
+            name: BeeAI
+            homepage_url: https://www.ibm.com/think/news/beeai-open-source-multiagent
+            project: incubating
+            repo_url: https://github.com/i-am-bee/beeai-framework
+            logo: beeai.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Langchain
             homepage_url: https://www.langchain.com/
