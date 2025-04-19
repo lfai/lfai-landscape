@@ -710,13 +710,6 @@ landscape:
             twitter: https://twitter.com/Ceph
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Docling
-            homepage_url: https://research.ibm.com/blog/docling-generative-AI
-            project: incubating
-            repo_url: https://github.com/docling-project/docling
-            logo: docling.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
             name: Delta Lake
             homepage_url: https://delta.io/
             project: incubating
@@ -732,6 +725,13 @@ landscape:
             license: Apache 2.0
             logo: docarray.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Docling
+            homepage_url: https://research.ibm.com/blog/docling-generative-AI
+            project: incubating
+            repo_url: https://github.com/docling-project/docling
+            logo: docling.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Dragonfly
             homepage_url: https://d7y.io/
@@ -2951,12 +2951,6 @@ landscape:
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudgeometry
           - item:
-            name: Datastrato
-            homepage_url: https://datastrato.com/
-            logo: datastrato.svg
-            organization:
-              name: Datastrato
-          - item:
             name: DMetaSoul
             description: 数元灵科技是一家专注于一站式湖仓智能平台新基建的SaaS公司，提供云原生湖仓一体框架、分布式训练引擎和算法框架、高性能数据、模型在线服务，以及云原生一站式AI开发生产平台。
             homepage_url: https://dmetasoul.com/
@@ -3062,35 +3056,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/posit
             extra:
               linkedin_url: https://www.linkedin.com/company/rstudio-pbc
-          - item:
-            name: Precisely Holdings, LLC
-            description: >-
-              Precisely's data integration, data quality, location intelligence, and data enrichment products power better business decisions to create better
-              outcomes.
-
-
-              Was: ( renamed to Precisely on 5/13/2020 )
-
-
-              Syncsort Incorporated provides software spanning Hadoop solutions to mainframe applications. The company offers DMX-h, a solution that collects,
-              prepares, blends, transforms, and distributes data into Hadoop; DMX, a data integration software that helps organizations to extract, transform,
-              and load data; and MFX, a sort technology that allows the mainframe sort, copy, and join technology, as well as offload CPU cycles to zIIP
-              engines. It also provides Ironstream, a solution that helps organizations to get visibility and intelligence with search and analysis; and DL/2
-              that provides access to locked data. The company serves financial services, information services, life sciences, public, telco and media services,
-              manufacturing and other services, and retail sectors; and Fortune 100 companies. It offers solutions through an international network of partners,
-              resellers, and distributors.
-
-
-              --- Merged Data:
-
-
-              Precisely, rebranded from Syncsort Incorporated in May 2020, is a global software company specializing in Big Data, high speed sorting products,
-              data integration data quality, data enrichment, and location intelligence offerings, for IBM Power Systems,...
-            homepage_url: https://precisely.com/
-            logo: precisely_holdings_llc.svg
-            crunchbase: https://www.crunchbase.com/organization/precisely-write
-            extra:
-              linkedin_url: https://www.linkedin.com/company/syncsort
           - item:
             name: Red Hat, Inc.
             description: >-
