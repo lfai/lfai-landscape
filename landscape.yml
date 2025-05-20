@@ -710,13 +710,6 @@ landscape:
             twitter: https://twitter.com/Ceph
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Docling
-            homepage_url: https://research.ibm.com/blog/docling-generative-AI
-            project: incubating
-            repo_url: https://github.com/docling-project/docling
-            logo: docling.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
             name: Delta Lake
             homepage_url: https://delta.io/
             project: incubating
@@ -732,6 +725,13 @@ landscape:
             license: Apache 2.0
             logo: docarray.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Docling
+            homepage_url: https://research.ibm.com/blog/docling-generative-AI
+            project: incubating
+            repo_url: https://github.com/docling-project/docling
+            logo: docling.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Dragonfly
             homepage_url: https://d7y.io/
@@ -2935,12 +2935,6 @@ landscape:
             crunchbase: https://www.crunchbase.com/organization/cloudgeometry
             extra:
               linkedin_url: https://www.linkedin.com/company/cloudgeometry
-          - item:
-            name: Datastrato
-            homepage_url: https://datastrato.com/
-            logo: datastrato.svg
-            organization:
-              name: Datastrato
           - item:
             name: DMetaSoul
             description: 数元灵科技是一家专注于一站式湖仓智能平台新基建的SaaS公司，提供云原生湖仓一体框架、分布式训练引擎和算法框架、高性能数据、模型在线服务，以及云原生一站式AI开发生产平台。
