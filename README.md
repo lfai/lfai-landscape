@@ -26,9 +26,9 @@ If the error is with data from [Crunchbase](https://www.crunchbase.com/), you sh
 
 ### Updating LF AI & Data Foundation Members
 
-LF AI & Data Foundation Member data in this repository ( which in the [landscape.yml](landscape.yml) file are under the category `LF AI & Data Foundation Member` ) are built nightly using the [LFX Landscape Tools](https://github.com/jmertic/lfx-landscape-tools).  Any changes made directly in the data files in this repository for the above-referenced category will be overwritten.
+LF AI & Data Foundation Member data in this repository ( which in the [landscape.yml](landscape.yml) file are under the category `LF AI & Data Member Company` ) are built nightly using the [LFX Landscape Tools](https://github.com/jmertic/lfx-landscape-tools).  Any changes made directly in the data files in this repository for the above-referenced category will be overwritten.
 
-- For `LF AI & Data Foundation Member` entries, you can make these changes in [LFX Organization Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard/organization-profile).
+- For `LF AI & Data Member Company` entries, you can make these changes in [LFX Organization Dashboard](https://docs.linuxfoundation.org/lfx/organization-dashboard/organization-profile).
 
 If you cannot access the above resources, please [create a helpdesk ticket](https://members.lfaidata.foundation) to request those changes.
 
@@ -37,7 +37,7 @@ If you cannot access the above resources, please [create a helpdesk ticket](http
 You can build the landscape locally on your machine using the [landscape2](https://github.com/cncf/landscape2) tool. Once [installed](https://github.com/cncf/landscape2?tab=readme-ov-file#installation), you can use the commands below to build the landscape and serve it locally.
 
 ```shell
-landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/graphql/settings.yml --logos-path hosted_logos --output-dir build
+landscape2 build --data-file landscape.yml --settings-url https://raw.githubusercontent.com/cncf/landscape2-sites/refs/heads/main/lfai/settings.yml --logos-path hosted_logos --output-dir build
 landscape2 serve --landscape-dir build
 ```
 
