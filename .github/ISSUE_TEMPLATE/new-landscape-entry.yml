@@ -1,0 +1,69 @@
+name: New Landscape Entry
+description: New entry for the Landscape
+title: New Landscape Entry - [PROJECT]
+labels: ['new entry']
+assignees: 
+  - jmertic
+body:
+  - type: markdown
+    attributes:
+      value: "Thank you for your interest in adding your project to the LF AI & Data Landscape. Please complete the form below to add your project to the LF AI & Data Landscape."
+  - type: input
+    id: name
+    attributes:
+      label: Project Name
+      description: Also update `[PROJECT]` in the title above
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+    validations:
+      required: true
+  - type: input
+    id: webpage
+    attributes:
+      label: Homepage URL
+    validations:
+      required: true
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repo URL
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Organization hosting or owning the project
+    validations:
+      required: true
+  - type: textarea
+    id: logo
+    attributes:
+      label: Logo
+      description: Logo preferably should be in SVG, EPS, or AI format
+      placeholder: Drag and drop logo here or provide link to the logo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Pick the best category for your project
+      options:
+        - Data
+        - Deep Learning
+        - Distributed Computing
+        - Generative AI
+        - Machine Learning
+        - Model
+        - Natural Language Processing
+        - Notebook Environment
+        - Programming
+        - Reinforcement Learning
+        - Security & Privacy
+        - Trusted & Responsible AI
+    validations:
+      required: true
