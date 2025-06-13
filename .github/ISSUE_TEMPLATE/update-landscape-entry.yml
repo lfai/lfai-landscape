@@ -1,0 +1,15 @@
+name: Update Landscape Entry
+description: Let us know if a landscape entry needs corrected.
+title: Update Landscape Entry for [PROJECT]
+labels: ['update entry']
+assignees: 
+  - jmertic
+body:
+  - type: markdown
+    attributes:
+      value: Please put the name of the project in place of [PROJECT] in the title above, and then detail below the changes needed.
+  - type: textarea
+    attributes:
+      label: Changes requested
+    validations:
+      required: true
