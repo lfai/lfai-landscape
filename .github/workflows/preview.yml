@@ -1,18 +1,11 @@
 name: Preview
 
-permissions:
-  pull-requests: write
-
 on:
-  pull_request_target:
+  merge_group:
+  pull_request:
     branches:
       - main
       - master
-    paths:
-      - 'landscape.yml'
-      - 'hosted_logos/*'
-    types:
-      - opened
 
 jobs:
   comment:
