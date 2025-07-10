@@ -1,0 +1,19 @@
+name: Automerge PRs from LFX Landscape Tools
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "45 4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Automerge PR if label is set to `automated-build`
+        uses: pascalgn/automerge-action@7961b8b5eec56cc088c140b56d864285eabd3f67 # v0.16.4
+        env:
+          MERGE_LABELS: "automated-build"
+          MERGE_RETRY_SLEEP: 300000
+          MERGE_METHOD: "squash"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          LOG: "TRACE"
