@@ -1,7 +1,11 @@
-name: Validate
+name: Validate Landscape
 
 on:
   merge_group:
+  pull_request_target:
+    branches:
+      - main
+      - master
   pull_request:
     branches:
       - main
@@ -12,15 +16,8 @@ jobs:
     runs-on: ubuntu-latest
     name: "Validate landscape.yml file"
     steps:
-      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.1.7@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
       - uses: cncf/landscape2-validate-action@6381e8747c73412e638670807b402ef2b863e9f8 # v2.0.1
         with:
           target_kind: data
           target_path: ./landscape.yml
-      - uses: pascalgn/automerge-action@7961b8b5eec56cc088c140b56d864285eabd3f67 # v0.16.4
-        if: success() && ${{ github.secret_source == 'Actions' }}
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: "automated-build"
-          MERGE_RETRY_SLEEP: 300000
-          MERGE_METHOD: "squash"
