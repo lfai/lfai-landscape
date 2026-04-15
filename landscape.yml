@@ -1305,7 +1305,11 @@ landscape:
             name: Bitol
             homepage_url: https://bitol.io
             project: incubating
-            repo_url: https://github.com/bitol-io
+            repo_url: https://github.com/bitol-io/open-data-contract-standard
+            additional_repos:
+              - repo_url: https://github.com/bitol-io/open-data-product-standard 
+              - repo_url: https://github.com/bitol-io/tsc
+            linkedin: https://www.linkedin.com/company/bitol-io/
             license: Apache 2.0
             logo: bitol.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
