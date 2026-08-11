@@ -105,13 +105,6 @@ landscape:
             logo: cortex.svg
             crunchbase: https://www.crunchbase.com/organization/cortex-dev
           - item:
-            name: ForestFlow
-            homepage_url: https://forestflow.ai
-            project: incubating
-            repo_url: https://github.com/ForestFlow/ForestFlow
-            logo: forestflow.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: H2o.ai
             homepage_url: https://www.h2o.ai/
             repo_url: https://github.com/h2oai/h2o-3
@@ -561,14 +554,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Education
-        items:
-          - item:
-            name: OpenDS4All
-            homepage_url: https://github.com/odpi/OpenDS4All
-            project: incubating
-            repo_url: https://github.com/odpi/OpenDS4All
-            logo: opends4all.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+        items: []
       - subcategory:
         name: Lineage
         items:
@@ -1321,6 +1307,13 @@ landscape:
             license: Apache 2.0
             logo: bitol.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Apicurio Registry
+            homepage_url: https://www.apicur.io/registry/
+            repo_url: https://github.com/Apicurio/apicurio-registry
+            license: Apache 2.0
+            logo: apicurio-registry.svg
+            crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
             name: Community Data License Agreement (CDLA)
             homepage_url: https://cdla.dev
