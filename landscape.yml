@@ -105,13 +105,6 @@ landscape:
             logo: cortex.svg
             crunchbase: https://www.crunchbase.com/organization/cortex-dev
           - item:
-            name: ForestFlow
-            homepage_url: https://forestflow.ai
-            project: incubating
-            repo_url: https://github.com/ForestFlow/ForestFlow
-            logo: forestflow.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: H2o.ai
             homepage_url: https://www.h2o.ai/
             repo_url: https://github.com/h2oai/h2o-3
@@ -561,14 +554,7 @@ landscape:
     subcategories:
       - subcategory:
         name: Education
-        items:
-          - item:
-            name: OpenDS4All
-            homepage_url: https://github.com/odpi/OpenDS4All
-            project: incubating
-            repo_url: https://github.com/odpi/OpenDS4All
-            logo: opends4all.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+        items: []
       - subcategory:
         name: Lineage
         items:
@@ -1304,7 +1290,7 @@ landscape:
           - item:
             name: Bitol
             homepage_url: https://bitol.io
-            project: incubating
+            project: graduated
             repo_url: https://github.com/bitol-io/open-data-contract-standard
             additional_repos:
               - repo_url: https://github.com/bitol-io/open-data-product-standard
@@ -1487,7 +1473,7 @@ landscape:
           - item:
             name: Monocole
             homepage_url: http://monocle2ai.org/
-            project: sandbox
+            project: incubating
             repo_url: https://github.com/monocle2ai/monocle
             logo: monocle.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
@@ -2624,15 +2610,6 @@ landscape:
         name: Premier
         items:
           - item:
-            name: Databricks Inc.
-            homepage_url: https://databricks.com/
-            logo: databricks_inc.svg
-            description: Founded in 2013 and headquartered in an Francisco, California, Databricks offers a unified platform for massive-scale data engineering, collaborative data science, full-lifecycle machine learning and business analytics.
-            crunchbase: https://www.crunchbase.com/organization/databricks
-            twitter: https://twitter.com/databricks
-            extra:
-              linkedin_url: https://www.linkedin.com/company/databricks
-          - item:
             name: Huawei Technologies Co., Ltd
             homepage_url: https://huawei.com/
             logo: huawei_technologies_co.svg
@@ -2664,15 +2641,6 @@ landscape:
             twitter: https://twitter.com/nvidia
             extra:
               linkedin_url: https://www.linkedin.com/company/nvidia
-          - item:
-            name: Red Hat LLC
-            homepage_url: https://redhat.com/
-            logo: red_hat_llc.svg
-            description: Red Hat was established in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is the provider of open source software solutions, using a community-powered approach to provide reliable and high-performing cloud, Linux, middleware, storage, and virtualization technologies. Red Hat also offers support, training, and consulting services. As the connective hub in a global network of enterprises, partners, and open source communities, Red Hat helps create relevant, innovative technologies that liberate resources for growth and prepare customers for the future of IT.
-            crunchbase: https://www.crunchbase.com/organization/red-hat
-            twitter: https://twitter.com/RedHat
-            extra:
-              linkedin_url: https://www.linkedin.com/company/red-hat
           - item:
             name: ZTE Corporation
             homepage_url: https://zte.com.cn/
