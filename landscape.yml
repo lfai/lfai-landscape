@@ -12,13 +12,6 @@ landscape:
             logo: accord-net.svg
             crunchbase: https://www.crunchbase.com/organization/accord-net-framework-project
           - item:
-            name: AIRSEAI
-            homepage_url: https://airs.cuhk.edu.cn/en/airseai
-            project: sandbox
-            repo_url: https://github.com/AIRSEAI/AIRSEAI-1.0
-            logo: airseai_logo.svg
-            crunchbase:
-          - item:
             name: AutoGen
             homepage_url: https://github.com/microsoft/autogen
             repo_url: https://github.com/microsoft/autogen
@@ -30,13 +23,6 @@ landscape:
             repo_url: https://github.com/huggingface/candle
             logo: candle.svg
             crunchbase: https://www.crunchbase.com/organization/hugging-face
-          - item:
-            name: Data-Prep-Kit
-            homepage_url: https://developer.ibm.com/components/data-prep-kit/
-            project: incubating
-            repo_url: https://github.com/data-prep-kit/data-prep-kit
-            logo: data-prep-kit.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: LightGBM
             homepage_url: https://github.com/Microsoft/LightGBM
@@ -56,13 +42,6 @@ landscape:
             repo_url: https://github.com/dotnet/machinelearning
             logo: ml-net.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: OAAX
-            homepage_url: https://www.oaax.org
-            project: sandbox
-            repo_url: https://github.com/OAAX-standard
-            logo: oaax.svg
-            crunchbase: https://www.crunchbase.com/organization/network-optix
           - item:
             name: Ray
             homepage_url: https://bair.berkeley.edu/blog/2018/01/09/ray/
@@ -85,13 +64,6 @@ landscape:
             repo_url: https://github.com/alibaba/Alink
             logo: alink.svg
             crunchbase: https://www.crunchbase.com/organization/alibaba
-          - item:
-            name: Angel-ML
-            homepage_url: https://angelml.ai/
-            project: graduated
-            repo_url: https://github.com/Angel-ML/angel
-            logo: angel.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Apache SystemML
             homepage_url: https://systemds.apache.org
@@ -145,14 +117,6 @@ landscape:
             twitter: https://twitter.com/MLflow
             crunchbase: https://www.crunchbase.com/organization/databricks
           - item:
-            name: Open Platform for Enterprise AI (OPEA)
-            homepage_url: https://opea.dev
-            project: sandbox
-            repo_url: https://github.com/opea-project/GenAIExamples
-            logo: opea.svg
-            twitter: https://twitter.com/opeadev
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: PredictionIO
             homepage_url: https://predictionio.apache.org/
             repo_url: https://github.com/apache/predictionio
@@ -196,26 +160,12 @@ landscape:
             twitter: https://twitter.com/catboostml
             crunchbase: https://www.crunchbase.com/organization/yandex
           - item:
-            name: DeepCausality
-            homepage_url: https://DeepCausality.com
-            project: sandbox
-            repo_url: https://github.com/deepcausality-rs/deep_causality
-            logo: deepcausality.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Flashlight
             homepage_url: https://github.com/flashlight/flashlight
             repo_url: https://github.com/flashlight/flashlight
             logo: flashlight.svg
             twitter: https://twitter.com/MetaAI
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: IREE
-            homepage_url: https://www.iree.dev/
-            project: sandbox
-            repo_url: https://github.com/iree-org/iree
-            logo: iree2.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: MediaPipe
             homepage_url: https://mediapipe.dev/
@@ -252,21 +202,6 @@ landscape:
             repo_url: https://github.com/pycaret/pycaret
             logo: pycaret.svg
             crunchbase: https://www.crunchbase.com/organization/pycaret
-          - item:
-            name: Recommenders
-            homepage_url: https://microsoft-recommenders.readthedocs.io/
-            project: sandbox
-            repo_url: https://github.com/microsoft/recommenders
-            license: MIT
-            logo: recommenders.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: SapientML
-            homepage_url: https://github.com/sapientml/sapientml
-            project: sandbox
-            repo_url: https://github.com/sapientml/sapientml
-            logo: sapientml.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: SciKit-learn
             homepage_url: https://scikit-learn.org/stable/
@@ -333,14 +268,6 @@ landscape:
             twitter: https://twitter.com/mscntk
             crunchbase: https://www.crunchbase.com/organization/microsoft
           - item:
-            name: DeepRec
-            homepage_url: https://deeprec.readthedocs.io/
-            project: sandbox
-            repo_url: https://github.com/alibaba/DeepRec
-            license: Apache 2.0
-            logo: deeprec.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Dynamic Neural Network Toolkit
             homepage_url: https://dynet.readthedocs.io/en/latest/
             repo_url: https://github.com/clab/dynet
@@ -390,13 +317,6 @@ landscape:
             logo: py-torch.svg
             twitter: https://twitter.com/PyTorch
             crunchbase: https://www.crunchbase.com/organization/pytorch
-          - item:
-            name: Ryoma
-            homepage_url: https://github.com/project-ryoma/ryoma
-            project: sandbox
-            repo_url: https://github.com/project-ryoma/ryoma
-            logo: ryoma.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ShaderNN
             homepage_url: https://github.com/inferenceengine/shadernn
@@ -514,7 +434,7 @@ landscape:
           - item:
             name: BeyondML
             homepage_url: https://github.com/Beyond-ML-Labs/mann
-            project: sandbox
+            project: archived
             repo_url: https://github.com/Beyond-ML-Labs/mann
             logo: BeyondML.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
@@ -575,17 +495,9 @@ landscape:
           - item:
             name: OpenDataology
             homepage_url: https://github.com/OpenDataology/
-            project: sandbox
+            project: archived
             repo_url: https://github.com/OpenDataology/OpenDataology
             logo: OpenDataology.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: OpenLineage
-            homepage_url: https://github.com/OpenLineage
-            project: graduated
-            repo_url: https://github.com/OpenLineage/OpenLineage
-            logo: openlineage.svg
-            twitter: https://twitter.com/OpenLineage
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Relational DB
@@ -668,24 +580,9 @@ landscape:
             twitter: https://twitter.com/Ceph
             crunchbase: https://www.crunchbase.com/organization/red-hat
           - item:
-            name: Docling
-            homepage_url: https://research.ibm.com/blog/docling-generative-AI
-            project: incubating
-            repo_url: https://github.com/docling-project/docling
-            logo: docling.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
-          - item:
-            name: Delta Lake
-            homepage_url: https://delta.io/
-            project: incubating
-            repo_url: https://github.com/delta-io/delta
-            logo: deltalake.svg
-            twitter: https://twitter.com/DeltaLakeOSS
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Docarray
             homepage_url: https://docarray.jina.ai/
-            project: graduated
+            project: archived
             repo_url: https://github.com/docarray/docarray
             license: Apache 2.0
             logo: docarray.svg
@@ -722,30 +619,6 @@ landscape:
             repo_url: https://github.com/influxdata/influxdb
             logo: influx.svg
             crunchbase: https://www.crunchbase.com/organization/influxdb
-          - item:
-            name: JanusGraph
-            homepage_url: https://janusgraph.org/
-            project: incubating
-            repo_url: https://github.com/JanusGraph/janusgraph
-            logo: janusgraph.svg
-            twitter: https://twitter.com/janusgraph
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: LakeSoul
-            homepage_url: https://www.dmetasoul.com/en/docs/lakesoul/
-            project: sandbox
-            repo_url: https://github.com/meta-soul/LakeSoul
-            license: Apache 2.0
-            logo: lakesoul.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Milvus
-            homepage_url: https://milvus.io
-            project: graduated
-            repo_url: https://github.com/milvus-io/milvus
-            logo: milvus.svg
-            twitter: https://twitter.com/milvusio
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: NoKV
             description: >-
@@ -835,14 +708,6 @@ landscape:
             repo_url: https://github.com/v6d-io/v6d
             logo: vineyard.svg
             crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
-          - item:
-            name: Vortex
-            homepage_url: https://vortex.dev/
-            project: sandbox
-            repo_url: https://github.com/vortex-data
-            license: Apache 2.0
-            logo: vortex.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Versioning
         items:
@@ -877,13 +742,6 @@ landscape:
         name: Operations
         items:
           - item:
-            name: Amundsen
-            homepage_url: https://www.amundsen.io/
-            project: incubating
-            repo_url: https://github.com/amundsen-io/amundsen
-            logo: amundsen.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Apache Hive
             homepage_url: https://hive.apache.org/
             repo_url: https://github.com/apache/hive
@@ -903,26 +761,11 @@ landscape:
             logo: datahub.svg
             crunchbase: https://www.crunchbase.com/organization/linkedin
           - item:
-            name: Datashim
-            homepage_url: https://github.com/datashim-io/datashim
-            project: incubating
-            repo_url: https://github.com/datashim-io/datashim
-            logo: datashim.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: great_expectations
             homepage_url: https://greatexpectations.io/
             repo_url: https://github.com/great-expectations/great_expectations
             logo: great-expectations.svg
             crunchbase: https://www.crunchbase.com/organization/great-expectations-c89a
-          - item:
-            name: Marquez
-            homepage_url: https://marquezproject.github.io/marquez
-            project: graduated
-            repo_url: https://github.com/MarquezProject/marquez
-            logo: marquez.svg
-            twitter: https://twitter.com/MarquezProject
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Mathesar
             homepage_url: https://mathesar.org
@@ -946,20 +789,6 @@ landscape:
       - subcategory:
         name: Feature Engineering
         items:
-          - item:
-            name: Feast
-            homepage_url: https://feast.dev/
-            project: incubating
-            repo_url: https://github.com/feast-dev/feast
-            logo: feast.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Feathr
-            homepage_url: https://github.com/linkedin/feathr
-            project: sandbox
-            repo_url: https://github.com/linkedin/feathr
-            logo: feathr.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Featuretools
             homepage_url: https://www.featuretools.com/
@@ -1036,15 +865,6 @@ landscape:
             logo: logstash.svg
             twitter: https://twitter.com/logstash
             crunchbase: https://www.crunchbase.com/organization/elasticsearch
-          - item:
-            name: NNStreamer
-            homepage_url: https://nnstreamer.ai/
-            project: incubating
-            repo_url: https://github.com/nnstreamer/nnstreamer
-            stock_ticker: BC94.L
-            logo: nnstreamer.svg
-            twitter: https://twitter.com/NnStreamer
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Pravega
             homepage_url: https://github.com/pravega/pravega
@@ -1223,13 +1043,6 @@ landscape:
             logo: oozie.svg
             crunchbase: https://www.crunchbase.com/organization/apache
           - item:
-            name: Artigraph
-            homepage_url: https://github.com/artigraph/
-            project: sandbox
-            repo_url: https://github.com/artigraph/artigraph
-            logo: artigraph.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: DAGSTER
             homepage_url: https://dagster.io/
             repo_url: https://github.com/dagster-io/dagster
@@ -1303,18 +1116,6 @@ landscape:
         name: Governance
         items:
           - item:
-            name: Bitol
-            homepage_url: https://bitol.io
-            project: graduated
-            repo_url: https://github.com/bitol-io/open-data-contract-standard
-            additional_repos:
-              - repo_url: https://github.com/bitol-io/open-data-product-standard
-              - repo_url: https://github.com/bitol-io/tsc
-            linkedin: https://www.linkedin.com/company/bitol-io/
-            license: Apache 2.0
-            logo: bitol.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Apicurio Registry
             homepage_url: https://www.apicur.io/registry/
             repo_url: https://github.com/Apicurio/apicurio-registry
@@ -1328,63 +1129,11 @@ landscape:
             logo: cdla.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
           - item:
-            name: Egeria
-            homepage_url: https://egeria-project.org
-            project: graduated
-            repo_url: https://github.com/odpi/egeria
-            license: Apache 2.0
-            additional_repos:
-              - repo_url: https://github.com/odpi/egeria
-              - repo_url: https://github.com/odpi/egeria-docs
-              - repo_url: https://github.com/odpi/egeria-charts
-              - repo_url: https://github.com/odpi/egeria-connector-xtdb
-              - repo_url: https://github.com/odpi/egeria-connector-hivemetastore
-              - repo_url: https://github.com/odpi/egeria-connector-ibm-information-server
-              - repo_url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
-              - repo_url: https://github.com/odpi/egeria-connector-omrs-caching
-              - repo_url: https://github.com/odpi/egeria-connector-sas-viya
-              - repo_url: https://github.com/odpi/egeria-connector-integration-event-schema
-              - repo_url: https://github.com/odpi/egeria-connector-integration-topic-strimzi
-              - repo_url: https://github.com/odpi/egeria-react-ui
-              - repo_url: https://github.com/odpi/egeria-ui
-              - repo_url: https://github.com/odpi/egeria-ui-core
-              - repo_url: https://github.com/odpi/egeria-ui-components
-              - repo_url: https://github.com/odpi/egeria-js-commons
-              - repo_url: https://github.com/odpi/egeria-samples
-              - repo_url: https://github.com/odpi/egeria-samples-api
-              - repo_url: https://github.com/odpi/egeria-connector-repository-file-sample
-              - repo_url: https://github.com/odpi/egeria-database-connectors
-              - repo_url: https://github.com/odpi/egeria-api-mocks
-              - repo_url: https://github.com/odpi/egeria-template-newrepo
-              - repo_url: https://github.com/odpi/egeria-jupyter-notebooks
-              - repo_url: https://github.com/odpi/egeria-k8s-operator
-              - repo_url: https://github.com/odpi/egeria-dev-projects
-              - repo_url: https://github.com/odpi/egeria-python
-              - repo_url: https://github.com/odpi/egeria-palisade
-              - repo_url: https://github.com/odpi/data-governance
-              - repo_url: https://github.com/odpi/happi-graph
-            logo: egeria.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Gravitino
             homepage_url: https://gravitino.apache.org/
             repo_url: https://github.com/apache/gravitino
             logo: gravitino.svg
             crunchbase: https://www.crunchbase.com/organization/apache-gravitino
-          - item:
-            name: OpenSharing
-            homepage_url: https://opensharing.io
-            repo_url: https://github.com/OpenSharing-IO/OpenSharing
-            logo: opensharing.svg
-            crunchbase: https://www.crunchbase.com/organization/linux-foundation
-          - item:
-            name: Unity Catalog
-            homepage_url: https://www.unitycatalog.io/
-            project: sandbox
-            repo_url: https://github.com/unitycatalog/unitycatalog
-            license: Apache 2.0
-            logo: unity-catalog.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Reinforcement Learning
     subcategories:
@@ -1459,45 +1208,16 @@ landscape:
     subcategories:
       - subcategory:
         name: Models
-        items:
-          - item:
-            name: Open Model Initiative
-            homepage_url: https://github.com/orgs/Open-Model-Initiative/
-            project: sandbox
-            repo_url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
-            logo: omi.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: RWKV
-            homepage_url: https://www.rwkv.com
-            project: incubating
-            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
-            logo: rwkv.svg
-            twitter: https://twitter.com/RWKV_AI
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+        items: []
       - subcategory:
         name: Tools
         items:
-          - item:
-            name: BeeAI
-            homepage_url: https://www.ibm.com/think/news/beeai-open-source-multiagent
-            project: incubating
-            repo_url: https://github.com/i-am-bee/beeai-framework
-            logo: beeai.svg
-            crunchbase: https://www.crunchbase.com/organization/ibm
           - item:
             name: Langchain
             homepage_url: https://www.langchain.com/
             repo_url: https://github.com/langchain-ai/langchain
             logo: langchain.svg
             crunchbase: https://www.crunchbase.com/organization/langchain
-          - item:
-            name: Monocole
-            homepage_url: http://monocle2ai.org/
-            project: incubating
-            repo_url: https://github.com/monocle2ai/monocle
-            logo: monocle.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: TruLens
             homepage_url: https://github.com/truera/trulens
@@ -1673,13 +1393,6 @@ landscape:
         name: Inference
         items:
           - item:
-            name: Adlik
-            homepage_url: https://adlik.ai/
-            project: incubating
-            repo_url: https://github.com/Adlik/Adlik
-            logo: adlik.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: CausalML
             homepage_url: https://causalml.readthedocs.io/en/latest/about.html
             repo_url: https://github.com/uber/causalml
@@ -1720,32 +1433,11 @@ landscape:
         name: Federated Learning
         items:
           - item:
-            name: FATE
-            homepage_url: https://www.fedai.org/
-            project: incubating
-            repo_url: https://github.com/FederatedAI/FATE
-            logo: fate.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: OpenFL
-            homepage_url: https://openfl.readthedocs.io/en/latest
-            project: sandbox
-            repo_url: https://github.com/intel/openfl
-            logo: openfl.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: PySyft
             homepage_url: https://blog.openmined.org/tag/pysyft/
             repo_url: https://github.com/OpenMined/PySyft
             logo: pysyft.svg
             crunchbase: https://www.crunchbase.com/organization/openmined
-          - item:
-            name: Substra
-            homepage_url: https://github.com/Substra/substra
-            project: incubating
-            repo_url: https://github.com/Substra/substra
-            logo: substra.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: TensorFlow Federated
             homepage_url: https://www.tensorflow.org/federated
@@ -1756,33 +1448,11 @@ landscape:
         name: Training
         items:
           - item:
-            name: DLRover
-            homepage_url: https://github.com/intelligent-machine-learning/dlrover
-            project: sandbox
-            repo_url: https://github.com/intelligent-machine-learning/dlrover
-            license: Apache 2.0
-            logo: dlrover.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Embedded Learning Library
             homepage_url: https://microsoft.github.io/ELL/
             repo_url: https://github.com/Microsoft/ELL
             logo: embedded-learning-library.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: Horovod
-            homepage_url: https://horovod.ai/
-            project: graduated
-            repo_url: https://github.com/horovod/horovod
-            logo: horovod.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Ludwig
-            homepage_url: https://ludwig-ai.github.io/ludwig-docs/
-            project: incubating
-            repo_url: https://github.com/ludwig-ai/ludwig
-            logo: ludwig.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Petastorm
             homepage_url: https://eng.uber.com/petastorm/
@@ -1826,14 +1496,6 @@ landscape:
             logo: neuropod.svg
             crunchbase: https://www.crunchbase.com/organization/uber
           - item:
-            name: ONNX
-            homepage_url: https://onnx.ai/
-            project: graduated
-            repo_url: https://github.com/onnx/onnx
-            logo: onnx.svg
-            twitter: https://twitter.com/onnxai
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Semantic Kernel
             homepage_url: https://learn.microsoft.com/semantic-kernel/
             repo_url: https://github.com/microsoft/semantic-kernel
@@ -1848,13 +1510,6 @@ landscape:
             project: archived
             repo_url: https://github.com/acumos/documentation
             logo: acumos.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Machine Learning eXchange
-            homepage_url: https://www.ml-exchange.org/
-            project: sandbox
-            repo_url: https://github.com/machine-learning-exchange/mlx
-            logo: mlx.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Model Asset eXchange (MAX)
@@ -1905,14 +1560,6 @@ landscape:
             logo: cadence.svg
             crunchbase: https://www.crunchbase.com/organization/uber
           - item:
-            name: CLAIMED
-            homepage_url: https://github.com/claimed-framework/
-            project: sandbox
-            repo_url: https://github.com/claimed-framework/component-library
-            license: Apache 2.0
-            logo: claimed.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Couler
             homepage_url: https://github.com/couler-proj/couler
             repo_url: https://github.com/couler-proj/couler
@@ -1931,21 +1578,6 @@ landscape:
             repo_url: https://github.com/d6t/d6tflow
             logo: d6tflow.svg
             crunchbase: https://www.crunchbase.com/organization/databolt
-          - item:
-            name: Flyte
-            homepage_url: https://flyte.org
-            project: graduated
-            repo_url: https://github.com/flyteorg/flyte
-            logo: flyte.svg
-            twitter: https://twitter.com/flyteorg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: Kedro
-            homepage_url: https://kedro.org/
-            project: graduated
-            repo_url: https://github.com/kedro-org/kedro
-            logo: kedro.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Kestra
             homepage_url: https://kestra.io/
@@ -2026,13 +1658,6 @@ landscape:
             repo_url: https://github.com/facebookresearch/dlrm
             logo: dlrm.svg
             crunchbase: https://www.crunchbase.com/organization/facebook
-          - item:
-            name: FlagAI
-            homepage_url: https://github.com/BAAI-Open/FlagAI
-            project: sandbox
-            repo_url: https://github.com/BAAI-Open/FlagAI
-            logo: FlagAI.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: FLAML
             homepage_url: https://github.com/microsoft/FLAML
@@ -2134,14 +1759,6 @@ landscape:
             twitter: https://twitter.com/JuliaLanguage
             crunchbase: https://www.crunchbase.com/organization/numfocus
           - item:
-            name: Kompute
-            homepage_url: https://kompute.cc
-            project: incubating
-            repo_url: https://github.com/KomputeProject/kompute
-            url_for_bestpractices: https://github.com/KomputeFoundation/kompute
-            logo: kompute.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: MARS
             homepage_url: https://github.com/mars-project/mars
             repo_url: https://github.com/mars-project/mars
@@ -2177,13 +1794,6 @@ landscape:
             repo_url: https://github.com/pymc-devs/pymc
             logo: pymc3.svg
             crunchbase: https://www.crunchbase.com/organization/numfocus
-          - item:
-            name: Pyro
-            homepage_url: http://pyro.ai/
-            project: graduated
-            repo_url: https://github.com/pyro-ppl/pyro
-            logo: pyro.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: Python
             homepage_url: https://www.python.org
@@ -2272,7 +1882,7 @@ landscape:
           - item:
             name: Elastic Deep Learning (EDL)
             homepage_url: https://elasticdeeplearning.ai/
-            project: incubating
+            project: archived
             repo_url: https://github.com/elasticdeeplearning/edl
             logo: edl.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
@@ -2324,14 +1934,6 @@ landscape:
             logo: singularity.svg
             twitter: https://twitter.com/SingularityApp
             crunchbase: https://www.crunchbase.com/organization/sylabs
-          - item:
-            name: SOAJS
-            homepage_url: https://www.soajs.org/
-            project: incubating
-            repo_url: https://github.com/soajs/soajs
-            logo: soajs.svg
-            twitter: https://twitter.com/soajsorg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
       - subcategory:
         name: Interface
         items:
@@ -2347,33 +1949,12 @@ landscape:
             repo_url: https://github.com/apache/incubator-livy
             logo: apache-livy.svg
             crunchbase: https://www.crunchbase.com/organization/apache
-          - item:
-            name: Open Voice Interoperability
-            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
-            project: incubating
-            repo_url: https://github.com/open-voice-network/lib-interop
-            logo: interoperability.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
-            name: sparklyr
-            homepage_url: https://sparklyr.ai
-            project: incubating
-            repo_url: https://github.com/sparklyr/sparklyr
-            logo: sparklyr.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Trusted & Responsible AI
     subcategories:
       - subcategory:
         name: Explainability
         items:
-          - item:
-            name: AI Explainability 360 Toolkit
-            homepage_url: http://aix360.mybluemix.net
-            project: incubating
-            repo_url: https://github.com/Trusted-AI/AIX360
-            logo: aix360.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: ALIBI
             homepage_url: https://docs.seldon.io/projects/alibi/en/stable
@@ -2438,13 +2019,6 @@ landscape:
             logo: advbox.svg
             crunchbase: https://www.crunchbase.com/organization/baidu
           - item:
-            name: Adversarial Robustness Toolkit
-            homepage_url: https://developer.ibm.com/open/projects/adversarial-robustness-toolbox/
-            project: graduated
-            repo_url: https://github.com/Trusted-AI/adversarial-robustness-toolbox
-            logo: art.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Advertorch
             homepage_url: https://advertorch.readthedocs.io/en/latest/
             repo_url: https://github.com/BorealisAI/advertorch
@@ -2473,13 +2047,6 @@ landscape:
             logo: aequitas.svg
             crunchbase: https://www.crunchbase.com/organization/university-of-chicago
           - item:
-            name: AI Fairness 360 Toolkit
-            homepage_url: https://developer.ibm.com/open/projects/ai-fairness-360/
-            project: incubating
-            repo_url: https://github.com/Trusted-AI/AIF360
-            logo: aif360.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
-          - item:
             name: Audit AI
             homepage_url: https://github.com/pymetrics/audit-ai
             repo_url: https://github.com/pymetrics/audit-ai
@@ -2497,14 +2064,6 @@ landscape:
             repo_url: https://github.com/fairlearn/fairlearn
             logo: fairlearn.svg
             crunchbase: https://www.crunchbase.com/organization/microsoft
-          - item:
-            name: Open Voice TrustMark
-            homepage_url: https://openvoicenetwork.org/trustmark-initiative/
-            project: incubating
-            repo_url: https://github.com/Open-Voice-Trustmark/docs
-            license: Apache 2.0
-            logo: trustmark.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
   - category:
     name: Notebook Environment
     subcategories:
@@ -2531,13 +2090,6 @@ landscape:
             repo_url: https://github.com/googlecolab/colabtools
             logo: colab.svg
             crunchbase: https://www.crunchbase.com/organization/google
-          - item:
-            name: Elyra
-            homepage_url: https://elyra.readthedocs.io/en/latest
-            project: incubation
-            repo_url: https://github.com/elyra-ai/elyra
-            logo: elyra.svg
-            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
             name: envd
             homepage_url: https://envd.tensorchord.ai/
@@ -3459,3 +3011,1226 @@ landscape:
             logo: zte.svg
             twitter: https://twitter.com/ztepress
             crunchbase: https://www.crunchbase.com/organization/zte-corporation
+  - category:
+    name: LF AI & Data Projects
+    subcategories:
+      - subcategory:
+        name: Graduated
+        items:
+          - item:
+            repo_url: https://github.com/Trusted-AI/adversarial-robustness-toolbox
+            name: Adversarial Robustness Toolbox
+            second_path:
+              - Trusted & Responsible AI / Adversarial
+            homepage_url: https://adversarial-robustness-toolbox.org/
+            logo: adversarial_robustness_toolbox.svg
+            description: Adversarial Robustness Toolbox (ART) provides tools that enable developers and researchers to evaluate, defend, certify and verify Machine Learning models and applications against the adversarial threats.
+            project: graduated
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-09-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/airobustness
+              lfx_slug: airobustness
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/airobustness
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX9QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/adversarial%20robustness%20toolbox_09.16.20.pdf
+          - item:
+            name: Angel
+            second_path:
+              - Machine Learning / Platform
+            homepage_url: https://angelml.ai/
+            logo: angel.svg
+            description: A Flexible and Powerful Parameter Server for large-scale machine learning.
+            project: graduated
+            repo_url: https://github.com/Angel-ML/angel
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2018-08-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/Angel
+              lfx_slug: Angel
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Angel
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IRQA1
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/angel%20technical%20charter_08.14.18.pdf
+          - item:
+            project: graduated
+            repo_url: https://github.com/bitol-io/open-data-contract-standard
+            additional_repos:
+              - repo_url: https://github.com/bitol-io/open-data-product-standard
+              - repo_url: https://github.com/bitol-io/tsc
+            name: Bitol
+            second_path:
+              - Data / Governance
+            homepage_url: https://bitol.io/
+            logo: bitol.svg
+            description: |-
+              Within the BITOL project, the primary objective is to tackle multiple challenges, such as data normalization, ensuring the relevance of documentation, establishing service-level expectations, simplifying data and tool integration, and promoting a data product-oriented approach. These efforts offer several advantages, including stimulating innovation and streamlining integration processes.
+              BITOL is a sandbox-stage project of the LF AI & Data Foundation.
+              Contributed by: AIDA User Group in September 2023
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              linkedin_url: https://www.linkedin.com/company/bitol-io/
+              accepted: '2023-11-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/bitol
+              lfx_slug: bitol
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/bitol
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfSO5wG5Bz3cuH23xA
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Bitol%20Technical%20Charter%20Draft%2011-30-2023.docx.pdf
+          - item:
+            name: Docling
+            homepage_url: https://research.ibm.com/blog/docling-generative-AI
+            project: incubating
+            repo_url: https://github.com/docling-project/docling
+            second_path:
+              - Data / Store & Format
+            logo: docling.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Egeria
+            second_path:
+              - Data / Governance
+            homepage_url: http://egeria.ai/
+            logo: egeria.svg
+            description: Egeria provides the Apache 2.0 licensed open metadata and governance type system, frameworks, APIs, event payloads and interchange protocols to enable tools, engines and platforms to exchange metadata in order to get the best value from data whilst ensuring it is properly governed.
+            project: graduated
+            repo_url: https://github.com/odpi/egeria
+            additional_repos:
+              - repo_url: https://github.com/odpi/egeria
+              - repo_url: https://github.com/odpi/egeria-docs
+              - repo_url: https://github.com/odpi/egeria-charts
+              - repo_url: https://github.com/odpi/egeria-connector-xtdb
+              - repo_url: https://github.com/odpi/egeria-connector-hivemetastore
+              - repo_url: https://github.com/odpi/egeria-connector-ibm-information-server
+              - repo_url: https://github.com/odpi/egeria-connector-hadoop-ecosystem
+              - repo_url: https://github.com/odpi/egeria-connector-omrs-caching
+              - repo_url: https://github.com/odpi/egeria-connector-sas-viya
+              - repo_url: https://github.com/odpi/egeria-connector-integration-event-schema
+              - repo_url: https://github.com/odpi/egeria-connector-integration-topic-strimzi
+              - repo_url: https://github.com/odpi/egeria-react-ui
+              - repo_url: https://github.com/odpi/egeria-ui
+              - repo_url: https://github.com/odpi/egeria-ui-core
+              - repo_url: https://github.com/odpi/egeria-ui-components
+              - repo_url: https://github.com/odpi/egeria-js-commons
+              - repo_url: https://github.com/odpi/egeria-samples
+              - repo_url: https://github.com/odpi/egeria-samples-api
+              - repo_url: https://github.com/odpi/egeria-connector-repository-file-sample
+              - repo_url: https://github.com/odpi/egeria-database-connectors
+              - repo_url: https://github.com/odpi/egeria-api-mocks
+              - repo_url: https://github.com/odpi/egeria-template-newrepo
+              - repo_url: https://github.com/odpi/egeria-jupyter-notebooks
+              - repo_url: https://github.com/odpi/egeria-k8s-operator
+              - repo_url: https://github.com/odpi/egeria-dev-projects
+              - repo_url: https://github.com/odpi/egeria-python
+              - repo_url: https://github.com/odpi/egeria-palisade
+              - repo_url: https://github.com/odpi/data-governance
+              - repo_url: https://github.com/odpi/happi-graph
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-10-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/odpi-egeria
+              lfx_slug: odpi-egeria
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/odpi-egeria
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4JtQAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/egeria%20technical%20charter_10.27.20.pdf
+          - item:
+            name: Flyte
+            second_path:
+              - Model / Workflow
+            homepage_url: https://flyte.org/
+            logo: flyte.svg
+            description: Flyte is a container-native, type-safe workflow and pipelines platform optimized for large scale processing and machine learning written in Golang.
+            project: graduated
+            repo_url: https://github.com/flyteorg/flyte
+            license: Apache-2.0
+            twitter: https://twitter.com/flyteorg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2021-01-22'
+              dev_stats_url: https://insights.linuxfoundation.org/project/flyte
+              lfx_slug: flyte
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/flyte
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkXEBQA3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/master/technical%20project%20charters/flyte%20technical%20charter_01.22.21.pdf
+          - item:
+            name: Horovod
+            second_path:
+              - Model / Training
+            homepage_url: https://horovod.ai/
+            logo: horovod.svg
+            description: Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
+            project: graduated
+            repo_url: https://github.com/horovod/horovod
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2018-12-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/horovod
+              lfx_slug: horovod
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/horovod
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IaQAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/horovod%20technical%20charter_12.22.18.pdf
+              annotations:
+                project_org: https://github.com/horovod
+            additional_repos: []
+          - item:
+            name: Kedro Project
+            homepage_url: https://kedro.org/
+            second_path:
+              - Model / Workflow
+            logo: kedro_project.svg
+            description: The mission of the Project is to design and implement an open source framework for creating reproducible, maintainable and modular data science code.
+            project: graduated
+            repo_url: https://github.com/kedro-org/kedro
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2022-01-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kedro
+              lfx_slug: kedro
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kedro
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001Lk9rsQAB
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Kedro%20Project%20Technical%20Charter%201-14-2022%20Final.pdf
+              annotations:
+                project_org: https://github.com/kedro-org
+            additional_repos:
+              - repo_url: https://github.com/kedro-org/kedro-viz
+              - repo_url: https://github.com/kedro-org/awesome-kedro
+              - repo_url: https://github.com/kedro-org/kedro-plugins
+          - item:
+            repo_url: https://github.com/MarquezProject/marquez
+            twitter: https://twitter.com/MarquezProject
+            name: Marquez
+            homepage_url: https://marquezproject.ai/
+            logo: marquez.svg
+            description: Marquez is an open source metadata service for the collection, aggregation, and visualization of a data ecosystem’s metadata. It maintains the provenance of how datasets are consumed and produced, provides global visibility into job runtime and frequency of dataset access, centralization of dataset lifecycle management, and much more. Marquez was released and open sourced by WeWork.
+            project: graduated
+            license: Apache-2.0
+            second_path:
+              - Data / Operations
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-05-20'
+              dev_stats_url: https://insights.linuxfoundation.org/project/Marquez
+              lfx_slug: Marquez
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Marquez
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrBqQAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/marquez%20technical%20charter_05.21.20.pdf
+          - item:
+            twitter: https://twitter.com/milvusio
+            name: Milvus
+            homepage_url: https://milvus.io/
+            second_path:
+              - Data / Store & Format
+            logo: milvus.svg
+            description: As an open source vector similarity search engine, Milvus is easy-to-use, highly reliable, scalable, robust, and blazing fast. Adopted by over 100 organizations and institutions worldwide, Milvus empowers applications in a variety of fields, including image processing, computer vision, natural language processing, voice recognition, recommender systems, drug discovery, etc.
+            project: graduated
+            repo_url: https://github.com/milvus-io/milvus
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-03-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lfai-milvus
+              lfx_slug: lfai-milvus
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfai-milvus
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs6mQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/milvus%20technical%20charter_03.18.20.pdf
+              annotations:
+                project_org: https://github.com/milvus-io
+            additional_repos:
+              - repo_url: https://github.com/milvus-io/bootcamp
+              - repo_url: https://github.com/milvus-io/pymilvus
+              - repo_url: https://github.com/milvus-io/milvus-lite
+              - repo_url: https://github.com/milvus-io/talon
+              - repo_url: https://github.com/milvus-io/milvus-sdk-java
+          - item:
+            repo_url: https://github.com/onnx/onnx
+            twitter: https://twitter.com/onnxai
+            second_path:
+              - Model / Format & Interface
+            name: ONNX
+            homepage_url: https://onnx.ai/
+            logo: onnx.svg
+            description: ONNX is an open format built to represent machine learning models. ONNX defines a common set of operators - the building blocks of machine learning and deep learning models - and a common file format to enable AI developers to use models with a variety of frameworks, tools, runtimes, and compilers.
+            project: graduated
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-04-03'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lfai-onnx
+              lfx_slug: lfai-onnx
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lfai-onnx
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWs71QAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/onnx%20technical%20charter_04.02.20.pdf
+          - item:
+            second_path:
+              - Data / Lineage
+            twitter: https://twitter.com/OpenLineage
+            name: Open Lineage
+            homepage_url: http://openlineage.io/
+            logo: open_lineage.svg
+            description: The mission of the Project is to enable the industry at-large to collect lineage metadata consistently and comprehensively across complex pipelines, creating a deeper understanding of data.
+            project: graduated
+            repo_url: https://github.com/OpenLineage/OpenLineage
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2021-07-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-lineage
+              lfx_slug: open-lineage
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-lineage
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWuczQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/open%20lineage%20technical%20charter_07.07.21.docx.pdf
+          - item:
+            name: Pyro
+            homepage_url: https://pyro.ai/
+            second_path:
+              - Programming / Programming
+            logo: pyro.svg
+            description: Deep universal probabilistic programming with Python and PyTorch.
+            project: graduated
+            repo_url: https://github.com/pyro-ppl/pyro
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2019-04-30'
+              dev_stats_url: https://insights.linuxfoundation.org/project/pyro
+              lfx_slug: pyro
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/pyro
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IV4IfQAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/pyro%20technical%20charter_01.07.20.pdf
+      - subcategory:
+        name: Incubating
+        items:
+          - item:
+            name: Elyra
+            homepage_url: https://elyra.readthedocs.io/en/latest
+            second_path:
+              - Notebook Environment / Notebook Environment
+            project: incubation
+            repo_url: https://github.com/elyra-ai/elyra
+            logo: elyra.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: BeeAI
+            second_path:
+              - Generative AI / Tools
+            homepage_url: https://www.ibm.com/think/news/beeai-open-source-multiagent
+            project: incubating
+            repo_url: https://github.com/i-am-bee/beeai-framework
+            logo: beeai.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: RWKV
+            second_path:
+              - Generative AI / Models
+            homepage_url: https://www.rwkv.com
+            project: incubating
+            repo_url: https://github.com/RWKV/RWKV-infctx-trainer
+            logo: rwkv.svg
+            twitter: https://twitter.com/RWKV_AI
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            second_path:
+              - Model / Inference
+            repo_url: https://github.com/Adlik/Adlik
+            name: Adlik
+            homepage_url: https://adlik.ai/
+            logo: adlik.svg
+            description: Adlik offers a end-to-end optimizing framework for deep learning models whose goal is to accelerate deep learning inference process both on cloud and embedded environments.
+            project: incubating
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2019-11-19'
+              dev_stats_url: https://insights.linuxfoundation.org/project/Adlik
+              lfx_slug: Adlik
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Adlik
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr88QAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/adlik%20technical%20charter_11.19.19.pdf
+          - item:
+            repo_url: https://github.com/Trusted-AI/AIX360
+            name: AI Explainability 360
+            second_path:
+              - Trusted & Responsible AI / Explainability
+            homepage_url: https://ai-explainability-360.org/
+            logo: ai_explainability_360.svg
+            description: interpretability and explainability of data and machine learning models. AI Explainability 360 is an open source toolkit that can help users better understand the ways that machine learning models predict labels using a wide variety of techniques throughout the AI application lifecycle.
+            project: incubating
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-09-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/aiexplainability
+              lfx_slug: aiexplainability
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aiexplainability
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX7QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ai%20explainability%20360_09.16.20.pdf
+          - item:
+            repo_url: https://github.com/Trusted-AI/AIF360
+            second_path:
+              - Trusted & Responsible AI / Bias & Fairness
+            name: AI Fairness 360
+            homepage_url: https://ai-fairness-360.org/
+            logo: ai_fairness_360.svg
+            description: A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.
+            project: incubating
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-09-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/aifairness
+              lfx_slug: aifairness
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/aifairness
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkOX8QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ai%20fairness%20360_09.16.20.pdf
+          - item:
+            repo_url: https://github.com/amundsen-io/amundsen
+            name: Amundsen
+            second_path:
+              - Data / Operations
+            homepage_url: https://www.amundsen.io/
+            logo: amundsen.svg
+            description: Amundsen is a data discovery and metadata engine for improving the productivity of data analysts, data scientists and engineers when interacting with data. Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.
+            project: incubating
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-08-10'
+              dev_stats_url: https://insights.linuxfoundation.org/project/Amundsen
+              lfx_slug: Amundsen
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Amundsen
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkNE7QAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/amundsen%20technical%20charter_08.10.20.pdf
+          - item:
+            second_path:
+              - Data / Operations
+            name: Datashim
+            homepage_url: https://datashim.io/
+            logo: datashim.svg
+            description: The mission of the Project is to design and implement an Open Source framework that provides seamless access to Data in Kubernetes environments.
+            project: incubating
+            repo_url: https://github.com/datashim-io/datashim
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2021-03-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/datashim
+              lfx_slug: datashim
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/datashim
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWjR9QAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/master/technical%20project%20charters/datashim%20technical%20charter_03.08.21.pdf
+          - item:
+            name: Data-Prep-Kit
+            homepage_url: https://developer.ibm.com/components/data-prep-kit/
+            project: incubating
+            second_path:
+              - Machine Learning / Framework
+            repo_url: https://github.com/data-prep-kit/data-prep-kit
+            logo: data-prep-kit.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            repo_url: https://github.com/delta-io/delta
+            name: Delta Lake Project
+            second_path:
+              - Data / Store & Format
+            homepage_url: https://delta.io/
+            logo: delta_lake_project.svg
+            description: Delta Lake is an open source storage layer that brings reliability to data lakes.
+            project: incubating
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            twitter: https://twitter.com/DeltaLakeOSS
+            extra:
+              accepted: '2019-09-17'
+              dev_stats_url: https://insights.linuxfoundation.org/project/deltalake
+              lfx_slug: deltalake
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/deltalake
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr8RQAT
+                - name: Charter
+                  url: https://delta.io/pdfs/delta-charter.pdf
+              youtube_url: https://www.youtube.com/c/deltalake
+              linkedin_url: https://www.linkedin.com/company/deltalake/
+          - item:
+            name: FATE Project
+            second_path:
+              - Model / Federated Learning
+            homepage_url: https://github.com/FederatedAI/FATE
+            logo: fate_project.svg
+            description: FATE is an open-source project initiated by Webankâ€™s AI Department to provide a secure computing framework to support the federated AI ecosystem.
+            project: incubating
+            repo_url: https://github.com/FederatedAI/FATE
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2019-06-26'
+              dev_stats_url: https://insights.linuxfoundation.org/project/federatedai
+              lfx_slug: federatedai
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/federatedai
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWqP7QAL
+                - name: Charter
+                  url: https://github.com/FederatedAI/FATE-Community/blob/master/FATE_Project_Technical_Charter.pdf
+          - item:
+            name: Feast
+            homepage_url: https://feast.dev/
+            second_path:
+              - Data / Feature Engineering
+            logo: feast.svg
+            description: Feast is the bridge between your data and your machine learning models allowing teams to register, ingest, serve, and monitor features in production.
+            project: incubating
+            repo_url: https://github.com/feast-dev/feast
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-10-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/feast
+              lfx_slug: feast
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/feast
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkTmZQAV
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/feast%20technical%20charter_10.05.20.pdf
+          - item:
+            name: JanusGraph
+            homepage_url: https://janusgraph.org/
+            logo: janusgraph.svg
+            second_path:
+              - Data / Store & Format
+            description: JanusGraph is a scalable graph database optimized for storing and querying graphs containing hundreds of billions of vertices and edges distributed across a multi-machine cluster.
+            project: incubating
+            repo_url: https://github.com/JanusGraph/janusgraph
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            twitter: https://twitter.com/JanusGraph
+            extra:
+              accepted: '2016-12-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/janusgraph
+              lfx_slug: janusgraph
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/janusgraph
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a0941000002wBybAAE
+                - name: Charter
+                  url: https://github.com/JanusGraph/legal/blob/master/JanusGraph_Project_Charter.pdf
+              linkedin_url: https://www.linkedin.com/company/janusgraph
+          - item:
+            url_for_bestpractices: https://github.com/KomputeFoundation/kompute
+            name: Kompute
+            second_path:
+              - Programming / Programming
+            homepage_url: https://kompute.cc/
+            logo: kompute.svg
+            description: The mission of the Project is to advance the GPU Acceleration ecosystem in scientific and industry applications through cross-vendor graphics card tooling, and further capabilities for GPGPU computing across advanced data processing use-cases.
+            project: incubating
+            repo_url: https://github.com/KomputeProject/kompute
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2021-07-27'
+              dev_stats_url: https://insights.linuxfoundation.org/project/kompute
+              lfx_slug: kompute
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/kompute
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KX0buQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/kompute%20project%20technical%20charter_07.27.21.pdf
+          - item:
+            name: Ludwig
+            homepage_url: https://ludwig-ai.github.io/ludwig-docs/
+            logo: ludwig.svg
+            second_path:
+              - Model / Training
+            description: Ludwig is an open-source, declarative machine learning framework that makes it easy to define deep learning pipelines with a simple and flexible data-driven configuration system. Ludwig is a low-code framework for building custom AI models like LLMs and other deep neural networks.
+            project: incubating
+            repo_url: https://github.com/ludwig-ai/ludwig
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-06-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ludwig
+              lfx_slug: ludwig
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ludwig
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZVlQAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/ludwig%20technical%20charter_06.15.20.pdf
+          - item:
+            repo_url: https://github.com/nnstreamer/nnstreamer
+            twitter: https://twitter.com/NnStreamer
+            name: Neural Network (NN) Streamer
+            second_path:
+              - Data / Stream Processing
+            homepage_url: https://nnstreamer.ai/
+            logo: neural_network_nn_streamer.svg
+            description: '? Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices.'
+            project: incubating
+            license: LGPL-2.1
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-04-01'
+              dev_stats_url: https://insights.linuxfoundation.org/project/NNstreamer
+              lfx_slug: NNstreamer
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/NNstreamer
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWr7ZQAT
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/nnstreamer%20technical%20charter_04.01.20.pdf
+          - item:
+            name: Open Voice Network Interoperability Initiative
+            homepage_url: https://openvoicenetwork.org/interoperability-initiative/
+            logo: open_voice_network_interoperability_initiative.svg
+            description: The Open Voice Network Interoperability Initiative is developing The “Message Envelope,” a universal, open API for voice/chatbot and language model interoperability, analogous to HTTP AND HTML.
+            second_path:
+              - Distributed Computing / Interface
+            project: incubating
+            repo_url: https://github.com/open-voice-interoperability/beaconforge
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2023-12-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-voice-network-interoperability-initiative
+              lfx_slug: open-voice-network-interoperability-initiative
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-voice-network-interoperability-initiative
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfzV1Oo2MhLFebc3TK
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Open%20Voice%20Network%20Interoperability%20Initiative%20Technical%20Charter%20Draft%2012-11-2023.docx.pdf
+              annotations:
+                project_org: https://github.com/open-voice-interoperability
+            additional_repos:
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-python
+              - repo_url: https://github.com/open-voice-interoperability/assistants
+              - repo_url: https://github.com/open-voice-interoperability/background
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-js
+              - repo_url: https://github.com/open-voice-interoperability/openfloor-docs
+          - item:
+            name: Open Voice Network Trustmark Initiative
+            homepage_url: https://openvoicenetwork.org/trustmark-initiative/
+            second_path:
+              - Trusted & Responsible AI / Bias & Fairness
+            logo: open_voice_network_trustmark_initiative.svg
+            description: |-
+              The Open Voice Network Trust Mark Initiative translates ethical principles into action, focusing on conversational AI.
+              Designed for developers and enterprise users, Open Voice Trust Mark establishes tangible steps to legal and ethical risk mitigation. Grounded in a study of extant AI ethics literature, regulations and guidelines, its areas of work include privacy, security, voice synthesis, and ethical requirements for interoperability. The initiative has also launched an online educational course via EdX and an organizational self-assessment tool.
+              The Open Voice Interoperability Initiative is an incubation-stage project of the LF AI & Data Foundation, contributed in October 2023.
+            project: incubating
+            repo_url: https://github.com/Open-Voice-Trustmark/docs
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2023-12-11'
+              dev_stats_url: https://insights.linuxfoundation.org/project/open-voice-network-trustmark-initiative
+              lfx_slug: open-voice-network-trustmark-initiative
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/open-voice-network-trustmark-initiative
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfVuFfrRVwzlnrZ8wF
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/The%20Open%20Voice%20Network%20Trustmark%20Initiative%20Technical%20Charter%2012-11-2023%20(1).docx.pdf
+              annotations:
+                project_org: https://github.com/Open-Voice-Trustmark
+            additional_repos: []
+          - item:
+            name: SOAJS
+            homepage_url: https://soajs.org/
+            second_path:
+              - Distributed Computing / Computing & Management
+            logo: soajs.svg
+            description: SOAJS provides a complete enterprise open source microservice management platform.
+            project: incubating
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-12-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/soajs
+              lfx_slug: soajs
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/soajs
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001IkZVqQAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/soajs%20technical%20charter_12_15_20.pdf
+          - item:
+            name: sparklyr
+            homepage_url: https://sparklyr.ai/
+            logo: sparklyr.svg
+            second_path:
+              - Distributed Computing / Interface
+            description: R interface for Apache Spark.
+            project: incubating
+            repo_url: https://github.com/sparklyr/sparklyr
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2020-01-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/Sparklyr
+              lfx_slug: Sparklyr
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/Sparklyr
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001JWrC0QAL
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/sparklyr%20Project%20Technical%20Charter%2001-09-19.pdf
+          - item:
+            name: Substra
+            homepage_url: https://github.com/Substra
+            logo: substra.svg
+            second_path:
+              - Model / Federated Learning
+            description: The mission of the Project is to design and implement an open source framework for traceable ML orchestration on decentralized sensitive data.
+            project: incubating
+            repo_url: https://github.com/Substra/substrafl
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            twitter: https://twitter.com/nil
+            extra:
+              accepted: '2021-05-21'
+              dev_stats_url: https://insights.linuxfoundation.org/project/substra-framework
+              lfx_slug: substra-framework
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/substra-framework
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWm9uQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/substra%20technical%20charter_04.23.21.pdf
+              annotations:
+                project_org: https://github.com/Substra
+            additional_repos:
+              - repo_url: https://github.com/Substra/substra
+          - item:
+            name: Vortex
+            homepage_url: https://vortex.dev/
+            second_path:
+              - Data / Store & Format
+            logo: vortex.svg
+            description: The mission of the Project is to develop a performant columnar file format and associated tools for database and data lake storage.
+            project: incubating
+            repo_url: https://github.com/vortex-data/vortex
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2025-05-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/vortex
+              lfx_slug: vortex
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vortex
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJxQWupupCuX7C6t9
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vortex/vortex_Charter.pdf?v=1747271560908
+              annotations:
+                project_org: https://github.com/vortex-data
+            additional_repos: []
+      - subcategory:
+        name: Sandbox
+        items:
+          - item:
+            name: FlagAI
+            second_path:
+              - Model / Tool
+            homepage_url: https://github.com/BAAI-Open/FlagAI
+            project: sandbox
+            repo_url: https://github.com/BAAI-Open/FlagAI
+            logo: FlagAI.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: OpenFL
+            second_path:
+              - Model / Federated Learning
+            homepage_url: https://openfl.readthedocs.io/en/latest
+            project: sandbox
+            repo_url: https://github.com/intel/openfl
+            logo: openfl.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: Open Model Initiative
+            second_path:
+              - Generative AI / Models
+            homepage_url: https://github.com/orgs/Open-Model-Initiative/
+            project: sandbox
+            repo_url: https://github.com/Open-Model-Initiative/OMI-Model-Standards
+            logo: omi.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: AIRSEAI
+            second_path:
+              - Machine Learning / Framework
+            homepage_url: https://airs.cuhk.edu.cn/en/airship
+            logo: airseai.svg
+            description: develop an open-source embodied AI framework that runs on affordable edge computing systems
+            project: sandbox
+            repo_url: https://github.com/AIRSEAI/AIRSEAI-1.0
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2026-07-10'
+              dev_stats_url: https://insights.linuxfoundation.org/project/airseai
+              lfx_slug: airseai
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/airseai
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfevXvBYK3MMGwvEpO
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/airseai/airseai_Charter.pdf?v=1784053360389
+              annotations:
+                project_org: https://github.com/AIRSEAI
+            additional_repos: []
+          - item:
+            name: Artigraph
+            second_path:
+              - Data / Pipeline Management
+            homepage_url: https://github.com/artigraph/
+            logo: artigraph.svg
+            description: The mission of the Project is to enable data lifecycle management for AI workflow tooling and other applications.
+            project: sandbox
+            repo_url: https://github.com/artigraph/artigraph
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            twitter: https://twitter.com/nil
+            extra:
+              accepted: '2022-02-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/artigraph
+              lfx_slug: artigraph
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/artigraph
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001LkNUaQAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/artigraph%20technical%20charter_02072022.pdf
+              annotations:
+                project_org: https://github.com/artigraph
+            additional_repos: []
+          - item:
+            name: CLAIMED
+            homepage_url: https://claimed-framework.org/
+            second_path:
+              - Model / Workflow
+            logo: claimed.svg
+            description: CLAIMED (Component Library for AI, Machine Learning, ETL and Data Science)  is a runtime and programming language agnostic Data & AI component framework abstracting away all complexity for advanced MLOps and TrustedAI.
+            project: sandbox
+            repo_url: https://github.com/claimed-framework/claimed
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2022-12-15'
+              dev_stats_url: https://insights.linuxfoundation.org/project/claimed
+              lfx_slug: claimed
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/claimed
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001NVodlQAD
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/CLAIMED%20Technical%20Charter%20Draft%2012-15-2022.docx.pdf
+              annotations:
+                project_org: https://github.com/claimed-framework
+            additional_repos: []
+          - item:
+            repo_url: https://github.com/deepcausality-rs/deep_causality
+            name: DeepCausality
+            homepage_url: https://deepcausality.com/
+            second_path:
+              - Machine Learning / Library
+            logo: deepcausality.svg
+            description: The mission of the DeepCausality project is to develop a computational causality library for Rust that enables fast and deterministic context-aware causal reasoning
+            project: sandbox
+            license: MIT
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2023-08-29'
+              dev_stats_url: https://insights.linuxfoundation.org/project/deepcausality
+              lfx_slug: deepcausality
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/deepcausality
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lf8hRlLMO0Sqh2V746
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DeepCausality%20Technical%20Charter%208-29-2023.pdf
+          - item:
+            name: DeepRec
+            homepage_url: https://github.com/DeepRec-AI
+            second_path:
+              - Deep Learning / Framework
+            logo: deeprec.svg
+            description: The mission of the Project is to develop a high-performance recommendation deep learning framework.
+            project: sandbox
+            repo_url: https://github.com/DeepRec-AI/DeepRec
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2023-05-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/deeprec
+              lfx_slug: deeprec
+              documentation_url: https://deeprec.readthedocs.io/
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/deeprec
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001O6OGGQA3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DeepRec%20Technical%20Charter%20Final%205-5-2023.pdf
+              annotations:
+                project_org: https://github.com/DeepRec-AI
+            additional_repos: []
+          - item:
+            name: Unity Catalog
+            homepage_url: https://www.unitycatalog.io/
+            project: sandbox
+            repo_url: https://github.com/unitycatalog/unitycatalog
+            license: Apache 2.0
+            logo: unity-catalog.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            second_path:
+              - Data / Governance
+          - item:
+            repo_url: https://github.com/intelligent-machine-learning/dlrover
+            name: DLRover
+            homepage_url: https://github.com/intelligent-machine-learning/dlrover
+            logo: dlrover.svg
+            second_path:
+              - Model / Training
+            description: The mission of the Project is to make the distributed training of large AI models easy, stable, fast and green through the training of deep learning models on a distributed cluster.
+            project: sandbox
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2024-11-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/dlrover
+              lfx_slug: dlrover
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/dlrover
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfLddDETmHG1AVn8v3
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/DLRover%20Technical%20Charter%20Final%2011-14-2024.pdf
+          - item:
+            name: Feathr
+            homepage_url: https://github.com/feathr-ai
+            logo: feathr.svg
+            second_path:
+              - Data / Feature Engineering
+            description: The mission of the Project is to develop an enterprise-grade, high performance feature store.
+            project: sandbox
+            repo_url: https://github.com/feathr-ai/feathr
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            twitter: https://twitter.com/nil
+            extra:
+              accepted: '2022-09-07'
+              dev_stats_url: https://insights.linuxfoundation.org/project/feathr
+              lfx_slug: feathr
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/feathr
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001L1HYeQAN
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Feathr%20Technical%20Charter%20Final%209-7-2022.pdf
+              annotations:
+                project_org: https://github.com/feathr-ai
+            additional_repos: []
+          - item:
+            name: IREE
+            homepage_url: https://iree.dev/
+            logo: iree.svg
+            second_path:
+              - Machine Learning / Library
+            description: IREE (Intermediate Representation Execution Environment1) is an MLIR-based end-to-end compiler and runtime that lowers Machine Learning (ML) models to a unified IR that scales up to meet the needs of the datacenter and down to satisfy the constraints and special considerations of mobile and edge deployments.
+            project: sandbox
+            repo_url: https://github.com/iree-org/iree
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2024-05-14'
+              dev_stats_url: https://insights.linuxfoundation.org/project/iree
+              lfx_slug: iree
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/iree
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfDgEQ8E2qHqSMZdI0
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/IREE%20Technical%20Charter%20Final%205-14-2024.docx.pdf
+          - item:
+            name: LakeSoul
+            homepage_url: https://lakesoul.io/
+            logo: lakesoul.svg
+            second_path:
+              - Data / Store & Format
+            description: The mission of the Project is to develop an end-to-end, realtime and cloud native Lakehouse framework with fast data ingestion, concurrent update and incremental data analytics on cloud storages for both BI and AI applications.
+            project: sandbox
+            repo_url: https://github.com/lakesoul-io/LakeSoul
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2023-06-08'
+              dev_stats_url: https://insights.linuxfoundation.org/project/lakesoul
+              lfx_slug: lakesoul
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/lakesoul
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001MsyPhQAJ
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/LakeSoul%20Technical%20Charter%20Final%206-8-2023.docx.pdf
+              annotations:
+                project_org: https://github.com/lakesoul-io
+            additional_repos: []
+          - item:
+            name: Machine Learning eXchange (MLX)
+            homepage_url: https://ml-exchange.org/
+            logo: machine_learning_exchange_mlx.svg
+            second_path:
+              - Model / Marketplace
+            description: The mission of the Project is to design and implement an open source Data and AI Assets Catalog and Execution Engine that allows the uploading, registration, execution, and deployment of AI pipelines and pipeline components, models, datasets and notebooks.
+            project: sandbox
+            repo_url: https://github.com/machine-learning-exchange/mlx
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2021-06-23'
+              dev_stats_url: https://insights.linuxfoundation.org/project/mlx
+              lfx_slug: mlx
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/mlx
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/a092M00001KWrcMQAT
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/machine%20learning%20exchange%20project%20technical%20charter_06.23.21.pdf
+          - item:
+            homepage_url: http://monocle2ai.org/
+            project: incubating
+            second_path:
+              - Generative AI / Tools
+            name: monocle
+            logo: monocle.svg
+            description: The mission of the Project is to develop a domain specific tracing framework for monitoring code used to build Generative AI applications.
+            repo_url: https://github.com/monocle2ai/monocle
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2024-08-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/monocle
+              lfx_slug: monocle
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/monocle
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfJqI8yd8srENhw2SC
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Monocle%20Technical%20Charter%20Final%208-5-2024.docx.pdf
+          - item:
+            name: OAAX
+            homepage_url: https://www.oaax.org/
+            logo: oaax.svg
+            second_path:
+              - Machine Learning / Framework
+            description: OAAX or Open AI Accelerator Exchange, is an open standard designed to simplify the development and deployment of edge AI applications. It provides a unified framework for converting and optimizing machine learning models for execution on various hardware accelerators, or XPUs.
+            project: sandbox
+            repo_url: https://github.com/OAAX-standard/OAAX
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2025-03-05'
+              dev_stats_url: https://insights.linuxfoundation.org/project/oaax
+              lfx_slug: oaax
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/oaax
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lft152aTo164gYVKNy
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/OAAX%20Technical%20Charter%20Final%203-5-2025.docx.pdf
+              annotations:
+                project_org: https://github.com/OAAX-standard
+            additional_repos:
+              - repo_url: https://github.com/OAAX-standard/examples
+              - repo_url: https://github.com/OAAX-standard/reference-implementation
+          - item:
+            name: Recommenders
+            homepage_url: https://microsoft-recommenders.readthedocs.io/
+            project: sandbox
+            second_path:
+              - Machine Learning / Library
+            repo_url: https://github.com/microsoft/recommenders
+            license: MIT
+            logo: recommenders.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: SapientML
+            homepage_url: https://github.com/sapientml/sapientml
+            second_path:
+              - Machine Learning / Library
+            project: sandbox
+            repo_url: https://github.com/sapientml/sapientml
+            logo: sapientml.svg
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            name: OpenSharing
+            homepage_url: https://opensharing.io/
+            logo: opensharing.svg
+            second_path:
+              - Data / Governance
+            description: develop an open protocol for sharing AI assets, enabling organizations to exchange Agent Skills and AI models across platforms.
+            project: sandbox
+            repo_url: https://github.com/OpenSharing-IO/OpenSharing
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2026-06-09'
+              dev_stats_url: https://insights.linuxfoundation.org/project/opensharing
+              lfx_slug: opensharing
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/opensharing
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfYeNX34swN3LNDwXe
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/opensharing/opensharing_Charter.pdf?v=1782150602120
+              annotations:
+                project_org: https://github.com/OpenSharing-IO
+            additional_repos: []
+          - item:
+            name: OpenTeleEval
+            homepage_url: https://github.com/OpenTeleEval/OpenTeleEval
+            logo: openteleeval.svg
+            second_path:
+              - Model / Benchmarking
+            description: VertiEval-Tele is a open-source benchmark designed to evaluate the LLM capabilities in telecommunication networks. Grounded in real operational agent trajectories and validated through closed-loop deployment in live networks, it’s the first benchmark to align LLM evaluation with industrial deployment readiness.
+            project: sandbox
+            repo_url: https://github.com/OpenTeleEval/OpenTeleEval
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2026-06-16'
+              dev_stats_url: https://insights.linuxfoundation.org/project/vertieval-tele
+              lfx_slug: vertieval-tele
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/vertieval-tele
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfgl4pvj2vLAUIil6R
+                - name: Charter
+                  url: https://lfx-cdn-prod.s3.us-east-1.amazonaws.com/project-artifacts/vertieval-tele/vertieval-tele_Charter.pdf?v=1782147094363
+          - item:
+            name: Open Platform for Enterprise AI (OPEA)
+            second_path:
+              - Machine Learning / Platform
+            homepage_url: https://opea.dev
+            project: sandbox
+            repo_url: https://github.com/opea-project/GenAIExamples
+            logo: opea.svg
+            twitter: https://twitter.com/opeadev
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+          - item:
+            homepage_url: https://github.com/project-ryoma/ryoma
+            name: Ryoma
+            logo: ryoma.svg
+            description: The mission of the Project is to build a general LLM agentic framework designed for data analysis.
+            project: sandbox
+            repo_url: https://github.com/project-ryoma/ryoma
+            license: Apache-2.0
+            crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
+            extra:
+              accepted: '2024-08-12'
+              dev_stats_url: https://insights.linuxfoundation.org/project/ryoma
+              lfx_slug: ryoma
+              other_links:
+                - name: Calendar
+                  url: https://zoom-lfx.platform.linuxfoundation.org/meetings/ryoma
+                - name: iCal
+                  url: https://webcal.prod.itx.linuxfoundation.org/lfx/lfvXeqDJKReq39q8zj
+                - name: Charter
+                  url: https://github.com/lfai/foundation/blob/main/technical%20project%20charters/Ryoma%20Technical%20Charter%20Final%208-12-2024.docx.pdf
