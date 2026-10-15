@@ -2,6 +2,10 @@ name: Preview
 
 on:
   merge_group:
+  pull_request_target:
+    branches:
+      - main
+      - master
   pull_request:
     branches:
       - main
