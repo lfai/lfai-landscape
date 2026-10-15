@@ -1308,6 +1308,13 @@ landscape:
             logo: bitol.svg
             crunchbase: https://www.crunchbase.com/organization/lf-artificial-intelligence-foundation
           - item:
+            name: Agent Governance Toolkit
+            homepage_url: https://microsoft.github.io/agent-governance-toolkit/
+            repo_url: https://github.com/microsoft/agent-governance-toolkit
+            license: MIT
+            logo: agent-governance-toolkit.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
             name: Apicurio Registry
             homepage_url: https://www.apicur.io/registry/
             repo_url: https://github.com/Apicurio/apicurio-registry
@@ -1320,6 +1327,20 @@ landscape:
             repo_url: https://github.com/lfai/CDLA
             logo: cdla.svg
             crunchbase: https://www.crunchbase.com/organization/linux-foundation
+          - item:
+            name: Croissant
+            homepage_url: https://mlcommons.org/croissant
+            repo_url: https://github.com/mlcommons/croissant
+            license: Apache 2.0
+            logo: croissant.svg
+            crunchbase: https://www.crunchbase.com/organization/mlcommons
+          - item:
+            name: Data Package
+            homepage_url: https://datapackage.org
+            repo_url: https://github.com/frictionlessdata/datapackage
+            license: Unlicense
+            logo: data-package.svg
+            crunchbase: https://www.crunchbase.com/organization/open-knowledge-foundation
           - item:
             name: Egeria
             homepage_url: https://egeria-project.org
@@ -1747,6 +1768,13 @@ landscape:
             repo_url: https://github.com/tensorflow/federated
             logo: tf_federated.svg
             crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Flower
+            homepage_url: https://flower.ai
+            repo_url: https://github.com/flwrlabs/flower
+            license: Apache 2.0
+            logo: flower.svg
+            crunchbase: https://www.crunchbase.com/organization/flower-1de8
       - subcategory:
         name: Training
         items:
@@ -2409,6 +2437,20 @@ landscape:
             repo_url: https://github.com/andosa/treeinterpreter
             logo: treeinterpreter.svg
             crunchbase: https://www.crunchbase.com/organization/mtakso
+          - item:
+            name: LIT (Learning Interpretability Tool)
+            homepage_url: https://pair-code.github.io/lit
+            repo_url: https://github.com/PAIR-code/lit
+            license: Apache 2.0
+            logo: lit.svg
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: What-If Tool
+            homepage_url: https://pair-code.github.io/what-if-tool
+            repo_url: https://github.com/PAIR-code/what-if-tool
+            license: Apache 2.0
+            logo: what-if-tool.svg
+            crunchbase: https://www.crunchbase.com/organization/google
       - subcategory:
         name: Adversarial
         items:
@@ -2444,6 +2486,20 @@ landscape:
             logo: foolbox.svg
             twitter: https://twitter.com/bethgelab
             crunchbase: https://www.crunchbase.com/organization/tuebingen-university
+          - item:
+            name: garak
+            homepage_url: https://garak.ai
+            repo_url: https://github.com/NVIDIA/garak
+            license: Apache 2.0
+            logo: garak.svg
+            crunchbase: https://www.crunchbase.com/organization/nvidia
+          - item:
+            name: PyRIT
+            homepage_url: https://microsoft.github.io/PyRIT/
+            repo_url: https://github.com/microsoft/PyRIT
+            license: MIT
+            logo: pyrit.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
       - subcategory:
         name: Bias & Fairness
         items:
@@ -2605,6 +2661,20 @@ landscape:
             repo_url: https://github.com/tf-encrypted/tf-encrypted
             logo: tf_encrypted.svg
             crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Presidio
+            homepage_url: https://presidio.dataprivacystack.org
+            repo_url: https://github.com/data-privacy-stack/presidio
+            license: MIT
+            logo: presidio.svg
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: diffprivlib
+            homepage_url: https://diffprivlib.readthedocs.io
+            repo_url: https://github.com/IBM/differential-privacy-library
+            license: MIT
+            logo: diffprivlib.svg
+            crunchbase: https://www.crunchbase.com/organization/ibm
   - category:
     name: LF AI & Data Member Company
     subcategories:
